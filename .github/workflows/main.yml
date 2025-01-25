@@ -49,7 +49,22 @@ jobs:
           for feed in "${feeds[@]}"; do
             name="${feed%%=*}"
             url="${feed##*=}"
-            curl -o "${folder_name}/bbc_${name}_${current_time}.xml" "$url"
+
+            # ファイル名と一時ファイル
+            temp_file="${folder_name}/bbc_${name}_${current_time}_temp.xml"
+            output_file="${folder_name}/bbc_${name}_${current_time}.xml"
+
+            # curl の実行（User-Agentを追加）
+            curl -fsSL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" -o "$temp_file" "$url" || echo "Failed to fetch $name"
+
+            # ファイルに内容がある場合のみ保存
+            if [ -s "$temp_file" ]; then
+              mv "$temp_file" "$output_file"
+            else
+              echo "Empty response for $name. Skipping..."
+              rm -f "$temp_file"
+            fi
+
             sleep 3
           done
 
