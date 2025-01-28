@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Wales]]></description>
+        <link>https://www.bbc.co.uk/news/wales</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/wales</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 28 Jan 2025 16:05:18 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/wales/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Cardiff University confirms plans to cut 400 jobs]]></title>
+            <description><![CDATA[Vice-chancellor Wendy Larner says "it is no longer an option for us to continue as we are".]]></description>
+            <link>https://www.bbc.com/news/articles/c0k5n0k101lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k5n0k101lo#0</guid>
+            <pubDate>Tue, 28 Jan 2025 16:04:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a806/live/6b0c7dd0-dd8e-11ef-848f-998d0175b76f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher 'would be dead' without help during stabbing]]></title>
+            <description><![CDATA[A teenager, who cannot be named, admitted the triple stabbing, but denies attempted murder.]]></description>
+            <link>https://www.bbc.com/news/articles/c07kvyv4pzro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07kvyv4pzro#0</guid>
+            <pubDate>Tue, 28 Jan 2025 13:59:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b23/live/533e9890-dd53-11ef-8e2a-672c89b13e12.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Personality disorder diagnosis 'turned my life upside down']]></title>
+            <description><![CDATA[Jessica Matthews was 21 when she was diagnosed with borderline personality disorder.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w8517wd02o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w8517wd02o#0</guid>
+            <pubDate>Tue, 28 Jan 2025 08:29:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4576/live/cd1a0ec0-dcd0-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I understand why Coote hid his sexuality' - Owens]]></title>
+            <description><![CDATA[The ex-rugby referee says homophobia remains a problem in all sport.]]></description>
+            <link>https://www.bbc.com/news/articles/cm218dy149ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm218dy149ro#0</guid>
+            <pubDate>Tue, 28 Jan 2025 10:30:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3900/live/838bf180-dd55-11ef-8e2a-672c89b13e12.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Chris Hoy fulfils 'bucket list' trip to Wales]]></title>
+            <description><![CDATA[The cyclist was diagnosed with terminal cancer in September 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8jw8jwz9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8jw8jwz9o#0</guid>
+            <pubDate>Tue, 28 Jan 2025 12:32:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903d/live/f9491ee0-dd6c-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mining disaster relatives help keep heritage alive]]></title>
+            <description><![CDATA[A father and son whose ancestor was killed are helping to restore a local rescue station.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5yv5znl3ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5yv5znl3ro#0</guid>
+            <pubDate>Tue, 28 Jan 2025 06:25:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d6/live/dc283680-dcbc-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swansea City officials have received 'death threats']]></title>
+            <description><![CDATA[Swansea City's Supporters Trust says people involved with running the club have received death threats over the perceived failings at the Swansea.com Stadium.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ce8y6ek2386o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8y6ek2386o#0</guid>
+            <pubDate>Tue, 28 Jan 2025 13:04:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f854/live/54a15280-dd77-11ef-ae2d-5b724f431afd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman hit by van will be missed, says family]]></title>
+            <description><![CDATA[Kim Haile died after she was struck by a van earlier this month. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yv5n0pr45o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv5n0pr45o#1</guid>
+            <pubDate>Tue, 28 Jan 2025 15:39:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4a/live/efc31ad0-dd83-11ef-848f-998d0175b76f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[No plans for extra restrictions on new drivers]]></title>
+            <description><![CDATA[A road safety debate in parliament heard calls for graduated licences to improve road safety.]]></description>
+            <link>https://www.bbc.com/news/articles/cd643j68y48o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd643j68y48o#1</guid>
+            <pubDate>Tue, 28 Jan 2025 06:33:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ab/live/6e48c570-dd80-11ef-848f-998d0175b76f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Priest spared jail over indecent images of children]]></title>
+            <description><![CDATA[Samuel Erlandson had indecent images of a child and extreme pornography involving a dog on his phone.]]></description>
+            <link>https://www.bbc.com/news/articles/clykd89497no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clykd89497no#1</guid>
+            <pubDate>Mon, 27 Jan 2025 13:51:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e1/live/ba62a830-dcaf-11ef-8ed5-8b292d335eb0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wynne Evans 'taking time off' BBC Radio Wales show]]></title>
+            <description><![CDATA[Welsh broadcaster Wynne Evans will not appear on his BBC Radio Wales show following sexualised remark.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3jvjxe1v9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3jvjxe1v9o#1</guid>
+            <pubDate>Mon, 27 Jan 2025 20:08:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/675f/live/a40f2390-dc98-11ef-ad9c-6bfba0246f34.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Vivienne's funeral has stars, doves and Drag Race crown]]></title>
+            <description><![CDATA[TV stars, singers and drag queens join family to say farewell to James Lee Williams, aka The Vivienne.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0yr4p65x6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0yr4p65x6o#1</guid>
+            <pubDate>Mon, 27 Jan 2025 13:06:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2f/live/90084c40-dcbc-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I fled the Nazis and a tiny Welsh town became my home]]></title>
+            <description><![CDATA[Lady Milena Grenfell-Baines is one of the last survivors of a group of 140 children who fled to Llanwrtyd Wells.]]></description>
+            <link>https://www.bbc.com/news/articles/c70k621rd81o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70k621rd81o#2</guid>
+            <pubDate>Mon, 27 Jan 2025 20:12:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a9/live/ebbbc5d0-da82-11ef-a37f-eba91255dc3d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Viral TikTok fitness challenge divides opinion]]></title>
+            <description><![CDATA[As many take on the viral 75 Hard challenge, a fitness trainer says she has warned her clients against it.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kxl41n14vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kxl41n14vo#2</guid>
+            <pubDate>Sun, 26 Jan 2025 07:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f7/live/803301e0-db39-11ef-a01d-1fc3f76bc248.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girls Aloud ghost-hunting mansion contents for sale]]></title>
+            <description><![CDATA[The entire contents of a Welsh mansion dating back more than 400 years are set to be auctioned off.]]></description>
+            <link>https://www.bbc.com/news/articles/c2egr0d003xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2egr0d003xo#2</guid>
+            <pubDate>Sun, 26 Jan 2025 09:55:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a946/live/bab44820-d6b0-11ef-b7fd-351bf0d49c9d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Traitors' Leanne on wedding plans and baby hopes]]></title>
+            <description><![CDATA[Leanne Quigley, from Flintshire, says she would "love to try for another baby and go through IVF again".]]></description>
+            <link>https://www.bbc.com/news/articles/cp3j7n4jelwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3j7n4jelwo#2</guid>
+            <pubDate>Sat, 25 Jan 2025 14:46:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c8/live/cd959890-db29-11ef-902e-cf9b84dc1357.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Camping with the far-right: What I learned from a year undercover]]></title>
+            <description><![CDATA[I'm a BBC journalist, but for the past year I've been going undercover in a far-right group.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lz0zxryygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lz0zxryygo#2</guid>
+            <pubDate>Sat, 25 Jan 2025 06:58:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06bd/live/a0252db0-d73e-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's the deal with Saint Dwynwen?]]></title>
+            <description><![CDATA[We're here to explain why people in Wales and beyond are unseasonably loved up.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-47000509</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-47000509#2</guid>
+            <pubDate>Sat, 25 Jan 2025 07:29:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165C9/production/_105339519_howells.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The TikTok pizzas, doughnuts and desserts going viral ]]></title>
+            <description><![CDATA[Dee Pizza in Llangollen has racked up millions of views and a sizeable following on social media.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmyvllpwnno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmyvllpwnno#2</guid>
+            <pubDate>Sat, 25 Jan 2025 06:58:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3eb/live/9bb9b3f0-d422-11ef-af3b-4ddbbd6557f0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch as motorcyclist hits 120mph in police chase]]></title>
+            <description><![CDATA[A Cardiff motorcyclist hits 120mph during a police pursuit.]]></description>
+            <link>https://www.bbc.com/news/videos/crlk50zkg3zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crlk50zkg3zo#3</guid>
+            <pubDate>Mon, 27 Jan 2025 16:44:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d2/live/04ff8b30-dccc-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Medics told me I had no reason to be suicidal']]></title>
+            <description><![CDATA[Jessica says she was mistreated due to having borderline personality disorder.]]></description>
+            <link>https://www.bbc.com/news/videos/ce3n22y3yd7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce3n22y3yd7o#3</guid>
+            <pubDate>Tue, 28 Jan 2025 06:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa7/live/bd016090-dcff-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-child refugee recalls Holocaust hero revelation]]></title>
+            <description><![CDATA[Lady Milena Grenfell-Baines found out she had been brought to Britain thanks to Sir Nicholas Winton.]]></description>
+            <link>https://www.bbc.com/news/videos/cp82jzg1emyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp82jzg1emyo#3</guid>
+            <pubDate>Mon, 27 Jan 2025 20:09:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ef/live/90e374c0-dce2-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Starlings give city a spectacular show]]></title>
+            <description><![CDATA[Onlookers were given a remarkable show as thousands of starlings swooped in a murmuration.]]></description>
+            <link>https://www.bbc.com/news/videos/cn01xjn0n7vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn01xjn0n7vo#3</guid>
+            <pubDate>Mon, 27 Jan 2025 12:37:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b74/live/35f09ad0-dca5-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I was born in a concentration camp']]></title>
+            <description><![CDATA[A Holocaust survivor has said her mother feared the day she gave birth would be her "last on earth".]]></description>
+            <link>https://www.bbc.com/news/videos/cdjdzx97mm8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdjdzx97mm8o#3</guid>
+            <pubDate>Mon, 27 Jan 2025 17:31:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/2347b6c0-dcd2-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is St Dwynwen's Day?]]></title>
+            <description><![CDATA[BBC Wales’ Erin Lister explains why people across Wales celebrate love on 25 January each year.]]></description>
+            <link>https://www.bbc.com/news/videos/cdxel6eky52o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdxel6eky52o#3</guid>
+            <pubDate>Sat, 25 Jan 2025 07:14:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026f/live/ba82be20-d9a0-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Storm Éowyn hits Wales causing widespread power cuts]]></title>
+            <description><![CDATA[BBC News journalist Rob Thomas reports from Holyhead on Anglesey as Storm Éowyn hits Wales.]]></description>
+            <link>https://www.bbc.com/news/videos/cj3ery8r7vxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj3ery8r7vxo#3</guid>
+            <pubDate>Fri, 24 Jan 2025 10:15:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd2f/live/9ddbfb60-da3b-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Top tips for looking after your pets during a storm]]></title>
+            <description><![CDATA[BBC Wales’ Terel Edmunds offers top tips for looking after your furry friends during a storm.]]></description>
+            <link>https://www.bbc.com/news/videos/cy0pwgyw91ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy0pwgyw91ro#3</guid>
+            <pubDate>Thu, 23 Jan 2025 18:23:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3357/live/85ee3910-d9b3-11ef-a37f-eba91255dc3d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swansea City officials have received 'death threats']]></title>
+            <description><![CDATA[Swansea City's Supporters Trust says people involved with running the club have received death threats over the perceived failings at the Swansea.com Stadium.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ce8y6ek2386o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8y6ek2386o#4</guid>
+            <pubDate>Tue, 28 Jan 2025 13:04:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f854/live/54a15280-dd77-11ef-ae2d-5b724f431afd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff sign midfielder Mannsverk on loan from Ajax]]></title>
+            <description><![CDATA[Cardiff City sign Ajax midfielder Sivert Mannsverk on loan until the end of the season.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cew5ndw7yjlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew5ndw7yjlo#4</guid>
+            <pubDate>Tue, 28 Jan 2025 12:13:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107d/live/eb4bdbe0-dcc5-11ef-a382-4fda96b208be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coventry make third bid for Swansea skipper Grimes]]></title>
+            <description><![CDATA[Coventry City make a third bid for Swansea City captain Matt Grimes.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cg7zdkym4v9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg7zdkym4v9o#4</guid>
+            <pubDate>Tue, 28 Jan 2025 12:42:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f5/live/99185160-dd73-11ef-badc-3b0da2437492.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I understand why Coote hid his sexuality' - Owens]]></title>
+            <description><![CDATA[The ex-rugby referee says homophobia remains a problem in all sport.]]></description>
+            <link>https://www.bbc.com/news/articles/cm218dy149ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm218dy149ro#4</guid>
+            <pubDate>Tue, 28 Jan 2025 10:30:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3900/live/838bf180-dd55-11ef-8e2a-672c89b13e12.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welshman Walters to lead Lions' fitness team]]></title>
+            <description><![CDATA[Andy Farrell says David Nucifora is "one of the absolute best" as he confirms the Australian's appointment to his British and Irish Lions staff]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c05l9q7e9vgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c05l9q7e9vgo#4</guid>
+            <pubDate>Tue, 28 Jan 2025 10:41:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a501/live/3aca78e0-dd73-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six players to watch out for in the Six Nations]]></title>
+            <description><![CDATA[Which new or returning names could make their mark on the 2025 Six Nations tournament?]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cn4zw81dydgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cn4zw81dydgo#4</guid>
+            <pubDate>Tue, 28 Jan 2025 07:44:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de1/live/c0a53340-dd57-11ef-8e2a-672c89b13e12.png"/>
+        </item>
+        <item>
+            <title><![CDATA['That was terrible!' - Six Nations captains take on reactions challenge]]></title>
+            <description><![CDATA[The captains of the Six Nations teams take on BBC Sport's reactions challenge, with some faring much better than others.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/videos/cn8y6dq3wwvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/videos/cn8y6dq3wwvo#4</guid>
+            <pubDate>Tue, 28 Jan 2025 07:02:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc76/live/91b09150-da88-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prifysgol Caerdydd yn edrych i dorri 400 o swyddi]]></title>
+            <description><![CDATA[Mae'r cynigion hefyd yn cynnwys cau rhai pynciau ac adrannau yn llwyr, ac uno adrannau eraill.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/cwyp8lj1gjyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/cwyp8lj1gjyo#5</guid>
+            <pubDate>Tue, 28 Jan 2025 15:42:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9e/live/aef5a9b0-dd8c-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dyma'r diwedd': Athrawon a gafodd eu trywanu yn credu eu bod am farw]]></title>
+            <description><![CDATA[Llys yn clywed bod dwy athrawes wedi meddwl eu bod ar fin marw wedi i ddisgybl eu trywanu ar iard ysgol.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c8j8m2ry98eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c8j8m2ry98eo#5</guid>
+            <pubDate>Tue, 28 Jan 2025 15:38:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f5/live/39d0eec0-dd54-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carcharu cyn-gapten RGC am droseddau cyffuriau a gyrru'n beryglus]]></title>
+            <description><![CDATA[Clywodd y llys fod Maredydd Francis, 31, wedi gyrru ar gyflymder o 139mya wrth geisio ffoi rhag yr heddlu.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c8j8mz094ero</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c8j8mz094ero#5</guid>
+            <pubDate>Tue, 28 Jan 2025 13:55:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/f88135d0-dd7e-11ef-a37f-eba91255dc3d.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Dysgu'r Gymraeg fel tyfu adenydd']]></title>
+            <description><![CDATA[Hanes Paige Morgan o ogledd America a ddysgodd Gymraeg ar ôl clywed cân gan Bendith.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c4gzdkl9yd5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c4gzdkl9yd5o#5</guid>
+            <pubDate>Tue, 28 Jan 2025 14:37:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9555/live/c5f4fc90-da5f-11ef-907e-55e025d54ff9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sut i gadw planhigion yn 'hapus']]></title>
+            <description><![CDATA[Cynnwys addas i ddysgwyr: Cyngor Rhona Duncan am gadw planhigion tŷ yn fyw dros y gaeaf.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c15z4385k1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c15z4385k1jo#5</guid>
+            <pubDate>Tue, 21 Jan 2025 07:19:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8471/live/7b784df0-dcc3-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+    </channel>
+</rss>
