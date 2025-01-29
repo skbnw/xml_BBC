@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 29 Jan 2025 16:04:19 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['It's absolute chaos': At the scene of Kumbh Mela crush]]></title>
+            <description><![CDATA[Vikas Pandey and Samira Hussain explain how the chaos unfolded in northern India.
+]]></description>
+            <link>https://www.bbc.com/news/videos/ce85g0lz5npo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce85g0lz5npo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 08:38:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2417/live/7f2fd860-de1b-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Congolese president snubs peace talks over Goma crisis]]></title>
+            <description><![CDATA[The announcement comes as M23 rebels tightened their control over Goma city, seizing its airport.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0j4d7v229o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0j4d7v229o#0</guid>
+            <pubDate>Wed, 29 Jan 2025 15:29:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c42e/live/93d476b0-de41-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caroline Kennedy brands RFK a 'predator' before confirmation hearing]]></title>
+            <description><![CDATA[In a scathing letter, Caroline Kennedy urges US senators not to confirm her cousin for a top health job.]]></description>
+            <link>https://www.bbc.com/news/articles/cm29w09p7r4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm29w09p7r4o#0</guid>
+            <pubDate>Wed, 29 Jan 2025 15:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/653e/live/d4c25200-de41-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US judge temporarily blocks Trump's freeze on federal grants and loans]]></title>
+            <description><![CDATA[The order is in response to a lawsuit that says the freezing of billions of dollars in already approved funding violates the law.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2q4dqj2zeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2q4dqj2zeo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 01:16:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a134/live/c34cd000-ddcd-11ef-92ae-bfa4df078425.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian drone strike hits second Russian oil refinery in a week]]></title>
+            <description><![CDATA[The wave of drone strikes is Ukraine's second large-scale attack on Russia this week.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0ygzj715ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0ygzj715ro#0</guid>
+            <pubDate>Wed, 29 Jan 2025 11:36:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8686/live/1c7259a0-de2f-11ef-ac5a-93e8b29ec95c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton crashes Ferrari in pre-season testing]]></title>
+            <description><![CDATA[Lewis Hamilton is unhurt after crashing his Ferrari during the Formula 1 team's pre-season testing programme in Spain.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cm21e8pj24lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cm21e8pj24lo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 13:57:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50a/live/c58b26d0-de47-11ef-aa3e-0bde41905982.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI says Chinese rivals using its work for their AI apps]]></title>
+            <description><![CDATA[ChatGPT maker says it will need extra protection from US government, following emergence of Chinese rival, DeepSeek.]]></description>
+            <link>https://www.bbc.com/news/articles/c9vm1m8wpr9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9vm1m8wpr9o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 13:02:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda2/live/ecd7bca0-de31-11ef-957d-39377e0b990a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zuma's daughter to appear in court over South Africa riots, reports say ]]></title>
+            <description><![CDATA[Duduzile Zuma-Sambudla is accused of inciting violence in 2021 following the jailing of her father.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyekqn1k1ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyekqn1k1ko#1</guid>
+            <pubDate>Wed, 29 Jan 2025 12:30:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e86/live/bf1c8f00-de29-11ef-bf7d-c305fe575a19.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Garmin users say smartwatches have stopped working]]></title>
+            <description><![CDATA[Its Fenix 8 smartwatches, which retail for just under £1,000, are some of the devices to have issues.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jnd4eg6ndo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jnd4eg6ndo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 13:20:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be6/live/f48a8980-de29-11ef-bf7d-c305fe575a19.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian feared dead in captivity is still alive, Russia says]]></title>
+            <description><![CDATA[Oscar Jenkins, a 32-year-old teacher, was captured last year while fighting for Ukraine.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8xvnr5jv4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8xvnr5jv4o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 08:16:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dfc/live/882065e0-d261-11ef-9dbb-9559c8b74d9b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel's Netanyahu invited to meet Trump at White House]]></title>
+            <description><![CDATA[The Israeli PM's office says he is the first foreign leader to be invited during Trump's second term.]]></description>
+            <link>https://www.bbc.com/news/articles/c78xzlxl3vjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78xzlxl3vjo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 07:51:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe6/live/fd4d0bf0-de11-11ef-8dd8-89901b699194.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC travels with first Jordanian helicopter delivering aid inside Gaza]]></title>
+            <description><![CDATA[The BBC is the first media to fly with a Jordanian aid flight into Israeli-held territory in southern Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/c627z92xz6lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c627z92xz6lo#1</guid>
+            <pubDate>Tue, 28 Jan 2025 13:48:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa87/live/907973a0-dd77-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Welcoming the Lunar New Year]]></title>
+            <description><![CDATA[Fireworks, music, lanterns, and dragon dancing filled streets across Asia to celebrate the Year of the Snake.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9lp0z3edqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9lp0z3edqo#2</guid>
+            <pubDate>Wed, 29 Jan 2025 11:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107c/live/8567e6f0-de25-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The evidence that shows Rwanda is backing rebels in DR Congo]]></title>
+            <description><![CDATA[Where are rebels causing havoc in eastern DR Congo getting their funding?]]></description>
+            <link>https://www.bbc.com/news/articles/ckgyzl1mlkvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgyzl1mlkvo#2</guid>
+            <pubDate>Wed, 29 Jan 2025 11:32:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/7b401ab0-dde6-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Half our house is gone': Palestinians face worst fears in north Gaza]]></title>
+            <description><![CDATA[Hundreds of thousands of displaced have returned to the north since Monday, but many have found their homes in ruins.]]></description>
+            <link>https://www.bbc.com/news/articles/c0e4zv94jvqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e4zv94jvqo#2</guid>
+            <pubDate>Tue, 28 Jan 2025 16:30:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed6/live/6faf98b0-dd91-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abramovich could owe UK £1bn over dodge that helped bankroll Chelsea FC]]></title>
+            <description><![CDATA[Scheme to avoid tax on offshore billions may have been botched because money was managed from the UK, BBC learns.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrnqvqek4ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrnqvqek4ro#2</guid>
+            <pubDate>Wed, 29 Jan 2025 06:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f909/live/98585230-dd72-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeepSeek: How China's 'AI heroes' overcame US curbs to stun Silicon Valley]]></title>
+            <description><![CDATA[How did a little-known Chinese start-up build a powerful new AI model despite restrictions? ]]></description>
+            <link>https://www.bbc.com/news/articles/czepw096wy4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czepw096wy4o#2</guid>
+            <pubDate>Tue, 28 Jan 2025 12:37:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a483/live/4646bcc0-dd5e-11ef-8e2a-672c89b13e12.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In a split second, Russia wipes out three generations of a Ukrainian family]]></title>
+            <description><![CDATA[A Ukrainian grandmother mourns her daughter, grandson and mother - killed in a single Russian strike.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyp8nkgxj3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp8nkgxj3o#2</guid>
+            <pubDate>Tue, 28 Jan 2025 06:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b04/live/cfba6da0-dd48-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a kabaddi club in India is changing girls' lives]]></title>
+            <description><![CDATA[A kabaddi club has helped Indian girls find new opportunities and become financially independent as adults.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lznk5xwlpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lznk5xwlpo#2</guid>
+            <pubDate>Tue, 28 Jan 2025 00:06:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c95/live/9d4550f0-d7db-11ef-87df-d575b9a434a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A long, long road ahead': Gaza rebuilds from zero]]></title>
+            <description><![CDATA[The full scale of the humanitarian challenge ahead is emerging as displaced Palestinians return home, writes the BBC's Paul Adams.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2p916dngqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2p916dngqo#2</guid>
+            <pubDate>Mon, 27 Jan 2025 22:15:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebf/live/3efc1840-dcfd-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sea of belongings strewn aside as worshippers flee India crush]]></title>
+            <description><![CDATA[The surge happened when people who were sleeping on the riverbank were trampled by other pilgrims.]]></description>
+            <link>https://www.bbc.com/news/videos/czrl1nn4533o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czrl1nn4533o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 04:44:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec97/live/4421f5d0-ddff-11ef-a69b-6ddb4eb9391c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch DeepSeek AI bot respond to question about China]]></title>
+            <description><![CDATA[ The BBC tests out the tool to see what type of answers it can and will give.]]></description>
+            <link>https://www.bbc.com/news/videos/c77rd5ddxn8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c77rd5ddxn8o#3</guid>
+            <pubDate>Tue, 28 Jan 2025 06:53:59 GMT</pubDate>
+            <media:thumbnail width="240" height="127" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/112e/live/80305120-dd5a-11ef-bc01-8f2c83dad217.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Don't overdo it, Steve': BBC journalist in testy exchange with Belarus president]]></title>
+            <description><![CDATA[After an election win which has been widely criticised as illegitimate, Alexander Lukashenko faced questions from the BBC's Russia editor Steve Rosenberg.]]></description>
+            <link>https://www.bbc.com/news/videos/c5y7p58gepzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5y7p58gepzo#3</guid>
+            <pubDate>Tue, 28 Jan 2025 19:47:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/596c/live/ba927370-ddaf-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We were stripped of all our humanity': Auschwitz survivors remember]]></title>
+            <description><![CDATA[Holocaust survivors have been marking 80 years since the liberation of the Nazi concentration camp, Auschwitz.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cp9x8x400xxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp9x8x400xxo#3</guid>
+            <pubDate>Mon, 27 Jan 2025 18:49:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0e/live/498172a0-dce0-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+    </channel>
+</rss>
