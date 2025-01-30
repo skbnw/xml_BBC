@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 30 Jan 2025 00:14:21 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reeves backs third Heathrow runway as part of push for economic growth]]></title>
+            <description><![CDATA[The chancellor tells the BBC she wants a planning application "signed off" before the next election.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4d97wxgdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4d97wxgdo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 18:21:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8259/live/91063020-de70-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Claims against Al Fayed reach UK court for first time]]></title>
+            <description><![CDATA[The High Court hears details of a civil case being brought against Harrods by an alleged victim.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxn4jxyed9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxn4jxyed9o#0</guid>
+            <pubDate>Wed, 29 Jan 2025 20:51:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27df/live/02927fb0-de75-11ef-870c-5da91328a8f3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Coca-Cola recalls drinks in UK due to chemical levels]]></title>
+            <description><![CDATA[The firm is recalling Coca-Cola products from shops, but says the risk of illness is "very low"]]></description>
+            <link>https://www.bbc.com/news/articles/czxkn393rwwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxkn393rwwo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 20:17:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c7e/live/956a9780-de77-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red flags missed in neo-Nazi stalker, say victims]]></title>
+            <description><![CDATA[Stalking victims were told a far-right attacker "wasn't physical threat" when they contacted police.]]></description>
+            <link>https://www.bbc.com/news/articles/czxkyxykry6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxkyxykry6o#0</guid>
+            <pubDate>Wed, 29 Jan 2025 23:00:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b21/live/46eacba0-d992-11ef-a7d7-813810cd836f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lloyds to close 136 branches as people shift to apps]]></title>
+            <description><![CDATA[The closures across its brands will be completed by March next year, as more customers go digital.]]></description>
+            <link>https://www.bbc.com/news/articles/c6275z006rjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6275z006rjo#0</guid>
+            <pubDate>Wed, 29 Jan 2025 13:52:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d755/live/45687990-de41-11ef-a1ec-2daf984ac4e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco to cut 400 jobs in stores and head office]]></title>
+            <description><![CDATA[The supermarket giant blames the increasingly competitive nature of the UK grocery industry.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3jddj0pe1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3jddj0pe1o#0</guid>
+            <pubDate>Wed, 29 Jan 2025 15:22:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c326/live/19bcf340-de53-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK's first smartphone video call via satellite made from Welsh mountain]]></title>
+            <description><![CDATA[Vodafone says the tech could lead to the elimination of "not spots", which cover an estimated 9% of the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrn44nx85ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrn44nx85ro#0</guid>
+            <pubDate>Wed, 29 Jan 2025 22:01:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ad/live/83d71ab0-de5a-11ef-808e-a516078f301d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King involved in 'woke' name change of Agincourt submarine]]></title>
+            <description><![CDATA[The name was changed to HMS Achilles reportedly over concerns that the original may have offended the French.]]></description>
+            <link>https://www.bbc.com/news/articles/c86375y545yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86375y545yo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 17:51:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9c/live/384a0420-de66-11ef-9863-c1cbabfba6e7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Student denies drugging and raping 10 women]]></title>
+            <description><![CDATA[Zhenhao Zou denies 35 charges, including 11 counts of rape and three counts of voyeurism.]]></description>
+            <link>https://www.bbc.com/news/articles/c1m53p0ynexo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m53p0ynexo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 15:51:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8805/live/464343d0-de2e-11ef-ac5a-93e8b29ec95c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My criticism of Trump was wrong, says Mandelson]]></title>
+            <description><![CDATA[The UK's choice for ambassador to the US rows back on previous comments describing Trump as "a bully".]]></description>
+            <link>https://www.bbc.com/news/articles/clyek73ly70o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyek73ly70o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 15:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2898/live/7ce2b440-de40-11ef-a1ec-2daf984ac4e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just Stop Oil pair charged over West End protest]]></title>
+            <description><![CDATA[The Tempest, starring Sigourney Weaver, was halted on Monday when it was interrupted by a protest.]]></description>
+            <link>https://www.bbc.com/news/articles/ce85gez4105o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce85gez4105o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 18:49:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d6/live/d8698ea0-de6e-11ef-a103-5df090d22fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Princess Beatrice gives birth to daughter Athena]]></title>
+            <description><![CDATA[Princess Beatrice has given birth to her second child, named Athena, the Royal Family has announced.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y74gpzle0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y74gpzle0o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 16:33:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9c3/live/afed0a50-de42-11ef-a1ec-2daf984ac4e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charity stops using Captain Sir Tom Moore's name]]></title>
+            <description><![CDATA[The Bedfordshire based charity is now known as The 1189808 Foundation.]]></description>
+            <link>https://www.bbc.com/news/articles/cx257pl7lkvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx257pl7lkvo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 13:33:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f40/live/cbec3470-de41-11ef-a1ec-2daf984ac4e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Island star freed in dangerous dog case]]></title>
+            <description><![CDATA[Jack Fincham - whose black cane corso bit a runner in 2022 - is granted bail pending his appeal.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgy4lp5pvwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgy4lp5pvwo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 18:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7e/live/f0d2e7d0-de6d-11ef-a103-5df090d22fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lidl plans first ever in-store pub in NI after winning court battle]]></title>
+            <description><![CDATA[A High Court rejects a legal challenge to the plans, which would see a tap room installed in Lidl's Dundonald store.]]></description>
+            <link>https://www.bbc.com/news/articles/c99y3mr9mgko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99y3mr9mgko#1</guid>
+            <pubDate>Wed, 29 Jan 2025 10:58:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3e/live/1ef0a010-de2f-11ef-ac5a-93e8b29ec95c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Cruelty inflicted' on family who lost three in bombing]]></title>
+            <description><![CDATA[Avril Monaghan was pregnant when she was killed in the Omagh bomb, while her mother and daughter also died.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvpw8rldxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvpw8rldxo#1</guid>
+            <pubDate>Wed, 29 Jan 2025 16:15:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089c/live/df05a410-de55-11ef-badc-e32fa511f116.png"/>
+        </item>
+        <item>
+            <title><![CDATA[William sprays water at press during visit to firm]]></title>
+            <description><![CDATA[Prince William praises the work of Guildford-based NatureMetrics, a finalist in his Earthshot Prize.]]></description>
+            <link>https://www.bbc.com/news/articles/cre8xxd7xl8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cre8xxd7xl8o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 15:58:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10a/live/ea0984d0-de5a-11ef-83ee-453da16f2a27.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool FC 'racial bias' job claim thrown out]]></title>
+            <description><![CDATA[A man sued the football club claiming he was not taken seriously due to his British Asian heritage. ]]></description>
+            <link>https://www.bbc.com/news/articles/cgmyxz9v7m0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmyxz9v7m0o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 18:07:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee6/live/ff2303a0-de41-11ef-a092-57e6ba5211de.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Selfish drivers doing 164mph must stop, police say]]></title>
+            <description><![CDATA[At least 24,000 drivers were detected speeding at over 100mph in five years, police data shows. ]]></description>
+            <link>https://www.bbc.com/news/articles/cqjvz79d079o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjvz79d079o#1</guid>
+            <pubDate>Wed, 29 Jan 2025 06:01:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b8/live/908af140-dda2-11ef-926a-cbf3c346618d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Planets align in the night sky]]></title>
+            <description><![CDATA[Through January and February, there's the opportunity to see a number of planets line up in the nights sky.
+]]></description>
+            <link>https://www.bbc.com/weather/articles/crm7vlrz37po</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/crm7vlrz37po#2</guid>
+            <pubDate>Sat, 25 Jan 2025 10:45:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9df/live/612b7040-da6a-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Who won The Traitors? And what's breakfast really like?]]></title>
+            <description><![CDATA[The third series of The Traitors has come to its nail-biting conclusion. ]]></description>
+            <link>https://www.bbc.com/news/videos/cy8pjn0ne7eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy8pjn0ne7eo#2</guid>
+            <pubDate>Sat, 25 Jan 2025 12:17:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d38/live/1f9bd570-db14-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: The Traitors series three's most iconic moments]]></title>
+            <description><![CDATA[Charlotte's fake accent, Linda's head turn and other memorable moments from this year's The Traitors.]]></description>
+            <link>https://www.bbc.com/news/videos/cnvqm6p67z7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cnvqm6p67z7o#2</guid>
+            <pubDate>Fri, 24 Jan 2025 18:14:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7633/live/f0db40d0-da7e-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Storm Éowyn brings wild weather to UK and Ireland]]></title>
+            <description><![CDATA[Storm Éowyn brought gusts of up to 114mph (183 km/h) - causing travel disruption and leaving many in the UK and Ireland without power.]]></description>
+            <link>https://www.bbc.com/news/videos/crlk02xyp87o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crlk02xyp87o#2</guid>
+            <pubDate>Fri, 24 Jan 2025 23:30:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a1/live/6a2bdfe0-da6f-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taxi dashcam shows Rudakubana before Southport attack]]></title>
+            <description><![CDATA[Taxi dashcam footage shows the moment Axel Rudakubana arrived at a Taylor Swift-themed dance class.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg49wxq0pjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg49wxq0pjo#2</guid>
+            <pubDate>Thu, 23 Jan 2025 18:50:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469b/live/d7c60230-d9b9-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Heathrow's third runway and London 'gold shortage']]></title>
+            <description><![CDATA[Heathrow airport's expansion and a Bank of England bullion shortage feature in Thursday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cpql1wqe8yqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpql1wqe8yqo#3</guid>
+            <pubDate>Thu, 30 Jan 2025 00:00:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b2b/live/88dc4660-de97-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I paid a term-time holiday fine as my son can't cope with crowds']]></title>
+            <description><![CDATA[The number of fines issued for unauthorised school holidays has tripled in the last 10 years.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gxknlyewlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gxknlyewlo#3</guid>
+            <pubDate>Thu, 30 Jan 2025 00:07:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcf3/live/c723f170-de56-11ef-9477-55d42bf999f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At a glance: What was in Rachel Reeves's speech?]]></title>
+            <description><![CDATA[The chancellor announces measures she says will kickstart growth: what are they?]]></description>
+            <link>https://www.bbc.com/news/articles/czxknwyxk09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxknwyxk09o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 17:20:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a5f/live/79e8eeb0-de60-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How will the UK's growth plans affect me?]]></title>
+            <description><![CDATA[Rachel Reeves wants to push ahead with building and reform planning, but what does that mean for you?]]></description>
+            <link>https://www.bbc.com/news/articles/cx2q49g78g3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2q49g78g3o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 16:21:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8bc/live/aa421a60-de55-11ef-9477-55d42bf999f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will electric planes and sustainable fuel make Heathrow's third runway green?]]></title>
+            <description><![CDATA[BBC Verify assesses whether Chancellor Rachel Reeves' three key climate claims about the runway add up.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjdz92v84do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjdz92v84do#3</guid>
+            <pubDate>Wed, 29 Jan 2025 17:42:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dd3/live/39b292c0-dccf-11ef-a37f-eba91255dc3d.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I was diagnosed with dementia in my 40s']]></title>
+            <description><![CDATA[A group of people with dementia have made a film called Hear Our Voice to tackle common stereotypes.]]></description>
+            <link>https://www.bbc.com/news/articles/cnvqmg94lz5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnvqmg94lz5o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 00:07:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e1/live/9549d9a0-de36-11ef-957d-39377e0b990a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We don't just teach - we clothe the kids, feed them and brush their teeth']]></title>
+            <description><![CDATA[A survey of teachers in England suggests lots of schools are having to provide extra help for families.]]></description>
+            <link>https://www.bbc.com/news/articles/cr7e09471lyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7e09471lyo#3</guid>
+            <pubDate>Wed, 29 Jan 2025 01:23:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf90/live/c93dbde0-dd9f-11ef-a69b-6ddb4eb9391c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swept away: The island family lost to a storm 20 years on]]></title>
+            <description><![CDATA[Five members of the same family died trying to escape a storm on South Uist in 2005.]]></description>
+            <link>https://www.bbc.com/news/articles/c78x4ngjyy9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78x4ngjyy9o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 11:38:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a707/live/a4e974a0-da40-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mogwai's 'upbeat' return after tough personal times]]></title>
+            <description><![CDATA[The Scottish rock band explain how music helped them through a tough period in their personal lives.]]></description>
+            <link>https://www.bbc.com/news/articles/c93q059exq2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93q059exq2o#3</guid>
+            <pubDate>Wed, 29 Jan 2025 01:25:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e5/live/c293c460-dd79-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red flags missed in neo-Nazi stalker, say victims]]></title>
+            <description><![CDATA[Stalking victims were told a far-right attacker "wasn't physical threat" when they contacted police.]]></description>
+            <link>https://www.bbc.com/news/articles/czxkyxykry6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxkyxykry6o#4</guid>
+            <pubDate>Wed, 29 Jan 2025 23:00:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b21/live/46eacba0-d992-11ef-a7d7-813810cd836f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Driver who repeatedly ran over 83-year-old jailed for 13 months]]></title>
+            <description><![CDATA[Cannabis user Reece McKinven ran over Beryl Howard, 83, "several times" as he tried to reverse.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmyxjmy1v1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmyxjmy1v1o#4</guid>
+            <pubDate>Wed, 29 Jan 2025 10:24:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9bf/live/0012f6d0-de1f-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sending stillborn baby from NI to Liverpool 'will haunt mum forever']]></title>
+            <description><![CDATA[More than 1,100 infants and children have been sent to the paediatric pathology service at Alder Hey Hospital since 2019.]]></description>
+            <link>https://www.bbc.com/news/articles/c78w1zq2qgqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78w1zq2qgqo#4</guid>
+            <pubDate>Thu, 30 Jan 2025 00:00:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac3/live/b8b06660-de46-11ef-aa3e-0bde41905982.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions not spent on helping locked-in patients]]></title>
+            <description><![CDATA[The majority of a £20m fund remains unspent, according to a new report.]]></description>
+            <link>https://www.bbc.com/news/articles/c203vy21n28o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c203vy21n28o#4</guid>
+            <pubDate>Wed, 29 Jan 2025 22:56:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3cf/live/9ece84c0-dd88-11ef-848f-998d0175b76f.jpg"/>
+        </item>
+    </channel>
+</rss>
