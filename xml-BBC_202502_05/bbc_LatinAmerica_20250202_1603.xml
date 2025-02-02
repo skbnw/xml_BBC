@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Latin America]]></description>
+        <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 02 Feb 2025 16:04:05 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[China, Canada and Mexico vow swift response to Trump tariffs]]></title>
+            <description><![CDATA[Trump accuses the US's main trading partners of not addressing concerns over illegal drugs and migration - his main election pledges.]]></description>
+            <link>https://www.bbc.com/news/articles/c627nx42xelo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c627nx42xelo#0</guid>
+            <pubDate>Sun, 02 Feb 2025 12:29:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4713/live/b5a0d560-df57-11ef-88f5-9fd60bc5cfdc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says Venezuela will accept migrants returned from US]]></title>
+            <description><![CDATA[The move follows talks between Maduro and a Trump envoy that led to the release of six US detainees.]]></description>
+            <link>https://www.bbc.com/news/articles/cjw4yejwlpeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw4yejwlpeo#0</guid>
+            <pubDate>Sat, 01 Feb 2025 18:13:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c55a/live/2ed97ec0-e03c-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The prince who never became king' - Neymar returns to Santos]]></title>
+            <description><![CDATA[Neymar has returned to Santos, his boyhood club. BBC Sport looks back at his time with Barcelona, PSG and Al-Hilal, and considers what might happen next for Brazil's record scorer.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c93q0vr1klxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93q0vr1klxo#0</guid>
+            <pubDate>Fri, 31 Jan 2025 17:10:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d99/live/526d17e0-e0ad-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico asks Google Maps not to rename Gulf of Mexico]]></title>
+            <description><![CDATA[US President Donald Trump has ordered that the body of water be renamed the Gulf of America.]]></description>
+            <link>https://www.bbc.com/news/articles/clyn1rgngn8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyn1rgngn8o#0</guid>
+            <pubDate>Thu, 30 Jan 2025 16:39:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210d/live/31219350-df26-11ef-a622-27240dd7c784.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says US will send some migrants to Guantanamo Bay]]></title>
+            <description><![CDATA[The president orders the construction of a detention facility at the US Navy base, prompting an angry backlash from Cuba.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yelgxk3rlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yelgxk3rlo#0</guid>
+            <pubDate>Thu, 30 Jan 2025 01:58:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b4/live/c6bf8250-deae-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombian air force planes sent to fetch deportees from US]]></title>
+            <description><![CDATA[The planes' arrival paves the way for the US to lift visa restrictions imposed after a spat with Colombia.]]></description>
+            <link>https://www.bbc.com/news/articles/cgly1we7gx4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgly1we7gx4o#0</guid>
+            <pubDate>Tue, 28 Jan 2025 15:02:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1922/live/27dd2e10-dd7a-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to know about Trump's migrant deportation flights]]></title>
+            <description><![CDATA[The BBC's Ione Wells looks at the use of military planes in the new president's crackdown on illegal immigration.]]></description>
+            <link>https://www.bbc.com/news/videos/c8d9rq5m9rno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8d9rq5m9rno#0</guid>
+            <pubDate>Wed, 29 Jan 2025 02:26:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/live/c1010d70-dddc-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trouble in Paradise: Battling crime wave in Trinidad & Tobago]]></title>
+            <description><![CDATA[Will the state of emergency declared in Trinidad and Tobago manage to quell the  crime wave?]]></description>
+            <link>https://www.bbc.com/news/articles/cz9eg8w32yzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9eg8w32yzo#1</guid>
+            <pubDate>Sun, 26 Jan 2025 02:40:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c52b/live/82dba850-d415-11ef-87df-d575b9a434a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Co-operate or else: Trump's Colombia face-off is warning to all leaders]]></title>
+            <description><![CDATA[Trump appears ready to punish nations he views as not sufficiently supporting hard-line immigration polices.]]></description>
+            <link>https://www.bbc.com/news/articles/cglynrxjyl5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglynrxjyl5o#1</guid>
+            <pubDate>Mon, 27 Jan 2025 06:47:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/508b/live/9fbc1000-dc3e-11ef-9e41-8dfed29373bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican workers set up tent city to house deportees from US]]></title>
+            <description><![CDATA[As well as a place to sleep, returning Mexicans will receive food, medicine and help in obtaining documents.]]></description>
+            <link>https://www.bbc.com/news/articles/czdlvj32lgdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdlvj32lgdo#1</guid>
+            <pubDate>Sun, 26 Jan 2025 00:20:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f165/live/d54259a0-dbdf-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six big immigration changes under Trump - and their impact so far]]></title>
+            <description><![CDATA[The sweeping changes are affecting thousands of migrants, but how do they compare to past policies? ]]></description>
+            <link>https://www.bbc.com/news/articles/clyn2p8x2eyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyn2p8x2eyo#1</guid>
+            <pubDate>Mon, 27 Jan 2025 14:58:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e96e/live/29ffcfb0-daf8-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No choice but to go back' - migrants despair over Trump border restrictions]]></title>
+            <description><![CDATA[Migrants' claims for US asylum have been blown into disarray by Trump's sweeping executive orders on the border.]]></description>
+            <link>https://www.bbc.com/news/articles/c17erl4v70qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17erl4v70qo#1</guid>
+            <pubDate>Wed, 22 Jan 2025 03:06:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3cc/live/c30d8910-d867-11ef-843c-ad2f29b17c6b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does China 'operate' Panama Canal, as Trump says?]]></title>
+            <description><![CDATA[The US president says the US should "take back" the famous waterway because China runs it now.]]></description>
+            <link>https://www.bbc.com/news/articles/c1km4vj3pl0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1km4vj3pl0o#1</guid>
+            <pubDate>Wed, 22 Jan 2025 17:08:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e18/live/ce5afbd0-d4d0-11ef-9789-03dbac2525e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Outlandish comments': War of words between US, Canada and Mexico]]></title>
+            <description><![CDATA[As Donald Trump threatened to impose border taxes, the leaders of America's neighbours said they were prepared to act.]]></description>
+            <link>https://www.bbc.com/news/videos/c1dgzlg69q7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1dgzlg69q7o#2</guid>
+            <pubDate>Fri, 31 Jan 2025 22:58:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f777/live/5ea0d860-e0fa-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrants veer from US and stay in Mexico to 'make a life']]></title>
+            <description><![CDATA[Migrants from Cuba and Venezuela have chosen to seek asylum in Mexico after Trump blocked an app that processes immigration claims.]]></description>
+            <link>https://www.bbc.com/news/videos/c983njx883no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c983njx883no#2</guid>
+            <pubDate>Wed, 29 Jan 2025 19:46:16 GMT</pubDate>
+            <media:thumbnail width="240" height="158" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/520c/live/9e22f3e0-de77-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[São Paulo storm brings floods, chaos and lightning]]></title>
+            <description><![CDATA[Heavy rain across the Brazilian city caused transport chaos and subway overcrowding.]]></description>
+            <link>https://www.bbc.com/news/videos/cdrykzr5038o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdrykzr5038o#2</guid>
+            <pubDate>Sun, 26 Jan 2025 07:01:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b24/live/21d00ff0-dbd7-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Verify: Can Donald Trump really rename the Gulf of Mexico?]]></title>
+            <description><![CDATA[The new US President wants to rename the Gulf of Mexico to the Gulf of America. How would that work?]]></description>
+            <link>https://www.bbc.com/news/videos/c1lvm0j5vd8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1lvm0j5vd8o#2</guid>
+            <pubDate>Tue, 21 Jan 2025 19:18:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea6/live/abacef20-d82d-11ef-87df-d575b9a434a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Firefighters rescue riders from Chilean Ferris wheel]]></title>
+            <description><![CDATA[Firefighters in Viña del Mar rescued more than 35 revellers trapped aboard a malfunctioning Ferris wheel.]]></description>
+            <link>https://www.bbc.com/news/videos/czx8898e8qjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czx8898e8qjo#2</guid>
+            <pubDate>Fri, 17 Jan 2025 21:57:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f6/live/86837f20-d51c-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homes and roads swamped by Brazil floodwaters]]></title>
+            <description><![CDATA[A state of emergency has been declared in southern Brazil after heavy rain caused flooding in costal cities.]]></description>
+            <link>https://www.bbc.com/news/videos/ckgrrx377xpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckgrrx377xpo#2</guid>
+            <pubDate>Fri, 17 Jan 2025 07:23:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de8c/live/000ccef0-d4a0-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+    </channel>
+</rss>
