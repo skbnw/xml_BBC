@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Europe]]></description>
+        <link>https://www.bbc.co.uk/news/world/europe</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/europe</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 11 Feb 2025 08:05:22 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/europe/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Why more young men in Germany are turning to the far right]]></title>
+            <description><![CDATA[The far right here and elsewhere in Europe attracts an increasing number of young people, particularly men.]]></description>
+            <link>https://www.bbc.com/news/articles/cy082dn7rkqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy082dn7rkqo#0</guid>
+            <pubDate>Mon, 10 Feb 2025 01:31:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2357/live/0f1695e0-e790-11ef-bd1b-d536627785f2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How Spain's economy became the envy of Europe]]></title>
+            <description><![CDATA[The growth is led by a tourism boom, with Spain nearing France as the world's most visited country.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y7jmlyx02o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y7jmlyx02o#0</guid>
+            <pubDate>Mon, 10 Feb 2025 01:43:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390e/live/239bf8f0-e530-11ef-b673-970eeb68de6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beware ill-fitting menstrual cups, warn doctors]]></title>
+            <description><![CDATA[Doctors have reported a rare case where the use of a menstrual cup was linked to kidney problems. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yv98r4d4eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv98r4d4eo#0</guid>
+            <pubDate>Tue, 11 Feb 2025 00:35:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7369/live/01027930-e7de-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kosovo PM's party leading but short of majority - partial results]]></title>
+            <description><![CDATA[Albin Kurti's party is on track to come first in Kosovo's general election but may not be able to govern alone.]]></description>
+            <link>https://www.bbc.com/news/articles/c23ny33jlmjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23ny33jlmjo#0</guid>
+            <pubDate>Mon, 10 Feb 2025 07:25:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5b/live/80783b20-e714-11ef-b92c-51476f2ddfb8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baltic states unplug from Russia and join EU power grid]]></title>
+            <description><![CDATA["Today, history is made," EU chief Ursula von der Leyen told a ceremony in Lithuania's capital.]]></description>
+            <link>https://www.bbc.com/news/articles/crlkwyljl8lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crlkwyljl8lo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 17:04:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa26/live/b2399440-e707-11ef-9b11-a943219c72d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany's front-runner Merz: Risk-taker who flirted with far right]]></title>
+            <description><![CDATA[A look at the conservative leader who broke a German taboo by accepting support from the AfD.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxnzkyw7n1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxnzkyw7n1o#0</guid>
+            <pubDate>Sun, 09 Feb 2025 02:00:34 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3f/live/bbef7790-e4a3-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who's who in German elections and why this vote is important]]></title>
+            <description><![CDATA[German voters go to the polls on 23 February in a pivotal vote focused on immigration and the economy.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5ynv58y8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5ynv58y8yo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 08:32:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a23/live/7672bd10-e59a-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after 'serious incident' in north Dublin]]></title>
+            <description><![CDATA[He was arrested in the Stoneybatter area of the city on Sunday and is currently being detained.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d527zg38xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d527zg38xo#1</guid>
+            <pubDate>Sun, 09 Feb 2025 19:07:41 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbac/live/a30d4a10-e703-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swedish school shooting victims were seven women and three men]]></title>
+            <description><![CDATA[Families have been identifying victims of the attack - all between 28 and 68 years old.]]></description>
+            <link>https://www.bbc.com/news/articles/cr7epd3mz0ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7epd3mz0ro#1</guid>
+            <pubDate>Fri, 07 Feb 2025 20:02:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079f/live/b21ec2f0-e58b-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tourists leave after earthquakes rock Santorini, but resilient locals remain]]></title>
+            <description><![CDATA[Many started evacuating the island as it was hit by tremors - but some have decided to stay. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8059mny2g3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8059mny2g3o#1</guid>
+            <pubDate>Sat, 08 Feb 2025 20:10:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/991c/live/e0bff770-e61a-11ef-8f4e-69ca3422ff89.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Actor's grief after mum and husband die in France]]></title>
+            <description><![CDATA[Netflix star Callum Kerr said the family are grieving the loss of Andrew and Dawn Searle, who were found dead in south west France.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dgyg2y3yyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dgyg2y3yyo#1</guid>
+            <pubDate>Sat, 08 Feb 2025 15:48:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb4/live/0fc222d0-e609-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British conman jailed for six years for running over French policemen]]></title>
+            <description><![CDATA[The French prosecutor said he had turned a rural area into a "bewildering scene worthy of Mad Max".]]></description>
+            <link>https://www.bbc.com/news/articles/cn4zp1n89j5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4zp1n89j5o#1</guid>
+            <pubDate>Fri, 07 Feb 2025 08:45:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c598/live/040bddb0-e522-11ef-a3c5-3b800e6443d5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fall in fertility rate becomes big challenge for provincial France]]></title>
+            <description><![CDATA[Across France there has been a decline, but few places have seen a fall as high as Colomiers in the south-west.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvq1jy2xgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvq1jy2xgo#1</guid>
+            <pubDate>Fri, 07 Feb 2025 00:57:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1e/live/31706160-e31d-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man launches fight against fine for loudspeaker call at French station]]></title>
+            <description><![CDATA[The outraged passenger hires a lawyer to dispute the fine over a public phone call in Nantes.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g949m4g41o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g949m4g41o#1</guid>
+            <pubDate>Thu, 06 Feb 2025 22:21:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5681/live/7e056790-e4bd-11ef-8011-af360fcf4959.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish footballer was 'overwhelmed' after World Cup kiss, court hears]]></title>
+            <description><![CDATA[Teammates of Jenni Hermoso have testified in a trial over a kiss between her and former football chief Luis Rubiales.]]></description>
+            <link>https://www.bbc.com/news/articles/cge7p94pj4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge7p94pj4po#1</guid>
+            <pubDate>Thu, 06 Feb 2025 19:26:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0da/live/7613b460-e4ae-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King and Queen to host Stanley Tucci ahead of Italy state visit]]></title>
+            <description><![CDATA[The royals will make a state visit to Italy in April, which coincides with their 20th wedding anniversary. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce85j1wwrdyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce85j1wwrdyo#1</guid>
+            <pubDate>Thu, 06 Feb 2025 21:04:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d29/live/b83a63c0-e530-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK expels Russian diplomat after spying row]]></title>
+            <description><![CDATA[The Foreign Office says the move is in response to Moscow expelling a UK diplomat last year.  ]]></description>
+            <link>https://www.bbc.com/news/articles/cn8xp5gg04do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8xp5gg04do#1</guid>
+            <pubDate>Thu, 06 Feb 2025 18:14:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c8/live/09147e20-e496-11ef-829f-cb55ffe46467.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How long could the Santorini 'seismic crisis' last?]]></title>
+            <description><![CDATA[Scientists say it is unclear how many more earthquakes will come to the idyllic Greek island.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8qpn2p795o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8qpn2p795o#2</guid>
+            <pubDate>Thu, 06 Feb 2025 20:16:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/2ef2edb0-e46f-11ef-8cf7-7d25ac677559.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Left without a trace: Families search for missing children of Turkey's earthquake]]></title>
+            <description><![CDATA[Two years on from the twin earthquakes, at least 30 children remain missing.]]></description>
+            <link>https://www.bbc.com/news/articles/cj02v47e48zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj02v47e48zo#2</guid>
+            <pubDate>Thu, 06 Feb 2025 00:24:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fd/live/61545380-e306-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hunger-striking journalist challenges Georgia's government from jail]]></title>
+            <description><![CDATA[Mzia Amaglobeli is accused of slapping a police chief but her detention has made her a symbol of resistance.]]></description>
+            <link>https://www.bbc.com/news/articles/cp82d5k474yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp82d5k474yo#2</guid>
+            <pubDate>Wed, 05 Feb 2025 18:07:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f894/live/070969f0-e3e8-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Milan's Winter Olympic sliding events could be held 4,000 miles away]]></title>
+            <description><![CDATA[With a year to go to the Winter Olympics, why could sliding events move to the United States, what is skimo and what are Team GB's medal chances in Milan 2026?]]></description>
+            <link>https://www.bbc.com/sport/articles/c0e4r0q75vro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0e4r0q75vro#2</guid>
+            <pubDate>Thu, 06 Feb 2025 06:27:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8355/live/1d9d4ed0-e342-11ef-b6b6-a15a8f39a144.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['There was blood everywhere' - witnesses shocked after Sweden school shooting]]></title>
+            <description><![CDATA[At least 11 people were killed in the attack at Risbergska school in Orebro, including the suspected gunman.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lze6zjrwwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lze6zjrwwo#2</guid>
+            <pubDate>Wed, 05 Feb 2025 09:07:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f95/live/ce6751b0-e393-11ef-90ea-a53b659307b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweden searches for answers after country's deadliest shooting]]></title>
+            <description><![CDATA[Police say the motive of the shooter, who killed 10 people on Tuesday, remains unknown.]]></description>
+            <link>https://www.bbc.com/news/articles/crm71dmkjjyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm71dmkjjyo#2</guid>
+            <pubDate>Wed, 05 Feb 2025 18:02:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed58/live/b9579710-e3d1-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We were stripped of all our humanity': Auschwitz survivors remember]]></title>
+            <description><![CDATA[Holocaust survivors have been marking 80 years since the liberation of the Nazi concentration camp, Auschwitz.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cp9x8x400xxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp9x8x400xxo#3</guid>
+            <pubDate>Mon, 27 Jan 2025 18:49:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0e/live/498172a0-dce0-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge Athens crowds demand justice for 2023 train crash]]></title>
+            <description><![CDATA[Tens of thousands of people demand action as they gather to remember the victims of Greece's worst railway disaster.]]></description>
+            <link>https://www.bbc.com/news/videos/c1jgn1le7wzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1jgn1le7wzo#3</guid>
+            <pubDate>Sun, 26 Jan 2025 17:46:44 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b93/live/5c8d3ba0-dc0d-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The leader faces no serious challenge' - Steve Rosenberg in Belarus]]></title>
+            <description><![CDATA[It's election day in Belarus - with Alexander Lukashenko set to continue his 31-year-long rule of the country. ]]></description>
+            <link>https://www.bbc.com/news/videos/c70kxyl6l07o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c70kxyl6l07o#3</guid>
+            <pubDate>Sun, 26 Jan 2025 16:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/252204d0-dbfd-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly fire at Turkey ski resort hotel]]></title>
+            <description><![CDATA[At least 66 people have died and 32 were injured in a fire at a ski resort hotel in the city of Bolu.]]></description>
+            <link>https://www.bbc.com/news/videos/c8xq8k9g7yko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8xq8k9g7yko#3</guid>
+            <pubDate>Tue, 21 Jan 2025 16:26:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/f6b17290-d812-11ef-94cb-5f844ceb9e30.jpg"/>
+        </item>
+    </channel>
+</rss>
