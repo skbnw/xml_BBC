@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Feb 2025 08:04:53 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Victim of neo-Nazi MI5 agent wants public apology from Security Service]]></title>
+            <description><![CDATA[The woman’s demand follows MI5’s admission it gave false evidence in her human rights case. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7vd4910zeeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vd4910zeeo#0</guid>
+            <pubDate>Fri, 14 Feb 2025 05:59:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16de/live/0661e360-ea4b-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clive Myrie: What I saw during my 24 hours at a London hospital]]></title>
+            <description><![CDATA[As part of the BBC's special report, Clive Myrie meets the people at the Royal Free Hospital relying on the NHS for care.]]></description>
+            <link>https://www.bbc.com/news/articles/c93lzygn3j1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93lzygn3j1o#0</guid>
+            <pubDate>Fri, 14 Feb 2025 05:58:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8603/live/e2c01c00-ea32-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Royal Free - what it tells us about the NHS]]></title>
+            <description><![CDATA[From frustrated staff and ageing equipment to life-saving care, what life on the frontline is like.]]></description>
+            <link>https://www.bbc.com/news/articles/cj026gz751zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj026gz751zo#0</guid>
+            <pubDate>Thu, 13 Feb 2025 18:05:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb26/live/c92a3440-ea34-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Mould, damp and decay': Homes excluded from insulation scandal help]]></title>
+            <description><![CDATA[Help to fix unsuitable insulation under government schemes only applies to work done since 2022.]]></description>
+            <link>https://www.bbc.com/news/articles/c203rnepzexo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c203rnepzexo#0</guid>
+            <pubDate>Fri, 14 Feb 2025 00:10:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff5/live/d243dd90-e9ff-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More migrant workers claim UK farm exploitation]]></title>
+            <description><![CDATA[The UK government says it always takes "decisive action" where abusive practices are found on farms.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2qz8x3j8no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2qz8x3j8no#0</guid>
+            <pubDate>Fri, 14 Feb 2025 01:54:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edea/live/dfa69b70-ea3c-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Pattinson: Being a dad makes life 'more fun']]></title>
+            <description><![CDATA[The actor, who is now starring in Mickey 17, welcomed his first child with Suki Waterhouse last March.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgnw1x3jy0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgnw1x3jy0o#0</guid>
+            <pubDate>Fri, 14 Feb 2025 00:41:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1833/live/47a5b800-ea79-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Steroids gave me heart failure at 30 and I could die early']]></title>
+            <description><![CDATA[A bodybuilder and steroid user warns against taking the muscle-building drug.]]></description>
+            <link>https://www.bbc.com/news/articles/cdd9vg632pzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdd9vg632pzo#0</guid>
+            <pubDate>Fri, 14 Feb 2025 05:58:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34c/live/84aa8b70-e98b-11ef-a582-45cb5edfdad7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of fatally shot man 'will never have answers']]></title>
+            <description><![CDATA[Marius Ciolac's sister spoke to the BBC following the conclusion of his inquest.]]></description>
+            <link>https://www.bbc.com/news/articles/c70kpzge4j8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70kpzge4j8o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 01:49:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0d/live/715d2cc0-ea36-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trans doctor had the 'right' to use women's room]]></title>
+            <description><![CDATA[Nurse manager Esther Davidson said she was advised that Dr Beth Upton was entitled to use the women's changing rooms.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydnxy5019o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydnxy5019o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 18:09:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea0/live/c803ab10-ea33-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dame Edna's glasses auctioned for £37,800]]></title>
+            <description><![CDATA[A pair of Barry Humphries' Dame Edna Everage glasses sold for more than 25 times their estimated value.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y7nj11n41o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y7nj11n41o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 04:42:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/0de320b0-ea8a-11ef-b261-bbdf17c85eb4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrests over small boat 'people smuggling ring' ]]></title>
+            <description><![CDATA[Six men have been arrested over their suspected involvement in a major people smuggling ring.]]></description>
+            <link>https://www.bbc.com/news/articles/cqldn5pdee4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqldn5pdee4o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 12:23:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4082/live/c659a230-e9ff-11ef-aa50-457aa6277d66.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Two British nationals detained in Iran]]></title>
+            <description><![CDATA[The man and woman, who have not been named, are accused of unspecified security-related offenses. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy5k6rk3gkno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5k6rk3gkno#1</guid>
+            <pubDate>Thu, 13 Feb 2025 16:54:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abef/live/5a0f8950-ea22-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Clive Myrie finds corridors filled with patients at London hospital]]></title>
+            <description><![CDATA[Clive Myrie spends a day inside the Royal Free Hospital to see how the NHS is coping after intense, annual winter pressures.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgpdn388r9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgpdn388r9o#2</guid>
+            <pubDate>Thu, 13 Feb 2025 18:09:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab5/live/31746230-ea32-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Sue Gray takes seat in the House of Lords]]></title>
+            <description><![CDATA[Former Partygate investigator who went on to become Sir Keir Starmer's chief of staff joins the Lords.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgpylzdm96o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgpylzdm96o#2</guid>
+            <pubDate>Tue, 11 Feb 2025 16:27:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc44/live/eac29800-e894-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Entertaining nonsense': BBC's Nick Robinson discovers X account hacked]]></title>
+            <description><![CDATA[Contrary to posts on his X account, the Today presenter reveals he is not launching a new cryptocurrency.]]></description>
+            <link>https://www.bbc.com/news/videos/cgmyk3kkeddo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgmyk3kkeddo#2</guid>
+            <pubDate>Tue, 11 Feb 2025 09:53:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/56d3da80-e85a-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met Police officers rescue people and fight blaze at hostel]]></title>
+            <description><![CDATA[Bodycam footage shows officers evacuating the building and tackling the fire with extinguishers in Euston, London.]]></description>
+            <link>https://www.bbc.com/news/videos/c1lv19jvqldo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1lv19jvqldo#2</guid>
+            <pubDate>Mon, 10 Feb 2025 22:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b18b/live/ce1d02b0-e7fb-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Funny, kind Semina lit up room': 12-year-old's tragic overdose death]]></title>
+            <description><![CDATA[An inquest into the death of Semina Halliwell, who said she was raped by an older boy, finds her death was "unpreventable".]]></description>
+            <link>https://www.bbc.com/news/articles/c1m53p9y5vmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m53p9y5vmo#3</guid>
+            <pubDate>Thu, 13 Feb 2025 18:58:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3672/live/fe6ad3c0-e8a0-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a cold case was solved years after a 'terrible' mistake]]></title>
+            <description><![CDATA[An odd-job man is convicted of the murder of a women whose death was first thought accidental.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6g96m691no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6g96m691no#3</guid>
+            <pubDate>Fri, 14 Feb 2025 06:04:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4c/live/0f5461b0-dc99-11ef-99dc-2547126bef59.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Essex Boys: How a gangland triple murder became so notorious]]></title>
+            <description><![CDATA[The executions of Craig Rolfe, Tony Tucker and Pat Tate still make headlines 30 years on.]]></description>
+            <link>https://www.bbc.com/news/articles/cz6p53wpl8qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6p53wpl8qo#3</guid>
+            <pubDate>Fri, 14 Feb 2025 06:22:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaae/live/5a3cb500-ea3c-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Pattinson: Being a dad makes life 'more fun']]></title>
+            <description><![CDATA[The actor, who is now starring in Mickey 17, welcomed his first child with Suki Waterhouse last March.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgnw1x3jy0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgnw1x3jy0o#3</guid>
+            <pubDate>Fri, 14 Feb 2025 00:41:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1833/live/47a5b800-ea79-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dating apps could be in trouble – here's what might take their place]]></title>
+            <description><![CDATA[For some Gen Zs, meeting online through shared hobbies is an alternative to the tyranny of the swipe.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7zxgxdggjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7zxgxdggjo#3</guid>
+            <pubDate>Fri, 14 Feb 2025 00:49:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652b/live/637fc4d0-e9f2-11ef-bd1b-d536627785f2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Victims being ignored by early release, says charity]]></title>
+            <description><![CDATA[A support organisation says victims feel "deprioritised" as almost 400 prisoners are set to be released early.]]></description>
+            <link>https://www.bbc.com/news/articles/crm7ykdr40zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm7ykdr40zo#4</guid>
+            <pubDate>Fri, 14 Feb 2025 06:24:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e2/live/17472ac0-eaa8-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[QUB denies staff pressured to give higher grades]]></title>
+            <description><![CDATA[Staff were told they should note that higher marks are awarded at other universities.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxnwg5rvnvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxnwg5rvnvo#4</guid>
+            <pubDate>Fri, 14 Feb 2025 06:18:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a744/live/c176d480-ea23-11ef-a4db-cb9680216d3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Steroids gave me heart failure at 30 and I could die early']]></title>
+            <description><![CDATA[A bodybuilder and steroid user warns against taking the muscle-building drug.]]></description>
+            <link>https://www.bbc.com/news/articles/cdd9vg632pzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdd9vg632pzo#4</guid>
+            <pubDate>Fri, 14 Feb 2025 05:58:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34c/live/84aa8b70-e98b-11ef-a582-45cb5edfdad7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of fatally shot man 'will never have answers']]></title>
+            <description><![CDATA[Marius Ciolac's sister spoke to the BBC following the conclusion of his inquest.]]></description>
+            <link>https://www.bbc.com/news/articles/c70kpzge4j8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70kpzge4j8o#4</guid>
+            <pubDate>Fri, 14 Feb 2025 01:49:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0d/live/715d2cc0-ea36-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+    </channel>
+</rss>
