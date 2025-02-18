@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Politics]]></description>
+        <link>https://www.bbc.co.uk/news/politics</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/politics</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 18 Feb 2025 08:04:58 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Starmer says US 'backstop' needed for Ukraine deal]]></title>
+            <description><![CDATA[The PM says "a US security guarantee is the only way to effectively deter Russia from attacking Ukraine again".]]></description>
+            <link>https://www.bbc.com/news/articles/cn4z4w3v5y8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4z4w3v5y8o#0</guid>
+            <pubDate>Tue, 18 Feb 2025 05:27:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba9/live/74855670-ed65-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pledge of two million extra NHS appointments met, PM says]]></title>
+            <description><![CDATA[Sir Keir Starmer says the figure is a "shot in the arm", but "the job isn't done" to bring down waiting lists.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4z4vw3p1do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4z4vw3p1do#0</guid>
+            <pubDate>Mon, 17 Feb 2025 10:35:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d1/live/2f996dc0-ecfd-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No durable peace' in Ukraine if Europe not in talks - minister]]></title>
+            <description><![CDATA[Business Secretary Jonathan Reynolds says the UK could act as a "bridge" between the US and Europe.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9l7zn8n79o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9l7zn8n79o#0</guid>
+            <pubDate>Sun, 16 Feb 2025 17:24:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884b/live/6097f810-ec6c-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US isolation threatens global democracy, warns Major]]></title>
+            <description><![CDATA[Sir John says US policy will embolden Russia and China, with gains since the fall of the Soviet Union being reversed.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gwngxdd1vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gwngxdd1vo#0</guid>
+            <pubDate>Sun, 16 Feb 2025 17:16:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/1d6272b0-ec98-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Special Forces blocked 2,000 credible asylum claims from Afghan commandos, MoD confirms]]></title>
+            <description><![CDATA[Officers appear to have rejected every application from former Afghan commandos who fought alongside them.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9l9elr95zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9l9elr95zo#0</guid>
+            <pubDate>Mon, 17 Feb 2025 00:01:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7bb/live/638a4a20-ec79-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Union and bishops criticise small boat refugee citizenship ban]]></title>
+            <description><![CDATA[Some 147 signatories of a letter say the recently-implemented rule will "breed division and distrust".]]></description>
+            <link>https://www.bbc.com/news/articles/cvgeg5gp4dno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgeg5gp4dno#0</guid>
+            <pubDate>Sun, 16 Feb 2025 18:37:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5325/live/e2e622f0-ec95-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump steel tariffs negative for UK and US, says Reynolds]]></title>
+            <description><![CDATA[President Donald Trump is set to impose 25% taxes on steel entering the US "without exceptions".]]></description>
+            <link>https://www.bbc.com/news/articles/cx2483zrz0zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2483zrz0zo#0</guid>
+            <pubDate>Sun, 16 Feb 2025 16:03:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfe/live/7bc88260-ec7d-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[European leaders set to hold emergency summit on Ukraine]]></title>
+            <description><![CDATA[The UK PM, who is expected to attend, said it was a "once in a generation moment for our national security".]]></description>
+            <link>https://www.bbc.com/news/articles/c04nw1pg3k2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04nw1pg3k2o#1</guid>
+            <pubDate>Sun, 16 Feb 2025 05:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1890/live/98e27620-ebde-11ef-bc61-5513f23be83e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK and EU countries must spend more on defence, says Lammy]]></title>
+            <description><![CDATA[The foreign secretary said Vladimir Putin would not "go away" even in the event of a negotiated peace in Ukraine]]></description>
+            <link>https://www.bbc.com/news/articles/cgq0x30kkldo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgq0x30kkldo#1</guid>
+            <pubDate>Sat, 15 Feb 2025 18:24:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f5/live/58b71560-ebbb-11ef-8568-3dcf239d7c0b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we've learned about Rachel Reeves's expenses - and the Labour response]]></title>
+            <description><![CDATA[Senior figures defended the chancellor after we revealed her expenses were investigated before she was an MP.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvmg924nk1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvmg924nk1o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 20:45:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2a5/live/447afb20-eb0c-11ef-a9f0-1fe0b0397bb7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK military too 'run down' to lead Ukraine peace mission - ex-Army chief]]></title>
+            <description><![CDATA[Lord Dannatt says up to 40,000 UK troops would be needed for such a mission and "we just haven't got that number available".]]></description>
+            <link>https://www.bbc.com/news/articles/czep44jn9jyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czep44jn9jyo#1</guid>
+            <pubDate>Sat, 15 Feb 2025 09:32:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/0ffaad30-ebd6-11ef-b7dc-9b37fdbd2786.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welsh Tory leadership change now 'completely nuts']]></title>
+            <description><![CDATA[Both the shadow secretary of state and Senedd group leader claim to lead the party in Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy79yyr989o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy79yyr989o#1</guid>
+            <pubDate>Sun, 16 Feb 2025 15:33:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/818c/live/167abaa0-ec77-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS to expand opt-out HIV and hepatitis testing]]></title>
+            <description><![CDATA[The NHS will automatically test patients for HIV, Hepatitis B and Hepatitis C unless they opt out at 90 hospitals.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgyee03ezwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgyee03ezwo#1</guid>
+            <pubDate>Sat, 15 Feb 2025 00:47:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9d/live/c6726400-eaf4-11ef-b296-c70114635fc4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JD Vance attacks Europe over free speech and migration]]></title>
+            <description><![CDATA[The vice-president's speech at the Munich Security Conference was denounced by several European leaders.]]></description>
+            <link>https://www.bbc.com/news/articles/ceve3wl21x1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceve3wl21x1o#1</guid>
+            <pubDate>Sat, 15 Feb 2025 07:03:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f3/live/02fa7dc0-eb01-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No concerns raised with me about my expenses, says Reeves]]></title>
+            <description><![CDATA[The BBC found the chancellor was the subject of an expenses investigation while she worked at a bank.]]></description>
+            <link>https://www.bbc.com/news/articles/clynd9l09w3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clynd9l09w3o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 15:45:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a54e/live/6e58f9f0-eae5-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer backs Ukraine's Nato bid despite US view]]></title>
+            <description><![CDATA[The PM reaffirms the UK supports Ukraine's "irreversible path" to joining NATO in a call with Volodymyr Zelensky.]]></description>
+            <link>https://www.bbc.com/news/articles/clyelpzqn28o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyelpzqn28o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 16:05:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8f/live/89c97ed0-eac7-11ef-b8fb-59bc9717497d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government axes political violence adviser role]]></title>
+            <description><![CDATA[The crossbench peer calls for more action against "the menace of extreme protestors" as he leaves.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2pddvwgg8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pddvwgg8o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 18:11:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf3/live/346862e0-eaf8-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rachel Reeves can be trusted, says minister]]></title>
+            <description><![CDATA[A BBC investigation found the now chancellor was subject to an expenses complaint when working at HBOS.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rw538d353o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rw538d353o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 10:45:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e469/live/a56ab0a0-eaa9-11ef-b31c-8ffae6bdc2ee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Questions raised over Rachel Reeves's CV and expenses]]></title>
+            <description><![CDATA[The BBC has established the Chancellor left the Bank of England nine months earlier than she states in her LinkedIn profile.]]></description>
+            <link>https://www.bbc.com/news/articles/c77r05nx11po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77r05nx11po#1</guid>
+            <pubDate>Thu, 13 Feb 2025 14:56:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/1e6d4440-ea2d-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump tariff VAT threat raises fears of hit to UK]]></title>
+            <description><![CDATA[The surprise inclusion of VAT to calculate tariffs prompts questions over the possible impact on British businesses.]]></description>
+            <link>https://www.bbc.com/news/articles/c863zd9zz42o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c863zd9zz42o#1</guid>
+            <pubDate>Fri, 14 Feb 2025 15:42:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4813/live/4f2b5690-eac2-11ef-869d-59d5dc42f7c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US politicians furious at UK demand for encrypted Apple data]]></title>
+            <description><![CDATA[They say the US should re-evaluate its cyber-security partnership with the UK unless the "dangerous" request is withdrawn.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvn90pl5no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvn90pl5no#1</guid>
+            <pubDate>Fri, 14 Feb 2025 11:23:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cea/live/61764b10-eab4-11ef-80bb-c173c17a1e53.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs call for end to booing and jeering in Commons]]></title>
+            <description><![CDATA["Antiquated" jargon and poor behaviour is restricting access to politics, says a committee of MPs.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgyleldl27o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgyleldl27o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 17:54:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e543/live/9815d410-ea2d-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Work on new towns to begin by 2029, minister says]]></title>
+            <description><![CDATA[It comes after more than 100 sites put themselves forward for consideration by a government taskforce.]]></description>
+            <link>https://www.bbc.com/news/articles/cly7kn4z399o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly7kn4z399o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 16:05:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de7c/live/db618510-e9f7-11ef-bcac-87abe8b9d53e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surprise growth in UK economy at end of 2024]]></title>
+            <description><![CDATA[The economy expanded by 0.1% between October and December, official figures suggest.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jg4enkr3lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jg4enkr3lo#1</guid>
+            <pubDate>Thu, 13 Feb 2025 10:35:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdca/live/3846c120-e9dd-11ef-bd04-ad455dc2d977.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine must be at heart of peace talks, PM says]]></title>
+            <description><![CDATA[The prime minister says it is important Ukraine "is in the strongest possible position" in any talks to end the conflict.]]></description>
+            <link>https://www.bbc.com/news/articles/crlky820wxwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crlky820wxwo#1</guid>
+            <pubDate>Thu, 13 Feb 2025 17:09:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b68/live/dae4f580-ea0c-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP shares in Commons he is living with HIV]]></title>
+            <description><![CDATA[The Sittingbourne and Sheppey MP is only the third parliamentarian to share his HIV status.]]></description>
+            <link>https://www.bbc.com/news/articles/c20pwxxd569o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20pwxxd569o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 16:21:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b7/live/8fb9f090-ea22-11ef-978d-e5b804b64b28.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lidl denies Reform councillor officially opened shop]]></title>
+            <description><![CDATA[Reform councillor David Thomas was pictured at the store's opening but Lidl said it was not official.]]></description>
+            <link>https://www.bbc.com/news/articles/cr46v1lr006o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr46v1lr006o#1</guid>
+            <pubDate>Thu, 13 Feb 2025 10:58:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/ba1d3510-ea34-11ef-a015-eba4114b2547.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Chancellor and her expenses before she became an MP]]></title>
+            <description><![CDATA[BBC News has learnt that there was an expenses investigation into Rachel Reeves, and two other senior managers, when she worked at HBOS.
+]]></description>
+            <link>https://www.bbc.com/news/articles/ckg75jr5284o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg75jr5284o#2</guid>
+            <pubDate>Thu, 13 Feb 2025 13:07:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1cd/live/aa00d5e0-e97d-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is Rachel Reeves?]]></title>
+            <description><![CDATA[The chancellor has faced a bumpy first few months, from a sluggish economy to questions over her CV.]]></description>
+            <link>https://www.bbc.com/news/articles/cw4ywl7w820o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw4ywl7w820o#2</guid>
+            <pubDate>Fri, 14 Feb 2025 12:43:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7128/live/d1a1e860-9625-11ef-90df-3f1823a91773.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Government borrowing, bonds and yields explained]]></title>
+            <description><![CDATA[You may have heard about government borrowing costs going up and then down again. Here's a quick guide on government borrowing, bonds and yields. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce85rl65j48o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce85rl65j48o#2</guid>
+            <pubDate>Fri, 14 Feb 2025 17:01:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eab/live/cb1d7450-eada-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Sue Gray takes seat in the House of Lords]]></title>
+            <description><![CDATA[Former Partygate investigator who went on to become Sir Keir Starmer's chief of staff joins the Lords.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgpylzdm96o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgpylzdm96o#2</guid>
+            <pubDate>Tue, 11 Feb 2025 16:27:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc44/live/eac29800-e894-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Ministers want to show toughness on immigration]]></title>
+            <description><![CDATA[With high numbers still arriving in the UK, the government is keen not to appear wishy-washy on an issue that matters to so many people.]]></description>
+            <link>https://www.bbc.com/news/articles/clyz02e64rdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyz02e64rdo#2</guid>
+            <pubDate>Mon, 10 Feb 2025 13:09:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6144/live/f56060d0-e7d1-11ef-a697-15c17ea31ce4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Sir Keir Starmer becomes first PM to take HIV test]]></title>
+            <description><![CDATA[Sir Keir Starmer becomes the first sitting prime minister to take a public HIV test.]]></description>
+            <link>https://www.bbc.com/news/videos/ce85lg649z8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce85lg649z8o#2</guid>
+            <pubDate>Mon, 10 Feb 2025 15:11:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23e9/live/6dc9e620-e7c0-11ef-bd1b-d536627785f2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Mandelson's strategy for charming Trumpworld?]]></title>
+            <description><![CDATA[As Peter Mandelson takes up the role of ambassador to the US, No 10 is determined the UK builds a strong relationship with Donald Trump.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxnpngpj89o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxnpngpj89o#2</guid>
+            <pubDate>Sat, 08 Feb 2025 11:43:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d159/live/cc7836c0-e4a2-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concern UK's AI ambitions could lead to water shortages]]></title>
+            <description><![CDATA[Data centres can use vast quantities of water to cool them - but it's not clear where it will come from.]]></description>
+            <link>https://www.bbc.com/news/articles/ce85wx9jjndo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce85wx9jjndo#2</guid>
+            <pubDate>Fri, 07 Feb 2025 01:48:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/c4a130e0-e52a-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Low growth and rising prices - it's looking gloomy for the UK]]></title>
+            <description><![CDATA[The central bank may have cut rates but forecasts of low growth and rising inflation make a challenging domestic vista.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4mpznd79zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4mpznd79zo#2</guid>
+            <pubDate>Thu, 06 Feb 2025 12:46:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf1/live/7ffff650-e481-11ef-9332-6d8408b4920e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Would the new Tory plan bring down immigration?]]></title>
+            <description><![CDATA[The Tories have outlined a plan to make it harder for migrants to get indefinite leave to remain in the UK. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0qw2055qdjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qw2055qdjo#2</guid>
+            <pubDate>Thu, 06 Feb 2025 18:20:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c6/live/13d474e0-e497-11ef-bd1b-d536627785f2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Councils fear the local is being taken out of local government]]></title>
+            <description><![CDATA[Ministers say a major reorganisation will save money but some councils are worried it will harm services.]]></description>
+            <link>https://www.bbc.com/news/articles/cdd9qn5gvpgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdd9qn5gvpgo#2</guid>
+            <pubDate>Wed, 05 Feb 2025 18:38:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce9/live/22f80430-e3e5-11ef-a3e9-f7d24490089c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Can Starmer keep the good vibes with EU and US going?]]></title>
+            <description><![CDATA[Something is likely to have to give, as the UK tries to keep both major trading partners on side.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2530vldx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2530vldx0o#2</guid>
+            <pubDate>Tue, 04 Feb 2025 17:51:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4b/live/15142320-e31e-11ef-9ade-9557f4eb91de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How could Trump's tariffs affect the UK?]]></title>
+            <description><![CDATA[How might the UK be affected by Trump's tariffs, even if they are not imposed on the UK?]]></description>
+            <link>https://www.bbc.com/news/articles/ckgy1lerlpko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgy1lerlpko#2</guid>
+            <pubDate>Mon, 03 Feb 2025 18:32:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/5613d370-e247-11ef-bd1b-d536627785f2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour ministers tread carefully as welfare reform looms]]></title>
+            <description><![CDATA[The government is not just looking at reforming the benefits system - it is preparing to put it at the heart of its economic agenda.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkje8vj84ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkje8vj84ro#2</guid>
+            <pubDate>Sat, 01 Feb 2025 02:42:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e226/live/a5e57080-dfd5-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five key impacts of Brexit five years on]]></title>
+            <description><![CDATA[The UK left the European Union on 31 January 2020.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrynjz1glpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrynjz1glpo#2</guid>
+            <pubDate>Fri, 31 Jan 2025 01:41:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dafd/live/92c05730-dfb8-11ef-819e-d1f2ca20e9fa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: The 'Iron Chancellor' will have to flex to get the growth she wants]]></title>
+            <description><![CDATA[In choppy global seas, going for growth will require tricky navigation]]></description>
+            <link>https://www.bbc.com/news/articles/c1dgzp0e0evo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dgzp0e0evo#2</guid>
+            <pubDate>Fri, 31 Jan 2025 11:00:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a194/live/e0dabbb0-df25-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At a glance: What was in Rachel Reeves's speech?]]></title>
+            <description><![CDATA[The chancellor announces measures she says will kickstart growth: what are they?]]></description>
+            <link>https://www.bbc.com/news/articles/czxknwyxk09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxknwyxk09o#2</guid>
+            <pubDate>Thu, 30 Jan 2025 08:42:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a5f/live/79e8eeb0-de60-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How quickly could Rachel Reeves' new plans boost growth? ]]></title>
+            <description><![CDATA[The chancellor announced a range of reforms on Wednesday - including a new runway for Heathrow airport.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g3w48yy8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g3w48yy8yo#2</guid>
+            <pubDate>Thu, 30 Jan 2025 00:42:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc57/live/34dcce00-de5f-11ef-acbf-c3b897b96092.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Zeffman: Reeves's plan comes under scrutiny from her own side]]></title>
+            <description><![CDATA[The chancellor has made clear she wants to see economic growth, but the response from Labour MPs will be key in how its delivered.]]></description>
+            <link>https://www.bbc.com/news/articles/cedn66e1n6no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedn66e1n6no#2</guid>
+            <pubDate>Wed, 29 Jan 2025 16:31:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/c797b320-de5c-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How fast is the UK's economy growing?]]></title>
+            <description><![CDATA[How the health of the UK economy is measured, and why the GDP calculation matters.]]></description>
+            <link>https://www.bbc.co.uk/news/business-13200758</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-13200758#2</guid>
+            <pubDate>Thu, 13 Feb 2025 09:49:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/A237/production/_130372514_col_gdp_976-nc.png"/>
+        </item>
+    </channel>
+</rss>
