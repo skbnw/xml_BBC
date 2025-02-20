@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 20 Feb 2025 00:15:18 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Starmer backs Zelensky after Trump 'dictator' claim]]></title>
+            <description><![CDATA[The prime minister spoke to Zelensky on the phone and expressed support for "Ukraine's democratically elected leader".]]></description>
+            <link>https://www.bbc.com/news/articles/clyrnjrjrr5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrnjrjrr5o#0</guid>
+            <pubDate>Wed, 19 Feb 2025 23:08:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2f/live/c61cc7d0-ef03-11ef-8ee5-598d194667cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New graves mark lost generation in drugs-ravaged Scottish town]]></title>
+            <description><![CDATA[In just a year and a half, at least eight victims of drug misuse have been buried in Oban's Pennyfuir cemetery.]]></description>
+            <link>https://www.bbc.com/news/articles/c20pwd04zy4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20pwd04zy4o#0</guid>
+            <pubDate>Wed, 19 Feb 2025 21:59:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2290/live/4f8efbd0-ef1f-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inflation jumps on food, air fares and school fees]]></title>
+            <description><![CDATA[The government admits that stemming price rises will be 'bumpy' as inflation hit 3% in January.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l18pzrz00o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l18pzrz00o#0</guid>
+            <pubDate>Wed, 19 Feb 2025 11:47:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82de/live/5136eda0-eeaa-11ef-8056-e9724e6c7c5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge sinkhole swallows up more of Surrey street]]></title>
+            <description><![CDATA[A second sinkhole has appeared in the street, with a car teetering on the brink.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9nw4z5g9qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9nw4z5g9qo#0</guid>
+            <pubDate>Wed, 19 Feb 2025 20:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f3/live/001bacd0-ee9b-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman accused of killing child in 1978 bath scald]]></title>
+            <description><![CDATA[Janice Nix is accused of manslaughter over the death of five-year-old Andrea Bernard in 1978.]]></description>
+            <link>https://www.bbc.com/news/articles/c07ze2djrjvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07ze2djrjvo#0</guid>
+            <pubDate>Wed, 19 Feb 2025 13:50:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5120/live/4e09cac0-eec4-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to be warmer than Greece this week as temperatures rise to 16C]]></title>
+            <description><![CDATA[By the end of the week, temperatures will be above average across the whole of the UK. Stav Danaos explains.]]></description>
+            <link>https://www.bbc.com/weather/articles/ckgdw1ewxx5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/ckgdw1ewxx5o#0</guid>
+            <pubDate>Wed, 19 Feb 2025 13:18:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a059/live/aae4a7c0-eec3-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British journalist Charlotte Peet reported missing in Brazil]]></title>
+            <description><![CDATA[The Association of Foreign Press Correspondents in Brazil says it is concerned over her disappearance.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gexj8ll31o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gexj8ll31o#0</guid>
+            <pubDate>Wed, 19 Feb 2025 11:57:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c3/live/537fd5f0-eedb-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangor University to cut 200 jobs amid £15m savings]]></title>
+            <description><![CDATA[Bangor University's vice-chancellor says the institution needs to make "unprecedented" changes.]]></description>
+            <link>https://www.bbc.com/news/articles/cd65yl81947o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd65yl81947o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 18:23:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d6/live/7d6d60f0-eebb-11ef-ba19-ad5401ddcbbb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb changed my life forever, survivor says]]></title>
+            <description><![CDATA[The final day of this phase of the inquiry into the 1998 bombing in Omagh, County Tyrone, concludes.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvepy2d69qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvepy2d69qo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 16:17:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f593/live/232490c0-eecd-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Muslim hate at record level in UK, report says]]></title>
+            <description><![CDATA[Almost 6,000 cases of Islamophobia were recorded in 2024, more than double the number two years earlier.]]></description>
+            <link>https://www.bbc.com/news/articles/clyjlx2e4l8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyjlx2e4l8o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 12:03:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c366/live/53057170-eebd-11ef-ba19-ad5401ddcbbb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metal detectorists unearth 15th Century coin hoard]]></title>
+            <description><![CDATA[The find of Scottish and English coins was made in the Cappercleuch area of the Scottish Borders.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y98w4leyqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y98w4leyqo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 12:36:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b72e/live/40041550-eeb7-11ef-b016-3f382c6f5494.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Postman who groped multiple women jailed]]></title>
+            <description><![CDATA[One of Michael Stewart's victims took her own life in the aftermath of the abuse, a court hears.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y0kj5pg09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0kj5pg09o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 13:18:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801f/live/64ac6620-eea1-11ef-ae88-5b98a925ff77.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New knife laws will make difference, says victim's sister]]></title>
+            <description><![CDATA[Retailers must report suspicious purchases and there will be tougher sentences for selling to under-18s.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g0ldgvnx3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0ldgvnx3o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 11:19:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f66/live/092d95b0-eead-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs criticise 'wealth-hoarding'  boomers stereotype]]></title>
+            <description><![CDATA[A report from the Commons' women and equalities committee says age discrimination is widespread.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg1e75ddygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1e75ddygo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 09:13:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aef/live/222f4a30-ee9f-11ef-ae88-5b98a925ff77.png"/>
+        </item>
+        <item>
+            <title><![CDATA[US must not interfere in Tate's case, say alleged victims]]></title>
+            <description><![CDATA[Reports say US officials asked Romania to relax travel restrictions against Andrew Tate and his brother.]]></description>
+            <link>https://www.bbc.com/news/articles/c778ldvpn0po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c778ldvpn0po#1</guid>
+            <pubDate>Wed, 19 Feb 2025 21:22:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71c/live/4a9cd7d0-ee72-11ef-93f8-9f010c574ba7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cancer patients not getting right treatment, say doctors]]></title>
+            <description><![CDATA[Experts highlight particular problems with prostate, kidney and colon cancer in England and Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/c86pl3962j7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86pl3962j7o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 00:07:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af8/live/fe843470-ee0c-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RSPCA's 'thinnest dog' ready for forever home]]></title>
+            <description><![CDATA[Peanut the lurcher is nursed back to health after being found close to death on a country lane.]]></description>
+            <link>https://www.bbc.com/news/articles/c9845yg1pqeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9845yg1pqeo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 06:13:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a4/live/f08e0600-ee18-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Jam drummer Rick Buckler dies aged 69]]></title>
+            <description><![CDATA[Tributes pour in, with bandmate Bruce Foxton remembering him as a "good guy and a great drummer".]]></description>
+            <link>https://www.bbc.com/news/articles/c99n0p2x94vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99n0p2x94vo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 02:13:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa0/live/96c6dd90-ee59-11ef-97cf-e5ea0da41d43.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man fined for housing 18 people in three-bed home]]></title>
+            <description><![CDATA[Charles Egbiremolen operated eight bedsits without a licence in a converted three-bedroom house.]]></description>
+            <link>https://www.bbc.com/news/articles/cgm177x0j3mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgm177x0j3mo#1</guid>
+            <pubDate>Wed, 19 Feb 2025 06:12:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/268cc840-edec-11ef-b69a-69560a7e4afb.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Growing sinkhole's size revealed as reporters take closer look]]></title>
+            <description><![CDATA[The BBC has visited the town of Godstone, where a major incident has been declared after a huge sinkhole opened.]]></description>
+            <link>https://www.bbc.com/news/videos/cy87xe85ypjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy87xe85ypjo#2</guid>
+            <pubDate>Wed, 19 Feb 2025 18:08:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/095b8a40-eeff-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baftas 2025: Watch the big moments in 100 seconds]]></title>
+            <description><![CDATA[Papal drama Conclave and immigration epic The Brutalist came away as big winners on the British film industry's biggest night.]]></description>
+            <link>https://www.bbc.com/news/videos/crr0r5lqgr2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crr0r5lqgr2o#2</guid>
+            <pubDate>Sun, 16 Feb 2025 22:15:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb3/live/fef31e00-ecbb-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['See it, say it, sorted' - the voice of London's trains]]></title>
+            <description><![CDATA[Since 2011, Matthew Streeton's voice has been heard by millions of train passengers in London.]]></description>
+            <link>https://www.bbc.com/news/videos/cx24q8grdyzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx24q8grdyzo#2</guid>
+            <pubDate>Sun, 16 Feb 2025 08:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9b/live/f6afa7a0-eb07-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dancing in the street: Dozens perform Strip The Willow]]></title>
+            <description><![CDATA[About 100 people gathered for a mass ceilidh dance on the newly revamped Sauchiehall Street in Glasgow.]]></description>
+            <link>https://www.bbc.com/news/videos/c9vmw79mgyko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9vmw79mgyko#2</guid>
+            <pubDate>Sat, 15 Feb 2025 17:38:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f7/live/09ef8360-ebbe-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Shameful' Trump attack on Zelensky and 'Tearful Emma']]></title>
+            <description><![CDATA[Nearly all of Thursday's papers lead with one story - the deepening row between the US and Ukraine after Donald Trump's new remarks.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9nw8dl7g9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9nw8dl7g9o#3</guid>
+            <pubDate>Wed, 19 Feb 2025 23:40:12 GMT</pubDate>
+            <media:thumbnail width="240" height="141" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fae/live/07a0b8e0-ef15-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New graves mark lost generation in drugs-ravaged Scottish town]]></title>
+            <description><![CDATA[In just a year and a half, at least eight victims of drug misuse have been buried in Oban's Pennyfuir cemetery.]]></description>
+            <link>https://www.bbc.com/news/articles/c20pwd04zy4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20pwd04zy4o#3</guid>
+            <pubDate>Wed, 19 Feb 2025 21:59:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2290/live/4f8efbd0-ef1f-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learning to spacewalk underwater - NI's first astronaut prepares for take-off]]></title>
+            <description><![CDATA[Northern Ireland's first ever astronaut candidate says the space sector is "very much changing".]]></description>
+            <link>https://www.bbc.com/news/articles/c337nmlyxn2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c337nmlyxn2o#3</guid>
+            <pubDate>Wed, 19 Feb 2025 09:39:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d8c/live/45be1c70-eed0-11ef-a319-fb4e7360c4ec.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jonathan Bailey's new character 'Succession inspired']]></title>
+            <description><![CDATA[The Wicked actor has received mostly positive reviews from critics for portraying Shakespeare's Richard II.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgn28z2mx8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgn28z2mx8o#3</guid>
+            <pubDate>Wed, 19 Feb 2025 11:29:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3cf/live/417b7a70-eeb4-11ef-b768-7fded6d3f1bf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gay kiss 'furore' to domestic violence: How EastEnders shattered taboos]]></title>
+            <description><![CDATA[EastEnders stars and commentators reflect on times the soap tackled social taboos over 40 years.
+]]></description>
+            <link>https://www.bbc.com/news/articles/ce3n6rznz1qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3n6rznz1qo#3</guid>
+            <pubDate>Wed, 19 Feb 2025 01:43:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5689/live/06fa7340-eae2-11ef-aa2a-57e89910b8cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Councils to announce inflation-busting tax hikes]]></title>
+            <description><![CDATA[Edinburgh, Glasgow and Fife are among the local authorities expected to announce large levy increases.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2n3j4d3xlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2n3j4d3xlo#4</guid>
+            <pubDate>Wed, 19 Feb 2025 22:46:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af0/live/7de289c0-eee3-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb changed my life forever, survivor says]]></title>
+            <description><![CDATA[The final day of this phase of the inquiry into the 1998 bombing in Omagh, County Tyrone, concludes.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvepy2d69qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvepy2d69qo#4</guid>
+            <pubDate>Wed, 19 Feb 2025 16:17:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f593/live/232490c0-eecd-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents 'turn up TV when it rains' as kids fear floods]]></title>
+            <description><![CDATA[Children in towns that have repeatedly flooded are scared by the rain, a community worker says.]]></description>
+            <link>https://www.bbc.com/news/articles/cqly3gy93d0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqly3gy93d0o#4</guid>
+            <pubDate>Wed, 19 Feb 2025 23:00:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f884/live/48450ce0-eeb9-11ef-b016-3f382c6f5494.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge sinkhole swallows up more of Surrey street]]></title>
+            <description><![CDATA[A second sinkhole has appeared in the street, with a car teetering on the brink.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9nw4z5g9qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9nw4z5g9qo#4</guid>
+            <pubDate>Wed, 19 Feb 2025 20:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f3/live/001bacd0-ee9b-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+    </channel>
+</rss>
