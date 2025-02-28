@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 28 Feb 2025 00:15:23 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK-US trade deal could mean tariffs 'not necessary', says Trump]]></title>
+            <description><![CDATA[The US president says a trade deal could happen very quickly and avoid taxes on UK imports.]]></description>
+            <link>https://www.bbc.com/news/articles/c7988r3q1p2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7988r3q1p2o#0</guid>
+            <pubDate>Thu, 27 Feb 2025 23:32:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/ff048c30-f558-11ef-b7da-bf3b74fc6fee.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King invites Trump for 'unprecedented' second state visit]]></title>
+            <description><![CDATA[Keir Starmer hands the US president an invitation letter as the pair meet at the White House. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yxxpxe5qko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yxxpxe5qko#0</guid>
+            <pubDate>Thu, 27 Feb 2025 22:11:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f0/live/c813bce0-f545-11ef-8c03-7dfdbeeb2526.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump 'inclined' to back UK's Chagos Islands deal]]></title>
+            <description><![CDATA[The UK has offered Trump an effective veto on the deal because of its implications for US security.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yxxjr8v2vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yxxjr8v2vo#0</guid>
+            <pubDate>Thu, 27 Feb 2025 20:11:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a7/live/8eaf5ae0-f545-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC review finds 'serious flaws' over Gaza documentary]]></title>
+            <description><![CDATA[The documentary was pulled last week after it emerged its 13-year-old narrator was the son of a Hamas official.]]></description>
+            <link>https://www.bbc.com/news/articles/c07zz5937llo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07zz5937llo#0</guid>
+            <pubDate>Thu, 27 Feb 2025 21:26:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fbe/live/0dba7410-f540-11ef-8c03-7dfdbeeb2526.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Groomed girl was 'fixated on Hitler' before death]]></title>
+            <description><![CDATA[Rhianan Rudd was the UK's youngest female terror suspect before charges were dropped and she was found dead.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g77e57q17o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g77e57q17o#0</guid>
+            <pubDate>Thu, 27 Feb 2025 15:52:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/780e/live/afad0d80-f51f-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tate brothers arrive in US after Romania prosecutors lift travel ban]]></title>
+            <description><![CDATA[The pair, facing trial for human trafficking, had been banned from leaving Romania in recent years.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq222rqv4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq222rqv4po#0</guid>
+            <pubDate>Thu, 27 Feb 2025 21:19:11 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c7/live/e7d9e5a0-f53a-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman, 19, dies in suspected XL bully dog attack ]]></title>
+            <description><![CDATA[Two people are arrested as police investigate reports the dog was an XL bully.]]></description>
+            <link>https://www.bbc.com/news/articles/c86pp14j0dxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86pp14j0dxo#0</guid>
+            <pubDate>Thu, 27 Feb 2025 15:08:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa4/live/d98dd830-f508-11ef-8a81-19610c927464.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eggheads star Chris Hughes dies aged 77]]></title>
+            <description><![CDATA[The show paid tribute to the "great" quizzer, who also won Mastermind and Brain of Britain.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2009jgj58o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2009jgj58o#1</guid>
+            <pubDate>Thu, 27 Feb 2025 15:55:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e39/live/f9eaca40-f51f-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken jail buzzer a factor in inmate's suicide]]></title>
+            <description><![CDATA[A coroner raises concerns after an inmate died when his wife and police could not contact the prison.]]></description>
+            <link>https://www.bbc.com/news/articles/ce988dggl5go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce988dggl5go#1</guid>
+            <pubDate>Thu, 27 Feb 2025 19:15:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98da/live/e3f208a0-f530-11ef-a161-d137c0587442.png"/>
+        </item>
+        <item>
+            <title><![CDATA[UK asylum claims hit highest level since 1979]]></title>
+            <description><![CDATA[More than 108,000 people claimed asylum in the UK in 2024, according to new statistics. ]]></description>
+            <link>https://www.bbc.com/news/articles/c62zzxeeveeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62zzxeeveeo#1</guid>
+            <pubDate>Thu, 27 Feb 2025 14:53:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf4/live/71359190-f4ec-11ef-ae0a-4bca4f518eb0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP Mike Amesbury's jail term suspended on appeal]]></title>
+            <description><![CDATA[Cheshire MP Mike Amesbury, convicted of a street assault, was originally sent straight to jail.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8yy0116y8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8yy0116y8o#1</guid>
+            <pubDate>Thu, 27 Feb 2025 16:06:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ba/live/0ab2a360-f521-11ef-9339-81d4ea72d09f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gatwick second runway backed by government]]></title>
+            <description><![CDATA[Transport Secretary Heidi Alexander says she is "minded to approve" the expansion, which faces opposition.]]></description>
+            <link>https://www.bbc.com/news/articles/cqjdz9q170yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjdz9q170yo#1</guid>
+            <pubDate>Thu, 27 Feb 2025 17:41:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a953/live/2d80feb0-f4f8-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nurse left out of tea round given £41,000 payout]]></title>
+            <description><![CDATA[Susan Hamilton wins her case for unfair constructive dismissal against a south London NHS Trust.]]></description>
+            <link>https://www.bbc.com/news/articles/cqjdd7zx4plo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjdd7zx4plo#1</guid>
+            <pubDate>Thu, 27 Feb 2025 15:46:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dce8/live/808c14b0-f51f-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rob Burrow's wife: Prince William support 'overwhelming']]></title>
+            <description><![CDATA[The prince has written the foreword to a book by Lindsey Burrow, wife of the late rugby player Rob Burrow.]]></description>
+            <link>https://www.bbc.com/news/videos/cm2j1dp1ly3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cm2j1dp1ly3o#2</guid>
+            <pubDate>Wed, 26 Feb 2025 12:27:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfa/live/195874d0-f43b-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment £4.8m golden toilet taken from Blenheim Palace]]></title>
+            <description><![CDATA[The footage played in court showed armed hooded individuals breaking into the palace.]]></description>
+            <link>https://www.bbc.com/news/videos/cm2y7yrldx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cm2y7yrldx0o#2</guid>
+            <pubDate>Tue, 25 Feb 2025 15:56:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a735/live/daad5ed0-f390-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EastEnders star says wife not over the moon at Martin's exit]]></title>
+            <description><![CDATA[James Bye, aka Martin Fowler, came to a tragic end in the soap's special 40th anniversary live episode.]]></description>
+            <link>https://www.bbc.com/news/videos/cdelkw01k38o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdelkw01k38o#2</guid>
+            <pubDate>Mon, 24 Feb 2025 21:20:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fd/live/11d78120-f2f5-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Growing sinkhole's size revealed as reporters take closer look]]></title>
+            <description><![CDATA[The BBC has visited the town of Godstone, where a major incident has been declared after a huge sinkhole opened.]]></description>
+            <link>https://www.bbc.com/news/videos/cy87xe85ypjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy87xe85ypjo#2</guid>
+            <pubDate>Wed, 19 Feb 2025 18:08:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/095b8a40-eeff-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['See it, say it, sorted' - the voice of London's trains]]></title>
+            <description><![CDATA[Since 2011, Matthew Streeton's voice has been heard by millions of train passengers in London.]]></description>
+            <link>https://www.bbc.com/news/videos/cx24q8grdyzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx24q8grdyzo#2</guid>
+            <pubDate>Sun, 16 Feb 2025 08:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9b/live/f6afa7a0-eb07-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The island split over where to build a new high school]]></title>
+            <description><![CDATA[Argyll and Bute Council has shortlisted four options for the location of the new school.]]></description>
+            <link>https://www.bbc.com/news/articles/ce30nrnpwygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce30nrnpwygo#3</guid>
+            <pubDate>Thu, 27 Feb 2025 13:01:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5940/live/ecefd110-f4f1-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The papers: 'Charmer Starmer' with the 'Trump card']]></title>
+            <description><![CDATA[The prime minister's diplomatic efforts with Donald Trump in Washington dominate the papers on Friday.]]></description>
+            <link>https://www.bbc.com/news/articles/c99nnkgk3g9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99nnkgk3g9o#3</guid>
+            <pubDate>Thu, 27 Feb 2025 23:45:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6c/live/93505b70-f55f-11ef-9e61-71ee71f26eb1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[PC Mukherjee ready for 'quite insane' Oscars trip]]></title>
+            <description><![CDATA[Lauren Patel says she thought she "dreamt it" when her agent said she had been invited to Hollywood.]]></description>
+            <link>https://www.bbc.com/news/articles/c62k6qxwz1ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62k6qxwz1ko#3</guid>
+            <pubDate>Thu, 27 Feb 2025 06:36:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3787/live/548c6e40-f45d-11ef-ac82-1dbe36371215.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cousin marriage: What new evidence tells us about children's ill health]]></title>
+            <description><![CDATA[A major study has found first cousin-parentage may have wider consequences than previously thought.]]></description>
+            <link>https://www.bbc.com/news/articles/c241pn09qqjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c241pn09qqjo#3</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/881e/live/e969b7e0-f38e-11ef-896e-d7e7fb1719a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brain surgery took my childhood memories - will new op make me forget my fiance?]]></title>
+            <description><![CDATA[A devastating side effect made Weronkia Somerville lose 14 years of her life, and then she discovered she had to go through it again.]]></description>
+            <link>https://www.bbc.com/news/articles/c8rkj3rg1j2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8rkj3rg1j2o#3</guid>
+            <pubDate>Wed, 26 Feb 2025 06:01:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c51d/live/0cc46280-f407-11ef-b31f-733e25514154.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King invites Trump to Scotland to discuss state visit]]></title>
+            <description><![CDATA[Keir Starmer hands the US president an invitation letter as the pair meet at the White House. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yxxpxe5qko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yxxpxe5qko#4</guid>
+            <pubDate>Thu, 27 Feb 2025 22:11:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f0/live/c813bce0-f545-11ef-8c03-7dfdbeeb2526.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Police to remain at scene of 'incident' in Dungannon]]></title>
+            <description><![CDATA[A large part of a County Tyrone estate has been cordoned off after emergency services were called out.]]></description>
+            <link>https://www.bbc.com/news/articles/c0eggr9gg0go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0eggr9gg0go#4</guid>
+            <pubDate>Thu, 27 Feb 2025 22:50:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c01/live/d5cb4390-f558-11ef-b7da-bf3b74fc6fee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My hand twin made my new fingers when I lost them to sepsis']]></title>
+            <description><![CDATA[A creative solution was needed to make prosthetics for Louise Marshallsay who lost all eight fingers.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd3n9j9knro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd3n9j9knro#4</guid>
+            <pubDate>Thu, 27 Feb 2025 22:59:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d5/live/a929ea50-f3a3-11ef-9171-13a46257ded9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman, 19, dies in suspected XL bully dog attack ]]></title>
+            <description><![CDATA[Two people are arrested as police investigate reports the dog was an XL bully.]]></description>
+            <link>https://www.bbc.com/news/articles/c86pp14j0dxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86pp14j0dxo#4</guid>
+            <pubDate>Thu, 27 Feb 2025 15:08:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa4/live/d98dd830-f508-11ef-8a81-19610c927464.jpg"/>
+        </item>
+    </channel>
+</rss>
