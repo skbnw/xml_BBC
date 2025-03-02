@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Latin America]]></description>
+        <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 02 Mar 2025 16:04:08 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Haiti police raid gang leader's stronghold in capital]]></title>
+            <description><![CDATA[Officials say several gang members have been killed in a major police operation in Port-au-Prince.]]></description>
+            <link>https://www.bbc.com/news/articles/c78ejpvdlezo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78ejpvdlezo#0</guid>
+            <pubDate>Sun, 02 Mar 2025 05:04:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9c/live/e81d1d80-f719-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bus crash kills at least 37 in Bolivia]]></title>
+            <description><![CDATA[About 30 people were also injured after two buses collided early on Saturday, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g02qx349do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g02qx349do#0</guid>
+            <pubDate>Sat, 01 Mar 2025 16:42:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb8/live/6e7ee500-f6b8-11ef-9c6a-9b6bc9defc65.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notorious Mexican drug lord among 29 extradited to US]]></title>
+            <description><![CDATA[Rafael Caro Quintero arrived in New York late on Thursday and was escorted by FBI agents.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2995y25lyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2995y25lyo#0</guid>
+            <pubDate>Fri, 28 Feb 2025 07:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbeb/live/716a5060-f5a0-11ef-8fb0-67b44ba4a77d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump cancels oil deal in major blow to Venezuela]]></title>
+            <description><![CDATA[The US president said Venezuela had not lived up to its promises on taking back deported migrants.]]></description>
+            <link>https://www.bbc.com/news/articles/c62zzv02r3vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62zzv02r3vo#0</guid>
+            <pubDate>Thu, 27 Feb 2025 14:40:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fad/live/92d0e0f0-f50c-11ef-a276-596f7e6218f8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['In a scary world, he gives us hope': Faithful gather to support the Pope]]></title>
+            <description><![CDATA[The latest statement suggests that the 88-year-old is able to sit in his chair, eat normally and do what the Vatican calls "light work". ]]></description>
+            <link>https://www.bbc.com/news/articles/c0l11gr35gwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l11gr35gwo#0</guid>
+            <pubDate>Thu, 27 Feb 2025 05:12:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bf/live/18e5e1d0-f4c8-11ef-9c59-bfe78b9ccee3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration to require undocumented migrants to register]]></title>
+            <description><![CDATA[The Trump administration believes the announcement will encourage mass 'self deportations'.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4ymkl7294o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4ymkl7294o#0</guid>
+            <pubDate>Wed, 26 Feb 2025 17:33:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc3/live/735674c0-f4f7-11ef-a2a8-e1b826ae43ce.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chile power cut: 'We were trapped like sardines in the dark']]></title>
+            <description><![CDATA[Millions of people in Chile had their routines disrupted by an almost nationwide power cut.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w182z9868o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w182z9868o#0</guid>
+            <pubDate>Wed, 26 Feb 2025 14:37:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb34/live/9880f150-f446-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuelan opposition activist dies in jail]]></title>
+            <description><![CDATA[The politician was seized by masked men a day before Nicolás Maduro was sworn in for a third term. 
+]]></description>
+            <link>https://www.bbc.com/news/articles/c15qz4yl7ngo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15qz4yl7ngo#1</guid>
+            <pubDate>Tue, 25 Feb 2025 11:32:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3957/live/af637af0-f36a-11ef-a30e-87a8a95b0cd7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenyan police officer killed confronting gang members in Haiti]]></title>
+            <description><![CDATA[The officer is the first casualty suffered by the Kenyan-led Multinational Security Support mission.]]></description>
+            <link>https://www.bbc.com/news/articles/c62x3nyd6e4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62x3nyd6e4o#1</guid>
+            <pubDate>Mon, 24 Feb 2025 17:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c53/live/5cf92b50-f29f-11ef-a3b6-f159204ba42b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fog harvesting could provide water for arid cities]]></title>
+            <description><![CDATA[Research in Chile could help to provide drinking water for some of the world's most arid places.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgw3l7p79po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgw3l7p79po#1</guid>
+            <pubDate>Thu, 20 Feb 2025 05:13:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bab/live/6b33dce0-ef5e-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Help us': Hundreds deported from US held in Panama hotel]]></title>
+            <description><![CDATA[Indians, Afghans and Sri Lankans are among the undocumented migrants unable to leave the hotel after being deported.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rndygqll7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rndygqll7o#1</guid>
+            <pubDate>Wed, 19 Feb 2025 17:11:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab3b/live/d37da930-eef9-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From the Gulf of America to Fort Bragg, what's behind Trump's name changes?]]></title>
+            <description><![CDATA[Donald Trump's renaming of the Gulf of Mexico and other landmarks suggests his greater vision for America]]></description>
+            <link>https://www.bbc.com/news/articles/cwypzzey425o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwypzzey425o#1</guid>
+            <pubDate>Sun, 16 Feb 2025 08:01:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac27/live/b10ad470-ec3a-11ef-83fc-0fe2953cd67d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Erasing Escobar: Will Colombia ban the sale of memorabilia of the drug lord?]]></title>
+            <description><![CDATA[Politicians in the country want to prohibit the sale of such items, but they face opposition.]]></description>
+            <link>https://www.bbc.com/news/articles/cednp178dwdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cednp178dwdo#1</guid>
+            <pubDate>Thu, 13 Feb 2025 00:02:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0c/live/344c0260-e483-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested trying to smuggle cocaine under toupee]]></title>
+            <description><![CDATA[Suspect tried to smuggle more than €10,000 of cocaine from Cartagena to Amsterdam, Colombian authorities said.]]></description>
+            <link>https://www.bbc.com/news/videos/c98437zymjlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c98437zymjlo#2</guid>
+            <pubDate>Tue, 25 Feb 2025 02:49:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d526/live/80c71b10-f320-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment man vandalises ancient Incan artefact]]></title>
+            <description><![CDATA[Peruvian police released footage showing a suspect pounding Cusco's 12-Angle Stone.]]></description>
+            <link>https://www.bbc.com/news/videos/cn4yzywpy72o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn4yzywpy72o#2</guid>
+            <pubDate>Thu, 20 Feb 2025 10:51:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/e6a8db60-ef76-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peruvian policeman in capybara costume makes Valentine's drug bust]]></title>
+            <description><![CDATA[Video shows the moment police use fancy dress to carry out a drug raid in Lima, Peru.]]></description>
+            <link>https://www.bbc.com/news/videos/cjr8wexly4xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjr8wexly4xo#2</guid>
+            <pubDate>Fri, 14 Feb 2025 19:59:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb74/live/ae5a5d20-eb0b-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch moment man is swallowed by humpback whale]]></title>
+            <description><![CDATA[Dell Simancas captures the moment his son, Adrián, is swallowed and spat out by a humpback whale.]]></description>
+            <link>https://www.bbc.com/news/videos/c2k5e14vwx4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2k5e14vwx4o#2</guid>
+            <pubDate>Thu, 13 Feb 2025 20:08:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be11/live/a60cb0e0-ea44-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Workers rescued from window ledge as fire engulfs Rio clothing factory]]></title>
+            <description><![CDATA[At least 20 people have been injured after a factory making costumes for Carnival celebrations in Brazil caught fire.]]></description>
+            <link>https://www.bbc.com/news/videos/c3rwe3yy89no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3rwe3yy89no#2</guid>
+            <pubDate>Wed, 12 Feb 2025 17:02:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b71/live/fa1ce840-e962-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Verify: Why has Google Maps renamed the Gulf of Mexico?]]></title>
+            <description><![CDATA[The Gulf of Mexico has been renamed the Gulf of America on Google Maps in the US. BBC Verify explains why Google made the change.]]></description>
+            <link>https://www.bbc.com/news/videos/cy7gzk8d2r0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy7gzk8d2r0o#2</guid>
+            <pubDate>Tue, 11 Feb 2025 17:27:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef17/live/0137fa50-e89d-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+    </channel>
+</rss>
