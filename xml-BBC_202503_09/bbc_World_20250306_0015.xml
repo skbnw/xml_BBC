@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 06 Mar 2025 00:15:31 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US pauses intelligence sharing with Ukraine]]></title>
+            <description><![CDATA[It remains unclear if the pause on intelligence sharing is partial or complete, and how long it will remain in effect.]]></description>
+            <link>https://www.bbc.com/news/articles/cwygxvvrd8do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwygxvvrd8do#0</guid>
+            <pubDate>Wed, 05 Mar 2025 21:31:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d69/live/e4fbad40-fa0e-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump issues 'last warning' to Hamas as US confirms direct hostage talks]]></title>
+            <description><![CDATA[The president also appeared to threaten civilians in Gaza, saying they would be "dead" if they held hostages.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mwln4p87do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mwln4p87do#0</guid>
+            <pubDate>Wed, 05 Mar 2025 22:42:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f2/live/31ef7000-fa14-11ef-8b64-2b9fe698039d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza food prices spike after Israel halts aid deliveries]]></title>
+            <description><![CDATA[The UN says at least 80 community kitchens may run out of stock, and remaining food rations will soon run dry.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jpw5p5e6go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jpw5p5e6go#0</guid>
+            <pubDate>Wed, 05 Mar 2025 16:29:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1093/live/62855ca0-f903-11ef-b5c1-27f306935cb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China says it is ready for 'any type of war' with US]]></title>
+            <description><![CDATA[The comments come in response to US tariffs and as Beijing boosts defence spending by 7.2%.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gmd3g2nzqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gmd3g2nzqo#0</guid>
+            <pubDate>Wed, 05 Mar 2025 16:38:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c6/live/68e23460-f9d5-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope well-rested after respiratory failure, Vatican says]]></title>
+            <description><![CDATA[The Vatican said Pope Francis spent the night on "non-invasive mechanical ventilation".]]></description>
+            <link>https://www.bbc.com/news/articles/cly28dj107qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly28dj107qo#0</guid>
+            <pubDate>Wed, 05 Mar 2025 17:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c08/live/b2d423b0-f928-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man swallows stolen Tiffany earrings before police arrest him ]]></title>
+            <description><![CDATA[The man allegedly swallowed two pairs of earrings worth $769,500 (£597,000) hoping to avoid being charged with theft.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5dz556jl6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5dz556jl6o#0</guid>
+            <pubDate>Wed, 05 Mar 2025 19:39:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9caf/live/22af2ed0-f9f3-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay to pick 2026 World Cup final half-time acts]]></title>
+            <description><![CDATA[Coldplay will work alongside Fifa to decide a "set of artists" to perform a half-time show at the 2026 World Cup final. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cge1q41np7go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge1q41np7go#0</guid>
+            <pubDate>Wed, 05 Mar 2025 12:29:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e9/live/135ea250-f9c4-11ef-9e3a-ef9ebe93cf17.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria vows to destroy any remaining Assad-era chemical weapons]]></title>
+            <description><![CDATA[Asaad al-Shibani asks for the support of the global chemical weapons watchdog to "end to this painful legacy".]]></description>
+            <link>https://www.bbc.com/news/articles/cg70j91n811o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg70j91n811o#1</guid>
+            <pubDate>Wed, 05 Mar 2025 20:28:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8c/live/4f4b5c10-f9f4-11ef-9877-67fac07f10ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serbia's opposition under fire for smoke and flare protest in parliament]]></title>
+            <description><![CDATA[Police gather evidence against MPs who let off smoke bombs and flares in a protest over claims of corruption.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5z8deg27xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5z8deg27xo#1</guid>
+            <pubDate>Wed, 05 Mar 2025 19:45:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/c5b21940-f9f2-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine things about Lesotho - the country 'nobody has ever heard of']]></title>
+            <description><![CDATA[Lesotho is called the kingdom in the sky - it is the only country entirely above 1,000m.]]></description>
+            <link>https://www.bbc.com/news/articles/czdnv6gpezjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdnv6gpezjo#1</guid>
+            <pubDate>Wed, 05 Mar 2025 18:46:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd5/live/e60c2920-f9dd-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Many feared dead in Sudan after shelling hits crowded market]]></title>
+            <description><![CDATA[The market, in a camp for displaced people, was attacked for roughly two hours, a local official says.]]></description>
+            <link>https://www.bbc.com/news/articles/c1en05g83e6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1en05g83e6o#1</guid>
+            <pubDate>Wed, 05 Mar 2025 14:11:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c8/live/d52df5c0-f9c4-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Romanians on the march after arrest of far-right presidential favourite]]></title>
+            <description><![CDATA[Calin Georgescu is the frontrunner in the May vote, but he has not yet been able to register as a candidate.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d810xyvz9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d810xyvz9o#1</guid>
+            <pubDate>Wed, 05 Mar 2025 13:14:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/82582460-f94c-11ef-bfcf-31934e2c8848.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US and Israel reject Arab alternative to Trump's Gaza plan]]></title>
+            <description><![CDATA[They say the Arab League's proposal for post-war reconstruction fails to address realities in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7vd4pnxx3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7vd4pnxx3o#1</guid>
+            <pubDate>Wed, 05 Mar 2025 12:53:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d70c/live/093d6b50-f9bd-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China targets 5% growth as it reels from Trump tariffs]]></title>
+            <description><![CDATA[A key meeting has begun to revive China's lagging economy, which is now facing a trade war with the US.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x4vj8rj9wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x4vj8rj9wo#1</guid>
+            <pubDate>Wed, 05 Mar 2025 04:17:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b908/live/1a0c1b80-f96c-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian court orders release of Briton held without trial for years]]></title>
+            <description><![CDATA[Christian Michel has been held for six years in the high-profile AgustaWestland corruption case.]]></description>
+            <link>https://www.bbc.com/news/articles/crrdqp9y212o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrdqp9y212o#1</guid>
+            <pubDate>Wed, 05 Mar 2025 08:02:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9995/live/e9327760-f985-11ef-8040-9f598afd05a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What pausing US intelligence means for Ukraine's military operation]]></title>
+            <description><![CDATA[Without US intelligence, Ukraine will not be able to make such effective use of long-range Western weaponry, writes Paul Adams.]]></description>
+            <link>https://www.bbc.com/news/articles/cn52k5n5w24o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn52k5n5w24o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 19:50:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d780/live/d76b9ad0-f9f2-11ef-9877-67fac07f10ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky's conciliatory letter to Trump suggests he's out of options]]></title>
+            <description><![CDATA[The Ukrainian leader's climb-down on security guarantees may be because the US is the only place he can turn to, writes BBC Ukraine correspondent James Waterhouse.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gde1zj5pyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gde1zj5pyo#2</guid>
+            <pubDate>Wed, 05 Mar 2025 17:19:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1273/live/07bd52a0-f9cb-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I risked drowning to flee conscription by Congolese rebels']]></title>
+            <description><![CDATA[Thousands of Congolese are opting make a dangerous river crossing to get to safety in Burundi.]]></description>
+            <link>https://www.bbc.com/news/articles/c93k9476694o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93k9476694o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 00:12:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d94/live/429f7b40-f92c-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The region with more 'terror deaths' than rest of world combined]]></title>
+            <description><![CDATA[Africa's Sahel region accounts for more than half of terror-related killings, a new reports says.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8vyl3j5kko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8vyl3j5kko#2</guid>
+            <pubDate>Wed, 05 Mar 2025 05:51:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/507d/live/ed4a5c50-f471-11ef-aeb3-bb556fdec0fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Katya Adler: Fractured Europe seeks credible answers on Ukraine]]></title>
+            <description><![CDATA[Europe is scrambling to react to the relentless pace of change in Washington, but can it unite around a plan? ]]></description>
+            <link>https://www.bbc.com/news/articles/czxnekw9lyjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxnekw9lyjo#2</guid>
+            <pubDate>Wed, 05 Mar 2025 12:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0515/live/fa288080-f946-11ef-ab6a-cb409d79bd4e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six takeaways from Trump's big speech ]]></title>
+            <description><![CDATA[The president declares "America is back" as he spars with Democrats and gives a shout-out to Elon Musk.]]></description>
+            <link>https://www.bbc.com/news/articles/c981wj6n9l2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c981wj6n9l2o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 18:39:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424e/live/3a68e380-f9a4-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fact-checking Trump's address to Congress]]></title>
+            <description><![CDATA[BBC Verify has looked into several claims made by Trump during his speech to Congress.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3ylpd2n9no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3ylpd2n9no#2</guid>
+            <pubDate>Wed, 05 Mar 2025 10:14:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c65/live/633820b0-f999-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is Elissa Slotkin, the Democrat who responded to Trump's speech?]]></title>
+            <description><![CDATA[The newly elected Michigan senator accused the president of bringing chaos while failing to tackle the high prices Americans care about.]]></description>
+            <link>https://www.bbc.com/news/articles/c798egw3jz8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c798egw3jz8o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 05:51:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7906/live/464dcde0-f987-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Katya Adler: Fractured Europe seeks credible answers on Ukraine]]></title>
+            <description><![CDATA[Europe is scrambling to react to the relentless pace of change in Washington, but can it unite around a plan? ]]></description>
+            <link>https://www.bbc.com/news/articles/czxnekw9lyjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxnekw9lyjo#2</guid>
+            <pubDate>Wed, 05 Mar 2025 12:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0515/live/fa288080-f946-11ef-ab6a-cb409d79bd4e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young Republicans cheer Trump on from Texas watch party]]></title>
+            <description><![CDATA["He's already surpassed all expectations", Republicans say as they watch Trump's address to Congress.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2031zz370o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2031zz370o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 08:59:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fda/live/21afafe0-f995-11ef-ae5c-2f8723cb2041.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The revellers making Trinidad's carnival more sustainable]]></title>
+            <description><![CDATA[There are efforts under way to recycle and reuse more at what has been dubbed "the greatest show on Earth".]]></description>
+            <link>https://www.bbc.com/news/articles/ckgy421gmy2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgy421gmy2o#2</guid>
+            <pubDate>Tue, 04 Mar 2025 02:28:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ba/live/f11373f0-f82f-11ef-a8b4-b37546a32a57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['America is back': Watch highlights from Trump's speech]]></title>
+            <description><![CDATA[Trump touted many of his executive actions, praised Musk for his work with Doge and named a teenager a Secret Service agent.]]></description>
+            <link>https://www.bbc.com/news/videos/c0jg4vgyvx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0jg4vgyvx0o#3</guid>
+            <pubDate>Wed, 05 Mar 2025 04:42:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ff/live/62c0e620-f99f-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children evacuated from Gaza for medical treatment]]></title>
+            <description><![CDATA[The first of an estimated 2,000 Gazan children needing medical treatment arrive in Jordan.]]></description>
+            <link>https://www.bbc.com/news/videos/c1w0plzpqpqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1w0plzpqpqo#3</guid>
+            <pubDate>Wed, 05 Mar 2025 07:28:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d0d/live/5f574bc0-f993-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Stranded Nasa astronauts on what they will miss when they return to Earth]]></title>
+            <description><![CDATA[The crew on the International Space Station describe what they'll miss when they return to Earth.]]></description>
+            <link>https://www.bbc.com/news/videos/cn04zry1xljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn04zry1xljo#3</guid>
+            <pubDate>Tue, 04 Mar 2025 19:25:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26eb/live/de9be290-f92c-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What did we learn from Meghan's new Netflix show?]]></title>
+            <description><![CDATA[The BBC's Daniela Relph takes a look at the Duchess of Sussex's new lifestyle series, 'With love, Meghan'.]]></description>
+            <link>https://www.bbc.com/news/videos/c4gmdd98804o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gmdd98804o#3</guid>
+            <pubDate>Tue, 04 Mar 2025 16:10:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/552b/live/7156d870-f90e-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Chaos as MPs throw smoke grenades in Serbian Parliament]]></title>
+            <description><![CDATA[At least three people were injured when politicians clashed with security in a show of support for anti-government protestors.]]></description>
+            <link>https://www.bbc.com/news/videos/c798q33r9gjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c798q33r9gjo#3</guid>
+            <pubDate>Tue, 04 Mar 2025 12:21:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/a7fa0850-f8f2-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+    </channel>
+</rss>
