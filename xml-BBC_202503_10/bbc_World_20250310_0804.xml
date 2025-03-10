@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 10 Mar 2025 08:04:34 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Canada's next PM Mark Carney vows to win trade war with Trump]]></title>
+            <description><![CDATA[The 59-year-old political newcomer says he will keep tariffs on US imports "until the Americans show us respect".]]></description>
+            <link>https://www.bbc.com/news/articles/c36wkg47z1po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36wkg47z1po#0</guid>
+            <pubDate>Mon, 10 Mar 2025 03:13:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db9/live/00e22260-fd47-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carney talks tough on Trump threat - but can he reset relations?]]></title>
+            <description><![CDATA[Canada's next PM, who described the US as a "country we can no longer trust", will need to work with the US president.]]></description>
+            <link>https://www.bbc.com/news/articles/c39v779xpdno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39v779xpdno#0</guid>
+            <pubDate>Mon, 10 Mar 2025 02:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e2/live/a19f8bd0-fd55-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Romanian far-right presidential hopeful barred from poll rerun]]></title>
+            <description><![CDATA[Clashes erupt in Bucharest over the ban on Calin Georgescu, whose unexpected presidential election first-round win was annulled.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d8n140mpjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d8n140mpjo#0</guid>
+            <pubDate>Sun, 09 Mar 2025 23:35:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7acc/live/3f867a80-fd55-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US says Ukraine 'ready to move forward' on truce demand]]></title>
+            <description><![CDATA[Ukraine is under US pressure to accept a quick truce to end the war with Russia, with US-Ukrainian talks set to begin in Saudi Arabia.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9dp5rr2x9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9dp5rr2x9o#0</guid>
+            <pubDate>Mon, 10 Mar 2025 07:39:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfd/live/2621c2d0-fd81-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria leader vows to hunt down those responsible for bloodshed]]></title>
+            <description><![CDATA[The UK-based Syrian Observatory for Human Rights (SOHR) said 830 civilians had been killed. ]]></description>
+            <link>https://www.bbc.com/news/articles/crknjgrd3geo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crknjgrd3geo#0</guid>
+            <pubDate>Sun, 09 Mar 2025 21:06:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a10/live/faea2ce0-fcf6-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korean hackers cash out hundreds of millions from $1.5bn ByBit hack]]></title>
+            <description><![CDATA[Hackers from the infamous Lazarus Group are in a cat-and-mouse game to launder their stolen funds from the ByBit heist.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kgndwwd7lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kgndwwd7lo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 01:11:47 GMT</pubDate>
+            <media:thumbnail width="240" height="129" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29fa/live/8d521bb0-fb62-11ef-896e-d7e7fb1719a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Policeman convicted for viral torture video found dead in jail]]></title>
+            <description><![CDATA[The Thai officer nicknamed Joe Ferrari was serving a life sentence at a Bangkok prison.]]></description>
+            <link>https://www.bbc.com/news/articles/cx20py1lvz8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx20py1lvz8o#0</guid>
+            <pubDate>Mon, 10 Mar 2025 06:42:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/ab2d7a20-fd75-11ef-9d66-d36274d1d597.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel cuts off electricity supply to Gaza, minister says]]></title>
+            <description><![CDATA[Eli Cohen's announcement on Sunday came one week after Israel cut off all aid supplies to the territory. ]]></description>
+            <link>https://www.bbc.com/news/articles/c1w0l3q4zd0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w0l3q4zd0o#1</guid>
+            <pubDate>Sun, 09 Mar 2025 19:37:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdb5/live/3c994770-fd1a-11ef-be65-4b20d4c19f2a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pro-Palestinian student protester detained by US immigration officials, says lawyer]]></title>
+            <description><![CDATA[Mahmoud Khalil was at his college accommodation when immigration officials detained him, says his attorney.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q1pl1eldno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q1pl1eldno#1</guid>
+            <pubDate>Mon, 10 Mar 2025 03:07:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dfa/live/e1403fc0-fd2b-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says US economy in 'transition' as trade war escalates]]></title>
+            <description><![CDATA[New retaliatory tariffs from China targeting some US farm products came into effect on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cz61nn99eg1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz61nn99eg1o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 07:58:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1251/live/d7fca240-fd4a-11ef-a555-336cd2341958.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrians describe terror as Alawite families killed in their homes]]></title>
+            <description><![CDATA[Witnesses said the situation stabilised when security forces arrived following the violence.]]></description>
+            <link>https://www.bbc.com/news/articles/cx20p0pj931o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx20p0pj931o#1</guid>
+            <pubDate>Sun, 09 Mar 2025 16:27:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/64d724a0-fd10-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Musk and Rubio spar with Polish minister over Starlink in Ukraine]]></title>
+            <description><![CDATA[The three went back and forth in an exchange of posts on X over Starlink being cut off in Ukraine. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy87vg38dnpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy87vg38dnpo#1</guid>
+            <pubDate>Sun, 09 Mar 2025 21:40:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/8bad5450-fd2e-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[President's church donation sparks Kenyan clashes]]></title>
+            <description><![CDATA[Police fire tear gas to stop protesters occupying a church which had accepted William Ruto's donation.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x414kyl1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x414kyl1no#1</guid>
+            <pubDate>Sun, 09 Mar 2025 17:01:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239e/live/a758b290-fd00-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secret Service shoots armed man outside White House]]></title>
+            <description><![CDATA[President Donald Trump was not in the White House at the time. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4gdwde82ldo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gdwde82ldo#1</guid>
+            <pubDate>Sun, 09 Mar 2025 14:30:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113f/live/65e90cd0-fcef-11ef-b945-3d5d40c655bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran criticises 'bullying countries' after Trump letter for nuclear talks]]></title>
+            <description><![CDATA[Trump says he offered Iran a chance to negotiate on their nuclear programme or face military action.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2ed4qzp4do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2ed4qzp4do#1</guid>
+            <pubDate>Sun, 09 Mar 2025 09:56:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d9/live/79db5740-fcb6-11ef-8a32-176d1966f140.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DR Congo offers $5m bounties for rebel leaders]]></title>
+            <description><![CDATA[The M23 rebel group has seized large parts of the mineral-rich eastern DR Congo this year.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzkv7yl43o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzkv7yl43o#1</guid>
+            <pubDate>Sun, 09 Mar 2025 10:46:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f0/live/6a74e410-fccf-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Early summer could spell trouble for India's farms and factories]]></title>
+            <description><![CDATA[Across India anxiety is growing about the early onset of summer and its impact on the economy.]]></description>
+            <link>https://www.bbc.com/news/articles/czrnyde158po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrnyde158po#2</guid>
+            <pubDate>Mon, 10 Mar 2025 00:53:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9625/live/a49278a0-f9c9-11ef-9f72-45b1d71715b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carney talks tough on Trump threat - but can he reset relations?]]></title>
+            <description><![CDATA[Canada's next PM, who described the US as a "country we can no longer trust", will need to work with the US president.]]></description>
+            <link>https://www.bbc.com/news/articles/c39v779xpdno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39v779xpdno#2</guid>
+            <pubDate>Mon, 10 Mar 2025 02:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e2/live/a19f8bd0-fd55-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My best friend went to work - and was crushed to death by rubbish']]></title>
+            <description><![CDATA[Months after a deadly collapse, some seek compensation, saying Kiteezi dumpsite is still unsafe.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgepq6269vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgepq6269vo#2</guid>
+            <pubDate>Sun, 09 Mar 2025 03:59:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e79e/live/5826ac10-f399-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrant deported in chains: 'No-one will go to US illegally now']]></title>
+            <description><![CDATA[Indian deportee tells BBC about his risky journey and how Trump’s tactics are spreading fear. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gjjrzm54o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gjjrzm54o#2</guid>
+            <pubDate>Sun, 09 Mar 2025 00:20:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8726/live/0033b150-f912-11ef-b5c1-27f306935cb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not so demure any more: The rise of 'free the nipple' fashion]]></title>
+            <description><![CDATA[Stars like Charli XCX have made see-through outfits all the rage at big events, but not everyone's a fan.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gp06n0d8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp06n0d8eo#2</guid>
+            <pubDate>Sun, 09 Mar 2025 00:10:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d3/live/e4376250-fcc0-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump]]></title>
+            <description><![CDATA[Danes, who have been loyal allies of Washington, are blindsided by Trump's insistence on taking over Greenland.]]></description>
+            <link>https://www.bbc.com/news/articles/crmjewpkje9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmjewpkje9o#2</guid>
+            <pubDate>Sat, 08 Mar 2025 06:07:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/311b2730-fb60-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'monochrome' ]]></title>
+            <description><![CDATA[Images on the theme of "monochrome" sent in by our readers.]]></description>
+            <link>https://www.bbc.com/news/articles/c05m6lvj7z0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05m6lvj7z0o#2</guid>
+            <pubDate>Sun, 09 Mar 2025 02:13:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fa/live/581d12c0-fa76-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's rap rebel makes a comeback after battling addiction]]></title>
+            <description><![CDATA[Yo Yo Honey Singh, who transformed Indian hip-hop, has made a comeback after a long battle with drug abuse.]]></description>
+            <link>https://www.bbc.com/news/articles/czdn0zq7n0zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdn0zq7n0zo#2</guid>
+            <pubDate>Sun, 09 Mar 2025 01:18:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8d/live/da8cbb00-fb31-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghan women who fled Taliban to study abroad face imminent return after USAID cuts]]></title>
+            <description><![CDATA[US aid funding enabled the women to study in Oman - but their scholarships have been abruptly terminated.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4k25wlw21o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4k25wlw21o#2</guid>
+            <pubDate>Sat, 08 Mar 2025 08:31:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/8c83e9e0-fb9c-11ef-97b2-6d7c078a9aa0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Man survives being run over by train]]></title>
+            <description><![CDATA[Surveillance footage shows the man standing up and walking away after the incident in Lima.]]></description>
+            <link>https://www.bbc.com/news/videos/cq6yzll9j92o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cq6yzll9j92o#3</guid>
+            <pubDate>Sun, 09 Mar 2025 08:15:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf41/live/29f64bb0-fcd7-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: 'Worst is yet to come' as ex-cyclone nears Australia]]></title>
+            <description><![CDATA[The BBC's Katy Watson reports from the Gold Coast, as strong winds and heavy rains batter the region.]]></description>
+            <link>https://www.bbc.com/news/videos/crrdjk5yd7go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crrdjk5yd7go#3</guid>
+            <pubDate>Sat, 08 Mar 2025 09:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/334a/live/e805ba60-fbfa-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... the week after the Oval Office row]]></title>
+            <description><![CDATA[The BBC's Analysis Editor Ros Atkins takes a look at the situation on the ground in Ukraine.]]></description>
+            <link>https://www.bbc.com/news/videos/czrnp3387vdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czrnp3387vdo#3</guid>
+            <pubDate>Fri, 07 Mar 2025 17:12:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1686/live/df50e1e0-fb75-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: SpaceX rocket spins out of control in test flight failure]]></title>
+            <description><![CDATA[The eight Starship test flight from Elon Musk's private space company did result in another successful catch of the rocket booster.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yxk9yvyvko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yxk9yvyvko#3</guid>
+            <pubDate>Fri, 07 Mar 2025 00:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6329/live/e98e67d0-faea-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creator of viral AI Trump Gaza video warns of possible dangers]]></title>
+            <description><![CDATA[The video apparently satirising a proposal to "take over" the Gaza Strip was shared by the US president on social media.]]></description>
+            <link>https://www.bbc.com/news/videos/cdrxkm6r856o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdrxkm6r856o#3</guid>
+            <pubDate>Thu, 06 Mar 2025 23:46:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c0/live/add8c4d0-fad4-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+    </channel>
+</rss>
