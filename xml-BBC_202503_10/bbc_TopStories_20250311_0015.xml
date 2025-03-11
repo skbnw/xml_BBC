@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 11 Mar 2025 00:15:34 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fires still burning and one missing after tanker collision]]></title>
+            <description><![CDATA[The search for a missing crew member has ended after a ship hit an oil tanker in the North Sea.]]></description>
+            <link>https://www.bbc.com/news/articles/c9q4129reqgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q4129reqgo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 22:51:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6566/live/4b659440-fe03-11ef-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the oil tanker and cargo vessel collision]]></title>
+            <description><![CDATA[BBC Verify examines how a ship carrying a highly-toxic chemical hit a tanker in the North Sea transporting jet fuel.]]></description>
+            <link>https://www.bbc.com/news/videos/c70ej0rrj8xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c70ej0rrj8xo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 20:32:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f94/live/4db66ea0-fdee-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer says benefit system unfair and indefensible]]></title>
+            <description><![CDATA[Some Labour MPs urge ministers to tackle the "crisis of economic inactivity", while others oppose cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kgpyz3mmpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kgpyz3mmpo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 23:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c430/live/854bae90-fdf1-11ef-bcf0-8506d10d5ae9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubio says Ukraine partial ceasefire plan 'has promise' ahead of talks in Saudi Arabia]]></title>
+            <description><![CDATA[Russia has previously rejected a temporary ceasefire, calling it an attempt to buy time.]]></description>
+            <link>https://www.bbc.com/news/articles/cly4gldd5ljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4gldd5ljo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 23:53:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c937/live/9e3a22d0-fddb-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director]]></title>
+            <description><![CDATA[Social media company considered letting Beijing control content for access to its lucrative market, BBC told. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly820v99ppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly820v99ppo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 22:30:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/355c/live/da2d5260-fda1-11ef-8c03-7dfdbeeb2526.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bills to rise by 80p to fund discounts for homes near pylons]]></title>
+            <description><![CDATA[Households near new pylons are set to get up to £250 a year off their energy bills, under government plans.]]></description>
+            <link>https://www.bbc.com/news/articles/clyd49dxyxxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyd49dxyxxo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 18:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80c/live/418f8f80-fdda-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US stocks plunge as fears grow over economic slowdown]]></title>
+            <description><![CDATA[The Nasdaq sinks by 4.0% and there are heavy losses for tech stocks, as President Trump's tariffs fuel fears of a recession.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gdwgjkk1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gdwgjkk1no#0</guid>
+            <pubDate>Mon, 10 Mar 2025 22:24:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af35/live/a18326c0-fdf0-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian who made antisemitic posts charged with immigration offence]]></title>
+            <description><![CDATA[Mosab Abdulkarim Al-Gassas, aka Abu Wadee, is charged with knowingly arriving in the UK without leave.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0j9lpx994o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0j9lpx994o#0</guid>
+            <pubDate>Mon, 10 Mar 2025 23:53:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5da4/live/768c7ae0-fde9-11ef-90cc-c7013b5d326e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King and Kate return to annual Commonwealth service]]></title>
+            <description><![CDATA[The royals had not appeared together at the event for two years due to their treatments for cancer.]]></description>
+            <link>https://www.bbc.com/news/articles/c778zpmxk56o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c778zpmxk56o#0</guid>
+            <pubDate>Mon, 10 Mar 2025 19:16:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf8/live/18053720-fdce-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman, 40, killed in shooting named ]]></title>
+            <description><![CDATA[The 40-year-old died at the scene of the shooting in Rhondda Cynon Taf on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/cz61nv49872o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz61nv49872o#0</guid>
+            <pubDate>Mon, 10 Mar 2025 17:45:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3284/live/110193d0-fdc7-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US unveils new app for 'self-deportations' ]]></title>
+            <description><![CDATA[The Trump administration has told migrants to leave voluntarily or face harsher consequences. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7430kq7eyxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7430kq7eyxo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 21:28:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f8/live/693dc0c0-fdd9-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Noel Clarke says life 'smashed' by allegations]]></title>
+            <description><![CDATA[He is suing the Guardian's publisher over allegations of sexually inappropriate behaviour.]]></description>
+            <link>https://www.bbc.com/news/articles/c74kje402klo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74kje402klo#0</guid>
+            <pubDate>Mon, 10 Mar 2025 18:08:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f983/live/659e4950-fdcd-11ef-b206-a78918e84ff6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Sea tanker collision - what we know so far]]></title>
+            <description><![CDATA[One person is missing and jet fuel has leaked into the sea, raising fears about potential environmental damage.]]></description>
+            <link>https://www.bbc.com/news/articles/c62z9ee68y6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62z9ee68y6o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 22:58:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b853/live/d147c550-fdbe-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A key week for Ukraine's future - BBC's Kyiv correspondent explains why]]></title>
+            <description><![CDATA[Donald Trump believes Kyiv is now ready to "move forward" with a ceasefire with Russia. BBC News correspondent James Waterhouse explains what it means for Ukraine.]]></description>
+            <link>https://www.bbc.com/news/videos/c04zgkrgdq0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c04zgkrgdq0o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 13:43:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96d4/live/2a2732c0-fdb3-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada's new PM: The 'anti-Trump' numbers man who may force the UK to take a side]]></title>
+            <description><![CDATA[The incoming Canadian PM has made standing up to his US counterpart a big part of his campaign.]]></description>
+            <link>https://www.bbc.com/news/articles/c80y3m249z3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80y3m249z3o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 08:57:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816f/live/c8748a90-fd95-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Grief made me start hoarding - I slept in bed stacked with boxes']]></title>
+            <description><![CDATA[Jayne started to hoard to cope with the grief after her husband died, now she's getting help.]]></description>
+            <link>https://www.bbc.com/news/articles/c3vw33g2lxxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3vw33g2lxxo#1</guid>
+            <pubDate>Mon, 10 Mar 2025 17:21:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/050c/live/f6795010-fdb8-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enemies no more? How Russia's rhetoric about the US is changing]]></title>
+            <description><![CDATA[BBC Russia editor Steve Rosenberg explores how Moscow has warmed to Trump's America.]]></description>
+            <link>https://www.bbc.com/news/videos/c9wpv91dzx2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9wpv91dzx2o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 18:42:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e09/live/303165a0-fde0-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rooney and Fury to manage England at Soccer Aid]]></title>
+            <description><![CDATA[Former world heavyweight champion Tyson Fury will join Wayne Rooney as two of England's co-managers for Soccer Aid 2025.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c8e7yzxpy0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e7yzxpy0wo#3</guid>
+            <pubDate>Tue, 11 Mar 2025 00:01:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa3/live/76c70c80-fde1-11ef-9570-ad874ed54f71.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mike Amesbury to stand down as MP over assault conviction]]></title>
+            <description><![CDATA[Mike Amesbury says he "regrets" attacking Paul Fellows "every moment, every day".]]></description>
+            <link>https://www.bbc.com/news/articles/c62z9ell358o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62z9ell358o#3</guid>
+            <pubDate>Mon, 10 Mar 2025 19:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d93f/live/e2688420-fdd0-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inquiry into murder of MP David Amess rejected by home secretary]]></title>
+            <description><![CDATA[The family of Sir David Amess say the decision is "unacceptable" and "insulting".]]></description>
+            <link>https://www.bbc.com/news/articles/cy05k249ywwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy05k249ywwo#3</guid>
+            <pubDate>Mon, 10 Mar 2025 12:54:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf10/live/a659e750-fd9c-11ef-8c03-7dfdbeeb2526.png"/>
+        </item>
+        <item>
+            <title><![CDATA['They live in big fear': The BBC visits displaced Alawites in Lebanon]]></title>
+            <description><![CDATA[Thousands of Syrians have crossed into Lebanon from the provinces of Latakia and Tartus.
+]]></description>
+            <link>https://www.bbc.com/news/videos/crknlk5k42go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crknlk5k42go#3</guid>
+            <pubDate>Mon, 10 Mar 2025 21:15:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a5/live/fe9a9ac0-fdf3-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ontario says it will slap a 25% surcharge on US-bound electricity]]></title>
+            <description><![CDATA[The move is in retaliation to Trump's tariff threats on Canada, and is expected to raise energy costs for 1.5 million US homes.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yrpnr6kr2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yrpnr6kr2o#3</guid>
+            <pubDate>Mon, 10 Mar 2025 17:28:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc86/live/d86e3510-fdd4-11ef-8c3d-b7dcc7510cb1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Musk says X hit by 'cyber-attack' as thousands report outages]]></title>
+            <description><![CDATA[Platform outage monitor Downdetector said it had seen more than 350,000 reports of issues from US users on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/c62x5k44rl0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62x5k44rl0o#3</guid>
+            <pubDate>Mon, 10 Mar 2025 18:56:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59cc/live/b1100650-fdda-11ef-ab73-2916b85f325b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 80% of USAID programmes 'officially ending' ]]></title>
+            <description><![CDATA[Humanitarian organisations have warned that the end of USAID programmes is already impacting millions. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdx2401vn5ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx2401vn5ro#3</guid>
+            <pubDate>Mon, 10 Mar 2025 18:54:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbb/live/56f745a0-fdd2-11ef-b3db-63821ca2e84c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trade Wars - The return of Mark Carney]]></title>
+            <description><![CDATA[New Prime Minister of Canada vows to win trade war against President Trump.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kxcb0z</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kxcb0z#5</guid>
+            <pubDate>Mon, 10 Mar 2025 20:28:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Americanswers…on 5 Live! Is Trump worried about the US economy?]]></title>
+            <description><![CDATA[Americanswers…on 5 Live! Is Trump worried about the US economy?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kx7zty</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kx7zty#5</guid>
+            <pubDate>Mon, 10 Mar 2025 18:36:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jkbf3m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helen Fielding on the creation of Bridget Jones’s Diary]]></title>
+            <description><![CDATA[Helen Fielding tells the story of how Bridget Jones’s Diary came to be.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m000qrx4/being-bridget-jones?at_mid=HFNXUDL2EY&amp;at_campaign=Being_Bridget_Jones&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m000qrx4&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Being_Bridget_Jones&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m000qrx4/being-bridget-jones?at_mid=HFNXUDL2EY&amp;at_campaign=Being_Bridget_Jones&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m000qrx4&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Being_Bridget_Jones&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Fri, 14 Feb 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0915h9q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Some Man Utd players not good enough & overpaid']]></title>
+            <description><![CDATA[Some Manchester United players are "not good enough" and some are "overpaid", the club's co-owner Sir Jim Ratcliffe tells BBC sports editor Dan Roan.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c7571gng06wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7571gng06wo#7</guid>
+            <pubDate>Mon, 10 Mar 2025 19:17:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/640e/live/b69aa330-fdaa-11ef-9dc2-07adf4375293.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+            <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cy83j4m45pxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy83j4m45pxo#7</guid>
+            <pubDate>Mon, 10 Mar 2025 23:57:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5221/live/7ab57a60-fe05-11ef-a8b1-950887ddc6e5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Key 'annoyed' by perception of England under McCullum]]></title>
+            <description><![CDATA[Rob Key says he gets annoyed by the perception of Brendon McCullum's England teams as being carefree, but admits it is "our own fault". ]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c20dkly1zvgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c20dkly1zvgo#7</guid>
+            <pubDate>Mon, 10 Mar 2025 23:09:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2da/live/3a239b60-fdfd-11ef-8884-99ab2733d13c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rooney and Fury to manage England at Soccer Aid]]></title>
+            <description><![CDATA[Former world heavyweight champion Tyson Fury will join Wayne Rooney as two of England's co-managers for Soccer Aid 2025.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c8e7yzxpy0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e7yzxpy0wo#7</guid>
+            <pubDate>Tue, 11 Mar 2025 00:01:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa3/live/76c70c80-fde1-11ef-9570-ad874ed54f71.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City boss Taylor sacked five days before cup final]]></title>
+            <description><![CDATA[Manchester City sack head coach Gareth Taylor just five days before the Women's League Cup final.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cevx13kj0z9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevx13kj0z9o#7</guid>
+            <pubDate>Mon, 10 Mar 2025 17:46:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edd/live/89e707a0-fdfc-11ef-8884-99ab2733d13c.jpg"/>
+        </item>
+    </channel>
+</rss>
