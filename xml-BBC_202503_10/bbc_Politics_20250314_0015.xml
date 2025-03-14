@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Politics]]></description>
+        <link>https://www.bbc.co.uk/news/politics</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/politics</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Mar 2025 00:15:23 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS England to be axed as role returns to government control]]></title>
+            <description><![CDATA[The prime minister says the move will cut duplication and free up money for frontline services.]]></description>
+            <link>https://www.bbc.com/news/articles/c70w17dj258o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70w17dj258o#0</guid>
+            <pubDate>Thu, 13 Mar 2025 19:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1621/live/56848370-003f-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sentencing body to review 'two-tier' justice objections]]></title>
+            <description><![CDATA[New guidance issued to judges created a stand-off between the independent Sentencing Council and MoJ.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4nlpzwjggo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4nlpzwjggo#0</guid>
+            <pubDate>Thu, 13 Mar 2025 22:27:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e3/live/b8a530b0-0051-11f0-b477-a50b7b3e27ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mone accuses Covid inquiry of 'cover-up']]></title>
+            <description><![CDATA[She says husband Doug Barrowman and her are targets of a "politically motivated witch hunt".]]></description>
+            <link>https://www.bbc.com/news/articles/ce8mr2kz222o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8mr2kz222o#0</guid>
+            <pubDate>Thu, 13 Mar 2025 19:10:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40fb/live/2c74f250-002f-11f0-a94c-6986d2348378.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Starmer echoes Liz Truss on reform of government]]></title>
+            <description><![CDATA[Sir Keir's argument overlaps with the former PM's - that the proliferation of arm's length bodies slow down change.]]></description>
+            <link>https://www.bbc.com/news/articles/cgq9e4nx5d2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgq9e4nx5d2o#0</guid>
+            <pubDate>Thu, 13 Mar 2025 15:18:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833e/live/76a6d8c0-ffee-11ef-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonfire of the quangos? Keir Starmer pledges shake-up of regulators]]></title>
+            <description><![CDATA[The PM will pledge to slash the costs of regulation with an "active government" in a speech later. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm2y82rk4kpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2y82rk4kpo#0</guid>
+            <pubDate>Thu, 13 Mar 2025 11:39:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0284/live/5d94bc70-ffef-11ef-89b8-6f8a578323da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disability benefit cuts test loyalty of Labour MPs]]></title>
+            <description><![CDATA[Some are worried about the possibility of freezing payments for people with long-term conditions.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y45g3935no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y45g3935no#0</guid>
+            <pubDate>Wed, 12 Mar 2025 18:44:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34e9/live/e4ac9fa0-ffb0-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs scrap judge sign-off in assisted dying bill]]></title>
+            <description><![CDATA[Activists suggest replacing judges with a three-person panel featuring a senior legal figure.]]></description>
+            <link>https://www.bbc.com/news/articles/cly6gz9j3rno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6gz9j3rno#0</guid>
+            <pubDate>Wed, 12 Mar 2025 23:02:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ce/live/97951520-ff93-11ef-a4d1-15c1ab09a7ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer urged to protect disability benefit claimants]]></title>
+            <description><![CDATA[The government is identifying cuts to the welfare budget ahead of the Spring Statement, with the PM working to rally MPs to support the move.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g9ed0d5z0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9ed0d5z0o#1</guid>
+            <pubDate>Wed, 12 Mar 2025 13:48:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39d3/live/a5862000-ff72-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Treasury value for money unit targets asylum housing costs]]></title>
+            <description><![CDATA[Rachel Reeves set up the Office for Value for Money (OVfM) in October to "root out waste and inefficiency".]]></description>
+            <link>https://www.bbc.com/news/articles/c4g0pp3mz1wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0pp3mz1wo#1</guid>
+            <pubDate>Wed, 12 Mar 2025 11:47:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00be/live/4e70e4f0-feb2-11ef-8b2d-f5287aa3533b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer says 'all options on table' on US tariffs]]></title>
+            <description><![CDATA[Canada and the EU have announced retaliatory tariffs but UK will take a "pragmatic" approach, the prime minister said.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2r3md0j84o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2r3md0j84o#1</guid>
+            <pubDate>Wed, 12 Mar 2025 19:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f99/live/c076c120-ff41-11ef-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green scheme closure a 'shattering blow' to farms, says union]]></title>
+            <description><![CDATA[The government says it cannot accept any new applications for its key green farming funding scheme.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gp9lyx5xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gp9lyx5xo#1</guid>
+            <pubDate>Wed, 12 Mar 2025 13:27:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3150/live/69937b30-ff34-11ef-8bc4-0f1da5ca8de4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon to step down from Holyrood ]]></title>
+            <description><![CDATA[The ex-SNP leader says she will not seek re-election at the 2026 Scottish Parliament election.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg5j74ld9lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5j74ld9lo#1</guid>
+            <pubDate>Wed, 12 Mar 2025 13:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc6/live/1ec42040-ff49-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK helped Ukraine and US reach ceasefire deal - government sources]]></title>
+            <description><![CDATA[Sir Keir Starmer led European efforts to mend Trump-Zelensky relationship, UK government sources tell the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/ce34zg70exxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce34zg70exxo#1</guid>
+            <pubDate>Wed, 12 Mar 2025 10:19:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd2/live/1aa9aa40-ff2e-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indecent exposure ex-aide should quit - Streeting]]></title>
+            <description><![CDATA[The health secretary calls for his former aide to resign after the aide admitted indecent exposure.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynxyxl9e1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynxyxl9e1o#1</guid>
+            <pubDate>Wed, 12 Mar 2025 14:50:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c7/live/7a636cf0-002d-11f0-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disabled people must have a say in rail reforms, MP says]]></title>
+            <description><![CDATA[The transport committee chair urged the government "not to forget about disabled people" ahead of nationalisation.]]></description>
+            <link>https://www.bbc.com/articles/clyr1l97e0jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/articles/clyr1l97e0jo#1</guid>
+            <pubDate>Wed, 12 Mar 2025 23:12:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3227/live/7af28ed0-ff83-11ef-9b3a-d1ab77a618d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Worrying' number of teens lose disability benefits]]></title>
+            <description><![CDATA[More than 124,000 young people have had claims for adult disability benefits refused, the BBC finds.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgn1w1jvl9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgn1w1jvl9o#1</guid>
+            <pubDate>Wed, 12 Mar 2025 01:37:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e885/live/12bbfe40-f2b4-11ef-9220-d3ef6018353e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigate MP Rupert Lowe over alleged threats]]></title>
+            <description><![CDATA[The Great Yarmouth MP is accused of making "verbal threats" against Reform UK's chairman.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gm5dr95jqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gm5dr95jqo#1</guid>
+            <pubDate>Tue, 11 Mar 2025 13:40:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a591/live/76e5cdf0-fe77-11ef-a0d9-29ad7a7f0cf2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer says benefit system unfair and indefensible]]></title>
+            <description><![CDATA[Some Labour MPs urge ministers to tackle the "crisis of economic inactivity", while others oppose cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kgpyz3mmpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kgpyz3mmpo#1</guid>
+            <pubDate>Tue, 11 Mar 2025 13:27:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918b/live/53d8d5e0-fe46-11ef-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plan to make it easier for councils to seize land for housing]]></title>
+            <description><![CDATA[The measure is part of the Planning and Infrastructure Bill, which has been introduced to Parliament.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg18p812ggo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg18p812ggo#1</guid>
+            <pubDate>Tue, 11 Mar 2025 12:57:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d93/live/4f8c9eb0-fe71-11ef-865c-eda8f3ff6c3a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Government backs miscarriage bereavement leave]]></title>
+            <description><![CDATA[A group of MPs want workers to get the right to leave if they suffer a miscarriage before 24 weeks.]]></description>
+            <link>https://www.bbc.com/news/articles/clyjd18l0y3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyjd18l0y3o#1</guid>
+            <pubDate>Tue, 11 Mar 2025 17:57:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5d0/live/3b373030-feab-11ef-9051-130c2456886e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer tells ministers to avoid outsourcing decisions]]></title>
+            <description><![CDATA[The PM suggests ministers should take a more active role in delivering the government's priorities.]]></description>
+            <link>https://www.bbc.com/news/articles/cn891505zz8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn891505zz8o#1</guid>
+            <pubDate>Tue, 11 Mar 2025 22:36:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d91/live/8765e9b0-feba-11ef-ad0f-372b7fe3c45e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ministers scrap green heating plans for new homes]]></title>
+            <description><![CDATA[Acting net-zero secretary Gillian Martin told MSPs the legislation, drafted by the Scottish Greens, would "make people poorer."  ]]></description>
+            <link>https://www.bbc.com/news/articles/c3e40pe9185o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e40pe9185o#1</guid>
+            <pubDate>Wed, 12 Mar 2025 07:26:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c076/live/f8943ff0-feac-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bills to rise by 80p to fund discounts for homes near pylons]]></title>
+            <description><![CDATA[Households near new pylons are set to get up to £250 a year off their energy bills, under government plans.]]></description>
+            <link>https://www.bbc.com/news/articles/clyd49dxyxxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyd49dxyxxo#1</guid>
+            <pubDate>Mon, 10 Mar 2025 18:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80c/live/418f8f80-fdda-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mike Amesbury to stand down as MP over assault conviction]]></title>
+            <description><![CDATA[Mike Amesbury says he "regrets" attacking Paul Fellows "every moment, every day".]]></description>
+            <link>https://www.bbc.com/news/articles/c62z9ell358o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62z9ell358o#1</guid>
+            <pubDate>Mon, 10 Mar 2025 19:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d93f/live/e2688420-fdd0-11ef-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Gove denies trying to circumvent Dyson ventilator checks]]></title>
+            <description><![CDATA[Former cabinet minister says it would be ludicrous to suggest he tried to shortcut safety checks in the pandemic.]]></description>
+            <link>https://www.bbc.com/news/articles/czrnkv4rz5vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrnkv4rz5vo#1</guid>
+            <pubDate>Tue, 11 Mar 2025 12:29:20 GMT</pubDate>
+            <media:thumbnail width="240" height="161" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2e6/live/1bc91750-fe5a-11ef-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How will the latest Trump tariffs affect the UK?]]></title>
+            <description><![CDATA[How much will the UK be hit by US tariffs and what happens next?]]></description>
+            <link>https://www.bbc.com/news/articles/c99n7ex4vnko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99n7ex4vnko#2</guid>
+            <pubDate>Wed, 12 Mar 2025 16:13:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f83/live/db57be50-ff72-11ef-b50e-9d086302645f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sturgeon remains the biggest name in Scottish politics]]></title>
+            <description><![CDATA[Nicola Sturgeon's decision to stand down as an MSP was obvious but it still has the capacity to startle, says BBC Scotland political editor Glenn Campbell.]]></description>
+            <link>https://www.bbc.com/news/articles/cz03n04v1p3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz03n04v1p3o#2</guid>
+            <pubDate>Wed, 12 Mar 2025 14:22:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6150/live/4f27b8f0-ff4e-11ef-8d6c-67b817afd0fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What will be in the chancellor's Spring Statement?]]></title>
+            <description><![CDATA[Chancellor Rachel Reeves will give more detail about the government's plans for the economy.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qjn879lr4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qjn879lr4o#2</guid>
+            <pubDate>Sun, 09 Mar 2025 08:52:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/37d376b0-f2c1-11ef-9a3d-a9193161aa19.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How big is the welfare budget and where might cuts fall?]]></title>
+            <description><![CDATA[The Chancellor has earmarked "several billion pounds" in draft spending cuts to welfare.]]></description>
+            <link>https://www.bbc.com/news/articles/crewng29zgno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crewng29zgno#2</guid>
+            <pubDate>Wed, 05 Mar 2025 19:21:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f68/live/1545ec00-f9dc-11ef-896e-d7e7fb1719a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer praised for statesman role abroad but can he show 'same mojo' at home?]]></title>
+            <description><![CDATA[The PM seizes the spotlight as Trump upends the world order - but he faces serious challenges in the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvend06zmlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvend06zmlo#2</guid>
+            <pubDate>Sat, 08 Mar 2025 14:26:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1091/live/b9355400-fb75-11ef-8c03-7dfdbeeb2526.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Starmer finds subtle way to deal with Team Trump]]></title>
+            <description><![CDATA[The PM refrained from criticising JD Vance and chose to read out the names of fallen British soldiers.]]></description>
+            <link>https://www.bbc.com/news/articles/c62z82z8qr4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62z82z8qr4o#2</guid>
+            <pubDate>Wed, 05 Mar 2025 21:12:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb3/live/0338a420-f9e7-11ef-9e61-71ee71f26eb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France has a nuclear umbrella. Could its European allies fit under it?]]></title>
+            <description><![CDATA[President Macron has aired the idea that France's deterrence force could be used to defend of other European countries.]]></description>
+            <link>https://www.bbc.com/news/articles/c871e41751yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c871e41751yo#2</guid>
+            <pubDate>Thu, 06 Mar 2025 17:02:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a9/live/b76da5b0-faac-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mhairi Black - I was flailing in life until ADHD diagnosis]]></title>
+            <description><![CDATA[Following her decision to stand down, the SNP MP opens up on her mental health struggles at Westminster ahead of a new BBC documentary.]]></description>
+            <link>https://www.bbc.com/news/articles/crknngjpg26o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crknngjpg26o#2</guid>
+            <pubDate>Thu, 06 Mar 2025 19:57:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be08/live/438cb390-faaf-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Zeffman: Proposed cuts will trigger big political arguments]]></title>
+            <description><![CDATA[The briefing that Rachel Reeves will make large spending cuts this month is very significant.]]></description>
+            <link>https://www.bbc.com/news/articles/c9degwx4p4jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9degwx4p4jo#2</guid>
+            <pubDate>Wed, 05 Mar 2025 14:14:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa3/live/ce194950-faab-11ef-815c-cf37b1275dcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is stamp duty and how is it changing?]]></title>
+            <description><![CDATA[Home buyers in England and Northern Ireland will pay more stamp duty in April when thresholds rise.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-53319433#2</guid>
+            <pubDate>Thu, 06 Mar 2025 10:23:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38E2/production/_133726541_gettyimages-2155865141.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Zeffman: US aid pause raises stakes for Starmer]]></title>
+            <description><![CDATA[The prime minister will soon need evidence to show he can be a bridge between Trump and Ukraine.]]></description>
+            <link>https://www.bbc.com/news/articles/cn89663nqw0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn89663nqw0o#2</guid>
+            <pubDate>Tue, 04 Mar 2025 17:00:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04fb/live/2a07af20-f919-11ef-becb-07cbf84d799c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Was Starmer's summit enough to sway  Trump?]]></title>
+            <description><![CDATA[Europe stepping up is only half of the story and much depends on whether the US is willing to play its part. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn04551n6wpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn04551n6wpo#2</guid>
+            <pubDate>Sun, 02 Mar 2025 21:33:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb9/live/8acae3d0-f7ad-11ef-b95c-5969b6e5ad46.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: Any Starmer deal with Trump is all about avoiding tariffs]]></title>
+            <description><![CDATA[A deal to avoid further trade barriers appears very much on the cards, but challenges remain.]]></description>
+            <link>https://www.bbc.com/news/articles/cedll3282qzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedll3282qzo#2</guid>
+            <pubDate>Fri, 28 Feb 2025 14:11:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687c/live/11f68090-f5c3-11ef-97ab-abb74cabf06c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Starmer wins Trump over - but Ukraine uncertainty lingers]]></title>
+            <description><![CDATA[No 10 thinks the talks were a success but questions remain on defence, our political editor writes.]]></description>
+            <link>https://www.bbc.com/news/articles/c871120g92ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c871120g92ro#2</guid>
+            <pubDate>Fri, 28 Feb 2025 06:52:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a705/live/a5f2c780-f58d-11ef-aa8e-bb7a965ee4b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Decoding the PM's meeting with Donald Trump]]></title>
+            <description><![CDATA[The handshake, the jokes and diplomacy by flattery - analysing Starmer's first visit to the White House.]]></description>
+            <link>https://www.bbc.com/news/videos/c0rzzjq4vpvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0rzzjq4vpvo#2</guid>
+            <pubDate>Thu, 27 Feb 2025 23:16:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08de/live/fa0e23c0-f5ae-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key takeaways from Starmer's talks with Trump]]></title>
+            <description><![CDATA[A surprise letter from King Charles III to a possible trade deal - the key moments from Starmer's visit to the White House.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgee7rl24ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgee7rl24ro#2</guid>
+            <pubDate>Thu, 27 Feb 2025 22:22:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1508/live/54640ff0-f574-11ef-9e61-71ee71f26eb1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Did the White House help end the Tate brothers travel ban?]]></title>
+            <description><![CDATA[The release of Tate and his brother came after discussions between US and Romanian officials. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly22wdedqeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly22wdedqeo#2</guid>
+            <pubDate>Fri, 28 Feb 2025 01:16:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce18/live/95908110-f557-11ef-b7da-bf3b74fc6fee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK looks at Texas supermax prison for ideas to cut overcrowding]]></title>
+            <description><![CDATA[The government wants to adopt a scheme which encourages inmates to gain qualifications and take jobs.]]></description>
+            <link>https://www.bbc.com/news/articles/cr52399eqgqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr52399eqgqo#2</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/709a/live/7a475af0-f520-11ef-896e-d7e7fb1719a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Starmer upends Labour manifesto to confront Europe's new reality]]></title>
+            <description><![CDATA[Sir Keir Starmer's meeting with the US president comes at a pivotal moment for Europe, our political editor writes.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgdyqx1zy6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgdyqx1zy6o#2</guid>
+            <pubDate>Wed, 26 Feb 2025 00:13:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d3/live/39d85570-f3d4-11ef-8b5c-03afff36a6ac.jpg"/>
+        </item>
+    </channel>
+</rss>
