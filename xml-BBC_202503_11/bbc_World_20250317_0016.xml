@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 17 Mar 2025 00:16:36 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ten detained after North Macedonia nightclub fire kills 59]]></title>
+            <description><![CDATA[Pyrotechnics during a concert sparked the blaze, causing mass panic in the crowd.]]></description>
+            <link>https://www.bbc.com/news/articles/c70wdedp20wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70wdedp20wo#0</guid>
+            <pubDate>Sun, 16 Mar 2025 22:29:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89a6/live/d5fbc7c0-02b1-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fifty-three killed in US strikes on Yemen, Houthis say]]></title>
+            <description><![CDATA[The US said it launched a "decisive and powerful" wave of air strikes on Houthi targets on Saturday. ]]></description>
+            <link>https://www.bbc.com/news/articles/cedle6je601o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedle6je601o#0</guid>
+            <pubDate>Sun, 16 Mar 2025 23:34:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6205/live/5db662b0-02b7-11f0-afcc-6b260b0d373d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US deports hundreds of alleged Venezuelan gang members despite court order]]></title>
+            <description><![CDATA[El Salvador's president said 238 members of Tren de Aragua had been flown to the country's notorious mega-jail.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9yv1gnzyvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9yv1gnzyvo#0</guid>
+            <pubDate>Sun, 16 Mar 2025 21:39:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3465/live/53f1c740-0287-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tornadoes, wildfires and dust storms leave 37 dead and 'staggering' damage]]></title>
+            <description><![CDATA[The weather cut a swathe of destruction across an area of the country that is home to more than 100 million people.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gm6jjqzg2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gm6jjqzg2o#0</guid>
+            <pubDate>Sun, 16 Mar 2025 23:11:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d56c/live/fab98440-02ba-11f0-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British daughter of Gaza hostage says burying father 'incredibly meaningful']]></title>
+            <description><![CDATA[Sharone Lifschitz said it was important all families were reunited with their relatives, both dead and alive]]></description>
+            <link>https://www.bbc.com/news/articles/c5yrv2v4zg6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yrv2v4zg6o#0</guid>
+            <pubDate>Sun, 16 Mar 2025 20:54:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a45/live/82e735b0-02a7-11f0-994f-bf186844111c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump moves to close down Voice of America]]></title>
+            <description><![CDATA[More than 1,300 staff placed on administrative leave as White House accuses VOA of being anti-Trump, "radical" and "leftist".]]></description>
+            <link>https://www.bbc.com/news/articles/cvge4l109r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvge4l109r3o#0</guid>
+            <pubDate>Sun, 16 Mar 2025 23:28:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/77ae5820-0227-11f0-a266-535342915d40.png"/>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX capsule docks as astronauts prepare return after nine months]]></title>
+            <description><![CDATA[The pair are due to begin their long delayed journey back to Earth in coming days.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8y62jrwgwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8y62jrwgwo#0</guid>
+            <pubDate>Sun, 16 Mar 2025 06:38:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cb6/live/61a32420-0231-11f0-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Africa should not be 'bullied' by US in ambassador row, opposition says]]></title>
+            <description><![CDATA[The calls come after South Africa's ambassador in Washington was given 72 hours to leave the country.]]></description>
+            <link>https://www.bbc.com/news/articles/cge10nnynzlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge10nnynzlo#1</guid>
+            <pubDate>Sun, 16 Mar 2025 15:50:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a59/live/c9146750-0267-11f0-a565-714eb53f108a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fisherman rescued after 95 days adrift eating turtles]]></title>
+            <description><![CDATA[Maximo Napa Castro set off for what should have been a two-week trip on 7 December - but was only found on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cj92438d3xmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj92438d3xmo#1</guid>
+            <pubDate>Sun, 16 Mar 2025 15:10:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c60d/live/734788b0-0281-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serbia's largest-ever rally sees 325,000 protest against government]]></title>
+            <description><![CDATA[The collapse of a station canopy that killed 15 people has galvanised anger towards the government. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2g8v32q30o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2g8v32q30o#1</guid>
+            <pubDate>Sat, 15 Mar 2025 23:39:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd4/live/ea2eea00-01ef-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope seen for the first time since going to hospital]]></title>
+            <description><![CDATA[The pontiff has been recovering from pneumonia, after he was admitted last month.]]></description>
+            <link>https://www.bbc.com/news/articles/crrd17xp79zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrd17xp79zo#1</guid>
+            <pubDate>Sun, 16 Mar 2025 19:01:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca4/live/d84d3800-0294-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump and Putin to hold call on ceasefire deal soon, US envoy says]]></title>
+            <description><![CDATA[Steve Witkoff, who recently met Putin, says he expects the presidents to have a positive discussion.]]></description>
+            <link>https://www.bbc.com/news/articles/cz6170w5jj5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6170w5jj5o#1</guid>
+            <pubDate>Sun, 16 Mar 2025 18:54:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c8/live/59040ff0-0290-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK-led ad hoc alliance to help Ukraine may struggle to materialise]]></title>
+            <description><![CDATA[After a summit of Ukraine's allies, the PM's coalition is still a somewhat nebulous undertaking.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzgr5xgv6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzgr5xgv6o#2</guid>
+            <pubDate>Sat, 15 Mar 2025 16:41:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/9297eaa0-01c5-11f0-8c3d-b7dcc7510cb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How our noisy world is seriously damaging our health]]></title>
+            <description><![CDATA[The BBC's James Gallagher investigates the invisible killer all around us.]]></description>
+            <link>https://www.bbc.com/news/articles/crmjdm2m4yjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmjdm2m4yjo#2</guid>
+            <pubDate>Sun, 16 Mar 2025 00:03:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b8/live/78428040-ff52-11ef-8d6c-67b817afd0fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I was duped into leaving London for school in Ghana - but it saved me']]></title>
+            <description><![CDATA[Going to school in Ghana was like prison for Londoner Mark Wilberforce, but he feels it kept him from jail.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kg1ezyv5xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kg1ezyv5xo#2</guid>
+            <pubDate>Sun, 16 Mar 2025 00:11:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a8/live/c0204490-0071-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[They had a fairytale American childhood - but was radiation slowly killing them?]]></title>
+            <description><![CDATA[Campaigners in St Louis want support for those who claim to have become ill due to research into the atomic bomb.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e7011n03vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e7011n03vo#2</guid>
+            <pubDate>Sun, 16 Mar 2025 16:08:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b32/live/a0538dd0-01c9-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creativity or cultural invasion? A fashion show sparks a row in Kashmir]]></title>
+            <description><![CDATA[A fashion show in a snowy town has sparked a controversy in Indian-administered Kashmir.]]></description>
+            <link>https://www.bbc.com/news/articles/clynd24rnngo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clynd24rnngo#2</guid>
+            <pubDate>Sun, 16 Mar 2025 00:31:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f18c/live/fec3b1c0-0010-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ovens and bone fragments - BBC visits Mexican cartel 'extermination' site]]></title>
+            <description><![CDATA[The BBC's Will Grant visits the site believed to have been used by drug cartels to dispose of victims' remains.]]></description>
+            <link>https://www.bbc.com/news/articles/cly8gv7j5gyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly8gv7j5gyo#2</guid>
+            <pubDate>Sat, 15 Mar 2025 01:30:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac3/live/acf4a040-0180-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My sister died' - Nightclub survivors and relatives speak of grief]]></title>
+            <description><![CDATA[Survivors and relatives of those who died in a fire in North Macedonia speak of their grief.]]></description>
+            <link>https://www.bbc.com/news/videos/c20ld3wj0npo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c20ld3wj0npo#3</guid>
+            <pubDate>Sun, 16 Mar 2025 20:27:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc7f/live/6e647dd0-02ae-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fisherman reunites with brother after 95 days lost at sea]]></title>
+            <description><![CDATA[Maximo Napa said he had to resort to eating roaches, birds and turtles to survive.]]></description>
+            <link>https://www.bbc.com/news/videos/cx28wgpzlpeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx28wgpzlpeo#3</guid>
+            <pubDate>Sun, 16 Mar 2025 16:06:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c1d/live/aaf94060-027b-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Man films as tornado roars past his house]]></title>
+            <description><![CDATA[The roaring wind can be heard, as debris flies past the windows of the Mississippi property.]]></description>
+            <link>https://www.bbc.com/news/videos/c15qdqwdvd9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c15qdqwdvd9o#3</guid>
+            <pubDate>Sun, 16 Mar 2025 10:45:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a9/live/15db1050-0251-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Smiles and hugs as new crew arrives on ISS]]></title>
+            <description><![CDATA[A SpaceX capsule carrying a new crew has docked at ISS, paving the way for Butch Wilmore and Suni Williams to return to Earth.]]></description>
+            <link>https://www.bbc.com/news/videos/c07z0g4k3k5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c07z0g4k3k5o#3</guid>
+            <pubDate>Sun, 16 Mar 2025 08:38:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2578/live/bc209d40-023d-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tornadoes: Extreme weather leaves trail of destruction]]></title>
+            <description><![CDATA[At least 20 people have died after tornadoes and severe storms tore through central and southern states.]]></description>
+            <link>https://www.bbc.com/news/videos/ce8m252ye8mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce8m252ye8mo#3</guid>
+            <pubDate>Sat, 15 Mar 2025 22:24:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dafc/live/ea089a20-01eb-11f0-b50e-9d086302645f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How two astronauts were left in space for nine months]]></title>
+            <description><![CDATA[Suni Williams and Butch Wilmore have been left in space for nearly 10 months and now hope to come back ]]></description>
+            <link>https://www.bbc.com/news/videos/cvgw8lndg9zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgw8lndg9zo#3</guid>
+            <pubDate>Sat, 15 Mar 2025 14:54:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc8e/live/9d29d2b0-01a9-11f0-a8b1-950887ddc6e5.jpg"/>
+        </item>
+    </channel>
+</rss>
