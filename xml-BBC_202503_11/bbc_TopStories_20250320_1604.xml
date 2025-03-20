@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 20 Mar 2025 16:04:22 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reassurance, not peacekeeping: What Ukraine coalition force will and won't do]]></title>
+            <description><![CDATA[The force would focus on providing Ukraine with air cover to keep its skies safe and a naval presence in the Black Sea to encourage trade.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgz8jlxlk3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgz8jlxlk3o#0</guid>
+            <pubDate>Thu, 20 Mar 2025 12:25:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e16/live/5bcc1c40-0593-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates will go down gradually, says Bank]]></title>
+            <description><![CDATA[Borrowing costs had been widely expected to be left unchanged with inflation, predicted to go up in the coming months.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgz82838l8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgz82838l8o#0</guid>
+            <pubDate>Thu, 20 Mar 2025 15:02:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/293a/live/ee6aa0c0-0585-11f0-8b1c-4bf7984ce1c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spring equinox is UK's warmest day of year so far]]></title>
+            <description><![CDATA[First day of spring might see temperatures reach 20C]]></description>
+            <link>https://www.bbc.com/weather/articles/c5ymzqrn3q0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/c5ymzqrn3q0o#0</guid>
+            <pubDate>Thu, 20 Mar 2025 13:39:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2922/live/c6162b20-058b-11f0-a504-0b500df79877.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['You can smell the stench': Why rubbish is piling up on Birmingham streets]]></title>
+            <description><![CDATA[Refuse workers have been on strike for over a week, leading to bags of rubbish piling up across the city.
+
+]]></description>
+            <link>https://www.bbc.com/news/videos/cgm1degz3meo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgm1degz3meo#0</guid>
+            <pubDate>Thu, 20 Mar 2025 15:05:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a7/live/fb0f7130-0593-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man files complaint after ChatGPT falsely said he killed his children]]></title>
+            <description><![CDATA[The Norwegian man says the chatbot's maker OpenAI should be fined over the completely inaccurate information.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kgydkr516o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kgydkr516o#0</guid>
+            <pubDate>Thu, 20 Mar 2025 14:54:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c21/live/ab139c60-057f-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former gold medallist elected as first woman president of Olympic committee]]></title>
+            <description><![CDATA[Zimbabwe's sports minister Kirsty Coventry is elected as the new president of the International Olympic Committee after a vote in Greece.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cy4v91e3e1wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cy4v91e3e1wo#0</guid>
+            <pubDate>Thu, 20 Mar 2025 15:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/5d14a400-05a2-11f0-93be-cfe0eee45431.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Jordan, the flamboyant deal-maker of Formula 1, dies aged 76]]></title>
+            <description><![CDATA[Formula 1 team boss Eddie Jordan was a rogue who was sometimes loveable, sometimes dodgy, occasionally both at the same time.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c4gp474y92vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c4gp474y92vo#0</guid>
+            <pubDate>Thu, 20 Mar 2025 09:30:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/262a7950-056c-11f0-865d-a727aa74ac5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 85 killed in new Israeli Gaza strikes, Hamas-run health ministry says]]></title>
+            <description><![CDATA[Hamas fires rockets at Israel in response, as Israel resumes ground and air operations in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2dr7jd7mno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2dr7jd7mno#0</guid>
+            <pubDate>Thu, 20 Mar 2025 14:00:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a4/live/64248d10-058d-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch warns Tories local elections in May will be tough]]></title>
+            <description><![CDATA[The Tory leader admits the upcoming local elections will be "tough", in her party's campaign launch.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg5dpl1j4zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5dpl1j4zo#0</guid>
+            <pubDate>Thu, 20 Mar 2025 12:14:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551f/live/46384be0-0581-11f0-8b1c-4bf7984ce1c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exhaustingly awful or a vibrant retelling? Mixed reviews for Snow White remake]]></title>
+            <description><![CDATA[The reviews are in for Disney's live-action remake of Snow White and the Seven Dwarfs.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0jvdg1y82o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0jvdg1y82o#1</guid>
+            <pubDate>Thu, 20 Mar 2025 11:53:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c939/live/26226000-058d-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dead seabirds and molten pellets: the after-effects of the North Sea ship crash]]></title>
+            <description><![CDATA[A clean-up is under way, but residents fear plastic from the Solong cargo ship could harm wildlife.]]></description>
+            <link>https://www.bbc.com/news/articles/c15qy413wkwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15qy413wkwo#1</guid>
+            <pubDate>Thu, 20 Mar 2025 06:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58a/live/a02897a0-0576-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will we see Venus Williams on a tennis court again?]]></title>
+            <description><![CDATA[It is a year since Venus Williams played a match. Has the seven-time Grand Slam singles champion quietly retired?]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c62xgp6427yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c62xgp6427yo#1</guid>
+            <pubDate>Thu, 20 Mar 2025 07:34:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd9/live/53ec8c20-0571-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesla's challenges run deeper than 'toxic' controversy around Elon Musk]]></title>
+            <description><![CDATA[The company is still valued at more than 100 times its earnings - but it faces problems that experts say go beyond questions around its CEO]]></description>
+            <link>https://www.bbc.com/news/articles/cz61vwjel2zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz61vwjel2zo#1</guid>
+            <pubDate>Thu, 20 Mar 2025 00:05:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ab/live/a5c8b260-04c4-11f0-97d3-37df2b293ed1.png"/>
+        </item>
+        <item>
+            <title><![CDATA['The discrimination I face on public transport is inhumane' ]]></title>
+            <description><![CDATA[A report by parliament's cross-party-transport select committee says accessibility failings are "systematic" across all modes of transport.]]></description>
+            <link>https://www.bbc.com/news/articles/cd925n7qxnqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd925n7qxnqo#1</guid>
+            <pubDate>Thu, 20 Mar 2025 12:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d2/live/0447bcb0-0578-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How two friends found £3m treasure and ended up in jail]]></title>
+            <description><![CDATA[How recklessness and greed led the finders of one of Britain's rarest treasure troves to jail.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8rvnnmzkvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8rvnnmzkvo#1</guid>
+            <pubDate>Thu, 20 Mar 2025 06:11:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/64fba120-04a6-11f0-88b7-5556e7b55c5e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Young magistrates: 'People are shocked by my piercings and tattoos']]></title>
+            <description><![CDATA[Just 176 out of nearly 15,000 were in the youngest category in England and Wales according to the latest data]]></description>
+            <link>https://www.bbc.com/news/articles/cg4kp660l73o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4kp660l73o#1</guid>
+            <pubDate>Thu, 20 Mar 2025 10:57:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2806/live/59a66c10-04a1-11f0-b105-736ce33fe23a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finland named as happiest country for eighth year]]></title>
+            <description><![CDATA[Access to nature and a strong welfare system are cited as factors as Nordic nations dominate the rankings.]]></description>
+            <link>https://www.bbc.com/news/articles/cr72xep44kdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr72xep44kdo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 10:44:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/0083b370-0502-11f0-b431-0fbd1f5b70b2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William visits UK troops in Estonia on Russia border]]></title>
+            <description><![CDATA[The Prince of Wales is showing support for UK troops in a Nato operation to defend the Baltic states.]]></description>
+            <link>https://www.bbc.com/news/articles/cn48p2xy28zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn48p2xy28zo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 15:03:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c86/live/573c0cd0-0593-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Planning permissions for homes in England fall to record low]]></title>
+            <description><![CDATA[Just over 30,000 projects got the go ahead, the lowest yearly figure since records started in 1979.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cvgp51d7zy2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgp51d7zy2o#3</guid>
+            <pubDate>Thu, 20 Mar 2025 14:19:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38e/live/9cf0d1f0-0586-11f0-94d4-6f954f5dcfa3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Central London van crash victim was a beautiful soul, her family says]]></title>
+            <description><![CDATA[Aalia's family have paid tribute to her, calling her a "beautiful soul", after her death on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg5djgqp58o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5djgqp58o#3</guid>
+            <pubDate>Thu, 20 Mar 2025 15:37:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704c/live/a767ca10-058d-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Public data should not conflate sex and gender, review says]]></title>
+            <description><![CDATA[Author of government-ordered review says biological sex and gender have become distinct and should be recorded separately.]]></description>
+            <link>https://www.bbc.com/news/articles/cvge4jyz9dyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvge4jyz9dyo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 11:08:09 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f97/live/13928830-0578-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than a fifth of UK adults still not looking for work]]></title>
+            <description><![CDATA[Official figures come after controversial plans to cut sickness and disability benefits were announced this week.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrx4d37dnjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrx4d37dnjo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 12:57:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c1/live/79590690-0577-11f0-b672-5dfc6aa79db2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childcare costs fall for the first time in 15 years – but nurseries are worried]]></title>
+            <description><![CDATA[The Coram charity's survey shows annual nursery costs for a child under two in England have fallen. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8j0vrnrnmzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j0vrnrnmzo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 00:09:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bf1/live/dca40220-040c-11f0-a46e-fb58dd980ebf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Are Young Men in Crisis?]]></title>
+            <description><![CDATA[Gareth Southgate has said they are.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kz4shz</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kz4shz#5</guid>
+            <pubDate>Wed, 19 Mar 2025 17:54:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Donald Trump ready to defy the courts?]]></title>
+            <description><![CDATA[Or has he already done so?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kz4qqr</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kz4qqr#5</guid>
+            <pubDate>Wed, 19 Mar 2025 18:03:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could the US buy Greenland? If so, how?]]></title>
+            <description><![CDATA[Donald Trump says he wants the US to take over Greenland. Could it happen? If so, how?]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0028msr/is-greenland-for-sale?at_mid=TwC0wauGxI&amp;at_campaign=Is_Greenland_for_Sale&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0028msr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Is_Greenland_for_Sale&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0028msr/is-greenland-for-sale?at_mid=TwC0wauGxI&amp;at_campaign=Is_Greenland_for_Sale&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0028msr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Is_Greenland_for_Sale&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Thu, 06 Mar 2025 00:01:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab15/live/c1f67f50-044f-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coventry elected as IOC's first female president]]></title>
+            <description><![CDATA[Zimbabwe's sports minister Kirsty Coventry is elected as the new president of the International Olympic Committee after a vote in Greece.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cy4v91e3e1wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cy4v91e3e1wo#7</guid>
+            <pubDate>Thu, 20 Mar 2025 15:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/5d14a400-05a2-11f0-93be-cfe0eee45431.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England need hunger to win not fear to lose - Tuchel]]></title>
+            <description><![CDATA[England manager Thomas Tuchel says he wants the team to play with a "hunger to win" and not "a fear to lose" as he prepares for his first match in charge of the Three Lions on Friday.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czed9x3xwp5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czed9x3xwp5o#7</guid>
+            <pubDate>Thu, 20 Mar 2025 14:17:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/1b4549b0-059f-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The flamboyant deal-maker of Formula 1 - Eddie Jordan obituary]]></title>
+            <description><![CDATA[Formula 1 team boss Eddie Jordan was a rogue who was sometimes loveable, sometimes dodgy, occasionally both at the same time.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c4gp474y92vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c4gp474y92vo#7</guid>
+            <pubDate>Thu, 20 Mar 2025 09:30:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/262a7950-056c-11f0-865d-a727aa74ac5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sevens player Shekells on England bench for Six Nations opener]]></title>
+            <description><![CDATA[GB Sevens player Jade Shekells could make her XV-a-side debut for England on Sunday after being named on the bench against Italy.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cd65eq426g6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cd65eq426g6o#7</guid>
+            <pubDate>Thu, 20 Mar 2025 14:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad0/live/bcf87d40-058b-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A force of nature' - tribute to 'maverick' Jordan]]></title>
+            <description><![CDATA[BBC Sport's tribute to Eddie Jordan, the flamboyant deal-maker of Formula 1 who has died aged 76.]]></description>
+            <link>https://www.bbc.com/sport/formula1/videos/cqly1ggl1dwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/videos/cqly1ggl1dwo#7</guid>
+            <pubDate>Thu, 20 Mar 2025 14:11:32 GMT</pubDate>
+            <media:thumbnail width="240" height="156" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c3/live/a20f4510-058e-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tierney return gives Clarke 'a lot to think about' - watch live on BBC]]></title>
+            <description><![CDATA[The return of Kieran Tierney has given Scotland head coach Steve Clarke "a lot to think about" going into the Nations League play-off with Greece.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cdxqdy0rpgyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxqdy0rpgyo#7</guid>
+            <pubDate>Thu, 20 Mar 2025 07:55:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51a/live/d5fd3d00-0593-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is England's most exciting generation still to emerge?]]></title>
+            <description><![CDATA[Littered with talent from some of Europe's biggest clubs, England's Under-21 squad now has an estimated worth of more than £500m - so is it their most exciting group yet?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c99n20l95jgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99n20l95jgo#7</guid>
+            <pubDate>Wed, 19 Mar 2025 18:44:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f456/live/11b1cea0-04e6-11f0-b731-9dc089ce2232.jpg"/>
+        </item>
+    </channel>
+</rss>
