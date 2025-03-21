@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 21 Mar 2025 16:04:00 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Counter-terror police lead fire investigation]]></title>
+            <description><![CDATA[The Met says there is "currently no indication of foul play" but officers are keeping an open mind.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg5dg4p2l0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5dg4p2l0o#1</guid>
+            <pubDate>Fri, 21 Mar 2025 14:26:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2414/live/d9687510-064f-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happened and when will the airport reopen?]]></title>
+            <description><![CDATA[Flights around the world are facing disruption after a fire at a nearby substation caused a power outage at the airport.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jp1dg7g45o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jp1dg7g45o#1</guid>
+            <pubDate>Fri, 21 Mar 2025 15:28:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9c2/live/469264a0-0643-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are my rights if my flight is cancelled?]]></title>
+            <description><![CDATA[What are you entitled to if your flight is cancelled due to the fire that has led to the airport's closure?]]></description>
+            <link>https://www.bbc.com/news/articles/cwyde870y89o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyde870y89o#1</guid>
+            <pubDate>Fri, 21 Mar 2025 11:49:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962d/live/7fa23e00-0643-11f0-9772-ff798c71c39e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We don't know what's happening next - it's chaos']]></title>
+            <description><![CDATA[Travellers are grappling with cancelled flights and face days-long delays in some cases to get home.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gd5091x7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gd5091x7o#1</guid>
+            <pubDate>Fri, 21 Mar 2025 15:44:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f2a/live/b88a3120-0650-11f0-97d3-37df2b293ed1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Grounded planes and frustrated passengers - the scene at the airport]]></title>
+            <description><![CDATA[The BBC's Charlotte Gallagher reports from Heathrow Airport which is going to be closed all day.
+]]></description>
+            <link>https://www.bbc.com/news/videos/c0mw7v1011eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0mw7v1011eo#1</guid>
+            <pubDate>Fri, 21 Mar 2025 10:04:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907b/live/b4df8530-063b-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland fans stuck in Greece 'staying for a party']]></title>
+            <description><![CDATA[Flights from Edinburgh, Glasgow and Inverness to and from Heathrow have been grounded because of a substation fire.]]></description>
+            <link>https://www.bbc.com/news/articles/cly6e24q8glo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6e24q8glo#1</guid>
+            <pubDate>Fri, 21 Mar 2025 11:11:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b18b/live/5c8b6270-0634-11f0-9f16-1ba6f1332073.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sudan army recaptures presidential palace after two years of war]]></title>
+            <description><![CDATA[It follows days of heavy fighting as the army took control of areas previously held by a rival force.]]></description>
+            <link>https://www.bbc.com/news/articles/crmj0x8jr3wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmj0x8jr3wo#2</guid>
+            <pubDate>Fri, 21 Mar 2025 14:22:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ac/live/e9a98670-065a-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Officers investigated for misconduct over murdered woman's domestic abuse report]]></title>
+            <description><![CDATA[Police believe the 24-year-old's husband killed her and has fled the country.]]></description>
+            <link>https://www.bbc.com/news/articles/c93n4lx590do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93n4lx590do#2</guid>
+            <pubDate>Fri, 21 Mar 2025 13:17:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2d/live/03b1e670-0656-11f0-a36a-5754f8f333df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk meets defence officials in Pentagon visit]]></title>
+            <description><![CDATA[The White House denied media reports that he would receive a briefing on classified reports about China. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0mw7wr0gp9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mw7wr0gp9o#2</guid>
+            <pubDate>Fri, 21 Mar 2025 14:49:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6e3/live/59824480-065d-11f0-8c34-4f174fb5fd08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel orders army to 'seize additional territories' in Gaza]]></title>
+            <description><![CDATA[The defence minister says the IDF will increase the intensity of its operation in Gaza until Hamas releases hostages.]]></description>
+            <link>https://www.bbc.com/news/articles/clyj5vq4wnwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyj5vq4wnwo#2</guid>
+            <pubDate>Fri, 21 Mar 2025 12:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfc/live/04fed6d0-066c-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Chubby filter' pulled from TikTok after user backlash]]></title>
+            <description><![CDATA[Critics say the AI tool - which made people look overweight - was a form of body-shaming.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gmvjvv6vjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gmvjvv6vjo#2</guid>
+            <pubDate>Fri, 21 Mar 2025 14:00:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fb/live/edb18ce0-0628-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thomas Tuchel's England tactics: How might German's Three Lions play?]]></title>
+            <description><![CDATA[Before Thomas Tuchel's first game as England boss, BBC Sport tries to unpick - and predict - how his Three Lions side might play.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c70wyz48y07o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70wyz48y07o#3</guid>
+            <pubDate>Fri, 21 Mar 2025 06:26:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c358/live/ae6a6ef0-04c3-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia's next move? The countries trying to Putin-proof themselves]]></title>
+            <description><![CDATA[The countries on Nato's eastern flank are preparing for the possibility of being targeted by Russia]]></description>
+            <link>https://www.bbc.com/news/articles/ceqjd11l55wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqjd11l55wo#3</guid>
+            <pubDate>Thu, 20 Mar 2025 17:02:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa7d/live/7a2b87e0-056e-11f0-94d4-6f954f5dcfa3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's move to dismantle education department was a conservative dream for decades]]></title>
+            <description><![CDATA[Conservatives in the US have long argued that control over education should lie with the states.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg80x2rw58o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg80x2rw58o#3</guid>
+            <pubDate>Thu, 20 Mar 2025 22:09:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b107/live/def86c80-0648-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The gravedigger 'too busy to sleep' as Khartoum fighting rages]]></title>
+            <description><![CDATA[The smell of death lingers over the main cemetery for Sudan's capital as the army advances in the city centre.]]></description>
+            <link>https://www.bbc.com/news/articles/cx293dxpp1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx293dxpp1no#3</guid>
+            <pubDate>Fri, 21 Mar 2025 06:52:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3898/live/a6a25430-05ae-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly quiz: What did a US influencer do that caused outrage in Australia?]]></title>
+            <description><![CDATA[How much attention did you pay to what else has been going on in the world over the past seven days?]]></description>
+            <link>https://www.bbc.com/news/articles/c0egy5wr74go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0egy5wr74go#3</guid>
+            <pubDate>Thu, 20 Mar 2025 18:52:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b25/live/1ea77580-0665-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government borrowing higher than expected as pressure builds on Reeves]]></title>
+            <description><![CDATA[The latest figures for the UK economy add pressure on Chancellor Rachel Reeves ahead of her Spring Statement next week.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jglw54yvyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jglw54yvyo#5</guid>
+            <pubDate>Fri, 21 Mar 2025 10:19:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eab/live/e451e8a0-0657-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broadcasters fined £4m for freelance pay collusion]]></title>
+            <description><![CDATA[The UK competition regulator says the BBC, BT, IMG and ITV illegally shared information about fees.]]></description>
+            <link>https://www.bbc.com/news/articles/ce34q1792d0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce34q1792d0o#5</guid>
+            <pubDate>Fri, 21 Mar 2025 10:45:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f290/live/99048810-0640-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Island star wins dangerous dog appeal case]]></title>
+            <description><![CDATA[After Jack Fincham's dog Elvis attacked two people, he wins an appeal against his jail sentence.]]></description>
+            <link>https://www.bbc.com/news/articles/c9q49j0500zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q49j0500zo#5</guid>
+            <pubDate>Fri, 21 Mar 2025 13:37:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/e4db03e0-0659-11f0-ae79-2d2319d7b1b3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Police hunt woman suspected of cutting phone cables]]></title>
+            <description><![CDATA[Openreach cables have been cut on 19 occasions, leaving residents without phone and internet access.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ge4l37knjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ge4l37knjo#5</guid>
+            <pubDate>Fri, 21 Mar 2025 14:35:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6706/live/a0e5e260-0661-11f0-8c34-4f174fb5fd08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man guilty of murdering and  dismembering housemate]]></title>
+            <description><![CDATA[Marcin Majerkiewicz, 42, killed Stuart Everett and then cut his body up into 27 pieces.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgzdv8vm30o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzdv8vm30o#5</guid>
+            <pubDate>Fri, 21 Mar 2025 13:36:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74e/live/a9e59c40-0646-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Abercrombie boss now facing abuse claims from 40 men]]></title>
+            <description><![CDATA[The new claims stretch back to the 1990s and alleged victims now include former A&F employees, lawyers say.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8vmy56yero</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8vmy56yero#5</guid>
+            <pubDate>Fri, 21 Mar 2025 06:27:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/99b30d50-04dc-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cocaine being dropped at sea for UK drug gangs to collect]]></title>
+            <description><![CDATA[South American drug gangs are smuggling large amounts of cocaine into the UK in waterproof parcels fitted with trackers.]]></description>
+            <link>https://www.bbc.com/news/articles/crknvr0nyp2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crknvr0nyp2o#5</guid>
+            <pubDate>Fri, 21 Mar 2025 06:32:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c956/live/86405c10-0576-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Week: Defence Spending, Benefit Cuts and The Spring Statement]]></title>
+            <description><![CDATA[James and Chris are joined by Lucy Fisher and Stephanie Flanders to discuss the week.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kzktw0</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kzktw0#7</guid>
+            <pubDate>Fri, 21 Mar 2025 11:49:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Donald Trump ready to defy the courts?]]></title>
+            <description><![CDATA[Or has he already done so?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kz4qqr</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kz4qqr#7</guid>
+            <pubDate>Wed, 19 Mar 2025 18:03:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton 'gobsmacked' by Ferrari speed in China after sprint pole]]></title>
+            <description><![CDATA[Lewis Hamilton says he is "gobsmacked" to take his first pole position for Ferrari for the sprint race at the Chinese Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/ceqjell0qpdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/ceqjell0qpdo#9</guid>
+            <pubDate>Fri, 21 Mar 2025 10:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/519b/live/714afe70-063c-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB's Azu sprints to 60m World Indoor gold for first global title]]></title>
+            <description><![CDATA[Great Britain's Jeremiah Azu sprints to 60m gold at the World Athletics Indoor Championships to secure the first global title of his career.]]></description>
+            <link>https://www.bbc.com/sport/athletics/articles/crew4z3jpp4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/articles/crew4z3jpp4o#9</guid>
+            <pubDate>Fri, 21 Mar 2025 15:29:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5d/live/9ce90f10-065d-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What next for England after Lewis' sacking?]]></title>
+            <description><![CDATA[Jon Lewis has been sacked from his role as England women's head coach - what comes next for England as the summer and a vital World Cup approaches?]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/czxn2w40045o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/czxn2w40045o#9</guid>
+            <pubDate>Fri, 21 Mar 2025 14:32:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e6/live/a6e03690-03f8-11f0-8a51-4d8cc989fef0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno 'can't wait to get back to work' after illness]]></title>
+            <description><![CDATA[Former world heavyweight boxing champion Frank Bruno says he "can't wait to get back to work" after falling ill on a plane.]]></description>
+            <link>https://www.bbc.com/sport/boxing/articles/c0mw7v7n2r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c0mw7v7n2r3o#9</guid>
+            <pubDate>Fri, 21 Mar 2025 11:19:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df1/live/e97afe60-0644-11f0-9772-ff798c71c39e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Groundbreaking but controversial - new IOC president Coventry]]></title>
+            <description><![CDATA[Kirsty Coventry will become the 10th International Olympic Committee (IOC) president but why is she both a groundbreaking and controversial choice?
+]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cgm1kvkner0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cgm1kvkner0o#9</guid>
+            <pubDate>Fri, 21 Mar 2025 09:40:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed2/live/ebf4f250-0634-11f0-9f16-1ba6f1332073.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wolves forward Cunha fined & banned for extra game]]></title>
+            <description><![CDATA[Wolves forward Matheus Cunha is given a further one-match ban and a £50,000 fine for his red card in the FA Cup defeat at Bournemouth.
+
+]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c20l4ljxjdlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20l4ljxjdlo#9</guid>
+            <pubDate>Fri, 21 Mar 2025 14:34:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d260/live/ea8d1660-065f-11f0-8c34-4f174fb5fd08.jpg"/>
+        </item>
+    </channel>
+</rss>
