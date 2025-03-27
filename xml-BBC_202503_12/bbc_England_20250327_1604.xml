@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 27 Mar 2025 16:05:24 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Man who died from sepsis 'not treated urgently']]></title>
+            <description><![CDATA[William Hewes died after his meningitis, caused by a meningococcal infection, developed into sepsis.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyg0844q1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyg0844q1jo#0</guid>
+            <pubDate>Thu, 27 Mar 2025 15:56:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aba/live/f4588d10-0b18-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angela codeword safety scheme 'must be implemented properly']]></title>
+            <description><![CDATA[Angela Crompton's daughter has been speaking to the BBC about her life and the campaign in her name.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6v1e224x0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6v1e224x0o#0</guid>
+            <pubDate>Thu, 27 Mar 2025 11:22:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7554/live/92e9a370-0ae1-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of jobs at risk as British Steel threatens closure]]></title>
+            <description><![CDATA[The company announces a consultation that could see the closure of two blast furnaces at Scunthorpe.]]></description>
+            <link>https://www.bbc.com/news/articles/cjryeqrnldvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjryeqrnldvo#0</guid>
+            <pubDate>Thu, 27 Mar 2025 15:27:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d6/live/63f5efd0-0b1b-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[House hit by debris from plane on navy exercise]]></title>
+            <description><![CDATA[The plane was towing a target as a part of a military operation involving the Royal Navy.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4vjwlgg0jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4vjwlgg0jo#0</guid>
+            <pubDate>Thu, 27 Mar 2025 14:54:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03cd/live/5357a9a0-0b18-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake £4m Xanax drug gang boss jailed]]></title>
+            <description><![CDATA[The gang, managed from Thailand, produced 11 million pills in the West Midlands to be sold online.]]></description>
+            <link>https://www.bbc.com/news/articles/cd65dx5dq90o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd65dx5dq90o#0</guid>
+            <pubDate>Thu, 27 Mar 2025 15:59:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03cf/live/a7eb5a30-0978-11f0-8c19-810852503a69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Toxic police boys' club' left PC losing her hair]]></title>
+            <description><![CDATA[A misconduct hearing hears how Officer H was called "fat and ugly" and told she had "elephant legs".]]></description>
+            <link>https://www.bbc.com/news/articles/cg5drgzr1j2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5drgzr1j2o#0</guid>
+            <pubDate>Thu, 27 Mar 2025 10:55:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74c/live/82b1c790-a1e0-11ef-ac1b-fdcb0e142fda.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School bans smartphones during pupils' first year]]></title>
+            <description><![CDATA[Ringwood School says smartphones are linked to mental health issues, poor sleep and a lack of focus.]]></description>
+            <link>https://www.bbc.com/news/articles/c99ne5k3v8po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99ne5k3v8po#0</guid>
+            <pubDate>Thu, 27 Mar 2025 12:49:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc38/live/1365e060-0afe-11f0-93c7-431cc016c489.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anger as driver who injured boy may be released after weeks]]></title>
+            <description><![CDATA[The family of Carlos, who was left with life-changing injuries, call for tougher sentences.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w1v343dp8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w1v343dp8o#1</guid>
+            <pubDate>Thu, 27 Mar 2025 08:22:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a30/live/01378790-0a3b-11f0-80d5-ff7a1f4f7e48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh talks aim to end long-running bin strike]]></title>
+            <description><![CDATA[Discussions are due to take place between Birmingham City Council and the union, Unite, on Thursday.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgzrp0j848o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzrp0j848o#1</guid>
+            <pubDate>Thu, 27 Mar 2025 13:02:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4181/live/f9363000-0b07-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder arrest over 'road rage' van death]]></title>
+            <description><![CDATA[A man is arrested on suspicion of murder after a 50-year-old was hit by a van and died in Oldham.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgw28yy28xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgw28yy28xo#1</guid>
+            <pubDate>Thu, 27 Mar 2025 11:28:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1096/live/837646b0-0af4-11f0-bf59-3b6bbdd820ea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronan's Law ninja sword ban welcomed by family]]></title>
+            <description><![CDATA[A law is introduced in memory of Ronan Kanda who was killed by boys who bought swords and a machete.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mwdj0jd7ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mwdj0jd7ro#1</guid>
+            <pubDate>Thu, 27 Mar 2025 11:22:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3900/live/3cd3b540-0af8-11f0-b437-c5470cc1e692.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Detectorist's medieval ring find fetches £19,000]]></title>
+            <description><![CDATA[The retired firefighter plans to take a holiday with the cash from the sale.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g0nrn4p34o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0nrn4p34o#1</guid>
+            <pubDate>Thu, 27 Mar 2025 10:28:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0551/live/1d34f0a0-fe8c-11ef-9a84-3b83bbd65858.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Owner's joy as cat returns after 16-year absence]]></title>
+            <description><![CDATA[Sunshine walked out of Carl Pullen's life in 2009, but a phone call led to their unlikely reunion.]]></description>
+            <link>https://www.bbc.com/news/articles/c70e2kxjg28o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70e2kxjg28o#3</guid>
+            <pubDate>Thu, 27 Mar 2025 06:22:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5230/live/e3c6a960-0a59-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chemist frozen in time bought by theme park]]></title>
+            <description><![CDATA[WC White was found in South Petherton in 1987 and once featured at Cornish theme park Flambards.]]></description>
+            <link>https://www.bbc.com/news/videos/c2erl783lylo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2erl783lylo#3</guid>
+            <pubDate>Thu, 27 Mar 2025 06:28:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fdd/live/ceafd620-0ad4-11f0-94d4-6f954f5dcfa3.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Careful' pensioner wins £1m scratchcard bonanza]]></title>
+            <description><![CDATA[A retired sailor from Bristol has become a millionaire after buying a National Lottery scratchcard.]]></description>
+            <link>https://www.bbc.com/news/articles/cjw2j097vj4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw2j097vj4o#3</guid>
+            <pubDate>Wed, 26 Mar 2025 13:17:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8af/live/94bdaf20-0a3c-11f0-80d5-ff7a1f4f7e48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Care order that restricted freedom as child left me traumatised']]></title>
+            <description><![CDATA[Chereece wants the issuing of the increasingly-used Deprivation of Liberty orders to be stopped.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kgqy3exw2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kgqy3exw2o#4</guid>
+            <pubDate>Thu, 27 Mar 2025 06:09:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc10/live/6480be00-0a47-11f0-ac63-6d9f4e5a1672.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I found a new life after pandemic broke me']]></title>
+            <description><![CDATA[Jude Greaves-Newall was diagnosed with PTSD while working as a nurse in Bradford during Covid.]]></description>
+            <link>https://www.bbc.com/news/articles/c625y05xm13o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c625y05xm13o#4</guid>
+            <pubDate>Thu, 27 Mar 2025 06:09:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca47/live/07316570-0965-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are MPs debating changes to daylight saving?]]></title>
+            <description><![CDATA[Alex Mayer MP is calling for a return to "Churchill Time" where clocks are set two hours ahead.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y41gez6dko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y41gez6dko#4</guid>
+            <pubDate>Thu, 27 Mar 2025 06:10:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cc/live/10aae8b0-0a46-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I published my diary of abuse to empower others']]></title>
+            <description><![CDATA[Amy Rose documented her journey in an abusive relationship and shares her journey as a survivor. ]]></description>
+            <link>https://www.bbc.com/news/articles/cedl3663g78o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedl3663g78o#4</guid>
+            <pubDate>Thu, 27 Mar 2025 06:04:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ea8/live/a0fafa50-097d-11f0-97e4-bd334276dd19.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Caring for David has enriched our own family']]></title>
+            <description><![CDATA[A couple have been caring for a 59-year-old man with learning disabilities for three years.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e4g383lq0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e4g383lq0o#4</guid>
+            <pubDate>Thu, 27 Mar 2025 06:09:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4946/live/f0dcce80-0a41-11f0-8cc5-ad01cd2fc9d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I reckon we're doing something right': Couple mark 70 years of marriage]]></title>
+            <description><![CDATA[Maurice and Nancy Iilett have spent seven decades raising a family and touring the UK on motorbikes.]]></description>
+            <link>https://www.bbc.com/news/videos/c0jgx5j2w37o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0jgx5j2w37o#5</guid>
+            <pubDate>Thu, 27 Mar 2025 11:15:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fef/live/d12acbf0-0afa-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Railway pigeons would be stupid to mess with Zulu the hawk']]></title>
+            <description><![CDATA[A bird of prey is being employed to tackle "problem pigeons" at Beverley and Driffield train stations.]]></description>
+            <link>https://www.bbc.com/news/videos/clyz09dv6qeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/clyz09dv6qeo#5</guid>
+            <pubDate>Thu, 27 Mar 2025 05:53:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa49/live/b0e83360-0a59-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dog left paralysed by crash walking with wheels]]></title>
+            <description><![CDATA[Darcy was give a 5% chance of walking again but is now on the move again with a set of wheels.]]></description>
+            <link>https://www.bbc.com/news/videos/ckgym840kglo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckgym840kglo#5</guid>
+            <pubDate>Wed, 26 Mar 2025 13:31:42 GMT</pubDate>
+            <media:thumbnail width="240" height="156" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada2/live/ca067f50-0a45-11f0-88b7-5556e7b55c5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seaside town's wavy parking lines removed]]></title>
+            <description><![CDATA[After large protests, a set of wavy road markings in Clevedon are being removed.]]></description>
+            <link>https://www.bbc.com/news/videos/cwygv8rnxkzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwygv8rnxkzo#5</guid>
+            <pubDate>Tue, 25 Mar 2025 17:26:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d26/live/0981fca0-099b-11f0-97d3-37df2b293ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie's feline the love from his supermarket fans]]></title>
+            <description><![CDATA[The cat is a regular fixture in the Skegness store, and he has picked up fans around the world.]]></description>
+            <link>https://www.bbc.com/news/videos/c07z3mn9489o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c07z3mn9489o#5</guid>
+            <pubDate>Tue, 25 Mar 2025 12:17:44 GMT</pubDate>
+            <media:thumbnail width="240" height="169" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e0d/live/2f28a870-0976-11f0-88b7-5556e7b55c5e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Premier League to have two summer transfer windows]]></title>
+            <description><![CDATA[The Premier League says it will have two transfer windows this summer to allow Manchester City and Chelsea to sign players before the Club World Cup.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0egvyg7wllo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0egvyg7wllo#6</guid>
+            <pubDate>Thu, 27 Mar 2025 15:17:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ac0/live/058faa20-0b17-11f0-9b12-2d0d67b23402.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who will claim the final Championship play-off spots?]]></title>
+            <description><![CDATA[With two spots seemingly filled, BBC Sport examines the nine teams in with a realistic chance of securing the final two places inside the Championship top six.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cvg125ndeveo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg125ndeveo#6</guid>
+            <pubDate>Thu, 27 Mar 2025 09:48:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d50/live/0845c520-0a35-11f0-99ca-0fb0741d66d7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bairstow named new Yorkshire red-ball captain  ]]></title>
+            <description><![CDATA[Jonny Bairstow will captain Yorkshire in the County Championship, while Dawid Malan will lead the team in the T20 Blast.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cgl0r0ljprxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cgl0r0ljprxo#6</guid>
+            <pubDate>Thu, 27 Mar 2025 15:01:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc46/live/934510b0-0a6f-11f0-b918-492d6e38764e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kildunne starts as England make 13 changes for Wales]]></title>
+            <description><![CDATA[England head coach John Mitchell makes 13 changes to his starting XV to face Wales in Saturday's Women's Six Nations game at Principality Stadium.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cn4ye8987w2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cn4ye8987w2o#6</guid>
+            <pubDate>Thu, 27 Mar 2025 15:00:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78f/live/13b87190-0b1c-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+    </channel>
+</rss>
