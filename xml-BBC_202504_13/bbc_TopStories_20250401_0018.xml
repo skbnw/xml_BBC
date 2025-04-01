@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 01 Apr 2025 00:18:31 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Single parents hit hardest by 'awful April' bill rises]]></title>
+            <description><![CDATA[A series of household bills, including water, energy and council tax, increase on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cly1vwd57y2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly1vwd57y2o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 23:04:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7d/live/84b97930-0e22-11f0-8331-61229d24cb73.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sentencing guidelines ditched after 'two-tier' row]]></title>
+            <description><![CDATA[It comes after the government said it would pass an emergency law to override the guidance.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yg887m6qdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yg887m6qdo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 18:45:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfe/live/64f07b60-0e5b-11f0-935b-db45f1a7a4cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Le Pen attacks ban from running for public office as 'political decision']]></title>
+            <description><![CDATA[The far-right National Rally leader's sentence jeopardises her chances of running for president in 2027.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyq40yz70qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyq40yz70qo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 16:32:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8208/live/6b2156a0-0e68-11f0-a16f-bf3e3a129fee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's weird' - Nasa's Butch and Suni adapt to life back on Earth]]></title>
+            <description><![CDATA[The duo's eight-day mission became a nine-month space odyssey after their Boeing Starliner had technical problems.]]></description>
+            <link>https://www.bbc.com/news/videos/ce3qzn31z64o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce3qzn31z64o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 20:49:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5190/live/bd622980-0e68-11f0-ac9f-c37d6fd89579.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK expects to be hit by Trump tariffs, No 10 says]]></title>
+            <description><![CDATA[Downing Street does not rule out retaliating if new tariffs are imposed on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/crrzl1l9w95o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrzl1l9w95o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 16:49:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3191/live/5bcb58e0-0daa-11f0-8389-ad5d3ae4a0b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heartbroken parents call out children's names at earthquake-hit pre-school]]></title>
+            <description><![CDATA[At least 12 children were killed when their preschool collapsed as Friday’s huge quake hit Myanmar.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g90ldvjexo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g90ldvjexo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 20:05:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4154/live/d644b8e0-0e3c-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Verify: What satellite images reveal about Myanmar's quake]]></title>
+            <description><![CDATA[Myanmar's military government says at least 2,000 people were killed in last week's 7.7 magnitude quake.]]></description>
+            <link>https://www.bbc.com/news/videos/cn4wzyv21jvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn4wzyv21jvo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 21:23:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc39/live/b71fd530-0e73-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virginia Giuffre in hospital after 'serious accident']]></title>
+            <description><![CDATA[A spokesperson told the BBC Giuffre "greatly appreciates the support and well wishes people are sending". ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yl5vle2nmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yl5vle2nmo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 19:17:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2efa/live/f5004fa0-0e56-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Birmingham declares major incident over bin strike]]></title>
+            <description><![CDATA[Council leader John Cotton says it is over public health concerns, but union bosses condemn the move.]]></description>
+            <link>https://www.bbc.com/news/articles/c93gpqvp8w5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93gpqvp8w5o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 19:45:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708b/live/4ed3c490-0e4c-11f0-8fda-f199207bcb26.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roof ripped off home as severe storms and tornadoes hit central US]]></title>
+            <description><![CDATA[Several states have been hit with heavy rain, hail and damaging winds, with storms expected to continue in some areas through Thursday.]]></description>
+            <link>https://www.bbc.com/news/videos/c62jdjw09rgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c62jdjw09rgo#0</guid>
+            <pubDate>Mon, 31 Mar 2025 23:05:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc2/live/38109c50-0e84-11f0-ba12-8d27eb561761.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 11, missing in Thames in east London]]></title>
+            <description><![CDATA[Police are searching water in North Woolwich after reports of an 11-year-old girl in the Thames.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2x807n7p8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2x807n7p8o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 20:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ca/live/56d92e30-0e58-11f0-ac9f-c37d6fd89579.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five Israeli men acquitted of rape charge in Cyprus]]></title>
+            <description><![CDATA[The woman told police she was sexually assaulted and raped by the five men in September, 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg7w1exrw9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg7w1exrw9o#0</guid>
+            <pubDate>Mon, 31 Mar 2025 20:42:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d82/live/6db3eec0-0e70-11f0-ab7c-59dd36e791dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shock Le Pen verdict rocks French far right]]></title>
+            <description><![CDATA[The far-right figurehead has been barred from running for public office for five years, throwing her plans into disarray. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy0ylgjew1xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0ylgjew1xo#1</guid>
+            <pubDate>Mon, 31 Mar 2025 19:55:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5006/live/384498e0-0e69-11f0-a16f-bf3e3a129fee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: l 'Le Pen rails against ban' and 'Trump's tariffs to hit UK']]></title>
+            <description><![CDATA[A mixture of headlines dominate the front pages of UK papers on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cq674yg0jmro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq674yg0jmro#1</guid>
+            <pubDate>Mon, 31 Mar 2025 23:50:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab20/live/789ef9e0-0e81-11f0-b234-07dc7691c360.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Has the government really 'returned' 24,000 people?]]></title>
+            <description><![CDATA[Sir Keir Starmer has claimed more than 24,000 people have been returned since Labour came to power.]]></description>
+            <link>https://www.bbc.com/news/articles/clyw8jw11jwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyw8jw11jwo#1</guid>
+            <pubDate>Mon, 31 Mar 2025 16:34:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d039/live/cc05ce70-0e3a-11f0-b234-07dc7691c360.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I feel guilty for not being in Myanmar  - our people need us the most now']]></title>
+            <description><![CDATA[They fled war - now Myanmar's diaspora feel helpless watching their country struggle after the quake.]]></description>
+            <link>https://www.bbc.com/news/articles/c74z9l1lw9do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74z9l1lw9do#1</guid>
+            <pubDate>Mon, 31 Mar 2025 13:26:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5a/live/1e0e26d0-0e28-11f0-b851-29ea4ea8a4cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My Indian mum was willing to lose everything to support my trans identity']]></title>
+            <description><![CDATA[A transgender woman who became the first to legally marry in India's Tamil Nadu state speaks of her mother's unwavering support.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g9gz5edzko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9gz5edzko#1</guid>
+            <pubDate>Mon, 31 Mar 2025 21:15:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f15/live/7af50a60-0e2a-11f0-ba12-8d27eb561761.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[They met for 30 seconds - she then stalked him for four years]]></title>
+            <description><![CDATA[Victims tell BBC Panorama how a prolific stalker posted thousands of abusive messages about them on social media.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y9134jy0jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9134jy0jo#1</guid>
+            <pubDate>Mon, 31 Mar 2025 05:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2556/live/bf09e6e0-0bc7-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says he wants to serve a third term as US president. Can he?]]></title>
+            <description><![CDATA[Donald Trump says "a lot of people want me to do it" and supporters claim there's a loophole to the two-term constitutional limit.]]></description>
+            <link>https://www.bbc.com/news/articles/cx20lwedn23o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx20lwedn23o#1</guid>
+            <pubDate>Mon, 31 Mar 2025 12:00:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8354/live/8795a900-0e20-11f0-8331-61229d24cb73.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunshine for the UK this week with temperatures set to hit 20C]]></title>
+            <description><![CDATA[High pressure is set to dominate the weather this week keeping many places dry and sunny.]]></description>
+            <link>https://www.bbc.com/weather/articles/cly27ggvxr8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cly27ggvxr8o#3</guid>
+            <pubDate>Mon, 31 Mar 2025 13:04:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a4d/live/4cfbbb20-0e4a-11f0-ba12-8d27eb561761.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Underwater camera set up to film Loch Ness Monster in 1970s discovered]]></title>
+            <description><![CDATA[No sign of the famous monster was found on the camera that had been in Loch Ness for 55 years.]]></description>
+            <link>https://www.bbc.com/news/articles/cx20g82y1k8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx20g82y1k8o#3</guid>
+            <pubDate>Mon, 31 Mar 2025 12:39:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b1/live/bda45380-0e24-11f0-8190-619f43f1f9b2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Primark boss quits after complaint about behaviour]]></title>
+            <description><![CDATA[Paul Marchant leaves after an allegation about his behaviour towards a woman "in a social environment".]]></description>
+            <link>https://www.bbc.com/news/articles/c934pzekdz9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c934pzekdz9o#3</guid>
+            <pubDate>Mon, 31 Mar 2025 16:27:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ff/live/0645d0f0-0e1b-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump labels alleged Turnberry vandals 'terrorists']]></title>
+            <description><![CDATA[The US president said he hoped those who caused damage to his resort would be 'treated harshly'.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r5wkee8z5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r5wkee8z5o#3</guid>
+            <pubDate>Mon, 31 Mar 2025 14:28:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/a6d85bd0-0e13-11f0-a9c9-194143bfd12c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems aim to become 'party of Middle England']]></title>
+            <description><![CDATA[Sir Ed Davey says they're vying for votes in Tory-run council areas, in his local election launch.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxn6x39qyxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxn6x39qyxo#3</guid>
+            <pubDate>Mon, 31 Mar 2025 11:14:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d46/live/5118b6e0-0e1d-11f0-8331-61229d24cb73.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adolescence was hard to watch as a dad, Starmer tells makers at No 10]]></title>
+            <description><![CDATA[Keir Starmer tells them there is not a "policy lever that can be pulled" to combat online misogyny. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx28neprdppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28neprdppo#3</guid>
+            <pubDate>Mon, 31 Mar 2025 16:06:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/c4bb33e0-0e2f-11f0-b851-29ea4ea8a4cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buses in Wales to be brought under public control]]></title>
+            <description><![CDATA[Ministers have promised a "simpler" network replacing a system where bus companies set their own timetables.]]></description>
+            <link>https://www.bbc.com/news/articles/cly2e2ej4gqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2e2ej4gqo#3</guid>
+            <pubDate>Mon, 31 Mar 2025 15:52:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d950/live/762ae6e0-0e24-11f0-9a68-1b75bf032378.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Americanswers…on 5 Live! Could Trump run for a third term?]]></title>
+            <description><![CDATA[And why is Elon Musk handing out $1 million dollar cheques to voters?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0l1j6sf</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0l1j6sf#5</guid>
+            <pubDate>Mon, 31 Mar 2025 17:28:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A journalist has entered the top secret military chat]]></title>
+            <description><![CDATA[And there’s a Ukraine-Russia Black Sea ceasefire deal.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0l0bbbn</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0l0bbbn#5</guid>
+            <pubDate>Tue, 25 Mar 2025 19:07:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I've told Fernandes he is going nowhere - Amorim]]></title>
+            <description><![CDATA[Manchester United head coach Ruben Amorim says he has told Bruno Fernandes he will not allow him to leave this summer.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c985ydx5g4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c985ydx5g4po#7</guid>
+            <pubDate>Mon, 31 Mar 2025 21:32:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ec/live/84133c60-0e49-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haaland to see specialist for ankle injury]]></title>
+            <description><![CDATA[Manchester City striker Erling Haaland will see a specialist after sustaining a left ankle injury in Sunday's FA Cup quarter-final against Bournemouth.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0m901gngw4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0m901gngw4o#7</guid>
+            <pubDate>Mon, 31 Mar 2025 19:28:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6a/live/49233d10-0e64-11f0-9848-d7576b56a0e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Price wins ninth Players Championship as Littler exits early]]></title>
+            <description><![CDATA[Gerwyn Price wins the ninth Players Championship of 2025 with an 8-4 victory over Ian White in the final, as Luke Littler goes out in the third round.]]></description>
+            <link>https://www.bbc.com/sport/darts/articles/c8eplw0yxgdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/darts/articles/c8eplw0yxgdo#7</guid>
+            <pubDate>Mon, 31 Mar 2025 19:08:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96d/live/1ebccaa0-0e5a-11f0-9fff-a7291b2e82a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea report £128.4m profit after sale of women's team]]></title>
+            <description><![CDATA[Chelsea report a £128.4m profit in their latest financial results for the year ending June 2024, having sold their women's team to a parent company.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cn91dg34pzqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn91dg34pzqo#7</guid>
+            <pubDate>Mon, 31 Mar 2025 18:51:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf0/live/45c697d0-0e54-11f0-935b-db45f1a7a4cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sutton's predictions v DJ duo Tigerblind]]></title>
+            <description><![CDATA[BBC Sport football expert Chris Sutton takes on Liam Hincks from DJ duo Tigerblind with his predictions for the midweek Premier League fixtures.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czdn9nr6d77o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdn9nr6d77o#7</guid>
+            <pubDate>Mon, 31 Mar 2025 17:30:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86bc/live/9d696660-0e23-11f0-ba12-8d27eb561761.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce-Butchers defends TikTok dance after heavy Six Nations defeat]]></title>
+            <description><![CDATA[A post-match TikTok dance involving England's Sarah Bern and Wales' Jasmine Joyce-Butchers has divided opinion.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cly8ll0jry8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cly8ll0jry8o#7</guid>
+            <pubDate>Mon, 31 Mar 2025 15:06:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9df/live/37139b20-0e36-11f0-bfea-d170975f1d6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Rugby and Ineos settle deal dispute]]></title>
+            <description><![CDATA[New Zealand Rugby and Ineos reach a settlement agreement following their dispute over a sponsorship contract.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/ce92j2zg0ljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/ce92j2zg0ljo#7</guid>
+            <pubDate>Mon, 31 Mar 2025 22:03:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/0ff09560-e844-11ef-9e8a-870423bc5283.jpg"/>
+        </item>
+    </channel>
+</rss>
