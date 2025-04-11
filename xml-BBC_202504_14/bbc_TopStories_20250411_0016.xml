@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 11 Apr 2025 00:16:22 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump recognises tariff 'transition problems' as US markets fall again]]></title>
+            <description><![CDATA[The White House also confirmed that the tariffs on China would reach 145% due to a pre-existing 20% levy on fentanyl]]></description>
+            <link>https://www.bbc.com/news/articles/crldj87re71o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crldj87re71o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 21:29:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/739f/live/6acfe490-1666-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK announces further £450m military support to Ukraine]]></title>
+            <description><![CDATA[The package includes funding for radar systems, anti-tank mines and hundreds of thousands of drones. ]]></description>
+            <link>https://www.bbc.com/news/articles/c705njr9415o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c705njr9415o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 23:42:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f55/live/3b6857c0-1664-11f0-ad7f-bd8f2c8fa7a0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police raid barbers and vape shops suspected of being fronts for crime gangs]]></title>
+            <description><![CDATA[The BBC follows raids on hundreds of High Street businesses suspected of money laundering.]]></description>
+            <link>https://www.bbc.com/news/articles/c3677xzk56no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3677xzk56no#0</guid>
+            <pubDate>Thu, 10 Apr 2025 21:00:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef7/live/11b677d0-1624-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[New pill can slow progression of incurable breast cancer]]></title>
+            <description><![CDATA[Around 3,000 women a year with advanced cancer could benefit from capivasertib which can slow the disease.]]></description>
+            <link>https://www.bbc.com/news/articles/cp91yvnyrlpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp91yvnyrlpo#0</guid>
+            <pubDate>Thu, 10 Apr 2025 23:00:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56a1/live/accc3360-164a-11f0-aaee-213277bc1295.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six dead after helicopter crashes in New York's Hudson River ]]></title>
+            <description><![CDATA[Five of the individuals on board were a family of tourists from Spain and the sixth person was the pilot,  officials say.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6j9peen4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6j9peen4o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 22:58:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc7f/live/85c8aaf0-1654-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oldest Post Office scandal victim says new compensation offer 'not good enough']]></title>
+            <description><![CDATA[Betty Brown's offer was increased from 30% to 60%, but still below what she claimed when her life was "destroyed" by scandal.]]></description>
+            <link>https://www.bbc.com/news/articles/c05nn3r3zpjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05nn3r3zpjo#0</guid>
+            <pubDate>Thu, 10 Apr 2025 23:01:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d616/live/1a86ca30-163e-11f0-a776-857d688a5036.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British man's tattoo wrongly linked to Venezuelan gang in US government document]]></title>
+            <description><![CDATA[A tattoo belonging to a man from Derbyshire has appeared in a US government document used to identify members of Tren de Aragua, a notorious Venezuelan gang, despite the man having no connection to the group.]]></description>
+            <link>https://www.bbc.com/news/articles/cly22xm8kx1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly22xm8kx1o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 23:08:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7417/live/abdcb530-1648-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry in surprise visit to Ukraine to meet war victims ]]></title>
+            <description><![CDATA[The Duke of Sussex visits an orthopaedic clinic in the western city of Lviv.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5rey37e1lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5rey37e1lo#0</guid>
+            <pubDate>Thu, 10 Apr 2025 20:56:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c71e/live/00be9160-164c-11f0-b03a-c3c59725a687.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Pope seen without usual papal attire]]></title>
+            <description><![CDATA[Pope Francis visits St Peter's Basilica in the Vatican, still with an oxygen tube, as he continues to recover from ill health.]]></description>
+            <link>https://www.bbc.com/news/videos/cz01100gz1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz01100gz1jo#0</guid>
+            <pubDate>Thu, 10 Apr 2025 18:05:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/d39a2350-1634-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI sues Elon Musk claiming 'bad-faith tactics']]></title>
+            <description><![CDATA[Claim follows Mr Musk's own lawsuit earlier this year against OpenAI's Sam Altman.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4114271x2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4114271x2o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 17:56:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f7/live/e1ec1b70-162a-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tributes for teens killed in crash near Heathrow]]></title>
+            <description><![CDATA[The three teenagers have been named by police as 17-year-old Star Tomkins, 18-year-old Harley Woods and 17-year-old Jimmy Savory]]></description>
+            <link>https://www.bbc.com/news/articles/ce3v98j5x74o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3v98j5x74o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 19:18:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2313/live/b0ab0e80-163a-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK sends military chief to China for first visit in 10 years]]></title>
+            <description><![CDATA[Admiral Sir Tony Radakin discussed "issues of common concern" with China's military leaders in a rare trip by the UK's most senior military officer.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq77q38vj1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq77q38vj1o#0</guid>
+            <pubDate>Thu, 10 Apr 2025 18:43:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2534/live/a980a1f0-1636-11f0-8df6-bb5a3a522b36.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: Trump may have backtracked, but this is far from over]]></title>
+            <description><![CDATA[There is an anxious wait to find out what comes next - and if a currency war will follow.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xxv3y9r2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xxv3y9r2o#1</guid>
+            <pubDate>Thu, 10 Apr 2025 15:39:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6595/live/c5f75060-1611-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA['It's fastest finger first' - traders on their tumultuous week]]></title>
+            <description><![CDATA[Traders are trying to reckon with impact of Trump's shifting tariff policy.]]></description>
+            <link>https://www.bbc.com/news/articles/c9djj7pgz57o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9djj7pgz57o#1</guid>
+            <pubDate>Thu, 10 Apr 2025 18:59:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a6/live/4d916c30-1631-11f0-ad14-a76bd5311d47.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does Trump's tariff pause mean for global trade?]]></title>
+            <description><![CDATA[What is the situation after the historic upheaval in American trade policy.]]></description>
+            <link>https://www.bbc.com/news/articles/cz95589ey9yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz95589ey9yo#1</guid>
+            <pubDate>Thu, 10 Apr 2025 16:12:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b037/live/b4d84d30-1629-11f0-b1b3-7358f8d35a35.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Will iPhones cost more in the US because of Trump's tariffs on China?]]></title>
+            <description><![CDATA[Some analysts say that if costs incurred by tariffs pass to consumers, US iPhone prices could rise by hundreds of dollars.]]></description>
+            <link>https://www.bbc.com/news/articles/cx28845z30go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28845z30go#1</guid>
+            <pubDate>Thu, 10 Apr 2025 16:37:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e51/live/0933d8a0-15fc-11f0-a8e7-e5592c2ddd69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retreat or negotiating strategy? Trump steps back from all-out trade war]]></title>
+            <description><![CDATA[The US is now making nice – or at least nicer - with nations that had faced their retaliatory trade fire, writes Anthony Zurcher.]]></description>
+            <link>https://www.bbc.com/news/articles/cx255d13w13o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx255d13w13o#1</guid>
+            <pubDate>Thu, 10 Apr 2025 00:17:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e2/live/b0c112b0-15e6-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What goes on inside toddlers' brains? A pioneering project is trying to find out]]></title>
+            <description><![CDATA[A unique study is tracking the development of hundreds of babies whose parents have also been studied since birth.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg71z808q9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg71z808q9o#2</guid>
+            <pubDate>Thu, 10 Apr 2025 23:13:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fba/live/5a3dc650-1545-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the Hudson helicopter crash]]></title>
+            <description><![CDATA[Six people have been confirmed to have died following the crash near to the New Jersey side of the Hudson.]]></description>
+            <link>https://www.bbc.com/news/articles/c1eg67vlqg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1eg67vlqg3o#2</guid>
+            <pubDate>Thu, 10 Apr 2025 23:44:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dafd/live/70393e00-165b-11f0-8737-8f7a373d240c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly quiz: What was special about this baby?]]></title>
+            <description><![CDATA[How much attention did you pay to what has been going on in the world over the past seven days?]]></description>
+            <link>https://www.bbc.com/news/articles/c2kvvwln504o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kvvwln504o#2</guid>
+            <pubDate>Thu, 10 Apr 2025 18:47:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9758/live/b0d77250-1611-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 17, whose dad is lost in nightclub rubble spends birthday at scene]]></title>
+            <description><![CDATA[Shailyn Peña is one of many whose loved ones are missing after the roof of a nightclub collapsed in Santo Domingo.]]></description>
+            <link>https://www.bbc.com/news/articles/cly885xre5do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly885xre5do#2</guid>
+            <pubDate>Thu, 10 Apr 2025 09:52:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1890/live/cf329170-159a-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Think twice before posting online, says Eni Aluko after Joey Barton defamation case win]]></title>
+            <description><![CDATA[The ex-England striker is "past the point of asking nicely" for people to treat women with respect.]]></description>
+            <link>https://www.bbc.com/news/articles/cn9115j3dvzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn9115j3dvzo#2</guid>
+            <pubDate>Thu, 10 Apr 2025 05:14:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e9/live/06763f10-15d7-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[War has changed Zelensky - but now is the time for him to transform again ]]></title>
+            <description><![CDATA[The "coalition of the willing" nations in support of Ukraine will meet at Nato headquarters later today - but how have three years of war shaped the president?]]></description>
+            <link>https://www.bbc.com/news/articles/c62jxe99e71o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62jxe99e71o#2</guid>
+            <pubDate>Wed, 09 Apr 2025 23:07:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e1/live/289190c0-152f-11f0-b1b3-7358f8d35a35.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The betting tycoon who preyed on women and hurt them for pleasure]]></title>
+            <description><![CDATA[Kevin Booth's former partner Tammy Conner says she fears someone could die if he is not stopped.]]></description>
+            <link>https://www.bbc.com/news/articles/clyqj2739zdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyqj2739zdo#2</guid>
+            <pubDate>Thu, 10 Apr 2025 05:07:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5efe/live/63a035a0-1556-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli army fired more than 100 shots in Gaza medics' killing, audio suggests]]></title>
+            <description><![CDATA[The analysis shows Israeli troops fired 100 shots during the attack which killed 15 people.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg55q1w58jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg55q1w58jo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 15:30:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91b7/live/b0d848c0-1629-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michelle Obama dismisses divorce rumours ]]></title>
+            <description><![CDATA[The former first lady says people were wrong to make assumptions that the couple were getting a divorce.]]></description>
+            <link>https://www.bbc.com/news/articles/cly883py5elo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly883py5elo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 16:24:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fb/live/c0b6cf20-1631-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadline nears to register to vote in local elections]]></title>
+            <description><![CDATA[There are local elections to 24 of England's 317 councils and mayoral authorities on 1 May.]]></description>
+            <link>https://www.bbc.com/news/articles/crkx2mrdz3zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkx2mrdz3zo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 21:05:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c30/live/a26c6660-163b-11f0-87f3-617ff572c1ed.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King and Queen leave Italy after making pasta on final day of visit]]></title>
+            <description><![CDATA[The King and Queen took in Italy's cultural highlights and celebrated their 20th wedding anniversary ]]></description>
+            <link>https://www.bbc.com/news/articles/c4g88ne5jp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g88ne5jp1o#4</guid>
+            <pubDate>Thu, 10 Apr 2025 15:41:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e8/live/4f8981c0-1628-11f0-bdbf-c70502e70dcc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Union anger after bin workers urged to agree deal]]></title>
+            <description><![CDATA[The Deputy Prime Minister says striking Birmingham bin workers should accept an improved offer.]]></description>
+            <link>https://www.bbc.com/news/articles/cgjl8v2zzpjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgjl8v2zzpjo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 19:36:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6014/live/d0fd5a90-1643-11f0-8a1e-3ff815141b98.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump signs order to 'make America's showers great again']]></title>
+            <description><![CDATA[The US president says he wants to "take care of my beautiful hair" as he eases water flow rules.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2eeggyppzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2eeggyppzo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 12:09:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb76/live/947e6d90-1600-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Detective who pretended to work from home sacked]]></title>
+            <description><![CDATA[She weighed down her keyboard to stop her laptop going into standby and browsed shopping sites for hours.]]></description>
+            <link>https://www.bbc.com/news/articles/c75dd5p7kwzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75dd5p7kwzo#4</guid>
+            <pubDate>Thu, 10 Apr 2025 18:24:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dfd/live/f20feb60-1636-11f0-8df6-bb5a3a522b36.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Donald Trump Still Interested in Ukraine?]]></title>
+            <description><![CDATA[“Coalition of the willing” meet in Brussels to discuss plans for peacekeeping force.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0l3nm64</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0l3nm64#6</guid>
+            <pubDate>Thu, 10 Apr 2025 16:54:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Tariffs... Chaos or a cunning plan?]]></title>
+            <description><![CDATA[People were getting ‘yippy’ according to the president…]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0029rs1</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0029rs1#6</guid>
+            <pubDate>Thu, 10 Apr 2025 15:40:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rose leads Masters as McIlroy hurt by late errors]]></title>
+            <description><![CDATA[England's Justin Rose leads the Masters after threatening to break the Augusta course record on an opening day where Rory McIlroy fades after a fast start.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cgrggrwd1glo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cgrggrwd1glo#8</guid>
+            <pubDate>Thu, 10 Apr 2025 23:35:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/6ece7450-1664-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I've made more mistakes than them' - Amorim defends Onana after errors]]></title>
+            <description><![CDATA[Andre Onana was at fault for both Lyon's goals in his side's 2-2 draw in the Europa League on Thursday.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz01dm8439xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz01dm8439xo#8</guid>
+            <pubDate>Thu, 10 Apr 2025 22:51:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d9/live/abd6f8c0-165c-11f0-b1b3-7358f8d35a35.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aspinall wins Premier League night in Manchester]]></title>
+            <description><![CDATA[Nathan Aspinall delights his home crowd in Manchester as he claimed his first nightly win of the year to move into the Premier League play-off places.]]></description>
+            <link>https://www.bbc.com/sport/darts/articles/c2ewwe3z381o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/darts/articles/c2ewwe3z381o#8</guid>
+            <pubDate>Thu, 10 Apr 2025 22:16:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ba/live/c09d3860-164c-11f0-b03a-c3c59725a687.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scheffler features in day one Masters best shots]]></title>
+            <description><![CDATA[Reigning champion Scottie Scheffler features in the best shots from day one at the Masters at Augusta.]]></description>
+            <link>https://www.bbc.com/sport/golf/videos/cn0w5x3ppe1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/videos/cn0w5x3ppe1o#8</guid>
+            <pubDate>Thu, 10 Apr 2025 23:21:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e6/live/4075f870-1660-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BJK Cup withdrawals 'a tennis, not a player, problem']]></title>
+            <description><![CDATA[British captain Anne Keothavong says the lack of top-20 players at Billie Jean King Cup qualifying is "a tennis problem, not a player problem".]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cpvrrele94go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cpvrrele94go#8</guid>
+            <pubDate>Thu, 10 Apr 2025 13:30:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7277/live/582d0750-160c-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+    </channel>
+</rss>
