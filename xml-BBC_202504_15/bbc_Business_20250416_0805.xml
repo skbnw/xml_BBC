@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>https://www.bbc.co.uk/news/business</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/business</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 16 Apr 2025 08:05:13 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK inflation falls as price of petrol comes down]]></title>
+            <description><![CDATA[Inflation falls in the year to March as the price of petrol drops.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2eyp79y3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2eyp79y3o#0</guid>
+            <pubDate>Wed, 16 Apr 2025 07:38:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3463/live/85ff0840-19f9-11f0-bdc4-cb8ccab618ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China appoints new trade envoy in face of tariff turmoil ]]></title>
+            <description><![CDATA[The shift comes as Beijing refuses to back down in an escalating trade war with Washington.]]></description>
+            <link>https://www.bbc.com/news/articles/c8jem097l4do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jem097l4do#0</guid>
+            <pubDate>Wed, 16 Apr 2025 07:38:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2588/live/bb2b9410-1a95-11f0-849e-f3d9ffdf9a20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia expects $5.5bn hit as US tightens chip export rules to China]]></title>
+            <description><![CDATA[The chip manufacturing giant, which has been at the heart of the AI boom, will require licences to export its H20 AI chip to China.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2xzn6jmzpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2xzn6jmzpo#0</guid>
+            <pubDate>Wed, 16 Apr 2025 00:40:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc7/live/021993c0-1a4d-11f0-b6de-656b207d7440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A UK-US deal sounds good but it is all about the detail]]></title>
+            <description><![CDATA[British exports have been hit with tariffs by US despite having no trade deficit, but the UK may have some leverage. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly2rwdzznno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2rwdzznno#0</guid>
+            <pubDate>Tue, 15 Apr 2025 12:54:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/4c183430-1a17-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finland's bid to win Europe's start-up crown]]></title>
+            <description><![CDATA[Helsinki wants to become a top European start-up hub, but can it challenge London and Stockholm?]]></description>
+            <link>https://www.bbc.com/news/articles/cx28y8jj4lxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28y8jj4lxo#0</guid>
+            <pubDate>Mon, 14 Apr 2025 23:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6686/live/95a1d9d0-106c-11f0-b234-07dc7691c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['This is so hard': The Chinese small businesses brought to a standstill by Trump's tariffs]]></title>
+            <description><![CDATA[Stock is piling up in warehouses as exporters grapple with new levies that total up to 145%, reports the BBC's China correspondent Laura Bicker.]]></description>
+            <link>https://www.bbc.com/news/articles/c05ne2vmd3po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05ne2vmd3po#0</guid>
+            <pubDate>Tue, 15 Apr 2025 17:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8423/live/b09c5540-1a1b-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The perils of Trump's chips strategy: The US will struggle to take on Asia]]></title>
+            <description><![CDATA[America is trying to create a chip industry through isolation and protectionism, when what allowed it to emerge in Asia is the opposite: collaboration]]></description>
+            <link>https://www.bbc.com/news/articles/cd9ljwgg9y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9ljwgg9y0o#1</guid>
+            <pubDate>Tue, 15 Apr 2025 23:39:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eca/live/19974db0-19fa-11f0-8a1e-3ff815141b98.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Low-deposit mortgage deals highest for 17 years]]></title>
+            <description><![CDATA[Choice of home loans requiring small deposits of 5% or 10% reaches levels last seen in the 2008 financial crisis.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxdyyz8e1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxdyyz8e1o#1</guid>
+            <pubDate>Tue, 15 Apr 2025 18:45:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d66/live/1be05a80-19d2-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK jobs market weakens as employment costs grow]]></title>
+            <description><![CDATA[The number of job vacancies and people on payrolls fell ahead of changes to  National Insurance and wages.]]></description>
+            <link>https://www.bbc.com/news/articles/c30qzng45mzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30qzng45mzo#1</guid>
+            <pubDate>Tue, 15 Apr 2025 09:18:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3609/live/b87b9d10-19d6-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK cautious over future Chinese steel investment]]></title>
+            <description><![CDATA[Business Secretary says steel is a 'sensitive sector' after crucial materials arrive at British Steel ]]></description>
+            <link>https://www.bbc.com/news/articles/c20x1qqyz8vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20x1qqyz8vo#1</guid>
+            <pubDate>Tue, 15 Apr 2025 15:01:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eab/live/0fe594d0-1a08-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did the government take control of British Steel?]]></title>
+            <description><![CDATA[An emergency law has handed control of the UK's only remaining plant making virgin steel to the government.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y66y40kgpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y66y40kgpo#1</guid>
+            <pubDate>Tue, 15 Apr 2025 09:32:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168d/live/505c0b90-16fa-11f0-a79b-a5d514d498b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's Xi urges Vietnam to oppose 'bullying' as Trump mulls more tariffs]]></title>
+            <description><![CDATA[Trump called Xi's meeting with Vietnamese leaders a ploy to figure out how to 'screw' the US. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdrgk2338dvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrgk2338dvo#1</guid>
+            <pubDate>Tue, 15 Apr 2025 08:37:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3430/live/24a689a0-19be-11f0-813e-4b4fdf4b6941.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was China the reason Guyana faced higher Trump tariff?]]></title>
+            <description><![CDATA[A Guyanese political commentator says Washington objects to Beijing's "very strong foothold" in the country.]]></description>
+            <link>https://www.bbc.com/news/articles/cjeww5zq88no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjeww5zq88no#2</guid>
+            <pubDate>Mon, 14 Apr 2025 05:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d8/live/f850bf40-160e-11f0-998c-6b1bac7d7605.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do we need cocoa-free chocolate and is it nice?]]></title>
+            <description><![CDATA[Cocoa prices are soaring so new chocolate firms are looking at an alternative ingredient.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqj3z4g0e1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqj3z4g0e1o#2</guid>
+            <pubDate>Thu, 10 Apr 2025 23:07:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/7472e560-0bad-11f0-8e25-91624fd3b00c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The plans to put data centres in orbit and on the Moon]]></title>
+            <description><![CDATA[Proponents say space-based data centres will be more secure, but sceptics say big hurdles remain.]]></description>
+            <link>https://www.bbc.com/news/articles/cjewvpkw7weo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjewvpkw7weo#2</guid>
+            <pubDate>Wed, 09 Apr 2025 23:04:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dc8/live/260a71f0-1485-11f0-9c12-3306e577b130.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Canadians and Danes boycotting American products]]></title>
+            <description><![CDATA[As anger grows over Trump's tariffs, apps and social media groups are helping people avoid US goods.]]></description>
+            <link>https://www.bbc.com/news/articles/c0el8ed21w9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0el8ed21w9o#2</guid>
+            <pubDate>Tue, 08 Apr 2025 23:26:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eac/live/9b4ac040-0f90-11f0-ba12-8d27eb561761.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A revolution is under way in India's trainer industry]]></title>
+            <description><![CDATA[India wants to boost the domestic trainer industry but will small domestic makers suffer?]]></description>
+            <link>https://www.bbc.com/news/articles/cm2nplgm2kpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2nplgm2kpo#2</guid>
+            <pubDate>Tue, 08 Apr 2025 01:51:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3100/live/90b206a0-04c5-11f0-8acd-09ec89d7a0aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Low-deposit mortgage deals highest for 17 years]]></title>
+            <description><![CDATA[Choice of home loans requiring small deposits of 5% or 10% reaches levels last seen in the 2008 financial crisis.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxdyyz8e1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxdyyz8e1o#4</guid>
+            <pubDate>Tue, 15 Apr 2025 18:45:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d66/live/1be05a80-19d2-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK jobs market weakens as employment costs grow]]></title>
+            <description><![CDATA[The number of job vacancies and people on payrolls fell ahead of changes to  National Insurance and wages.]]></description>
+            <link>https://www.bbc.com/news/articles/c30qzng45mzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30qzng45mzo#4</guid>
+            <pubDate>Tue, 15 Apr 2025 09:18:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3609/live/b87b9d10-19d6-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents 'punished' by highest childcare costs in Britain]]></title>
+            <description><![CDATA[Childcare costs for parents of under-twos in Wales are more expensive than anywhere else in Britain.]]></description>
+            <link>https://www.bbc.com/news/articles/c20x4k53z7no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20x4k53z7no#4</guid>
+            <pubDate>Tue, 15 Apr 2025 05:15:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6d/live/a547cd70-195b-11f0-8755-bf520dd7f542.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pram appeal as charity sees rising demand]]></title>
+            <description><![CDATA[The charity, which has given 32 pushchairs to families in need this year, appeals for more donations.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqr7pjzqv7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqr7pjzqv7o#4</guid>
+            <pubDate>Mon, 14 Apr 2025 05:21:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ad/live/30662ab0-188e-11f0-8912-ed03ffc48ecd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Those struggling in Medway can claim share of £4m]]></title>
+            <description><![CDATA[The money will come from the Household Support Fund which has been extended for another year.]]></description>
+            <link>https://www.bbc.com/news/articles/cze1l6klj0go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze1l6klj0go#4</guid>
+            <pubDate>Mon, 14 Apr 2025 05:02:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/e1622150-16e2-11f0-b212-bb9cfda6de14.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The curious case of why a billionaire wants to buy Royal Mail]]></title>
+            <description><![CDATA[From the end of April, the 500-year-old Royal Mail will be controlled by Czech billionaire Daniel Kretinsky who co-owns a football club - but why does he want it?]]></description>
+            <link>https://www.bbc.com/news/articles/cn4mm3kx0v2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4mm3kx0v2o#5</guid>
+            <pubDate>Sun, 13 Apr 2025 23:27:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeeb/live/60671aa0-16ca-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump has turned his back on the foundation of US economic might - the fallout will be messy]]></title>
+            <description><![CDATA[What made the US step back from the system that it profited handsomely from for decades?]]></description>
+            <link>https://www.bbc.com/news/articles/cp34nkj1kv2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp34nkj1kv2o#5</guid>
+            <pubDate>Sat, 05 Apr 2025 23:59:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b3/live/76473480-1171-11f0-b234-07dc7691c360.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer's response to Trump tariffs is both to slow down and go faster]]></title>
+            <description><![CDATA[What's happening in Whitehall to try to limit the harm to the UK, perhaps by making a deal with the US, and make the most of any opportunities?]]></description>
+            <link>https://www.bbc.com/news/articles/cm257qmvg25o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm257qmvg25o#5</guid>
+            <pubDate>Sat, 05 Apr 2025 12:25:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1874/live/93c751c0-114e-11f0-ba12-8d27eb561761.png"/>
+        </item>
+        <item>
+            <title><![CDATA[David Dimbleby: I thought the free market was with us forever - then Trump came along]]></title>
+            <description><![CDATA[Why the reign of the free market is facing its biggest ever challenge]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gey6pvddo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gey6pvddo#5</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8498/live/7f501470-0b27-11f0-ba12-8d27eb561761.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rachel Reeves is feeling the heat ahead of her Spring Statement]]></title>
+            <description><![CDATA[The Chancellor hints at a more guarded approach amid global uncertainty - and issues a warning ahead of her announcements.]]></description>
+            <link>https://www.bbc.com/news/articles/c0egy79qx93o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0egy79qx93o#5</guid>
+            <pubDate>Sat, 22 Mar 2025 06:27:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c78c/live/ad772340-064d-11f0-97d3-37df2b293ed1.png"/>
+        </item>
+        <item>
+            <title><![CDATA['A number of businesses in limbo' in China after US tariffs on imports]]></title>
+            <description><![CDATA[BBC China correspondent Laura Bicker has been speaking to companies at the world's longest running import-export fair.]]></description>
+            <link>https://www.bbc.com/news/videos/cp9143dpz10o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp9143dpz10o#6</guid>
+            <pubDate>Tue, 15 Apr 2025 17:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902d/live/d4e08180-1a0f-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Was Trump's 90-day tariffs pause really a grand plan?]]></title>
+            <description><![CDATA[News of the US president's plan to halt higher-band taxes came as a surprise on Wednesday, but was it part of a plan?]]></description>
+            <link>https://www.bbc.com/news/videos/c045el20yw1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c045el20yw1o#6</guid>
+            <pubDate>Thu, 10 Apr 2025 22:49:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb53/live/f9d96cc0-16ab-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Briefing Room]]></title>
+            <description><![CDATA[David Aaronovitch and guests discuss the strategy behind Trump's tariff policy.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0029qj7</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0029qj7#6</guid>
+            <pubDate>Thu, 10 Apr 2025 12:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l3k7fs.jpg"/>
+        </item>
+    </channel>
+</rss>
