@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 17 Apr 2025 16:04:18 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Zelensky urges US and Europe to pressure Russia to end war]]></title>
+            <description><![CDATA[A Kremlin spokesman dismissed the talks between Ukraine, Europe and the US, which took place in Paris.]]></description>
+            <link>https://www.bbc.com/news/articles/c93g12g38n4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93g12g38n4o#0</guid>
+            <pubDate>Thu, 17 Apr 2025 15:07:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc58/live/0bf72600-1b9c-11f0-bade-39895cf97c9c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French jails have come under attack. Are violent drug gangs to blame?]]></title>
+            <description><![CDATA[A mysterious group has accused Justice Minister Gérard Darmanin of declaring "war" on prisoners. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4g27n775j1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g27n775j1o#0</guid>
+            <pubDate>Thu, 17 Apr 2025 12:41:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef84/live/2d9a8d80-1b81-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Somali airstrike as battle rages for key town]]></title>
+            <description><![CDATA[Heavy fighting broke out on Wednesday after al-Shabab raided the town, saying they had captured it. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8q644g5eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8q644g5eo#0</guid>
+            <pubDate>Thu, 17 Apr 2025 13:04:26 GMT</pubDate>
+            <media:thumbnail width="240" height="162" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274d/live/dbe30ee0-1b80-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Russian general jailed for seven years over bribes]]></title>
+            <description><![CDATA[Lt Gen Vadim Shamarin was sentenced to seven years in a penal colony after being accused of taking bribes.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynldd4ze3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynldd4ze3o#0</guid>
+            <pubDate>Thu, 17 Apr 2025 12:37:14 GMT</pubDate>
+            <media:thumbnail width="240" height="127" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a2/live/30420b00-1b7a-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia declares health emergency after dozens die of yellow fever]]></title>
+            <description><![CDATA[Health authorities are urging people to get vaccinated before travelling to risk areas for Easter. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj68x4p412eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj68x4p412eo#0</guid>
+            <pubDate>Thu, 17 Apr 2025 09:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856d/live/80eb01d0-1b64-11f0-b405-a9063c038ff6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration threatens Harvard with foreign student ban]]></title>
+            <description><![CDATA[Homeland Security Secretary Kristi Noem accused the institution of "threatening national security". ]]></description>
+            <link>https://www.bbc.com/news/articles/c1egdy24v7po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1egdy24v7po#0</guid>
+            <pubDate>Thu, 17 Apr 2025 15:27:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7b/live/c24ebd50-1b4c-11f0-a562-4fbbfa5ff5e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesla whistleblower wins latest legal battle against Elon Musk]]></title>
+            <description><![CDATA[Engineer Cristina Balan raised a safety concern about a design flaw which could affect the cars' braking in 2014.]]></description>
+            <link>https://www.bbc.com/news/articles/cevdz4yxpd9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cevdz4yxpd9o#0</guid>
+            <pubDate>Thu, 17 Apr 2025 09:41:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reboot of disaster-hit Fyre Festival postponed, US media reports]]></title>
+            <description><![CDATA[The organisers of the failed 2017 Fyre Festival are reportedly looking for a new location for the reboot.]]></description>
+            <link>https://www.bbc.com/news/articles/c62jzk1p49wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62jzk1p49wo#1</guid>
+            <pubDate>Thu, 17 Apr 2025 11:36:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c36/live/130699e0-1b87-11f0-a194-353423d96ce2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada party leaders grilled in election debate on how to tackle Trump]]></title>
+            <description><![CDATA[Frontrunner Mark Carney was tested in Wednesday's French-language debate, the first of two match-ups before the 28 April election.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgx6kl274zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgx6kl274zo#1</guid>
+            <pubDate>Thu, 17 Apr 2025 02:29:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce1/live/57508500-1b25-11f0-ac18-1f551cf67594.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Famed Philippine film star Nora Aunor dies at 71]]></title>
+            <description><![CDATA[She was one of the Philippines' biggest film stars with a career that spanned seven decades.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5r072d9q2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5r072d9q2o#1</guid>
+            <pubDate>Thu, 17 Apr 2025 01:54:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7710/live/c5029e10-1b1d-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy's Meloni heads to US with unlikely mission for Europe]]></title>
+            <description><![CDATA[She will have to walk a tightrope between representing the interests of the EU and remaining in the US president's good books.]]></description>
+            <link>https://www.bbc.com/news/articles/crkxxnez21yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkxxnez21yo#1</guid>
+            <pubDate>Thu, 17 Apr 2025 01:31:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e1/live/7c1462c0-1b80-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man deported to El Salvador will never live in US, says White House]]></title>
+            <description><![CDATA[The White House doubles down on claims Kilmar Ábrego García was in a gang, which his lawyer denies.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xzdxk53no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xzdxk53no#1</guid>
+            <pubDate>Thu, 17 Apr 2025 00:17:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d815/live/84cd59d0-1b1c-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions watch as Swedish elk begin annual migration]]></title>
+            <description><![CDATA[Millions of people have tuned in to watch moose on the move in northern Sweden over the past six years.]]></description>
+            <link>https://www.bbc.com/news/articles/cewgn0v5j9po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewgn0v5j9po#1</guid>
+            <pubDate>Wed, 16 Apr 2025 14:59:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3832/live/0ae35e60-1ad3-11f0-b458-13f485d00d57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Michigan town forms human chain to move 9,100 books for shop]]></title>
+            <description><![CDATA[Community members in the small town of Chelsea passed the books one-by-one to the bookstore's new location a block away.]]></description>
+            <link>https://www.bbc.com/news/videos/cj45yl5dy42o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj45yl5dy42o#1</guid>
+            <pubDate>Wed, 16 Apr 2025 20:50:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee18/live/bda5fff0-1b03-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli troops will remain in Gaza 'security zones' after war, minister says]]></title>
+            <description><![CDATA[Israel Katz said Israel would continue its six-week blockade of all supplies, despite the UN warning of "devastating" consequences.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2775v853o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2775v853o#1</guid>
+            <pubDate>Wed, 16 Apr 2025 18:23:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af4/live/a8f65990-1ae7-11f0-84fd-f389f3c61043.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US actress Michelle Trachtenberg died from diabetes complications]]></title>
+            <description><![CDATA[The Buffy the Vampire Slayer actress was found "unresponsive" at her New York City apartment in February. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdrg6e2xgj6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrg6e2xgj6o#1</guid>
+            <pubDate>Wed, 16 Apr 2025 21:39:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38bb/live/e0d42320-1b09-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU names seven countries as safe in plan to fast-track migrant returns]]></title>
+            <description><![CDATA[Citizens from Kosovo, Bangladesh, Colombia, Egypt, India, Morocco and Tunisia would all have their claims fast-tracked.]]></description>
+            <link>https://www.bbc.com/news/articles/c1k4w889v9eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1k4w889v9eo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 14:48:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d82/live/023ea350-1ace-11f0-b458-13f485d00d57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tariffs will make global trade shrink, says WTO]]></title>
+            <description><![CDATA[The Geneva-based institution says American tariffs will send international trade into reverse.]]></description>
+            <link>https://www.bbc.com/news/articles/cjewdy2zw3go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjewdy2zw3go#1</guid>
+            <pubDate>Wed, 16 Apr 2025 16:25:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da96/live/c4733bb0-1ae3-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peru's ex-president and first lady sentenced to 15 years in prison]]></title>
+            <description><![CDATA[A court ruled that Humala, who governed Peru from 2011 to 2016, took illegal campaign contributions.]]></description>
+            <link>https://www.bbc.com/news/articles/c33z6kn7xvyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c33z6kn7xvyo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 17:13:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64b5/live/509712b0-1a71-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[German doctor charged with murder of 15 patients]]></title>
+            <description><![CDATA[The suspect, 40, is accused of setting fire to the homes of some of his alleged victims to cover his tracks.]]></description>
+            <link>https://www.bbc.com/news/articles/cly161m6yj1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly161m6yj1o#1</guid>
+            <pubDate>Wed, 16 Apr 2025 09:59:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf0/live/9a971ed0-1aa0-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Detained activist suspected US immigration interview was a trap]]></title>
+            <description><![CDATA[Mohsen Mahdawi, a former protest leader, was arrested after showing up to the appointment in Vermont.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9vn84w27vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9vn84w27vo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 14:41:49 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d40a/live/92706960-1ac7-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French row with Algeria escalates further with tit-for-tat expulsions]]></title>
+            <description><![CDATA[France recalls its ambassador to Algeria and orders 12 Algerian diplomats to leave as tensions continue to rise.]]></description>
+            <link>https://www.bbc.com/news/articles/c7vn1z0598zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vn1z0598zo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 11:20:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfcc/live/79d422b0-1aaf-11f0-937a-b7563ef6ccc0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuvalu unveils first cash machines in 'momentous' ceremony]]></title>
+            <description><![CDATA[Tiny cash-based Pacific nation gets electronic banking for the first time.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3vyvdz1pko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3vyvdz1pko#1</guid>
+            <pubDate>Wed, 16 Apr 2025 10:34:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761d/live/aec3c9a0-1aa8-11f0-b2d9-cd64aa030d1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New speed climbing record set in the Swiss Alps]]></title>
+            <description><![CDATA[A climbing pair shatter the record for completing the daunting north faces of a famed trio of Swiss mountains.]]></description>
+            <link>https://www.bbc.com/news/videos/c3r8vx1y8eno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3r8vx1y8eno#1</guid>
+            <pubDate>Wed, 16 Apr 2025 01:45:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6be/live/8994d1c0-1ac0-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration seeks criminal prosecution of New York attorney general ]]></title>
+            <description><![CDATA[Federal housing officials accused Letitia James, who won a real estate case against Trump in 2023, of mortgage fraud.]]></description>
+            <link>https://www.bbc.com/news/articles/c7vn1rymz38o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vn1rymz38o#1</guid>
+            <pubDate>Wed, 16 Apr 2025 15:24:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fa6/live/33878d90-1ac0-11f0-8699-af8a0981754f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abducted US pastor freed in South Africa after deadly shoot-out]]></title>
+            <description><![CDATA[Three people died in the "high-intensity shootout" that led to Josh Sullivan's rescue, officials say.]]></description>
+            <link>https://www.bbc.com/news/articles/cj9ez20mgvdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9ez20mgvdo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 07:36:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5766/live/0f015fd0-1a8b-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US government sues Maine over refusing to ban transgender athletes]]></title>
+            <description><![CDATA[The suit comes after a public spat between the state's governor and Donald Trump over transgender women competing in sports.]]></description>
+            <link>https://www.bbc.com/news/articles/cy48r02zrpvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy48r02zrpvo#1</guid>
+            <pubDate>Wed, 16 Apr 2025 16:14:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cded/live/88fc2eb0-1ad5-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The truth about life on other planets - and what it means for humans]]></title>
+            <description><![CDATA[Could discoveries of alien life ever change the human psyche in how we view ourselves and each other?]]></description>
+            <link>https://www.bbc.com/news/articles/cp8jwj90ejno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8jwj90ejno#2</guid>
+            <pubDate>Thu, 17 Apr 2025 00:11:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/8b7c5530-1b6a-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Smugglers' paradise: How US guns flow to gang-ravaged Haiti]]></title>
+            <description><![CDATA[The journey of two boxes of weapons reveals a chain of lax laws, absent checks and suspected corruption.]]></description>
+            <link>https://www.bbc.com/news/articles/cly15pp707go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly15pp707go#2</guid>
+            <pubDate>Thu, 17 Apr 2025 00:49:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4753/live/dbc8a730-1a0e-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aboard the 'silver trains', China's retirees do their bit to offset Trump's tariffs]]></title>
+            <description><![CDATA[A new initiative aims to boost the local economy by attracting elderly travellers to remote parts of the country.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0zqdqzp73o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0zqdqzp73o#2</guid>
+            <pubDate>Thu, 17 Apr 2025 00:24:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe37/live/ceef0f30-1b81-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why China curbing rare earth exports is a blow to the US ]]></title>
+            <description><![CDATA[As the trade war continues to escalate, China has hit back at Trump by suspending exports of rare earth minerals.]]></description>
+            <link>https://www.bbc.com/news/articles/c1drqeev36qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1drqeev36qo#2</guid>
+            <pubDate>Thu, 17 Apr 2025 00:15:59 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4434/live/5449c230-1ab8-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish police uncover illegal underground shooting range]]></title>
+            <description><![CDATA[Police suspect the range was used by a weapons trafficking ring to test assault rifles and other arms.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yrkw6zjp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yrkw6zjp1o#3</guid>
+            <pubDate>Thu, 17 Apr 2025 01:46:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4860/live/a4642140-1b29-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could this faraway world be home to life?]]></title>
+            <description><![CDATA[Researchers studying planet K2-18b's atmosphere have detected signs of molecules which on Earth are only produced by simple organisms.]]></description>
+            <link>https://www.bbc.com/news/videos/cgqv4dlz3y4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgqv4dlz3y4o#3</guid>
+            <pubDate>Thu, 17 Apr 2025 09:00:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4207/live/56b76590-1b62-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC joins retirees aboard China's 'silver trains' that aim to boost economy]]></title>
+            <description><![CDATA[China is encouraging it's retirees to spend their savings on fun initiatives to help boost its economy, as the country's trade war with the US rages on.]]></description>
+            <link>https://www.bbc.com/news/videos/ce8g65z8y5no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce8g65z8y5no#3</guid>
+            <pubDate>Thu, 17 Apr 2025 11:42:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f24a/live/617f1e50-1b80-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Viral videos claim luxury bags are made in China, is it true?]]></title>
+            <description><![CDATA[BBC Verify's Jake Horton looks into the truth behind the claims, and what we know about how luxury goods are made.]]></description>
+            <link>https://www.bbc.com/news/videos/c8rgvv7me58o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8rgvv7me58o#3</guid>
+            <pubDate>Wed, 16 Apr 2025 17:07:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/1842cc40-1ae1-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Biden attacks Trump in first speech since leaving White House]]></title>
+            <description><![CDATA[The former US president says his successor has "done so much damage and so much destruction" in his first days in office.]]></description>
+            <link>https://www.bbc.com/news/videos/czx101kldl2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czx101kldl2o#3</guid>
+            <pubDate>Wed, 16 Apr 2025 08:15:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2821/live/56647cf0-1a99-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+    </channel>
+</rss>
