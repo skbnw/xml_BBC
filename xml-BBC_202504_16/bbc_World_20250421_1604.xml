@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 21 Apr 2025 16:04:29 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Vatican announces death of Pope Francis aged 88]]></title>
+            <description><![CDATA[The Pope's death comes a day after he appeared in St Peter's Square on Sunday to wish worshippers a happy Easter.]]></description>
+            <link>https://www.bbc.com/news/articles/cqj42vd1rxlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj42vd1rxlo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 15:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/743b/live/929c7890-1e8f-11f0-9e5c-9579b04b24c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump backs defence secretary after reports of second Signal chat leak]]></title>
+            <description><![CDATA[The private messaging group included the US defence secretary's wife, brother and personal lawyer, sources tell US media.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8r701lrno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8r701lrno#0</guid>
+            <pubDate>Mon, 21 Apr 2025 15:54:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a070/live/03c516c0-1eb4-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vance in Delhi to meet Modi amid tariff tensions]]></title>
+            <description><![CDATA[The talks are likely to focus on fast-tracking a trade deal, earlier expected to conclude by the end of 2025.]]></description>
+            <link>https://www.bbc.com/news/articles/c793rzx3l7vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c793rzx3l7vo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 06:55:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e195/live/1d2561a0-1e88-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Salvador offers Venezuela prisoner swap involving US deportees]]></title>
+            <description><![CDATA[El Salvador proposes exchanging 252 US-deported Venezuelans for the same number of "political prisoners" in Venezuela.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5xl5ppzr2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5xl5ppzr2o#0</guid>
+            <pubDate>Mon, 21 Apr 2025 03:10:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d21e/live/4b500ad0-1e4c-11f0-86e6-e13957bc23df.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Professional failures' led to killing of Gaza medics, IDF inquiry says]]></title>
+            <description><![CDATA[Fourteen emergency workers and a UN worker were killed when the Israeli military opened fire on a convoy of vehicles in Gaza last month. ]]></description>
+            <link>https://www.bbc.com/news/articles/c24q6201d8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24q6201d8yo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 06:58:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5602/live/c854cd50-1df1-11f0-8e7e-67cb0e6ea9ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sri Lanka Easter bombings victims named 'heroes of faith' by Vatican]]></title>
+            <description><![CDATA[The 167 people recognised were Catholics attending mass at churches attacked by suicide bombers. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxk8p5en5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxk8p5en5o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 08:49:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a8/live/15cca0d0-1e7e-11f0-a3d8-2570ac61f3da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China warns nations against 'appeasing' US in trade deals]]></title>
+            <description><![CDATA[Beijing was responding to reports that the US will pressure other nations to restrict trade with China.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2708dl9n1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2708dl9n1o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 05:41:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beff/live/a8618e90-1e53-11f0-85cc-67568620b395.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine-year-old dies as Australia weekend drowning toll rises to seven]]></title>
+            <description><![CDATA[The majority of deaths were caused by strong swells washing people into the ocean from rocks. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr4nkxp994po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4nkxp994po#1</guid>
+            <pubDate>Mon, 21 Apr 2025 03:46:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/e9888f60-1e60-11f0-bd39-37d3873505a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 14, killed by lion in Kenya]]></title>
+            <description><![CDATA[The child was snatched from a residential compound on a ranch next to Nairobi National Park, the Kenya Wildlife Service (KWS) said. ]]></description>
+            <link>https://www.bbc.com/news/articles/cd6jxl4pl03o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6jxl4pl03o#1</guid>
+            <pubDate>Sun, 20 Apr 2025 13:42:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a36/live/edba33f0-1dd8-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South African politician condemned for visiting fugitive pastor]]></title>
+            <description><![CDATA[Top MK official Floyd Shivambu attended an Easter service at Shepherd Bushiri's church in Malawi.]]></description>
+            <link>https://www.bbc.com/news/articles/c15v7yxz0l4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15v7yxz0l4o#1</guid>
+            <pubDate>Sun, 20 Apr 2025 17:14:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c422/live/756433a0-1e0b-11f0-a097-e72cbbc5fce1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope wishes worshippers Happy Easter after serious illness]]></title>
+            <description><![CDATA[Pope Francis, who has been recovering after his release from hospital, appeared in St Peter's Square on Easter Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg291ngq7qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg291ngq7qo#1</guid>
+            <pubDate>Sun, 20 Apr 2025 11:51:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572e/live/b82e4ad0-1dd0-11f0-82ad-53180562e38b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DR Congo bans ex-president's party over alleged rebel links]]></title>
+            <description><![CDATA[Joseph Kabila has reportedly returned to the country after spending two years in South Africa.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kv49wyw23o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kv49wyw23o#1</guid>
+            <pubDate>Sun, 20 Apr 2025 11:08:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f0/live/bf504960-1dc8-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attempts to reach ceasefire in Ukraine littered with years of failure]]></title>
+            <description><![CDATA[The 30-hour "Easter truce" and the reported violations underscore the difficulty in securing even a brief pause in fighting.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wdllj8lwxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wdllj8lwxo#2</guid>
+            <pubDate>Mon, 21 Apr 2025 09:05:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b59/live/bc22b440-1e85-11f0-91c2-a77218b5dd61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could an almighty eruption destroy a dreamy Greek island?]]></title>
+            <description><![CDATA[Scientists are investigating for the first time how dangerous the island's next big one could be.]]></description>
+            <link>https://www.bbc.com/news/articles/cm25lz56rezo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm25lz56rezo#2</guid>
+            <pubDate>Sun, 20 Apr 2025 23:59:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf92/live/283edf70-1588-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten women, one guy: The risk-taking dating show that stirred Ethiopia]]></title>
+            <description><![CDATA[Ethiopia's answer to The Bachelor has prompted discussions about dating norms in the conservative country.]]></description>
+            <link>https://www.bbc.com/news/articles/c70zxzd69r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70zxzd69r3o#2</guid>
+            <pubDate>Sun, 20 Apr 2025 23:04:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1260/live/ddbcd600-1ad2-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could AI text alerts help save snow leopards from extinction?]]></title>
+            <description><![CDATA[In Pakistan, it's hoped newly-developed AI cameras could warn villagers via text to move their livestock if snow leopards enter the area. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn80v2ngp74o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn80v2ngp74o#2</guid>
+            <pubDate>Sun, 20 Apr 2025 23:36:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab2/live/0f737810-1c37-11f0-a9ff-39083feca6c9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A death every three minutes: Why India's roads are among the world's deadliest ]]></title>
+            <description><![CDATA[India's roads claimed over 172,000 lives in 2023 - averaging 474 deaths daily, or one every three minutes.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g49pgx6d0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g49pgx6d0o#2</guid>
+            <pubDate>Mon, 21 Apr 2025 00:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d2/live/d1ac7e60-1ab9-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope Francis's last public appearance on Easter Sunday]]></title>
+            <description><![CDATA[The pontiff's last public appearance was for an Easter Sunday blessing at the Vatican's St Peter's Square.]]></description>
+            <link>https://www.bbc.com/news/videos/cj45l85002qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj45l85002qo#3</guid>
+            <pubDate>Mon, 21 Apr 2025 08:17:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6fa/live/4138c370-1e88-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robots race in Chinese half marathon]]></title>
+            <description><![CDATA[The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance.]]></description>
+            <link>https://www.bbc.com/news/videos/ce8gz5vl2z1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce8gz5vl2z1o#3</guid>
+            <pubDate>Sat, 19 Apr 2025 09:36:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bluey's mum actor: My voice never gets recognised]]></title>
+            <description><![CDATA[BBC Newsround's presenter Ricky Boleto speaks to the voice actor who plays Bluey's mum, Chilli.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2y44v1w2zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2y44v1w2zo#3</guid>
+            <pubDate>Fri, 18 Apr 2025 11:43:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6442/live/38cb2380-1c4a-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Olympic legend leaves parents in her dust at school sports day]]></title>
+            <description><![CDATA[The third-fastest woman in history, Shelly-Ann Fraser-Pryce, took part in sports day at her son's school in Jamaica.]]></description>
+            <link>https://www.bbc.com/news/videos/c70zj1xxgjzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c70zj1xxgjzo#3</guid>
+            <pubDate>Fri, 18 Apr 2025 09:18:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e7/live/8f46ea50-1c31-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish police uncover illegal underground shooting range]]></title>
+            <description><![CDATA[Police suspect the range was used by a weapons trafficking ring to test assault rifles and other arms.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yrkw6zjp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yrkw6zjp1o#3</guid>
+            <pubDate>Thu, 17 Apr 2025 01:46:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4860/live/a4642140-1b29-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+    </channel>
+</rss>
