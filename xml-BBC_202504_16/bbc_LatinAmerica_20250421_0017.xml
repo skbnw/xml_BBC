@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Latin America]]></description>
+        <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/latin_america</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 21 Apr 2025 00:18:30 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Gunmen shoot 12 dead at Ecuador cockfight]]></title>
+            <description><![CDATA[Gunmen in fake army uniforms opened fire at a cockfighting ring, in a suspected gang-related attack.]]></description>
+            <link>https://www.bbc.com/news/articles/cm241v1w2vro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm241v1w2vro#0</guid>
+            <pubDate>Sun, 20 Apr 2025 01:08:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aba/live/1b4ccc90-1d81-11f0-8204-e1b696582403.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Supreme Court halts deportation of detained Venezuelans]]></title>
+            <description><![CDATA[The accused gang members are being sent to a notorious jail in El Salvador under a 19th-Century law.]]></description>
+            <link>https://www.bbc.com/news/articles/czd3rdjn81lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czd3rdjn81lo#0</guid>
+            <pubDate>Sat, 19 Apr 2025 21:26:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/a2b3c120-1cf5-11f0-bead-17ff6258b15e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US senator says 'traumatised' man deported to El Salvador moved to new prison]]></title>
+            <description><![CDATA[Sen Chris Van Hollen returned from El Salvador and spoke about his time meeting with Kilmar Ábrego García.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdx0gp0kd0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdx0gp0kd0o#0</guid>
+            <pubDate>Sun, 20 Apr 2025 15:22:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c2/live/70aee0e0-1cb6-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrant tents removed from Guantanamo bay, satellite images show]]></title>
+            <description><![CDATA[Some 175 tents raised as part of an expansion to the base's migrant detention centre have been removed.]]></description>
+            <link>https://www.bbc.com/news/articles/crm3x27vw70o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm3x27vw70o#0</guid>
+            <pubDate>Thu, 17 Apr 2025 23:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7dc/live/87cc3f80-1bac-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smugglers' paradise: How US guns flow to gang-ravaged Haiti]]></title>
+            <description><![CDATA[The journey of two boxes of weapons reveals a chain of lax laws, absent checks and suspected corruption.]]></description>
+            <link>https://www.bbc.com/news/articles/cly15pp707go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly15pp707go#0</guid>
+            <pubDate>Thu, 17 Apr 2025 00:49:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4753/live/dbc8a730-1a0e-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia declares health emergency after dozens die of yellow fever]]></title>
+            <description><![CDATA[Health authorities are urging people to get vaccinated before travelling to risk areas for Easter. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj68x4p412eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj68x4p412eo#0</guid>
+            <pubDate>Thu, 17 Apr 2025 09:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856d/live/80eb01d0-1b64-11f0-b405-a9063c038ff6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French-Haitian panel to study ex-colony's history]]></title>
+            <description><![CDATA[The French president announced the commission on the 200th anniversary of France ordering Haiti to pay a debt for its freedom.]]></description>
+            <link>https://www.bbc.com/news/articles/c39j7k1n48mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39j7k1n48mo#0</guid>
+            <pubDate>Thu, 17 Apr 2025 16:38:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/e6001dd0-1ba0-11f0-8af9-9fa03dc00539.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is the man in middle of Maryland deportation case?]]></title>
+            <description><![CDATA[Officials in the US and El Salvador have been unwilling to return the man home, sparking a legal battle.]]></description>
+            <link>https://www.bbc.com/news/articles/c20z63gr8mzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20z63gr8mzo#1</guid>
+            <pubDate>Fri, 18 Apr 2025 22:55:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea4/live/b0c8d290-1a12-11f0-95f9-83e0a180f556.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was China the reason Guyana faced higher Trump tariff?]]></title>
+            <description><![CDATA[A Guyanese political commentator says Washington objects to Beijing's "very strong foothold" in the country.]]></description>
+            <link>https://www.bbc.com/news/articles/cjeww5zq88no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjeww5zq88no#1</guid>
+            <pubDate>Mon, 14 Apr 2025 05:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d8/live/f850bf40-160e-11f0-998c-6b1bac7d7605.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mario Vargas Llosa: Giant of Latin American literature dies at 89]]></title>
+            <description><![CDATA[The Peruvian was  called a "divinely gifted story-teller" when he won the Nobel in 2010.]]></description>
+            <link>https://www.bbc.com/news/articles/cg41r4kx0lko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg41r4kx0lko#1</guid>
+            <pubDate>Mon, 14 Apr 2025 04:02:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793e/live/edd40e40-18da-11f0-a381-df48f9ae33d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British man's tattoo wrongly linked to Venezuelan gang in US government document]]></title>
+            <description><![CDATA[A tattoo belonging to a man from Derbyshire has appeared in a US government document used to identify members of Tren de Aragua, a notorious Venezuelan gang, despite the man having no connection to the group.]]></description>
+            <link>https://www.bbc.com/news/articles/cly22xm8kx1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly22xm8kx1o#1</guid>
+            <pubDate>Thu, 10 Apr 2025 23:08:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50f1/live/108aaf50-16a3-11f0-b1b3-7358f8d35a35.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Nightclub survivor recalls 'total chaos' of ceiling collapse that killed 221]]></title>
+            <description><![CDATA[Carwin Javier Molleja remembers "the screams" as the roof of the Dominican Republic nightclub collapsed, killing 218 people. ]]></description>
+            <link>https://www.bbc.com/news/articles/czx1yy2xrgro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx1yy2xrgro#1</guid>
+            <pubDate>Fri, 11 Apr 2025 08:22:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f90c/live/f06c6170-161e-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 17, whose dad is lost in nightclub rubble spends birthday at scene]]></title>
+            <description><![CDATA[Shailyn Peña is one of many whose loved ones are missing after the roof of a nightclub collapsed in Santo Domingo.]]></description>
+            <link>https://www.bbc.com/news/articles/cly885xre5do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly885xre5do#1</guid>
+            <pubDate>Thu, 10 Apr 2025 09:52:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1890/live/cf329170-159a-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key immigration moments from Trump and Bukele meeting]]></title>
+            <description><![CDATA[The meeting comes after the Trump administration mistakenly deported a Maryland resident due to an 'administrative error.'
+]]></description>
+            <link>https://www.bbc.com/news/videos/c78jz7g64l7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c78jz7g64l7o#2</guid>
+            <pubDate>Mon, 14 Apr 2025 17:59:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf2/live/28db54f0-1956-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Pope seen without usual papal attire]]></title>
+            <description><![CDATA[Pope Francis visits St Peter's Basilica in the Vatican, still with an oxygen tube, as he continues to recover from ill health.]]></description>
+            <link>https://www.bbc.com/news/videos/cz01100gz1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz01100gz1jo#2</guid>
+            <pubDate>Thu, 10 Apr 2025 18:05:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/d39a2350-1634-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moment Pope Francis greets cheering crowds from hospital window]]></title>
+            <description><![CDATA[It's the first public appearance for the pontiff since he was admitted in February. ]]></description>
+            <link>https://www.bbc.com/news/videos/c5y2e5e39v0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5y2e5e39v0o#2</guid>
+            <pubDate>Sun, 23 Mar 2025 11:35:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dd/live/b303efd0-07da-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Do you feel guilty?' - Watch BBC reporter challenge smuggler as he follows lethal drugs trade]]></title>
+            <description><![CDATA[Quentin Sommerville gains access to a cartel's operation as the US grapples with hundreds of thousands of opioid deaths.]]></description>
+            <link>https://www.bbc.com/news/videos/cx20y477yrwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx20y477yrwo#2</guid>
+            <pubDate>Wed, 12 Mar 2025 23:52:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c8/live/27083a90-ff97-11ef-a8b1-950887ddc6e5.jpg"/>
+        </item>
+    </channel>
+</rss>
