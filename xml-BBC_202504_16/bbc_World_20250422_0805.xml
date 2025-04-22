@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 22 Apr 2025 08:05:06 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Final days of Pope who joined Vatican crowds at Easter despite doctors' advice]]></title>
+            <description><![CDATA[Francis did what he had always done, receiving visitors and meeting people from every walk of life.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xd9xnp0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xd9xnp0wo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 18:48:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5897/live/79300140-1ed2-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US stocks and dollar plunge as Trump attacks Fed chair Powell]]></title>
+            <description><![CDATA[The president amps up attack against US central bank boss calling him "a major loser" for not lowering interest rates.]]></description>
+            <link>https://www.bbc.com/news/articles/ce92y3j9v34o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce92y3j9v34o#0</guid>
+            <pubDate>Tue, 22 Apr 2025 07:40:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79be/live/02f3b2a0-1ed8-11f0-9c43-3fba77a746aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Putin suggests Russia open to direct talks with Ukraine]]></title>
+            <description><![CDATA[The Russian president's proposal is the first signal of bilateral talks since the early days of the war.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq7ywvw1lzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq7ywvw1lzo#0</guid>
+            <pubDate>Tue, 22 Apr 2025 04:04:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ee/live/83eaeb20-1f24-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi and Vance praise progress in trade talks as higher tariffs loom]]></title>
+            <description><![CDATA[US Vice-President JD Vance is currently on a four-day visit to India with his wife and three children.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wdz5205ylo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wdz5205ylo#0</guid>
+            <pubDate>Tue, 22 Apr 2025 06:23:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc66/live/270c1f10-1f3c-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Israel-Gaza ceasefire plan proposed, Hamas source tells BBC]]></title>
+            <description><![CDATA[Egyptian and Qatari mediators suggest a truce of up to seven years and a permanent end to the war.]]></description>
+            <link>https://www.bbc.com/news/articles/c62xnqlj11lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62xnqlj11lo#0</guid>
+            <pubDate>Tue, 22 Apr 2025 07:05:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dce/live/fa2d7000-1e89-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harvard University sues Trump administration to stop funding freeze]]></title>
+            <description><![CDATA[The suit is part of a feud that escalated when the institution rejected a list of demands from the Trump administration.]]></description>
+            <link>https://www.bbc.com/news/articles/c4grwkyxgjwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grwkyxgjwo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 22:11:28 GMT</pubDate>
+            <media:thumbnail width="240" height="150" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf10/live/adc02cd0-1efc-11f0-80b3-83959215671c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[US watchdog sues Uber over subscription practices]]></title>
+            <description><![CDATA[The FTC accused Uber of charging people for its Uber One subscription service without getting their consent.]]></description>
+            <link>https://www.bbc.com/news/articles/c1drkq0dy07o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1drkq0dy07o#1</guid>
+            <pubDate>Tue, 22 Apr 2025 00:04:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542a/live/0456b050-1f20-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China executes man who stabbed Japanese school boy ]]></title>
+            <description><![CDATA[Zhong Changchun was sentenced to death in January for attacking the boy who later died of his injuries.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kv93y4289o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kv93y4289o#1</guid>
+            <pubDate>Tue, 22 Apr 2025 05:44:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c8/live/df299f20-1f35-11f0-a316-3df7d523c62c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump backs defence secretary after reports of second Signal chat leak]]></title>
+            <description><![CDATA[The private messaging group included the US defence secretary's wife, brother and personal lawyer, sources tell US media.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8r701lrno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8r701lrno#1</guid>
+            <pubDate>Mon, 21 Apr 2025 17:53:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ba/live/8daa3e90-1ed4-11f0-9c43-3fba77a746aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sri Lanka Easter bombings victims named 'heroes of faith' by Vatican]]></title>
+            <description><![CDATA[The 167 people recognised were Catholics attending mass at churches attacked by suicide bombers. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxk8p5en5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxk8p5en5o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 08:49:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a8/live/15cca0d0-1e7e-11f0-a3d8-2570ac61f3da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China warns nations against 'appeasing' US in trade deals]]></title>
+            <description><![CDATA[Beijing was responding to reports that the US will pressure other nations to restrict trade with China.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2708dl9n1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2708dl9n1o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 05:41:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beff/live/a8618e90-1e53-11f0-85cc-67568620b395.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine-year-old dies as Australia weekend drowning toll rises to seven]]></title>
+            <description><![CDATA[The majority of deaths were caused by strong swells washing people into the ocean from rocks. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr4nkxp994po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4nkxp994po#1</guid>
+            <pubDate>Mon, 21 Apr 2025 03:46:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/e9888f60-1e60-11f0-bd39-37d3873505a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada's top candidates talk up fossil fuels as climate slips down agenda]]></title>
+            <description><![CDATA[Amid tariff threats from the US, energy and economic security are key issues in Canada's federal election. ]]></description>
+            <link>https://www.bbc.com/news/articles/c87pev3jpyyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87pev3jpyyo#2</guid>
+            <pubDate>Mon, 21 Apr 2025 23:16:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c78/live/eb1a46b0-1aa1-11f0-999d-89a1b86ed8d9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is Cardinal Kevin Farrell, the acting head of the Vatican? ]]></title>
+            <description><![CDATA[The cardinal will oversee the Vatican until a new pontiff is elected. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly1md6r3l8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly1md6r3l8o#2</guid>
+            <pubDate>Mon, 21 Apr 2025 23:51:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0af6/live/e5f04d30-1eff-11f0-8558-edc4b2484636.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attempts to reach ceasefire in Ukraine littered with years of failure]]></title>
+            <description><![CDATA[The 30-hour "Easter truce" and the reported violations underscore the difficulty in securing even a brief pause in fighting.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wdllj8lwxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wdllj8lwxo#2</guid>
+            <pubDate>Mon, 21 Apr 2025 09:05:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b59/live/bc22b440-1e85-11f0-91c2-a77218b5dd61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could an almighty eruption destroy a dreamy Greek island?]]></title>
+            <description><![CDATA[Scientists are investigating for the first time how dangerous the island's next big one could be.]]></description>
+            <link>https://www.bbc.com/news/articles/cm25lz56rezo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm25lz56rezo#2</guid>
+            <pubDate>Sun, 20 Apr 2025 23:59:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf92/live/283edf70-1588-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten women, one guy: The risk-taking dating show that stirred Ethiopia]]></title>
+            <description><![CDATA[Ethiopia's answer to The Bachelor has prompted discussions about dating norms in the conservative country.]]></description>
+            <link>https://www.bbc.com/news/articles/c70zxzd69r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70zxzd69r3o#2</guid>
+            <pubDate>Sun, 20 Apr 2025 23:04:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1260/live/ddbcd600-1ad2-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: 'Our father has died' - World mourns for Pope Francis]]></title>
+            <description><![CDATA[From mourners outside the Vatican to world leaders, tributes poured for Pope Francis who died aged 88.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cglx8ng983go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cglx8ng983go#3</guid>
+            <pubDate>Mon, 21 Apr 2025 17:35:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8016/live/283daa90-1ed6-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope Francis's last public appearance on Easter Sunday]]></title>
+            <description><![CDATA[The pontiff's last public appearance was for an Easter Sunday blessing at the Vatican's St Peter's Square.]]></description>
+            <link>https://www.bbc.com/news/videos/cj45l85002qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj45l85002qo#3</guid>
+            <pubDate>Mon, 21 Apr 2025 08:17:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6fa/live/4138c370-1e88-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robots race in Chinese half marathon]]></title>
+            <description><![CDATA[The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance.]]></description>
+            <link>https://www.bbc.com/news/videos/ce8gz5vl2z1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce8gz5vl2z1o#3</guid>
+            <pubDate>Sat, 19 Apr 2025 09:36:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bluey's mum actor: My voice never gets recognised]]></title>
+            <description><![CDATA[BBC Newsround's presenter Ricky Boleto speaks to the voice actor who plays Bluey's mum, Chilli.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2y44v1w2zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2y44v1w2zo#3</guid>
+            <pubDate>Fri, 18 Apr 2025 11:43:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6442/live/38cb2380-1c4a-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 22 Apr 2025 08:05:09 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[I felt BBC wanted me to leave Match of the Day, says Gary Lineker]]></title>
+            <description><![CDATA[The presenter is stepping down from the football show, but will still host World Cup and FA Cup coverage.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3116660g4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3116660g4o#0</guid>
+            <pubDate>Mon, 21 Apr 2025 23:04:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1472/live/e384ab80-1ab9-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Vivienne hid ketamine struggle 'to protect family']]></title>
+            <description><![CDATA[James Lee Williams' sister says the family only learned of the drag performer's drug problem after watching Drag Race UK.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5e7y8qv0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5e7y8qv0o#0</guid>
+            <pubDate>Tue, 22 Apr 2025 05:02:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee88/live/c6182e80-1ba6-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nationalities of foreign criminals to be published]]></title>
+            <description><![CDATA[Data is due to be released by the year's end showing nationalities and crimes of those awaiting deportation.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjln7zzz8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjln7zzz8eo#0</guid>
+            <pubDate>Tue, 22 Apr 2025 06:40:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576e/live/9a7dc3b0-1f30-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Island where Stormzy wrote album on sale for £25m]]></title>
+            <description><![CDATA[Osea Island, a secluded retreat reached by a causeway, is popular with stars seeking privacy.]]></description>
+            <link>https://www.bbc.com/news/articles/czx410p5kxpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx410p5kxpo#0</guid>
+            <pubDate>Tue, 22 Apr 2025 06:04:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/d94f2da0-1eee-11f0-9ca7-79cef223d54f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Manslaughter charges after fatal crash on golf course]]></title>
+            <description><![CDATA[Suzanne Cherry died four days after being struck by a van which had been pursued by police.]]></description>
+            <link>https://www.bbc.com/news/articles/cx270yz150zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx270yz150zo#0</guid>
+            <pubDate>Mon, 21 Apr 2025 15:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e63/live/37dda320-1ea3-11f0-8fcd-7d7cf7ac0df4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home secretary calls damage to statues disgraceful]]></title>
+            <description><![CDATA[Graffiti is found on seven statues of historic figures in Parliament Square following a trans rights protest.]]></description>
+            <link>https://www.bbc.com/news/articles/crkx78zlm4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkx78zlm4po#0</guid>
+            <pubDate>Sun, 20 Apr 2025 23:59:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be0/live/6d94d320-1dc8-11f0-9d94-85c1700070ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after woman stabbed to death]]></title>
+            <description><![CDATA[A man is arrested on suspicion of murder after 45-year-old Pamela Munro was stabbed to death.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqrz78wr57o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqrz78wr57o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 16:54:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc3/live/7c1c7700-1ecb-11f0-8ec4-cb21354b4a30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Petrol bombers attack police during dissident republican parade]]></title>
+            <description><![CDATA[Petrol bombs were thrown at police on Derry's Walls, as 50 people in paramilitary-style clothing led a republican parade.]]></description>
+            <link>https://www.bbc.com/news/articles/c62zr6d2v07o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62zr6d2v07o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 17:43:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6314/live/81920370-1ed6-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P&O cruise cancelled due to refit delay]]></title>
+            <description><![CDATA[Aurora was due to depart Southampton on Monday afternoon on a three-day trip to Zeebrugge.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy0gn0l0xdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy0gn0l0xdo#1</guid>
+            <pubDate>Mon, 21 Apr 2025 15:54:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e267/live/18837d70-1ec0-11f0-9d4d-4370edfa48ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King and Queen have 'heavy hearts' after Pope's death]]></title>
+            <description><![CDATA[The King paid tribute to Pope Francis's "compassion" and "tireless commitment" to people of faith.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8v2y86gd7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8v2y86gd7o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 19:28:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2da/live/7936a180-1e91-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paths closed following island's 'scary' landslip]]></title>
+            <description><![CDATA[Residents are visitors are being warned to stay away from the affected area after the landslip on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x89vqxwdro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x89vqxwdro#1</guid>
+            <pubDate>Mon, 21 Apr 2025 18:14:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33cf/live/48338820-1ec6-11f0-8e64-2f00add431ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Controlled explosion after homes evacuated in town]]></title>
+            <description><![CDATA[A resident in Long Eaton witnessed the destruction of the item in West Park.]]></description>
+            <link>https://www.bbc.com/news/articles/ce92y25z2n8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce92y25z2n8o#1</guid>
+            <pubDate>Mon, 21 Apr 2025 15:11:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d564/live/59e51ea0-1ebf-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sisters of man shot dead 10 years ago renew appeal]]></title>
+            <description><![CDATA[Ola Raji, 21, was stabbed and shot by two men while cycling on the East Surrey Grove estate.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5x67pg0kxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5x67pg0kxo#1</guid>
+            <pubDate>Mon, 21 Apr 2025 09:36:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b93/live/2d0af440-1e8d-11f0-91c2-a77218b5dd61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gatwick worst for delays among UK airports]]></title>
+            <description><![CDATA[Departures from Gatwick Airport were an average of more than 23 minutes behind schedule in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg9rze9k9no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg9rze9k9no#1</guid>
+            <pubDate>Mon, 21 Apr 2025 05:57:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b9/live/49f20f60-1e76-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stoat cull credited with rise in Orkney curlew numbers]]></title>
+            <description><![CDATA[A mass eradication of the non-native mammals is believed to have helped the wading bird population recover.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r59jkkyejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r59jkkyejo#1</guid>
+            <pubDate>Mon, 21 Apr 2025 08:39:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b02/live/2e879cb0-1dde-11f0-80b3-83959215671c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: 'We've spent five years building London on Minecraft']]></title>
+            <description><![CDATA[Minecraft players have spent about 15,000 hours in total on the project to build London and the UK]]></description>
+            <link>https://www.bbc.com/news/videos/clyq10vyvnqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/clyq10vyvnqo#2</guid>
+            <pubDate>Sat, 19 Apr 2025 06:57:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d907/live/f58c5de0-1c4a-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch as stranded dog rescued from cliff edge]]></title>
+            <description><![CDATA[Ember became stuck after chasing after a ball while out walking along a coastal path with her owner.]]></description>
+            <link>https://www.bbc.com/news/videos/cde2gnxw8eno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cde2gnxw8eno#2</guid>
+            <pubDate>Thu, 17 Apr 2025 17:31:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7aa/live/bba8a810-1bad-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We really need our bee inspectors back']]></title>
+            <description><![CDATA[Beekeepers warn their hives are at risk unless an anti-illness inspection service is reinstated.]]></description>
+            <link>https://www.bbc.com/news/videos/c0qnp0e0p47o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0qnp0e0p47o#2</guid>
+            <pubDate>Thu, 17 Apr 2025 23:02:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2604/live/64c212b0-1be0-11f0-8a1e-3ff815141b98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Supreme Court's ruling on the definition of a woman... in 65 seconds]]></title>
+            <description><![CDATA[Watch: Supreme Court's ruling on the definition of a woman... in 65 seconds]]></description>
+            <link>https://www.bbc.com/news/videos/c89gd808nj7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c89gd808nj7o#2</guid>
+            <pubDate>Wed, 16 Apr 2025 20:02:14 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db04/live/00ceea10-1af7-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers:  'People's Pope' and 'Battle for Church's future']]></title>
+            <description><![CDATA[The death of Pope Francis, aged 88, dominates the front pages of the major UK papers.]]></description>
+            <link>https://www.bbc.com/news/articles/c87pr4710e8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87pr4710e8o#3</guid>
+            <pubDate>Tue, 22 Apr 2025 04:20:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d1/live/7e7657d0-1f13-11f0-80b3-83959215671c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oak felling: 'A crime against 500-year-old being']]></title>
+            <description><![CDATA[Hundreds of people gather to protest the felling of an ancient oak tree in Whitewebbs Park in north London.]]></description>
+            <link>https://www.bbc.com/news/articles/cn05y14dy7do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn05y14dy7do#3</guid>
+            <pubDate>Mon, 21 Apr 2025 13:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3482/live/00de06c0-1e90-11f0-9e5c-9579b04b24c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[These men put off doctor's visits again and again. Then came a tipping point]]></title>
+            <description><![CDATA[In an NHS survey, 48% of men said they felt pressure to "tough it out" when it came to potential health issues.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5q14qm0l2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5q14qm0l2o#3</guid>
+            <pubDate>Mon, 21 Apr 2025 00:17:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e73/live/7d50dc90-1e00-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Britain's nursery problem: Parents still face 'childcare deserts']]></title>
+            <description><![CDATA[Nursery places can difficult to find, particularly in certain areas - so why have successive governments not yet found a solution?]]></description>
+            <link>https://www.bbc.com/news/articles/c8x8rznw9gyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x8rznw9gyo#3</guid>
+            <pubDate>Mon, 21 Apr 2025 00:53:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d9/live/a7139f50-1b75-11f0-8a1e-3ff815141b98.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Triple amputee's solo Pacific sail growing more dangerous each day]]></title>
+            <description><![CDATA[Ex soldier Craig Wood is currently sailing from Mexico to Japan, which he hopes to reach in June.]]></description>
+            <link>https://www.bbc.com/news/articles/crldekkkzzko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crldekkkzzko#3</guid>
+            <pubDate>Mon, 21 Apr 2025 11:48:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbd/live/c6c5f940-1e9c-11f0-9e5c-9579b04b24c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swinney leads Scottish tributes following Pope's death]]></title>
+            <description><![CDATA[Scottish religious and political leaders have paid tribute to the pontiff, who has died at the age of 88. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4grw94x42no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grw94x42no#4</guid>
+            <pubDate>Mon, 21 Apr 2025 15:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e51e/live/f5eb5f10-1ec1-11f0-9d4d-4370edfa48ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parishioners and church leaders pay tribute to 'humble' Pope]]></title>
+            <description><![CDATA[Members of the public and church leaders express "sadness" after the death of Pope Francis.]]></description>
+            <link>https://www.bbc.com/news/articles/c86jvp2vxdlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86jvp2vxdlo#4</guid>
+            <pubDate>Mon, 21 Apr 2025 20:33:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb92/live/f2343760-1ea9-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Third day of rail disruption as repairs continue]]></title>
+            <description><![CDATA[Journeys will be cancelled or suspended on Tuesday with "urgent repairs" needed on a bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/c70zl6d5881o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70zl6d5881o#4</guid>
+            <pubDate>Tue, 22 Apr 2025 05:48:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f18f/live/c1636940-1f39-11f0-91ef-cf6de75af7e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three men charged over golf course crash death]]></title>
+            <description><![CDATA[Suzanne Cherry died four days after being struck by a van which had been pursued by police.]]></description>
+            <link>https://www.bbc.com/news/articles/cx270yz150zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx270yz150zo#4</guid>
+            <pubDate>Mon, 21 Apr 2025 15:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e63/live/37dda320-1ea3-11f0-8fcd-7d7cf7ac0df4.jpg"/>
+        </item>
+    </channel>
+</rss>
