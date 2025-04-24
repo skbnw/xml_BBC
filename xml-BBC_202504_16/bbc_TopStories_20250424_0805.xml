@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 24 Apr 2025 08:05:32 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Our daughters will be with us,' say dads of Southport victims running London Marathon]]></title>
+            <description><![CDATA[David Stancombe and Sergio Aguiar tell BBC daughters will be with them in spirit during London race.]]></description>
+            <link>https://www.bbc.com/news/articles/c99pkz519g2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99pkz519g2o#0</guid>
+            <pubDate>Thu, 24 Apr 2025 04:45:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d5/live/d54d35a0-2068-11f0-9060-674316cb3a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flintoff 'thought he had died' in Top Gear crash]]></title>
+            <description><![CDATA[Cricketer-turned-TV host Andrew "Freddie" Flintoff opens up about his car crash for the first time.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxgzy8wy72o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxgzy8wy72o#0</guid>
+            <pubDate>Wed, 23 Apr 2025 23:34:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ef/live/d00c17f0-2063-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My peanut allergy nearly killed me - now I eat them every day for breakfast']]></title>
+            <description><![CDATA[Just a few years ago, Chris Brookes-Smith could have died from eating peanuts - but taking part in a clinical trial has changed his life.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgpvzrjjdzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgpvzrjjdzo#0</guid>
+            <pubDate>Wed, 23 Apr 2025 23:03:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc22/live/ec927e90-20d2-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Hamas protests on rise in Gaza as group's iron grip slips]]></title>
+            <description><![CDATA[Gazan civilians are losing their fear of Hamas, openly criticising the group on the streets and online.]]></description>
+            <link>https://www.bbc.com/news/articles/c175z14r8pro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c175z14r8pro#0</guid>
+            <pubDate>Thu, 24 Apr 2025 05:01:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb1/live/6eba3d30-1f71-11f0-b265-abe347419ae3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman who tricked her way into men-only Magic Circle finally allowed in]]></title>
+            <description><![CDATA[Sophie Lloyd disguised herself as a man to join the Magic Circle in 1991, when female magicians were not allowed membership.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy79nq4yz4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy79nq4yz4o#0</guid>
+            <pubDate>Thu, 24 Apr 2025 07:21:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c726/live/e834ee10-2054-11f0-9060-674316cb3a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ofcom finalises rules to protect children online]]></title>
+            <description><![CDATA[Websites will have to instate age checks and tighten up algorithm recommendations for young users. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yljn2vkn1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yljn2vkn1o#0</guid>
+            <pubDate>Thu, 24 Apr 2025 07:37:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac0/live/9dd349a0-20d8-11f0-b0e5-d9ee068af7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Universal hints at century-long plans for UK park]]></title>
+            <description><![CDATA[President of new ventures, Page Thompson, says the theme park is just the start of local investment.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yrg95rp5wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yrg95rp5wo#0</guid>
+            <pubDate>Thu, 24 Apr 2025 04:24:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f791/live/47446c10-2059-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions of vapes seized in illegal trade crackdown]]></title>
+            <description><![CDATA[Single-use vapes are among the main driving forces of the black market, the BBC is told.]]></description>
+            <link>https://www.bbc.com/news/articles/cnv5e6rjq2zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnv5e6rjq2zo#0</guid>
+            <pubDate>Thu, 24 Apr 2025 02:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5421/live/56e20c80-1e2a-11f0-9172-c9f961660029.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Killers and stalkers should live in restricted zones, say victims]]></title>
+            <description><![CDATA[Rhianon Bragg, who was stalked by her ex-partner, felt "trapped" when he was released from prison.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8gr62ym4ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8gr62ym4ko#0</guid>
+            <pubDate>Thu, 24 Apr 2025 05:03:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4b7/live/3d557460-206d-11f0-82ef-73284b78c058.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We'll do Paddington proud' - Tom Fletcher reveals details of musical]]></title>
+            <description><![CDATA[The McFly star says he is "so lucky and honoured" to have written the music and lyrics for the new show.]]></description>
+            <link>https://www.bbc.com/news/articles/c793l125gwvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c793l125gwvo#1</guid>
+            <pubDate>Thu, 24 Apr 2025 04:57:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b329/live/01b69810-2033-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Crimea is lost' and Reeves 'ready to cut tariffs']]></title>
+            <description><![CDATA[Donald Trump's warning to Volodymyr Zelensky and Rachel Reeves's latest trade moves make Thursday's front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/c24qd8lqynjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24qd8lqynjo#1</guid>
+            <pubDate>Thu, 24 Apr 2025 04:23:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af5/live/7053dc60-2097-11f0-9060-674316cb3a1f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why South Africa and Ukraine are wooing each other - and what will Trump think?]]></title>
+            <description><![CDATA[Volodymyr Zelensky is on a historic visit to South Africa to counter Russia's influence on the continent.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g75825r94o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g75825r94o#1</guid>
+            <pubDate>Wed, 23 Apr 2025 23:25:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb10/live/f8aaae60-203b-11f0-9f40-15f12af7a309.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five cards China holds in a trade war with the US]]></title>
+            <description><![CDATA[From rare earths to billions in US debt, here's what China has in its arsenal - and how strong they are.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kxe1m1y26o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kxe1m1y26o#1</guid>
+            <pubDate>Wed, 23 Apr 2025 21:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f017/live/1a4c4200-1f2d-11f0-9612-0d839e1e9bdc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly Kashmir attack risks India military escalation against Pakistan]]></title>
+            <description><![CDATA[India will respond but it's not clear how - or at what cost, experts say.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></description>
+            <link>https://www.bbc.com/news/articles/cwynx7kgyqvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynx7kgyqvo#1</guid>
+            <pubDate>Wed, 23 Apr 2025 21:44:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f18/live/8159fed0-201b-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The church Pope Francis kept returning to - and chose as his final resting place]]></title>
+            <description><![CDATA[The Pope would visit Santa Maria Maggiore whenever he returned to Rome and chose it as the site of his grave.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrgzl0vyqpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrgzl0vyqpo#1</guid>
+            <pubDate>Wed, 23 Apr 2025 21:41:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7368/live/53ba56c0-2087-11f0-b7c0-4f6e24ac1319.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How long are people having to wait to take their driving test?]]></title>
+            <description><![CDATA[BBC Verify finds that three quarters of British driving test centres have a 24-week wait to book a practical test.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg91n5v44ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg91n5v44ko#1</guid>
+            <pubDate>Wed, 23 Apr 2025 12:51:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e058/live/4c9edac0-2035-11f0-9c65-a5c3dc449bf3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Proms go dark: The Traitors and all-night concerts planned for 2025]]></title>
+            <description><![CDATA[The programme for the 2025 Proms season is unveiled, with a host of special guests... and Traitors.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m9gllw4dzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m9gllw4dzo#3</guid>
+            <pubDate>Thu, 24 Apr 2025 01:11:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa1/live/dd580c60-2046-11f0-9411-15ea0745f511.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Water firms admit sewage monitoring damaging public trust]]></title>
+            <description><![CDATA[The industry says powers to self-monitor water quality should be handed back to the regulator. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdxngw96qrgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxngw96qrgo#3</guid>
+            <pubDate>Thu, 24 Apr 2025 01:09:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5d/live/17032aa0-2063-11f0-82ef-73284b78c058.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exhausted hospital staff putting patients at risk, says watchdog]]></title>
+            <description><![CDATA[NHS safety body wants a focus on staff fatigue as it warns of mistakes and impaired decision-making.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6jz3z7en6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6jz3z7en6o#3</guid>
+            <pubDate>Thu, 24 Apr 2025 01:15:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036e/live/433df8a0-2051-11f0-9177-cd94edc26715.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James Bulger's mum seeks AI law to curb clips of murder victims]]></title>
+            <description><![CDATA[Denise Fergus says internet laws don't go far enough to protect people from harmful content online.]]></description>
+            <link>https://www.bbc.com/news/articles/cp91m4rzzm0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp91m4rzzm0o#3</guid>
+            <pubDate>Thu, 24 Apr 2025 07:18:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4f/live/9b4aa860-2027-11f0-8ff6-2f179a342bec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean former leader indicted for bribery]]></title>
+            <description><![CDATA[Moon Jae-in was known for his attempts to broker a peace deal with North Korean leader Kim Jong Un.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wd5123j8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wd5123j8yo#3</guid>
+            <pubDate>Thu, 24 Apr 2025 04:12:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/39804980-20ba-11f0-8795-4f2eeb44dbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baby 'born twice' after rare cancer surgery]]></title>
+            <description><![CDATA[Lucy's son was "born twice" as she underwent a five-hour surgery to treat ovarian cancer.]]></description>
+            <link>https://www.bbc.com/news/articles/cglx5gr998zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglx5gr998zo#3</guid>
+            <pubDate>Thu, 24 Apr 2025 05:15:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bba/live/47ae7fe0-2056-11f0-812e-1d2d70e7f356.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vehicles to be freed from car park after two years]]></title>
+            <description><![CDATA[It is thought up to 40 vehicles have been trapped in a building complex car park since December 2022.]]></description>
+            <link>https://www.bbc.com/news/articles/c20z46p0p6jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20z46p0p6jo#3</guid>
+            <pubDate>Thu, 24 Apr 2025 05:11:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/6ae80c60-206a-11f0-82ef-73284b78c058.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Americanswers…on 5 Live! Is Elon Musk being forced out of the White House?]]></title>
+            <description><![CDATA[And will Trump try to influence the election of the next Pope?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0l60x8b</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0l60x8b#5</guid>
+            <pubDate>Wed, 23 Apr 2025 17:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Happens After the Death of a Pope?]]></title>
+            <description><![CDATA[And, Adam and Chris answer listeners political questions on Radio 2.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0l5v47z</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0l5v47z#5</guid>
+            <pubDate>Tue, 22 Apr 2025 18:57:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[An inner drive mistaken for laziness: The makings of Van Dijk ]]></title>
+            <description><![CDATA[As Virgil van Dijk prepares to lift his second Premier League title with Liverpool, we look at how the 33-year-old centre-back learned from early setbacks to become one of the best in the world.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cd9le3v7n8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9le3v7n8eo#7</guid>
+            <pubDate>Wed, 23 Apr 2025 22:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c618/live/bf741ef0-1f92-11f0-9060-674316cb3a1f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Flintoff 'thought he had died' in Top Gear crash]]></title>
+            <description><![CDATA[Cricketer-turned-TV host Andrew "Freddie" Flintoff opens up about his car crash for the first time.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxgzy8wy72o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxgzy8wy72o#7</guid>
+            <pubDate>Wed, 23 Apr 2025 23:34:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ef/live/d00c17f0-2063-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Once a fool to become an expert' - Yee set for marathon debut]]></title>
+            <description><![CDATA[Great Britain's Olympic and world triathlon champion Alex Yee speaks to BBC Sport before taking on his first London Marathon on Sunday.]]></description>
+            <link>https://www.bbc.com/sport/articles/cp31q3d5nkvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cp31q3d5nkvo#7</guid>
+            <pubDate>Thu, 24 Apr 2025 05:42:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e51/live/391701d0-2035-11f0-9f40-15f12af7a309.jpg"/>
+        </item>
+    </channel>
+</rss>
