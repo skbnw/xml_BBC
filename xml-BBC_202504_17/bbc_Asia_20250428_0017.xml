@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Asia]]></description>
+        <link>https://www.bbc.co.uk/news/world/asia</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/asia</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 28 Apr 2025 00:18:02 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/asia/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Beijing seizes tiny sandbank in South China Sea]]></title>
+            <description><![CDATA[The Philippines, which disputes China's claim to the sandbank, responds by releasing a photo of its own forces on another.]]></description>
+            <link>https://www.bbc.com/news/articles/creqp4lxnl4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/creqp4lxnl4o#0</guid>
+            <pubDate>Sun, 27 Apr 2025 19:46:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f74/live/e529c1f0-236a-11f0-beaa-09e98685e1a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drag Race and Pose star Jiggly Caliente dies aged 44]]></title>
+            <description><![CDATA[The drag performer had part of her leg amputated on Thursday after a "severe infection", her family says.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y48zqen7zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y48zqen7zo#0</guid>
+            <pubDate>Sun, 27 Apr 2025 15:52:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e692/live/6687c9a0-2356-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China has halted rare earth exports, can Australia step up?]]></title>
+            <description><![CDATA[Australia has proposed to create a strategic reserve of critical minerals.]]></description>
+            <link>https://www.bbc.com/news/articles/c86je4vyg36o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86je4vyg36o#0</guid>
+            <pubDate>Fri, 25 Apr 2025 06:56:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a3e/live/544ec780-2198-11f0-9048-b9cce02dc397.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China shares rare Moon rocks with US despite trade war]]></title>
+            <description><![CDATA[Two US institutions have been granted access to samples collected by the Chang'e-5 mission in 2020.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8v691qmg5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8v691qmg5o#0</guid>
+            <pubDate>Fri, 25 Apr 2025 04:14:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075e/live/ac52eaf0-219e-11f0-9060-674316cb3a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six police officers killed in Thailand plane crash]]></title>
+            <description><![CDATA[The small plane hit the water around 100 metres from the shore near a coastal resort.]]></description>
+            <link>https://www.bbc.com/news/articles/c4grjjyyke9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grjjyyke9o#0</guid>
+            <pubDate>Fri, 25 Apr 2025 15:50:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ae/live/f23d2510-21eb-11f0-82a0-81392ca4107f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TikTok astrologer arrested for predicting new Myanmar quake]]></title>
+            <description><![CDATA[The prediction caused panic weeks after a 7.7 magnitude quake killed 3,500 people, authorities say.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jx7n3jee9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jx7n3jee9o#0</guid>
+            <pubDate>Fri, 25 Apr 2025 05:31:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af85/live/d9e71db0-21a8-11f0-a5b0-73b99e608e44.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm alive but three in my group didn't make it' - Kashmir attack survivor]]></title>
+            <description><![CDATA[Tourists are returning home after a deadly gun attack killed 26 visitors in Indian-administered Kashmir. ]]></description>
+            <link>https://www.bbc.com/news/videos/cx25vnrvkdko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx25vnrvkdko#0</guid>
+            <pubDate>Fri, 25 Apr 2025 03:45:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/112f/live/bdf34df0-2198-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan suspends visas for Indians after deadly Kashmir attack]]></title>
+            <description><![CDATA[It comes after Delhi's retaliatory measures following a militant attack in Indian-administered Kashmir that killed 26 tourists.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy76y52l9eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy76y52l9eo#1</guid>
+            <pubDate>Thu, 24 Apr 2025 13:40:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3424/live/c3d23c10-210a-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who will win the race to develop a humanoid robot?]]></title>
+            <description><![CDATA[Humanoid robots are attracting a lot of investment but will China dominate the industry?]]></description>
+            <link>https://www.bbc.com/news/articles/c62jxdxng7do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62jxdxng7do#1</guid>
+            <pubDate>Thu, 24 Apr 2025 23:18:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf76/live/64c145a0-145c-11f0-ba12-8d27eb561761.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly Kashmir attack risks India military escalation against Pakistan]]></title>
+            <description><![CDATA[India will respond but it's not clear how - or at what cost, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynx7kgyqvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynx7kgyqvo#1</guid>
+            <pubDate>Wed, 23 Apr 2025 21:44:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f18/live/8159fed0-201b-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rage and despair after brazen attack kills 26 in Indian-administered Kashmir]]></title>
+            <description><![CDATA[Families are mourning loved ones killed by gunmen in one of India's most popular tourist destinations.]]></description>
+            <link>https://www.bbc.com/news/articles/cze10y59j91o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze10y59j91o#1</guid>
+            <pubDate>Wed, 23 Apr 2025 15:28:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fd/live/de1494b0-203d-11f0-9ca7-e308e1ae9161.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-pop singer Bain of Just B comes out during US concert]]></title>
+            <description><![CDATA[The star is among only a handful of K-pop artists who have come out publicly.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6jzd6g9nwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6jzd6g9nwo#1</guid>
+            <pubDate>Thu, 24 Apr 2025 08:58:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/240e/live/f6512330-20d9-11f0-b0e5-d9ee068af7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mass food poisonings cast shadow over Indonesia's free school meals]]></title>
+            <description><![CDATA[Nearly 80 students across two high schools fell sick after eating the meals this week. ]]></description>
+            <link>https://www.bbc.com/news/articles/c77ne2vnkg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77ne2vnkg3o#2</guid>
+            <pubDate>Thu, 24 Apr 2025 23:27:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbe/live/afa5c5e0-20e2-11f0-9b17-b99e39a28c13.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can India really stop river water from flowing into Pakistan?]]></title>
+            <description><![CDATA[After a deadly militant attack in Kashmir, India suspended a key water treaty with neighbouring Pakistan.]]></description>
+            <link>https://www.bbc.com/news/articles/cd7vjyezypqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd7vjyezypqo#2</guid>
+            <pubDate>Fri, 25 Apr 2025 07:18:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb30/live/a5cbe0c0-218e-11f0-bfbd-7bfc77c0737d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five cards China holds in a trade war with the US]]></title>
+            <description><![CDATA[From rare earths to billions in US debt, here's what China has in its arsenal - and how strong they are.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kxe1m1y26o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kxe1m1y26o#2</guid>
+            <pubDate>Wed, 23 Apr 2025 21:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f017/live/1a4c4200-1f2d-11f0-9612-0d839e1e9bdc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Grandpa Francis': A nation remembers the Pope who braved a typhoon for them]]></title>
+            <description><![CDATA[Popes enjoy rockstar status in overwhelmingly Catholic Philippines. And yet, Pope Francis was special.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg2y4k3dpyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg2y4k3dpyo#2</guid>
+            <pubDate>Wed, 23 Apr 2025 00:18:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/068d/live/cefa59e0-1f9f-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where not walking your dog can land you in the doghouse]]></title>
+            <description><![CDATA[A total of 370 out of 882 Indian laws criminalise 7,305 acts - from missed dog walks to murder.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0z7lde14eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0z7lde14eo#2</guid>
+            <pubDate>Tue, 22 Apr 2025 22:12:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f1a/live/b83c1310-1f68-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+    </channel>
+</rss>
