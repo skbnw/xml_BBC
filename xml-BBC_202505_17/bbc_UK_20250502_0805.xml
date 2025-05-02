@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 02 May 2025 08:05:15 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reform's Sarah Pochin becomes party's 5th MP after close by-election]]></title>
+            <description><![CDATA[Sarah Pochin overturns a huge 14,696 majority to win Reform UK’s first by-election.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y6v02vv6wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y6v02vv6wo#0</guid>
+            <pubDate>Fri, 02 May 2025 07:55:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0841/live/ca84a4e0-2721-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: Reform challenging traditional party dominance]]></title>
+            <description><![CDATA[Reform has won the Runcorn and Helsby by-election by just six votes - one of the closest parliamentary elections ever]]></description>
+            <link>https://www.bbc.com/news/articles/cqj4k2l20xlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj4k2l20xlo#0</guid>
+            <pubDate>Fri, 02 May 2025 07:10:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7812/live/5e65e190-271f-11f0-b26b-ab62c890638b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[M&S working 'day and night' over cyber attack]]></title>
+            <description><![CDATA[The boss of the retailer says he is "really sorry" for the disruption which caused it to pause its online operations.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5rz9p2d5ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5rz9p2d5ko#0</guid>
+            <pubDate>Fri, 02 May 2025 07:58:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/d8c65130-2365-11f0-beaa-09e98685e1a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool fans' celebrations during title win caused earth tremors]]></title>
+            <description><![CDATA[Celebrations at Liverpool's title-clinching win at Anfield showed up on the Richter scale.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8vey9355po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8vey9355po#0</guid>
+            <pubDate>Fri, 02 May 2025 05:13:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b92/live/a14a32f0-26a1-11f0-9388-2f277fe8ea5f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dramatic drop in temperatures to mark May bank holiday weekend]]></title>
+            <description><![CDATA[Elizabeth Rizzini with what the weather this Early May bank holiday has in store.]]></description>
+            <link>https://www.bbc.com/weather/articles/cx20znx2x77o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cx20znx2x77o#0</guid>
+            <pubDate>Fri, 02 May 2025 04:55:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0118/live/7ef839f0-26d2-11f0-8cf7-cd70279ae8a3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two Gazan girls first to arrive in UK for medical treatment]]></title>
+            <description><![CDATA[The children have been granted temporary visas to receive private medical treatment in the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgpy75v0nxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgpy75v0nxo#0</guid>
+            <pubDate>Thu, 01 May 2025 22:01:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4105/live/dbb65fd0-26d4-11f0-85de-91766b10dcb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lynx could be first UK zoo-born cat freed into the wild]]></title>
+            <description><![CDATA[It has been moved to Germany's Black Forest in preparation for its release]]></description>
+            <link>https://www.bbc.com/news/articles/c8074ry1yr5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8074ry1yr5o#1</guid>
+            <pubDate>Thu, 01 May 2025 23:03:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da37/live/bfc1e080-2687-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harrods latest retailer to be hit by cyber attack ]]></title>
+            <description><![CDATA[The firm told the BBC it had restricted internet access in its stores following an attempted cyber attack.]]></description>
+            <link>https://www.bbc.com/news/articles/c62x4zxe418o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62x4zxe418o#1</guid>
+            <pubDate>Thu, 01 May 2025 19:47:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3156/live/c6887f30-26ac-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Husband says family shocked after 'lovely' wife found dead in France]]></title>
+            <description><![CDATA[Karen Carter, 65, was found with stab wounds in Trémolat in the Dordogne on Tuesday evening.]]></description>
+            <link>https://www.bbc.com/news/articles/c0456enk5ywo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0456enk5ywo#1</guid>
+            <pubDate>Thu, 01 May 2025 22:39:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0659/live/859bbbe0-26d9-11f0-85de-91766b10dcb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Streeting accused of 'betrayal' over maternity funding plan]]></title>
+            <description><![CDATA[Campaigners say the move will  “rip the heart out of any moves to improve maternity safety”.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynqx77dn5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynqx77dn5o#1</guid>
+            <pubDate>Thu, 01 May 2025 23:14:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99c/live/979e4680-25eb-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vets may face caps on cremations and other charges]]></title>
+            <description><![CDATA[The regulator is considering a range of measures to limit vets bills including price caps.]]></description>
+            <link>https://www.bbc.com/news/articles/c985617r7ejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c985617r7ejo#1</guid>
+            <pubDate>Thu, 01 May 2025 18:12:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ecd/live/320a2b90-18d6-11ef-a806-31280dfedfab.png"/>
+        </item>
+        <item>
+            <title><![CDATA[British woman, 115, becomes world's oldest person]]></title>
+            <description><![CDATA[Ethel Caterham, who lives in Lightwater in Surrey, is 115 and 252 days.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy0zxzpdd4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy0zxzpdd4o#1</guid>
+            <pubDate>Thu, 01 May 2025 17:26:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01cf/live/10d0bde0-269a-11f0-b6a5-5b4a712b1b63.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Co-op cyber attack: Staff told to keep cameras on in meetings]]></title>
+            <description><![CDATA[Experts say the instruction suggests the company fears hackers could be lurking on calls.]]></description>
+            <link>https://www.bbc.com/news/articles/cg72k851dd8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg72k851dd8o#1</guid>
+            <pubDate>Thu, 01 May 2025 12:47:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d56/live/6abfd650-267d-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raid after candy shop charged £900 for sweets]]></title>
+            <description><![CDATA[About £80,000 worth of suspected fake and unsafe goods are seized at an  Oxford Street sweet shop.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5q92npm64o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5q92npm64o#1</guid>
+            <pubDate>Thu, 01 May 2025 18:21:08 GMT</pubDate>
+            <media:thumbnail width="240" height="149" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc02/live/a31dc500-26a2-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Campaigners call for urgent action over unhealthy baby food ]]></title>
+            <description><![CDATA[They are calling on the government to take immediate action to protect babies and children from sugar-laden food.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8jd3ydzd0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8jd3ydzd0o#1</guid>
+            <pubDate>Thu, 01 May 2025 16:22:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b729/live/769f65b0-26b1-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man accused of felling Sycamore Gap told police he was framed in feud]]></title>
+            <description><![CDATA[Both men accused of felling the tree claim they did not have the skill to do so.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg27wpdrzdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg27wpdrzdo#1</guid>
+            <pubDate>Thu, 01 May 2025 15:16:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0249/live/d365ae70-269e-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch video shown to jurors in Sycamore Gap tree trial]]></title>
+            <description><![CDATA[The BBC's Emma Vardy talks through the footage shown in court as two men are accused of illegally chopping down the tree.]]></description>
+            <link>https://www.bbc.com/news/videos/c75dg9ry41go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c75dg9ry41go#3</guid>
+            <pubDate>Wed, 30 Apr 2025 20:29:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d80/live/b7cf8a20-2601-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Reynolds and Wrexham players celebrate promotion]]></title>
+            <description><![CDATA[Club's celebrity co-owner hugs players and poses for selfies after team seals historic promotion.]]></description>
+            <link>https://www.bbc.com/news/videos/cx251wd04kzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx251wd04kzo#3</guid>
+            <pubDate>Sun, 27 Apr 2025 11:44:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f42/live/83695290-2357-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eubank narrowly beats Benn - extended highlights]]></title>
+            <description><![CDATA[Watch as Chris Eubank Jr narrowly beats Conor Benn on points at London's Tottenham Hotspur Stadium.]]></description>
+            <link>https://www.bbc.com/sport/boxing/videos/c20x22kny11o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/c20x22kny11o#3</guid>
+            <pubDate>Sun, 27 Apr 2025 10:10:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f7/live/f351bf80-2342-11f0-9060-674316cb3a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Archive: Watch the moment a fighter jets lands on a motorway]]></title>
+            <description><![CDATA[The M55 opened to motorists just a few weeks after a military jet landed on it and took off again.]]></description>
+            <link>https://www.bbc.com/news/videos/cgkg0xnvn11o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgkg0xnvn11o#3</guid>
+            <pubDate>Sat, 26 Apr 2025 06:32:41 GMT</pubDate>
+            <media:thumbnail width="240" height="145" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac7e/live/ad57bac0-2130-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three brothers drive tiny bus from Land's End to John O'Groats]]></title>
+            <description><![CDATA[James, Andrew and Will Emerton from Cheshire took it in turns to drive the miniature petrol-powered bus.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2741yjlqgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2741yjlqgo#3</guid>
+            <pubDate>Fri, 25 Apr 2025 22:22:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4f/live/00651b70-21ec-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happened in the elections overnight and what's still to come?]]></title>
+            <description><![CDATA[Reform UK wins its first Parliamentary by-election and makes early gains in council elections.]]></description>
+            <link>https://www.bbc.com/news/articles/c1k410w11r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1k410w11r3o#4</guid>
+            <pubDate>Fri, 02 May 2025 07:25:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c1/live/545e5e00-2721-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly quiz: Which famous couple spent their wedding anniversary here?]]></title>
+            <description><![CDATA[How much attention did you pay to what has been going on in the world over the past seven days?]]></description>
+            <link>https://www.bbc.com/news/articles/c75d0l092v5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75d0l092v5o#4</guid>
+            <pubDate>Thu, 01 May 2025 17:00:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a8e/live/107830e0-268a-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tracking a smuggler behind deadly Atlantic migrant crossing]]></title>
+            <description><![CDATA[BBC Verify tracks a man accused of selling places on a migrant boat which left dozens dead after getting lost at sea.]]></description>
+            <link>https://www.bbc.com/news/articles/cz95zx8gex8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz95zx8gex8o#4</guid>
+            <pubDate>Thu, 01 May 2025 23:16:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc45/live/f1581f40-26ac-11f0-b505-55b7c1f611de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four ways the film Conclave sheds light on the secretive way popes are chosen]]></title>
+            <description><![CDATA[The Bafta award-winning film gives viewers a window into a "highly secret and a deeply private process".]]></description>
+            <link>https://www.bbc.com/news/articles/cgkg403x1gxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkg403x1gxo#4</guid>
+            <pubDate>Thu, 01 May 2025 23:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94f7/live/e09bb5a0-269c-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[David Bowie to Doctor Who: Famous faces come to life in art show]]></title>
+            <description><![CDATA[The first immersive exhibition to use one of Britain's national art collections will go on a UK tour.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxg094zk58o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxg094zk58o#4</guid>
+            <pubDate>Thu, 01 May 2025 23:30:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca6/live/0dc57350-2692-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four ways your plants could be affected by hot spring weather]]></title>
+            <description><![CDATA[With warm weather hitting the UK, here's what gardening experts advise for keeping your plants alive.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0xznpj61go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0xznpj61go#4</guid>
+            <pubDate>Thu, 01 May 2025 11:47:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/d678f3a0-2677-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS staff given apology for 'toxic' workplace culture]]></title>
+            <description><![CDATA[A whistleblowing report revealed staff shortages and workplace relationships had compromised patient safety.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3x6vy3lkeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3x6vy3lkeo#5</guid>
+            <pubDate>Fri, 02 May 2025 05:13:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d80/live/ad9442c0-26bb-11f0-a363-6f94df46de37.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Lives will be lost' unless services are restored at hospital]]></title>
+            <description><![CDATA[Politicians tell a public meeting they support proposals to restore emergency surgery services at Swah.]]></description>
+            <link>https://www.bbc.com/news/articles/cedy7ndj6yjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedy7ndj6yjo#5</guid>
+            <pubDate>Fri, 02 May 2025 05:48:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0b/live/af832c90-26de-11f0-8832-1b3a097740ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road upgrade welcomed but more needed, haulier says]]></title>
+            <description><![CDATA[Four years of construction work will end when the route is officially opened on Friday.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6lwj54j2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6lwj54j2o#5</guid>
+            <pubDate>Fri, 02 May 2025 05:19:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7519/live/4c605040-25c9-11f0-bad9-650607376bdc.jpg"/>
+        </item>
+    </channel>
+</rss>
