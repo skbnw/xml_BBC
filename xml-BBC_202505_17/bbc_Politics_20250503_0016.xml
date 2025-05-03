@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Politics]]></description>
+        <link>https://www.bbc.co.uk/news/politics</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/politics</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 03 May 2025 00:16:15 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reform UK makes big gains in English local elections]]></title>
+            <description><![CDATA[Nigel Farage's party gains its first foothold in local government after seizing hundreds of seats.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6j8e38p79o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6j8e38p79o#0</guid>
+            <pubDate>Fri, 02 May 2025 21:38:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6638/live/ce15b310-279e-11f0-a8fe-791177f62bc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Zeffman: Seven things we have learnt from the election results]]></title>
+            <description><![CDATA[The patchwork of different contests across England has been truly fascinating, throwing up all sorts of lessons.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8jdr6ylzjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8jdr6ylzjo#0</guid>
+            <pubDate>Fri, 02 May 2025 20:45:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a9f/live/319dd3a0-2771-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Not Labour enough': MPs' despair at voters' verdict on government]]></title>
+            <description><![CDATA[Sir Keir Starmer is facing calls for a change of direction after a dismal set of local election results.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8jdr900r7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8jdr900r7o#0</guid>
+            <pubDate>Fri, 02 May 2025 19:16:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985b/live/43dc79d0-2768-11f0-9bdb-2b348bd5e027.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Assisted deaths could top 4,000 in 10th year after law change]]></title>
+            <description><![CDATA[Estimate included in official review of costs and impact of passing assisted dying law in England and Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/czjnzz7kvdlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjnzz7kvdlo#0</guid>
+            <pubDate>Fri, 02 May 2025 17:30:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012e/live/a116d6c0-2779-11f0-9ade-51d827e59e40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform takes Runcorn from Labour by just six votes]]></title>
+            <description><![CDATA[Sarah Pochin overturns a huge 14,696 majority to win Reform UK’s first by-election.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y6v02vv6wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y6v02vv6wo#0</guid>
+            <pubDate>Fri, 02 May 2025 14:01:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc13/live/12be5870-271b-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems take councils after local election gains]]></title>
+            <description><![CDATA[The Lib Dems win more than 140 new seats, almost entirely from the Conservatives, in Thursday's election.]]></description>
+            <link>https://www.bbc.com/news/articles/creqr4x18leo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/creqr4x18leo#0</guid>
+            <pubDate>Fri, 02 May 2025 22:06:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef3d/live/51d006d0-2775-11f0-af09-190ae4e2fe1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local elections at-a-glance: What's happened?]]></title>
+            <description><![CDATA[Reform UK wins its first Parliamentary by-election and makes gains in council elections.]]></description>
+            <link>https://www.bbc.com/news/articles/c1k410w11r3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1k410w11r3o#0</guid>
+            <pubDate>Fri, 02 May 2025 20:18:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/57d503d0-2745-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Lincolnshire turned a lighter shade of blue  ]]></title>
+            <description><![CDATA[Reform wins both control of the county council and the Greater Lincolnshire Mayoral vote.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2vq43pv2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2vq43pv2o#1</guid>
+            <pubDate>Fri, 02 May 2025 15:03:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/382b/live/790a10f0-275d-11f0-b745-ddd00b76d3a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the political consensus on climate change has shattered]]></title>
+            <description><![CDATA[In 2019, the UK committed in law to reducing its carbon emissions to net zero by 2050. Now the political climate has changed.]]></description>
+            <link>https://www.bbc.com/news/articles/cx20znjejw1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx20znjejw1o#1</guid>
+            <pubDate>Fri, 02 May 2025 14:16:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/95084300-2693-11f0-a50f-798c692265a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sandeel fishing ban to remain in place]]></title>
+            <description><![CDATA[Sandeels are a vital source of food for seabirds that live along the UK coastline.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgrwxxzxkjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgrwxxzxkjo#1</guid>
+            <pubDate>Fri, 02 May 2025 16:47:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ea/live/2fff8990-2748-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish government drops plans for new misogyny law]]></title>
+            <description><![CDATA[The government says there is not enough time to introduce a new misogyny law before next year's Holyrood election.]]></description>
+            <link>https://www.bbc.com/news/articles/crkx31my24ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkx31my24ro#1</guid>
+            <pubDate>Fri, 02 May 2025 11:57:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b75/live/58d9db90-2743-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Streeting accused of 'betrayal' over maternity funding plan]]></title>
+            <description><![CDATA[Campaigners say the move will  “rip the heart out of any moves to improve maternity safety”.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynqx77dn5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynqx77dn5o#1</guid>
+            <pubDate>Thu, 01 May 2025 23:14:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99c/live/979e4680-25eb-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs watchdog probes Reeves' theatre tickets declaration]]></title>
+            <description><![CDATA[The BBC has been told the chancellor accepted a donation but did not add it to the MPs' register of interests.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lzqr8055go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lzqr8055go#1</guid>
+            <pubDate>Wed, 30 Apr 2025 17:54:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54c/live/3a8cca20-25e1-11f0-bd2b-47815eb0df33.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour defends net-zero policies after Blair criticism]]></title>
+            <description><![CDATA[Former PM Sir Tony Blair says limiting fossil fuels is "doomed to fail" and a new approach is needed.]]></description>
+            <link>https://www.bbc.com/news/articles/cq80974l402o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq80974l402o#1</guid>
+            <pubDate>Wed, 30 Apr 2025 16:28:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0976/live/5ed58e40-25a9-11f0-a4b5-cf8d960fb818.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bin dispute goes to May Day mediation talks]]></title>
+            <description><![CDATA[The talks on Thursday will see conciliation service Acas included in negotiations for the first time.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyqrny47rno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyqrny47rno#1</guid>
+            <pubDate>Thu, 01 May 2025 04:45:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0a/live/6300c7f0-25d6-11f0-a386-6f13c54f1ccd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Counter-terrorism police investigating Kneecap videos]]></title>
+            <description><![CDATA[The Metropolitan Police say there are 'grounds for further investigation' into the videos.]]></description>
+            <link>https://www.bbc.com/news/articles/clyqe3v5jjdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyqe3v5jjdo#1</guid>
+            <pubDate>Thu, 01 May 2025 17:43:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10fa/live/3ee91cf0-2671-11f0-af27-090e238d1774.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Unacceptable' to question Supreme Court gender ruling, says minister]]></title>
+            <description><![CDATA[Shabana Mahmood said judges at the UK's highest court had provided "legal clarity".]]></description>
+            <link>https://www.bbc.com/news/articles/cjwvx1z3l2qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwvx1z3l2qo#1</guid>
+            <pubDate>Wed, 30 Apr 2025 17:21:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adeb/live/673f1140-25ff-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch accuses government of failure on grooming gangs]]></title>
+            <description><![CDATA[The government has been facing growing demands to reveal which areas are running grooming gang inquires.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2vmdgdddyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2vmdgdddyo#1</guid>
+            <pubDate>Wed, 30 Apr 2025 15:50:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ed5d8500-25db-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government not taking climate seriously - advisers]]></title>
+            <description><![CDATA[The government has made little progress in preparing the UK for rising temperatures, climate watchdog the CCC says.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgpey03pnno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgpey03pnno#1</guid>
+            <pubDate>Wed, 30 Apr 2025 00:54:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a6/live/26575810-255d-11f0-a7ae-27dd38775054.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sex offenders to be denied asylum rights in new law]]></title>
+            <description><![CDATA[Asylum seekers placed on the sex offenders register will be denied the right to stay in the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg7q0e77exo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg7q0e77exo#1</guid>
+            <pubDate>Tue, 29 Apr 2025 16:09:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca2c/live/1cd71810-24be-11f0-86a7-4decb0e20fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Milkshakes and lattes could be covered by sugar tax]]></title>
+            <description><![CDATA[The tax would be applied to manufacturers of milk-based drinks and dairy-based substitutes, under the plans.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwzekdznldo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwzekdznldo#1</guid>
+            <pubDate>Tue, 29 Apr 2025 08:09:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/b04b1660-24ef-11f0-bb49-affd25c29f9a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local elections 2025: Polls to open across England]]></title>
+            <description><![CDATA[Hundreds of councillors, six mayors and one MP will be elected in polls across England.]]></description>
+            <link>https://www.bbc.com/news/articles/crm3rl27k8lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm3rl27k8lo#1</guid>
+            <pubDate>Wed, 30 Apr 2025 23:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca6e/live/1587de90-25f0-11f0-a2c2-9525794a9c0a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More Kneecap gigs cancelled after 'kill your MP' controversy]]></title>
+            <description><![CDATA[A ticket site for the Irish rap band's gigs in Hamburg, Berlin and Cologne confirms the summer shows are no longer going ahead.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x8n5kn80qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x8n5kn80qo#1</guid>
+            <pubDate>Wed, 30 Apr 2025 19:18:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a716/live/da58fbc0-25ad-11f0-ba33-a19813bde9a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pylons 'cheapest option' - independent report]]></title>
+            <description><![CDATA[The government says it shows pylons make economic sense as a 100-mile cable route is planned. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0qny5133jqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qny5133jqo#1</guid>
+            <pubDate>Tue, 29 Apr 2025 09:46:51 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6553/live/443645f0-2470-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More local grooming inquiries expected - minister]]></title>
+            <description><![CDATA[The Conservatives said the local reviews would "not do" and repeated calls for a national investigation.]]></description>
+            <link>https://www.bbc.com/news/articles/c9w82y9z2vxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9w82y9z2vxo#1</guid>
+            <pubDate>Mon, 28 Apr 2025 17:58:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd79/live/17ad8300-2456-11f0-90b1-416af4aa598e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No extra cash for higher pay deals, says Downing Street]]></title>
+            <description><![CDATA[Pay review bodies recommend increases for teachers and NHS workers above the 2.8% budgeted for by government.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq7324qdj9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq7324qdj9o#1</guid>
+            <pubDate>Mon, 28 Apr 2025 12:49:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/f200bb20-2416-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: Reform's sweeping election wins shake Tory and Labour dominance]]></title>
+            <description><![CDATA[Though some of the results are still to be reported, Reform are clearly the winners of Thursday's local elections.]]></description>
+            <link>https://www.bbc.com/news/articles/cqj4k2l20xlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj4k2l20xlo#3</guid>
+            <pubDate>Fri, 02 May 2025 17:00:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7812/live/5e65e190-271f-11f0-b26b-ab62c890638b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrea Jenkyns: First Reform mayor has knack for bouncing back]]></title>
+            <description><![CDATA[The ex-Tory MP has been elected as the mayor of Greater Lincolnshire, marking a return to politics.]]></description>
+            <link>https://www.bbc.com/news/articles/cm25qjj4284o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm25qjj4284o#3</guid>
+            <pubDate>Fri, 02 May 2025 12:03:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b9/live/b42f8280-271e-11f0-b48e-e7f5549f02c4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Bruised Tories and Labour left working out how to tackle Reform]]></title>
+            <description><![CDATA[Nigel Farage's party shows it is an equal opportunities threat to Labour and the Tories in local polls.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g7j52lwjro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g7j52lwjro#3</guid>
+            <pubDate>Fri, 02 May 2025 09:20:18 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a79/live/ae44a690-2735-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who won the local election in my area?]]></title>
+            <description><![CDATA[Find out who's winning where using our lookup tool, as the first results are declared.]]></description>
+            <link>https://www.bbc.com/news/articles/cd925jk27k0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd925jk27k0o#3</guid>
+            <pubDate>Fri, 02 May 2025 20:27:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206c/live/3f93b760-26ca-11f0-b26b-ab62c890638b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Reform by-election win raises questions for Labour and Tories]]></title>
+            <description><![CDATA[Damian Grammaticas reports from the Runcorn and Helsby by-election count after a knife-edge victory for Reform.]]></description>
+            <link>https://www.bbc.com/news/videos/c1jx4ew4ed5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1jx4ew4ed5o#3</guid>
+            <pubDate>Fri, 02 May 2025 08:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/2e5474a0-2727-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When will we know all the results?]]></title>
+            <description><![CDATA[Results are due for 23 councils across England, six mayoral contests and a by-election in Runcorn and Helsby.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgdwwrdz3xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgdwwrdz3xo#3</guid>
+            <pubDate>Fri, 02 May 2025 04:17:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1197/live/8d6bb5e0-0952-11f0-88b7-5556e7b55c5e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to follow the local elections on the BBC]]></title>
+            <description><![CDATA[BBC News is on on hand to keep you up-to-date with the latest developments across all platforms.]]></description>
+            <link>https://www.bbc.com/news/articles/cly1v9075vqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly1v9075vqo#3</guid>
+            <pubDate>Wed, 30 Apr 2025 16:48:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac9/live/5a624c10-259d-11f0-8f57-b7237f6a66e6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Welsh Labour turning away from Keir Starmer?]]></title>
+            <description><![CDATA[Could frustrations between Welsh and UK Labour boil over, asks political editor Gareth Lewis.]]></description>
+            <link>https://www.bbc.com/news/articles/cg41d2k9p4do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg41d2k9p4do#3</guid>
+            <pubDate>Wed, 30 Apr 2025 16:19:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc30/live/e7c700b0-259c-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Runcorn and Helsby by-election - all you need to know]]></title>
+            <description><![CDATA[The poll was prompted after the incumbent MP was sentenced for assaulting a constituent.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d4yvg1lzgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d4yvg1lzgo#3</guid>
+            <pubDate>Thu, 01 May 2025 21:52:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfa/live/4be13a10-271a-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What's at stake in these local elections?]]></title>
+            <description><![CDATA[Watch: What's at stake in these local elections?]]></description>
+            <link>https://www.bbc.com/news/videos/cevdmjvke2po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cevdmjvke2po#3</guid>
+            <pubDate>Wed, 30 Apr 2025 08:21:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/c301b9a0-2510-11f0-b26b-ab62c890638b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hairdresser fears she could lose home over tax hikes]]></title>
+            <description><![CDATA[The British Hair Consortium is calling on Rachel Reeves to cut VAT to 10% in June's spending review.]]></description>
+            <link>https://www.bbc.com/news/articles/c1lm7q1jg7jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lm7q1jg7jo#3</guid>
+            <pubDate>Fri, 25 Apr 2025 16:28:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b44/live/f2973bb0-21da-11f0-92b9-077bb78fcf51.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who's standing in the Runcorn by-election?]]></title>
+            <description><![CDATA[A total of 15 people are vying to be the next MP for Runcorn and Helsby in Cheshire.]]></description>
+            <link>https://www.bbc.com/news/articles/c8epkwk2we3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8epkwk2we3o#3</guid>
+            <pubDate>Wed, 02 Apr 2025 16:37:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e841/live/2db62c90-0fe0-11f0-8db5-3f4abea6b85e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Gender debate has changed but it's not over yet]]></title>
+            <description><![CDATA[The landmark Supreme Court ruling has changed the tone of the conversation, our political editor writes.]]></description>
+            <link>https://www.bbc.com/news/articles/cd023eel919o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd023eel919o#3</guid>
+            <pubDate>Wed, 23 Apr 2025 04:40:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385a/live/da002b10-1fd3-11f0-9060-674316cb3a1f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform and Greens aim high in volatile mayoral contests]]></title>
+            <description><![CDATA[Smaller parties are looking to cause an upset in mayoral contests in Hull and the West of England.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2d6881rro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2d6881rro#3</guid>
+            <pubDate>Fri, 18 Apr 2025 00:51:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e68/live/8f89e750-1a2f-11f0-b287-9bbf4848835b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Westminster's tortuous battle with the gender question]]></title>
+            <description><![CDATA[Sir Keir Starmer and other leaders have tied themselves in knots over the question: "What is a woman?"]]></description>
+            <link>https://www.bbc.com/news/articles/cglx1zg93j0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglx1zg93j0o#3</guid>
+            <pubDate>Wed, 16 Apr 2025 15:39:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a030/live/a0f1a250-1ad2-11f0-b458-13f485d00d57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did the government take control of British Steel?]]></title>
+            <description><![CDATA[An emergency law has handed control of the UK's only remaining plant making virgin steel to the government.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y66y40kgpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y66y40kgpo#3</guid>
+            <pubDate>Tue, 15 Apr 2025 09:32:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168d/live/505c0b90-16fa-11f0-a79b-a5d514d498b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: A UK-US deal sounds good but it is all about the detail]]></title>
+            <description><![CDATA[British exports have been hit with tariffs by US despite having no trade deficit, but the UK may have some leverage. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly2rwdzznno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2rwdzznno#3</guid>
+            <pubDate>Tue, 15 Apr 2025 12:54:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/4c183430-1a17-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rishi Sunak's resignation honours list in full]]></title>
+            <description><![CDATA[The former prime minister has handed out 36 honours, including to well-known ex-ministers and former advisors.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5qv1zq54mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5qv1zq54mo#3</guid>
+            <pubDate>Fri, 11 Apr 2025 15:22:05 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc92/live/ef6d4ea0-16e7-11f0-b1b3-7358f8d35a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Chorley: Local elections might lack glamour - but they matter]]></title>
+            <description><![CDATA[The 5 live host considers what's at stake on a trip to the heart of some of the big battles on 1 May.]]></description>
+            <link>https://www.bbc.com/news/articles/cx26851xy76o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx26851xy76o#3</guid>
+            <pubDate>Thu, 10 Apr 2025 05:11:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c19/live/113b5740-151a-11f0-a455-cf1d5f751d2f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How exposed is the UK to Trump's tariff chaos?]]></title>
+            <description><![CDATA[The exact impact remains uncertain - but some of the emerging fallout may have an upside - here's why.]]></description>
+            <link>https://www.bbc.com/news/articles/cgm88w7mjw4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgm88w7mjw4o#3</guid>
+            <pubDate>Wed, 09 Apr 2025 23:01:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f5e/live/57b57b40-15e9-11f0-a455-cf1d5f751d2f.jpg"/>
+        </item>
+    </channel>
+</rss>
