@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 09 May 2025 08:05:55 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nottingham attacks survivors speak out for first time]]></title>
+            <description><![CDATA[Sharon Miller and Wayne Birkett were hit by a van driven by Valdo Calocane on 13 June 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/czjnj92dznvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjnj92dznvo#0</guid>
+            <pubDate>Thu, 08 May 2025 23:12:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4677/live/d00c1f90-2bf6-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm facing a £20k bill for holiday lets deemed second homes']]></title>
+            <description><![CDATA[Judith Robbins, 75, fears she will go out of business after the reclassification of the lettings.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gegkxxlg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gegkxxlg3o#0</guid>
+            <pubDate>Fri, 09 May 2025 05:22:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/4024d5d0-0bd9-11f0-aaa1-f15ca00ec6e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heart patient in seven-month hospital wait, 260 miles from home]]></title>
+            <description><![CDATA[Nicola Allen says being 260 miles away from her daughter in the Freeman Hospital is "painful". ]]></description>
+            <link>https://www.bbc.com/news/articles/c934vqw7002o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c934vqw7002o#0</guid>
+            <pubDate>Fri, 09 May 2025 05:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ac/live/1f183730-276b-11f0-9ebe-cd0e86e27cba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['He found strong, empathetic women - then destroyed us']]></title>
+            <description><![CDATA[Three women have bravely shared their story after being abused by convicted murderer Kieron Goodwin.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2520rdg5no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2520rdg5no#0</guid>
+            <pubDate>Fri, 09 May 2025 05:40:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d46/live/39cf3580-2b7e-11f0-a795-f5538a3febec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biker's family sue over death on 'degraded' road]]></title>
+            <description><![CDATA[Robert Newcombe, from Ilkeston, Derbyshire, died on the A43 in Northamptonshire.]]></description>
+            <link>https://www.bbc.com/news/articles/cqj4j04q01xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj4j04q01xo#0</guid>
+            <pubDate>Fri, 09 May 2025 05:32:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c2/live/1c95f3a0-2b51-11f0-8f8e-479aa3cc788f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New appeal to solve murder of teenager in 1995]]></title>
+            <description><![CDATA[Detectives want to finally solve why Sabrina Brett was killed and dumped in a canal.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2jg0jxxw0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2jg0jxxw0o#0</guid>
+            <pubDate>Fri, 09 May 2025 05:04:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/f97bc860-2c20-11f0-9b64-7b0b0e4c24c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Comic could not believe hometown theme park plan]]></title>
+            <description><![CDATA[US talk show host John Oliver jokes about Universal's plans to build the park near Bedford.]]></description>
+            <link>https://www.bbc.com/news/articles/clynwe21r9no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clynwe21r9no#0</guid>
+            <pubDate>Fri, 09 May 2025 05:13:49 GMT</pubDate>
+            <media:thumbnail width="240" height="131" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c3/live/08f836c0-2c17-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Complex' burglary shooting death case continues]]></title>
+            <description><![CDATA[Derbyshire Police says it is "tirelessly" building a case after the fatal shooting in Whaley Bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/c74qjn99935o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74qjn99935o#1</guid>
+            <pubDate>Fri, 09 May 2025 05:04:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64a5/live/b09553b0-2c1f-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London mayor to 'explore' building on green belt]]></title>
+            <description><![CDATA[Sir Sadiq Khan says building on brownfield sites alone is not enough to deliver 88,000 homes a year.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy73n9kxyjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy73n9kxyjo#1</guid>
+            <pubDate>Fri, 09 May 2025 04:58:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba82/live/191e2dc0-2c1c-11f0-94cc-798e036ea063.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Traders blame 500% parking rise for drop in takings]]></title>
+            <description><![CDATA[Businesses say the increased cost of parking in Bishopthorpe Road has put people off visiting.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9ywn3yjvqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9ywn3yjvqo#1</guid>
+            <pubDate>Fri, 09 May 2025 05:09:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874f/live/c6c8eb40-2c99-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autistic boy left without school for two years]]></title>
+            <description><![CDATA[Slough Borough Council says it is taking "proactive steps" to find Leighton a suitable place.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2k39pp272o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2k39pp272o#1</guid>
+            <pubDate>Fri, 09 May 2025 05:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d10/live/3d816ec0-2c94-11f0-8683-9b1503cf649e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Premier League ref becomes university chancellor]]></title>
+            <description><![CDATA[The former referee says he hopes to show teenagers from all backgrounds that university is an option.]]></description>
+            <link>https://www.bbc.com/news/articles/c20x07ql1n7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20x07ql1n7o#1</guid>
+            <pubDate>Fri, 09 May 2025 05:05:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/059c/live/39496070-2c3e-11f0-91e6-51a64481cf05.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Flamboyant' coins for Liberty's 150th anniversary]]></title>
+            <description><![CDATA[Liberty is known for its distinctive Tudor-style London building and its floral and paisley prints.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2qxwn9rqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2qxwn9rqo#1</guid>
+            <pubDate>Fri, 09 May 2025 04:59:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d614/live/9e831f10-2c04-11f0-99f3-2dfec68c57a5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Relatives recreate VE Day conga photo 80 years on]]></title>
+            <description><![CDATA[BBC Radio Leicester tracks down relatives of people celebrating VE Day 80 years on.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6w3d0vzeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6w3d0vzeo#2</guid>
+            <pubDate>Fri, 09 May 2025 05:06:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee4f/live/684e6440-2c27-11f0-8ff1-59f5dcf8e9f5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WW2's oldest veteran attends VE Day memorial event]]></title>
+            <description><![CDATA[About 46 veterans and families attend to remember 8 May 1945, the day the war ended in Europe.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xgl801d2eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xgl801d2eo#2</guid>
+            <pubDate>Thu, 08 May 2025 18:24:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f01/live/d193b3b0-2c27-11f0-9b64-7b0b0e4c24c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pub celebrates VE Day by offering pints for 7p]]></title>
+            <description><![CDATA[Drinkers at the Lamb Inn in St Helens were briefly able to buy a pint of cask ale for only 7p.]]></description>
+            <link>https://www.bbc.com/news/articles/c4grep52v7wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grep52v7wo#2</guid>
+            <pubDate>Thu, 08 May 2025 16:10:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0d/live/a03ce8c0-2c1f-11f0-9b64-7b0b0e4c24c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It was fabulous' says veteran who sat beside King]]></title>
+            <description><![CDATA[Codebreaker Joy Trew says she was stunned to find herself next to King Charles at the VE Day parade.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e3drmy3v7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e3drmy3v7o#2</guid>
+            <pubDate>Thu, 08 May 2025 19:47:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a7/live/e0fcaf60-2c44-11f0-91e6-51a64481cf05.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WW2 letters between teen lovers found in junk shop]]></title>
+            <description><![CDATA[Love letters sent between a Portsmouth serviceman and his girlfriend are shared to mark VE Day 80.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m9mzznz9ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m9mzznz9ko#2</guid>
+            <pubDate>Thu, 08 May 2025 05:04:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d831/live/6cf88eb0-2aa3-11f0-a5e6-f95f9086d96f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a boy and deserter helped blow up German WW2 HQ]]></title>
+            <description><![CDATA[A letter solves the mystery of how a resistance group brought a spectacular end to the Palace Hotel.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2029lxpzno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2029lxpzno#2</guid>
+            <pubDate>Thu, 08 May 2025 05:18:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fc/live/f5998300-2b4d-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happened in the Channel Islands during WW2?]]></title>
+            <description><![CDATA[The islands were the only part of the British Isles to be occupied by the Germans in World War Two.]]></description>
+            <link>https://www.bbc.com/news/articles/c93gn7l3v4eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93gn7l3v4eo#2</guid>
+            <pubDate>Thu, 08 May 2025 17:31:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b7/live/a821c4b0-278e-11f0-b15e-cf28d9aaba15.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Army veteran, 84, to retire homemade Tintanic II]]></title>
+            <description><![CDATA[Major Mick has so far raised more than £88,000 by rowing homemade tin boats. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy756g50gv6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy756g50gv6o#3</guid>
+            <pubDate>Fri, 09 May 2025 05:08:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd66/live/d28815e0-2c13-11f0-94cc-798e036ea063.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brothers race to Lisbon in Big Bird 'old banger']]></title>
+            <description><![CDATA[John and Mark Everett raise a smile - and lots of charity money - in their Sesame Street-themed car.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5v8yp7lg5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5v8yp7lg5o#3</guid>
+            <pubDate>Fri, 09 May 2025 05:25:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61af/live/2f453c70-2c39-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Attention-seeking' guide dog rolls over for royal belly rub]]></title>
+            <description><![CDATA[Labrador Haworth "did pile it on a bit" asking for a tummy rub, owner Jeanette Binns says.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y28drrg5wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y28drrg5wo#3</guid>
+            <pubDate>Thu, 08 May 2025 09:55:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b7/live/9c9a51f0-2bf0-11f0-ac4d-93af73254e07.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Our show combines pro-wrestling with Shakespeare']]></title>
+            <description><![CDATA[An event is bringing together actors and wrestlers for an adaptation of A Midsummer Night's Dream.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9v9jp54pzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9v9jp54pzo#4</guid>
+            <pubDate>Fri, 09 May 2025 05:19:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d350/live/6eddda10-2c0f-11f0-8da1-ad2bbee6cda5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Killer should have been arrested before murder, watchdog says]]></title>
+            <description><![CDATA[Mikey Rainsford, 20, was killed in his family home by a gang member searching for revenge against rivals.]]></description>
+            <link>https://www.bbc.com/news/articles/cz63x3jpnzlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz63x3jpnzlo#4</guid>
+            <pubDate>Thu, 08 May 2025 18:28:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6c/live/fc0b4b70-2ca5-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Renewables leaders urge mayors to back industry]]></title>
+            <description><![CDATA[They are calling for talks amid concerns for jobs and the future of the sector.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2eme3r4ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2eme3r4ro#4</guid>
+            <pubDate>Fri, 09 May 2025 04:59:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6779/live/3fae23c0-2bd9-11f0-aa58-09138366324e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bereaved mother 'drained' by campaign to change law]]></title>
+            <description><![CDATA[Ellen Roome wants families to be given access to user data after the death of a loved one.]]></description>
+            <link>https://www.bbc.com/news/articles/c99p985r1xgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99p985r1xgo#4</guid>
+            <pubDate>Thu, 08 May 2025 09:40:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efcb/live/022e6a90-2b80-11f0-8796-a517c964e8ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Fighting to get my husband to 50 - and beyond']]></title>
+            <description><![CDATA[Steve Ackroyd is undergoing private treatment abroad for his inoperable brain cancer.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg1g9m4121o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1g9m4121o#4</guid>
+            <pubDate>Thu, 08 May 2025 04:54:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0622/live/a7ee38b0-2a9b-11f0-a09e-c5bdc3540c45.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peak District dam lit up to mark VE Day]]></title>
+            <description><![CDATA[Derwent Reservoir was one of the sites where pilots practiced ahead of their Dambusters raid.]]></description>
+            <link>https://www.bbc.com/news/videos/cdxv6z4gkrro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdxv6z4gkrro#5</guid>
+            <pubDate>Thu, 08 May 2025 11:12:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1a/live/d19a0f60-2bf2-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dangerous overtaking move 'could have been fatal']]></title>
+            <description><![CDATA[Dashcam footage shows Emmanuel Sylva almost hitting another lorry during the "reckless" incident.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrgrl2xggvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrgrl2xggvo#5</guid>
+            <pubDate>Wed, 07 May 2025 15:12:44 GMT</pubDate>
+            <media:thumbnail width="240" height="145" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/693c/live/568de310-2b51-11f0-8ff1-59f5dcf8e9f5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Crooner, 14, prefers Frank Sinatra to rap music]]></title>
+            <description><![CDATA[George Robinson's performances have had millions of views on social media.]]></description>
+            <link>https://www.bbc.com/news/videos/cq80jvyl821o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cq80jvyl821o#5</guid>
+            <pubDate>Sun, 04 May 2025 14:07:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70f/live/fee58420-267c-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crowds gather at pub as Ed Sheeran performs]]></title>
+            <description><![CDATA[He is watched by fans who got tickets by responding to an Ed Sheeran WhatsApp message.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cy4833k0k4wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy4833k0k4wo#5</guid>
+            <pubDate>Sun, 04 May 2025 13:27:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ffb/live/5c544ea0-28eb-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belief more important than prize money - Amorim]]></title>
+            <description><![CDATA[Manchester United head coach Ruben Amorim says the belief that would come with winning the Europa League is worth more to his side than any financial gain. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c861l429j1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c861l429j1jo#6</guid>
+            <pubDate>Thu, 08 May 2025 23:25:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6068/live/4b788430-2c5f-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's going to upset a lot of people - Postecoglou]]></title>
+            <description><![CDATA[Ange Postecoglou took aim at Tottenham's critics after they reached the Europa League final as he remains on course to continue his record of wining a trophy in his second season.
+]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czx0lwnwxj0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czx0lwnwxj0o#6</guid>
+            <pubDate>Thu, 08 May 2025 23:22:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0077/live/62d7bd90-2ca4-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maresca excited to face 'football dad' in final]]></title>
+            <description><![CDATA[Chelsea manager Enzo Maresca says he is excited to face his "professional dad"  after Manuel Pellegrini-managed Real Betis qualified for the Conference League final. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c2kqjzzynwno</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2kqjzzynwno#6</guid>
+            <pubDate>Thu, 08 May 2025 22:58:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06bb/live/6a856ae0-2c5b-11f0-afe9-97cb2c964b40.jpg"/>
+        </item>
+    </channel>
+</rss>
