@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 09 May 2025 00:17:06 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Who is Robert Prevost, the new Pope Leo XIV?]]></title>
+            <description><![CDATA[After a conclave that lasted only three sessions and 24 hours, 133 cardinals have elected Robert Prevost, now known as Pope Leo XIV.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ln80lzk7ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ln80lzk7ko#0</guid>
+            <pubDate>Fri, 09 May 2025 00:11:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a724/live/0dcf68e0-2c39-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India reports strikes on military bases, Pakistan denies any role]]></title>
+            <description><![CDATA[India has accused Pakistan of attacking three military bases, a claim which has been denied by Islamabad.]]></description>
+            <link>https://www.bbc.com/news/articles/cjrndypy3l4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjrndypy3l4o#0</guid>
+            <pubDate>Thu, 08 May 2025 20:05:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/5f724de0-2c14-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian air strikes - how will Pakistan respond? Four key questions]]></title>
+            <description><![CDATA[Experts from India and Pakistan weigh in on what’s next -  and how this clash differs from past conflicts.]]></description>
+            <link>https://www.bbc.com/news/articles/cd020710v1ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd020710v1ko#0</guid>
+            <pubDate>Wed, 07 May 2025 11:55:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2e/live/79cacdf0-2b44-11f0-998e-2b88982fe8df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine labels Russian ceasefire a farce after reports of hundreds of violations ]]></title>
+            <description><![CDATA[A three-day truce was called by Vladimir Putin ahead of Russia's World War Two Victory Day celebrations.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8zlyynjv4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8zlyynjv4o#0</guid>
+            <pubDate>Thu, 08 May 2025 11:28:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f346/live/e4fb3000-2bfe-11f0-93a5-5159a2167ded.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli forces close UN-run schools in East Jerusalem]]></title>
+            <description><![CDATA[The action, which affects hundreds of Palestinian pupils, comes after an Israeli ban on Unrwa this year.]]></description>
+            <link>https://www.bbc.com/news/articles/cqxej00w3wno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqxej00w3wno#0</guid>
+            <pubDate>Thu, 08 May 2025 15:22:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/b15e8730-2c0b-11f0-8da1-ad2bbee6cda5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mistrial declared in case against officer in fatal shooting of black motorist]]></title>
+            <description><![CDATA[The killing of Patrick Lyoya during a traffic stop in Michigan sparked widespread protests, renewing questions around police brutality.]]></description>
+            <link>https://www.bbc.com/news/articles/cql2309z1xvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql2309z1xvo#0</guid>
+            <pubDate>Thu, 08 May 2025 21:33:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7af/live/d0665aa0-2c50-11f0-ad09-bd0cf87606ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates plans to give away most of his fortune by 2045]]></title>
+            <description><![CDATA[Microsoft founder said he will speed up his charitable giving - and accused Elon Musk and Doge of "killing children" through aid cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2e87lzqkdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2e87lzqkdo#1</guid>
+            <pubDate>Thu, 08 May 2025 21:07:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba5/live/406de450-2c68-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charity linked to Prince Harry admits human rights abuses in Congo park]]></title>
+            <description><![CDATA[African Parks acknowledged its rangers committed human rights abuses in Congo-Brazzaville.]]></description>
+            <link>https://www.bbc.com/news/articles/cq54dgv2p29o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq54dgv2p29o#1</guid>
+            <pubDate>Thu, 08 May 2025 17:38:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c01/live/569be260-2c39-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey moves to silence jailed Erdogan rival by blocking account on X]]></title>
+            <description><![CDATA[Istanbul Mayor Ekrem Imamoglu has relied on social media to stay in touch with supporters from jail.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgve4q99d5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgve4q99d5o#1</guid>
+            <pubDate>Thu, 08 May 2025 12:52:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07fc/live/2c1d3ec0-2c08-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel PM 'uncertain' over condition of three Gaza hostages]]></title>
+            <description><![CDATA[Benjamin Netanyahu said he knew "with certainty" that 21 hostages were alive but the status of "three more" were unclear.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0l5egy9k4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0l5egy9k4o#1</guid>
+            <pubDate>Thu, 08 May 2025 10:47:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098d/live/cf77ef80-2bee-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shock as missing South African journalist's decomposed body found]]></title>
+            <description><![CDATA[Human remains, believed to be that of a journalist and his partner, have been found by police. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yx34qrqn0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yx34qrqn0o#1</guid>
+            <pubDate>Thu, 08 May 2025 15:32:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34bf/live/a4fb0280-2c1e-11f0-94cc-798e036ea063.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman killed in axe attack at Warsaw university]]></title>
+            <description><![CDATA[A 22-year-old man was arrested over the attack which also left a security guard severely injured.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2w2898p1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2w2898p1jo#1</guid>
+            <pubDate>Thu, 08 May 2025 07:31:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5714/live/4ebf7dd0-2bdb-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smokey Robinson denies sexual assault allegations]]></title>
+            <description><![CDATA[In a statement, the singer's lawyer says the abuse allegations are an attempt to "extract money".]]></description>
+            <link>https://www.bbc.com/news/articles/c3e5j8v227ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e5j8v227ko#1</guid>
+            <pubDate>Thu, 08 May 2025 08:06:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7f/live/2a45c6d0-2be0-11f0-aa58-09138366324e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of pro-Palestinian protesters arrested at Columbia University]]></title>
+            <description><![CDATA[The university asked for police help after protesters occupied part of the main library on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/ce929l5z2ldo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce929l5z2ldo#1</guid>
+            <pubDate>Thu, 08 May 2025 12:28:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619b/live/c3438b60-2ba4-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US cuts aid to Zambia over 'systematic' medicine theft]]></title>
+            <description><![CDATA[Critical medicines affected by the $50m cuts include Malaria, HIV and TB drugs, the US embassy says.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e6pl6302zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e6pl6302zo#1</guid>
+            <pubDate>Thu, 08 May 2025 21:01:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c18/live/56421cb0-2c04-11f0-8da1-ad2bbee6cda5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Men found guilty of violent murder of Aboriginal schoolboy]]></title>
+            <description><![CDATA[Cassius Turvey was chased through bush and beaten with a metal pole, in a case which sparked national outrage.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9vzzxpdm7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9vzzxpdm7o#1</guid>
+            <pubDate>Thu, 08 May 2025 05:54:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5599/live/55b08250-2bc8-11f0-93e7-1b1cba9c6689.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US judge blocks plan to deport migrants to Libya]]></title>
+            <description><![CDATA[The order comes after lawyers expressed alarm that the US was planning to deport migrants to the North African country "immediately".]]></description>
+            <link>https://www.bbc.com/news/articles/c5yry9y089eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yry9y089eo#1</guid>
+            <pubDate>Thu, 08 May 2025 09:04:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d54c/live/eb488740-2b37-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sotheby's halts Buddha jewels auction after India threat]]></title>
+            <description><![CDATA[The jewels are described as one of the most astonishing archaeological finds of the modern era.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9299nln2ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9299nln2ko#1</guid>
+            <pubDate>Thu, 08 May 2025 06:37:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/604f87f0-2be7-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Denmark summons US ambassador over Greenland spying report]]></title>
+            <description><![CDATA[US spy agencies have been told to step up espionage around Greenland, according to The Wall Street Journal. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0eley5gy8wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0eley5gy8wo#1</guid>
+            <pubDate>Wed, 07 May 2025 20:10:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69de/live/cf2d1d90-2b6f-11f0-a795-f5538a3febec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes on Gaza restaurant and market kill 33, health ministry says]]></title>
+            <description><![CDATA[The restaurant in Gaza City's Rimal neighbourhood had been recently been operating a community kitchen.]]></description>
+            <link>https://www.bbc.com/news/articles/c3676r17gg4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3676r17gg4o#1</guid>
+            <pubDate>Wed, 07 May 2025 18:03:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/6c27deb0-2b47-11f0-a57b-e1386fb20a25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia says 60,000 air passengers stranded after Ukrainian drone attacks]]></title>
+            <description><![CDATA[Some 350 flights are affected in Moscow and other cities, as Russia claims shooting down 524 Ukrainian drones.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dedjn3px3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dedjn3px3o#1</guid>
+            <pubDate>Wed, 07 May 2025 18:16:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a0/live/62f07630-2b66-11f0-8686-fb39aea3a90c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope Francis backed him when he took on a president. Now he's voting in the conclave ]]></title>
+            <description><![CDATA["Not even in my wildest imagination did I think this would happen," Cardinal David tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cg72l1g43vko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg72l1g43vko#2</guid>
+            <pubDate>Wed, 07 May 2025 22:47:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f83/live/e18c9d90-2b37-11f0-a1dd-459b636cc8ca.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['This will be the work of years': The medics identifying remains from Syria's mass graves]]></title>
+            <description><![CDATA[More than 100,000 men, women and children were reportedly forcibly disappeared by Bashar al-Assad's regime.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxnxg379ylo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxnxg379ylo#2</guid>
+            <pubDate>Wed, 07 May 2025 23:13:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d2c/live/62f9aa80-2b51-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Ivory Coast's red card politics an own goal for democracy?]]></title>
+            <description><![CDATA[Why ex-bank boss Tidjane Thiam has been barred from seeking the Ivorian presidency - and the potential fallout.]]></description>
+            <link>https://www.bbc.com/news/articles/cly8y1kglkpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly8y1kglkpo#2</guid>
+            <pubDate>Thu, 08 May 2025 00:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76cf/live/697c1640-2b60-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Peter Dutton's heartland lost him Australia's election]]></title>
+            <description><![CDATA[It was the opposition leader's home state that delivered Labor its win, with the red wave taking out his own seat.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxg6x2vv4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxg6x2vv4o#2</guid>
+            <pubDate>Wed, 07 May 2025 22:45:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbc/live/d9fbe2c0-2baf-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The divides behind the scenes in the Vatican ahead of the conclave]]></title>
+            <description><![CDATA[Pope Francis's efforts to shake up the workings of the Church should be built on by the next pope, according to some - but his critics are less convinced]]></description>
+            <link>https://www.bbc.com/news/articles/c2de9d8dky0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2de9d8dky0o#2</guid>
+            <pubDate>Tue, 06 May 2025 23:46:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/686b/live/bc07aca0-2a82-11f0-b26b-ab62c890638b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden on Trump: 'What president ever talks like that? That's not who we are']]></title>
+            <description><![CDATA[Exclusive: The former president tells Nick Robinson his verdict on his successor's first 100 days and his "grave concern" for the future of the Atlantic Alliance]]></description>
+            <link>https://www.bbc.com/news/articles/c89g491e8ewo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89g491e8ewo#2</guid>
+            <pubDate>Wed, 07 May 2025 05:05:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/683f/live/2f246cf0-2a97-11f0-8ff1-59f5dcf8e9f5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about India's strikes on Pakistan and Pakistan-administered Kashmir]]></title>
+            <description><![CDATA[India launched strikes in the early hours of Wednesday - two weeks after a deadly militant attack.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6868pdpw4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6868pdpw4o#2</guid>
+            <pubDate>Wed, 07 May 2025 18:19:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa7/live/ca0b1280-2b1b-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosenberg: Russians remember WW2 with victory on their minds]]></title>
+            <description><![CDATA[Russia is gearing up to celebrate the 80th anniversary of the end of World War Two in Europe. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2y2d50plzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2y2d50plzo#2</guid>
+            <pubDate>Wed, 07 May 2025 04:33:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/6a26b0f0-2b1a-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch Pope Leo XIV's first public address - in full]]></title>
+            <description><![CDATA[Speaking from the Vatican balcony just after being unveiled as the new pontiff, he paid tribute to his predecessor and called for unity.]]></description>
+            <link>https://www.bbc.com/news/videos/c1kv38nk8w1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1kv38nk8w1o#3</guid>
+            <pubDate>Thu, 08 May 2025 18:21:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d0b/live/dbaa9b60-2c37-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment white smoke billows, signalling a new pope's election]]></title>
+            <description><![CDATA[American Robert Prevost was later announced as the new pope, and will be known as Pope Leo XIV.]]></description>
+            <link>https://www.bbc.com/news/videos/cpvkyk2k3ymo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cpvkyk2k3ymo#3</guid>
+            <pubDate>Thu, 08 May 2025 16:20:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bee/live/961f8480-2c27-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moments past conclaves elected new popes]]></title>
+            <description><![CDATA[See the moments previous popes were elected by conclaves past, from 1939 to 2013.]]></description>
+            <link>https://www.bbc.com/news/videos/cgm8rwn1wvno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgm8rwn1wvno#3</guid>
+            <pubDate>Thu, 08 May 2025 10:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d514/live/b63c0c40-26da-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do Canadians make of Carney's meeting with Trump?]]></title>
+            <description><![CDATA[The prime minister reiterated that Canada "is not for sale" during Tuesday's meeting at the White House.]]></description>
+            <link>https://www.bbc.com/news/videos/cj3x36zpg13o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj3x36zpg13o#3</guid>
+            <pubDate>Wed, 07 May 2025 21:22:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1643/live/4d636750-2b7a-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Biden's first interview since leaving the White House]]></title>
+            <description><![CDATA[Former US President Joe Biden talks Trump, Russia and US-Europe relations with the BBC's Today programme.]]></description>
+            <link>https://www.bbc.com/news/videos/cn8085j2jnno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn8085j2jnno#3</guid>
+            <pubDate>Wed, 07 May 2025 04:58:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fdd/live/d1e1bcb0-2ab3-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+    </channel>
+</rss>
