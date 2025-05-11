@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Scotland]]></description>
+        <link>https://www.bbc.co.uk/news/scotland</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/scotland</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 11 May 2025 08:05:27 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/scotland/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Life or death decisions as politicians weigh up assisted dying vote]]></title>
+            <description><![CDATA[MSPs will vote this week on whether or not to allow terminally ill adults to seek medical help to end their lives.]]></description>
+            <link>https://www.bbc.com/news/articles/c39xkex84k2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39xkex84k2o#0</guid>
+            <pubDate>Sun, 11 May 2025 07:11:05 GMT</pubDate>
+            <media:thumbnail width="240" height="149" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd0/live/f1d82a90-2cd4-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kwik Fit founder Sir Tom Farmer dies aged 84]]></title>
+            <description><![CDATA[The Edinburgh-born businessman built the firm into a £1bn business and also owned Hibernian FC.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn3ngvm8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn3ngvm8eo#0</guid>
+            <pubDate>Sat, 10 May 2025 15:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ea/live/99602180-2d90-11f0-a1d5-03cc47d2c74e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: New immigration plans and assisted dying bill]]></title>
+            <description><![CDATA[Labour's crackdown on immigration and the MSP behind the assisted dying bill's confidence of victory make the front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3n90xn5neo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3n90xn5neo#0</guid>
+            <pubDate>Sun, 11 May 2025 07:57:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a729/live/fe0e2260-2e3c-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mars rover technology tested out on Highland rocks]]></title>
+            <description><![CDATA[A St Andrews University team says Torridon's ancient geology is similar to that on the red planet.]]></description>
+            <link>https://www.bbc.com/news/articles/clygleqg409o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygleqg409o#0</guid>
+            <pubDate>Sun, 11 May 2025 07:15:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d429/live/c0490c60-2cde-11f0-b9d2-ffe9aa23cdd0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How scarves could help to save a rare Scots sheep breed]]></title>
+            <description><![CDATA[Rebecca McLellan is using her business to encourage others to breed the "at risk" Castlemilk Moorit.]]></description>
+            <link>https://www.bbc.com/news/articles/c05n5p083nzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05n5p083nzo#0</guid>
+            <pubDate>Sun, 11 May 2025 07:13:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42fc/live/b0832e90-2a9b-11f0-a09e-c5bdc3540c45.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police appeal after man found with serious head injuries]]></title>
+            <description><![CDATA[The 49-year-old is in a critical condition after being found badly injured in Mastrick on Friday morning. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4gr4ejm19do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gr4ejm19do#0</guid>
+            <pubDate>Sat, 10 May 2025 14:04:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be5/live/b40888b0-2da4-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exam revision disrupted as cyber attackers target council]]></title>
+            <description><![CDATA[Staff in Edinburgh council's education department spotted a suspicious invitation to a meeting and realised it was "spear phishing".]]></description>
+            <link>https://www.bbc.com/news/articles/cy8d0x0yxe1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8d0x0yxe1o#1</guid>
+            <pubDate>Sat, 10 May 2025 16:11:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612c/live/b85e1aa0-2db9-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six men charged following dawn raids in Glasgow]]></title>
+            <description><![CDATA[A total of 32 arrests have been made in an ongoing inquiry and the men are due to appear in court on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/c2d5pnxx0n3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d5pnxx0n3o#1</guid>
+            <pubDate>Sat, 10 May 2025 15:43:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c0/live/1e280db0-2db4-11f0-a661-81c759f53f9f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire in Fauldhouse after 'extreme risk' warning issued]]></title>
+            <description><![CDATA[The Scottish Fire and Rescue Service urges people to be careful with naked flames in the countryside.]]></description>
+            <link>https://www.bbc.com/news/articles/cz70j94re85o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz70j94re85o#1</guid>
+            <pubDate>Sat, 10 May 2025 14:29:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/699b/live/ef567590-2d80-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Get the people fed' say islanders hit by Co-op cyber attack]]></title>
+            <description><![CDATA[The picturesque island of Islay in the Western Isles is dealing with the real world impacts of the major supermarket hack.]]></description>
+            <link>https://www.bbc.com/news/articles/c071e7x80djo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c071e7x80djo#1</guid>
+            <pubDate>Sat, 10 May 2025 08:07:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b611/live/06599430-2d21-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['True inspiration' - Scotland great Ross to retire]]></title>
+            <description><![CDATA[Scotland great Jane Ross will retire from football at the end of the season, the Rangers striker says.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c5y535njxwqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y535njxwqo#1</guid>
+            <pubDate>Sat, 10 May 2025 11:29:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3263/live/346dea70-2d8e-11f0-a1d5-03cc47d2c74e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My brother died in Lockerbie - our story changed how air disasters are handled']]></title>
+            <description><![CDATA[The Lockerbie bombing's impact and lessons learned are explored in TV drama The Bombing of Pan Am 103.]]></description>
+            <link>https://www.bbc.com/news/articles/cpv4wz8rymxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv4wz8rymxo#1</guid>
+            <pubDate>Sat, 10 May 2025 02:05:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3668/live/d9305b90-26b0-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's an honour to play the young Torvill and Dean']]></title>
+            <description><![CDATA[Two young cousins from Ayrshire are living a dream playing their skating idols.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmj7peemplo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmj7peemplo#1</guid>
+            <pubDate>Sat, 10 May 2025 08:08:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6820/live/85f4b4d0-2ccd-11f0-8193-a1e7e6e5e36e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The glamorous Guernsey evacuee who settled in Scotland]]></title>
+            <description><![CDATA[Elvira Le Page was one of 1,300 children who were evacuated from Guernsey during World War Two.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2ynpkmg4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2ynpkmg4po#2</guid>
+            <pubDate>Sat, 10 May 2025 08:09:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1028/live/e59fa6f0-2cba-11f0-b94c-af824e2cce35.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I run cafés where people talk about death - you realise it's not scary']]></title>
+            <description><![CDATA[Jenny Watt runs a handful of death cafés across Glasgow, encouraging discussion about the topic.]]></description>
+            <link>https://www.bbc.com/news/articles/cd62y5peg8jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd62y5peg8jo#2</guid>
+            <pubDate>Sat, 10 May 2025 08:08:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbc/live/8b64e3e0-2cf5-11f0-8693-23f31ee08547.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New road bridge over River Clyde opens to traffic]]></title>
+            <description><![CDATA[The new Renfrew Bridge is the first road crossing on the river capable of opening to allow large ships to pass.]]></description>
+            <link>https://www.bbc.com/news/articles/c2d5gxgz3geo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d5gxgz3geo#2</guid>
+            <pubDate>Fri, 09 May 2025 11:08:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54e/live/9d20ccb0-2cc4-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My abuser would be charged under new Scottish law]]></title>
+            <description><![CDATA[Emma Bryson feels "vindicated" knowing changes to the law she helped effect could have given her own case a different outcome. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvgd4m254p0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgd4m254p0o#2</guid>
+            <pubDate>Fri, 09 May 2025 05:18:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282c/live/4a4f7de0-2bf9-11f0-b1de-7559cc68415f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures of Scotland]]></title>
+            <description><![CDATA[A selection of photographs submitted to BBC Scotland News from around the country this week.]]></description>
+            <link>https://www.bbc.com/news/articles/c05n5d91jdgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05n5d91jdgo#2</guid>
+            <pubDate>Fri, 09 May 2025 10:52:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0e/live/8bf8f3c0-2e38-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I dug up a 4,000-year-old axe head in a field']]></title>
+            <description><![CDATA[Cameron Anderson was amazed to dig up all three parts of what is thought to be a Bronze Age axe head.]]></description>
+            <link>https://www.bbc.com/news/articles/c3v9v1dz2p1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v9v1dz2p1o#2</guid>
+            <pubDate>Fri, 09 May 2025 11:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9e/live/9fa81410-2c25-11f0-9b64-7b0b0e4c24c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The choppy waters between North Sea oil and green energy revolution]]></title>
+            <description><![CDATA[The Great Energy Transition is under way, and may come to define this era, but it's not going smoothly.]]></description>
+            <link>https://www.bbc.com/news/articles/cg414w9xx91o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg414w9xx91o#2</guid>
+            <pubDate>Thu, 08 May 2025 05:21:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e40/live/0ce5fde0-2b76-11f0-a795-f5538a3febec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is AI a threat to musicians?]]></title>
+            <description><![CDATA[Glasvegas guitarist Robert Allan and AI expert Sidrah Hassan on what AI means for music.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002bsh6</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002bsh6#2</guid>
+            <pubDate>Thu, 08 May 2025 15:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l915p8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's moments of remembrance to mark VE Day]]></title>
+            <description><![CDATA[Scotland is paying tribute to World War Two heroes with events around the country on the 80th anniversary of VE Day.]]></description>
+            <link>https://www.bbc.com/news/articles/cm23nvned99o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm23nvned99o#2</guid>
+            <pubDate>Thu, 08 May 2025 13:40:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f91/live/97c06ea0-2bf8-11f0-b1de-7559cc68415f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kwik Fit founder Sir Tom Farmer dies aged 84]]></title>
+            <description><![CDATA[The Edinburgh-born businessman built the firm into a £1bn business and also owned Hibernian FC.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn3ngvm8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn3ngvm8eo#3</guid>
+            <pubDate>Sat, 10 May 2025 15:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ea/live/99602180-2d90-11f0-a1d5-03cc47d2c74e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mars rover technology tested out on Highland rocks]]></title>
+            <description><![CDATA[A St Andrews University team says Torridon's ancient geology is similar to that on the red planet.]]></description>
+            <link>https://www.bbc.com/news/articles/clygleqg409o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygleqg409o#3</guid>
+            <pubDate>Sun, 11 May 2025 07:15:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d429/live/c0490c60-2cde-11f0-b9d2-ffe9aa23cdd0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police appeal after man found with serious head injuries]]></title>
+            <description><![CDATA[The 49-year-old is in a critical condition after being found badly injured in Mastrick on Friday morning. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4gr4ejm19do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gr4ejm19do#3</guid>
+            <pubDate>Sat, 10 May 2025 14:04:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be5/live/b40888b0-2da4-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How scarves could help to save a rare Scots sheep breed]]></title>
+            <description><![CDATA[Rebecca McLellan is using her business to encourage others to breed the "at risk" Castlemilk Moorit.]]></description>
+            <link>https://www.bbc.com/news/articles/c05n5p083nzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05n5p083nzo#3</guid>
+            <pubDate>Sun, 11 May 2025 07:13:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42fc/live/b0832e90-2a9b-11f0-a09e-c5bdc3540c45.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire in Fauldhouse after 'extreme risk' warning issued]]></title>
+            <description><![CDATA[The Scottish Fire and Rescue Service urges people to be careful with naked flames in the countryside.]]></description>
+            <link>https://www.bbc.com/news/articles/cz70j94re85o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz70j94re85o#3</guid>
+            <pubDate>Sat, 10 May 2025 14:29:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/699b/live/ef567590-2d80-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lions great McGeechan diagnosed with prostate cancer]]></title>
+            <description><![CDATA[Former Scotland and British and Irish Lions head coach Sir Ian McGeechan says he has been diagnosed with prostate cancer.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c2lknq4d21ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c2lknq4d21ko#4</guid>
+            <pubDate>Sun, 11 May 2025 06:55:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd09/live/22c35ff0-2e31-11f0-8ff1-59f5dcf8e9f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hearts to make approach for Kilmarnock's McInnes]]></title>
+            <description><![CDATA[Hearts will make an official approach to Kilmarnock on Monday in a bid to secure Derek McInnes as their new manager.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cp3n9x3led9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3n9x3led9o#4</guid>
+            <pubDate>Sat, 10 May 2025 18:32:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3336/live/fa71be00-2dc9-11f0-b5aa-31829502a3f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How 'raider' McTominay became a Napoli icon]]></title>
+            <description><![CDATA[Tattoos. Flags. Cakes. Kilts. Many nicknames. And 11 goals in a title challenge. 
+Scott McTominay's impact at Napoli has been huge since his summer move from Manchester United.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c75d25rp0dyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75d25rp0dyo#4</guid>
+            <pubDate>Sun, 11 May 2025 05:13:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc19/live/43c44230-2a6e-11f0-b0e4-e9c67a6d8d7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rangers to move for Metinho, English clubs eye St Mirren boss - gossip]]></title>
+            <description><![CDATA[Rangers eye move for midfielder playing in Switzerland as St Mirren boss attracts interest from English clubs...]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cgegy4y475po</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgegy4y475po#4</guid>
+            <pubDate>Sun, 11 May 2025 07:40:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c00/live/df1ce8c0-2e3a-11f0-8f57-b7237f6a66e6.png"/>
+        </item>
+    </channel>
+</rss>
