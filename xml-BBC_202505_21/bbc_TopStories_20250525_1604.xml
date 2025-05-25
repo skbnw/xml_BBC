@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 25 May 2025 16:03:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Rayner refuses to confirm if two-child benefit cap will be abolished]]></title>
+            <description><![CDATA[It follows reports that Sir Keir Starmer had informed his cabinet of his intention to abolish the limit.]]></description>
+            <link>https://www.bbc.com/news/articles/c1kvw39yv1mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kvw39yv1mo#0</guid>
+            <pubDate>Sun, 25 May 2025 10:45:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d6/live/53a6be60-3957-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia launches largest air attack yet on Ukraine]]></title>
+            <description><![CDATA[Fourteen people were reported killed in Ukraine, with its air force saying 22 locations were hit by Russian air strikes.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2rx8kxdm4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2rx8kxdm4o#0</guid>
+            <pubDate>Sun, 25 May 2025 12:50:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c26/live/149c0050-396a-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Renationalised railways not on track for cheaper fares]]></title>
+            <description><![CDATA[Transport Secretary says she will "strain every sinew" so customers get value for money as SWR brought back into public hands.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqg73znzzeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqg73znzzeo#0</guid>
+            <pubDate>Sun, 25 May 2025 14:32:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3d/live/e1391120-38f2-11f0-8e24-c95314850612.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC arts broadcaster Alan Yentob dies aged 78]]></title>
+            <description><![CDATA[He interviewed a raft of important cultural and creative figures over a lengthy career at the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8dp75gw8lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8dp75gw8lo#0</guid>
+            <pubDate>Sun, 25 May 2025 14:20:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c9/live/d5da0640-3285-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father of nine children killed by Israeli strike still in critical condition]]></title>
+            <description><![CDATA[Hamdi al-Najjar's "life remains in danger", a Bulgarian doctor working at Nasser hospital in southern Gaza tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8djlg3zq5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8djlg3zq5o#0</guid>
+            <pubDate>Sun, 25 May 2025 15:02:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/313c/live/e5bf5b20-3977-11f0-b7d1-a39e6c3a45e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alan Yentob: BBC TV's creative giant, on screen and off]]></title>
+            <description><![CDATA[As one of Britain's most influential TV executives and presenters, he helped shape the modern BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cdr5y3lxrmlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr5y3lxrmlo#1</guid>
+            <pubDate>Sun, 25 May 2025 12:10:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e87/live/fcc45370-34c2-11f0-89a8-7f565660f11b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How one woman's racist tweet sparked a free speech row]]></title>
+            <description><![CDATA[Lucy Connolly lost her appeal against her race-hate jail sentence, but is free speech under threat?]]></description>
+            <link>https://www.bbc.com/news/articles/cp3nn60wyr6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3nn60wyr6o#1</guid>
+            <pubDate>Sun, 25 May 2025 01:39:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dde/live/697abfc0-366e-11f0-92d0-a5509e61962c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From teenage Arsenal prodigy to convicted drug smuggler]]></title>
+            <description><![CDATA[As a young player, Jay Emmanuel-Thomas had the world at his feet. Where did it all go wrong?]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvwv3r49do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvwv3r49do#1</guid>
+            <pubDate>Sat, 24 May 2025 23:59:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be7/live/c8e92c90-3965-11f0-96c3-cf669419a2b0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Driving instructors say rising prices are fair - but learners can't keep up]]></title>
+            <description><![CDATA[Paige Williams, a single mum from Barnsley, says she's having to drastically cut back on spending to afford her £35-an-hour driving lessons.]]></description>
+            <link>https://www.bbc.com/news/articles/c7vnp4j2811o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vnp4j2811o#1</guid>
+            <pubDate>Sat, 24 May 2025 23:18:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c43/live/a98b1470-36ff-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[As US welcomes white South Africans, others left in limbo watch in disbelief]]></title>
+            <description><![CDATA[Refugees from other nations ask why the White House has made an exception for white South Africans.]]></description>
+            <link>https://www.bbc.com/news/articles/czellw10ejdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czellw10ejdo#1</guid>
+            <pubDate>Sat, 24 May 2025 23:10:45 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/cb6ef510-369c-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I spent thousands turning my bike into an office. Then a thief took it']]></title>
+            <description><![CDATA[Anna Holligan transformed her bike into a mobile studio for the BBC in the Netherlands - now it has vanished.]]></description>
+            <link>https://www.bbc.com/news/articles/c771v2y078po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c771v2y078po#1</guid>
+            <pubDate>Sat, 24 May 2025 23:14:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/666e/live/a65a64b0-3801-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murdered on the school run: The controversial Ukrainian gunned down in Madrid]]></title>
+            <description><![CDATA[The killing in a Madrid suburb has shocked Ukrainians, but has not triggered an outpouring of grief.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd41g661epo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd41g661epo#1</guid>
+            <pubDate>Sat, 24 May 2025 23:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fbb/live/fc9d2f40-37ea-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder arrest as mum and three children die in fire]]></title>
+            <description><![CDATA[A 41-year-old man was arrested at the scene on suspicion of murder and remains in custody.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4g3jgv7mro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4g3jgv7mro#3</guid>
+            <pubDate>Sun, 25 May 2025 15:04:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4d/live/2af9fb60-38b4-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Second suspected sabotage in France as power cut hits Nice]]></title>
+            <description><![CDATA[Officials say the blaze that caused the power outage is probably of "criminal origin".]]></description>
+            <link>https://www.bbc.com/news/articles/c20xvnge3qno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xvnge3qno#3</guid>
+            <pubDate>Sun, 25 May 2025 13:26:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/487c/live/42ea3640-395e-11f0-a1b9-9b7594c95a97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young US men are joining Russian churches promising 'absurd levels of manliness']]></title>
+            <description><![CDATA[A religion with traditions dating back centuries is attracting young American men.]]></description>
+            <link>https://www.bbc.com/news/articles/c30q5l8d4lro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30q5l8d4lro#3</guid>
+            <pubDate>Sat, 24 May 2025 23:05:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae73/live/84976680-2671-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris wins in Monaco to narrow gap to Piastri]]></title>
+            <description><![CDATA[McLaren's Lando Norris wins the Monaco Grand Prix for the first time, with Charles Leclerc second and Oscar Piastri third.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cp3qvn0nnv0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cp3qvn0nnv0o#3</guid>
+            <pubDate>Sun, 25 May 2025 15:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3209/live/0b2251f0-3979-11f0-b7d1-a39e6c3a45e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Post Office offer amounts to just half of my claim, says Alan Bates]]></title>
+            <description><![CDATA[Former subpostmaster Sir Alan Bates has accused the government of presiding over "quasi-kangaroo courts".]]></description>
+            <link>https://www.bbc.com/news/articles/c1kvzkg308wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kvzkg308wo#3</guid>
+            <pubDate>Sun, 25 May 2025 07:32:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b8/live/bd5887e0-392e-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodies of five skiers found near Switzerland resort]]></title>
+            <description><![CDATA[Mountain rescue recovered the five bodies a day after they were alerted to multiple pairs of abandoned skis.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg7y9ln5ylo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg7y9ln5ylo#3</guid>
+            <pubDate>Sun, 25 May 2025 15:06:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b0/live/8fce8750-3971-11f0-b7d1-a39e6c3a45e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Students say school toilet rules create anxiety]]></title>
+            <description><![CDATA[One girl says not having free access to the toilet was a factor in her decision to be home-schooled.]]></description>
+            <link>https://www.bbc.com/news/articles/c1kv8vxzn99o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kv8vxzn99o#3</guid>
+            <pubDate>Sun, 25 May 2025 06:44:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb6c/live/11572e30-36fc-11f0-8519-3b5a01ebe413.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged over crossbow incident at Glasgow hospital]]></title>
+            <description><![CDATA[Firearms officers arrested at 29-year-old man at the Queen Elizabeth University Hospital hospital in Glasgow.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdz1eezdgno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdz1eezdgno#3</guid>
+            <pubDate>Sun, 25 May 2025 14:27:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f6/live/9c31a6c0-3972-11f0-b7d1-a39e6c3a45e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School bus attack caught in tensions between Pakistan and India]]></title>
+            <description><![CDATA[Claims of sponsored militant attacks are intensifying, even as a fragile ceasefire holds.]]></description>
+            <link>https://www.bbc.com/news/articles/cx27nx0j1kjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx27nx0j1kjo#3</guid>
+            <pubDate>Sun, 25 May 2025 11:32:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca9/live/3a7a96f0-3943-11f0-9cbf-0f8de7be0cc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea makes arrests over botched ship launch]]></title>
+            <description><![CDATA[Kim Jong Un said those who made "irresponsible errors" would be dealt with at a plenary meeting next month.]]></description>
+            <link>https://www.bbc.com/news/articles/cx279v4z9lzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx279v4z9lzo#3</guid>
+            <pubDate>Sat, 24 May 2025 23:47:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/1a026ba0-38f3-11f0-8947-7d6241f9fce9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King's invitation to Canada sends a message to Trump - and the world]]></title>
+            <description><![CDATA[Canada once downplayed the monarchy. Now, it is leaning on it to assert its sovereignty. ]]></description>
+            <link>https://www.bbc.com/news/articles/c04erp9gxkyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04erp9gxkyo#3</guid>
+            <pubDate>Sat, 24 May 2025 23:32:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b18c/live/67b6d410-37ec-11f0-b03d-23713b9a6cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Expert urges calm over mosquito disease found in UK]]></title>
+            <description><![CDATA[Prof Jonathan Ball says tropical viruses are moving north but people should not be "too concerned".]]></description>
+            <link>https://www.bbc.com/news/articles/c75341zkgd9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75341zkgd9o#3</guid>
+            <pubDate>Sun, 25 May 2025 07:20:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b239/live/2c071050-388d-11f0-ae03-09fcb5edc49f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moment Australian politician signs off career by pouring beer into his shoe and drinking it]]></title>
+            <description><![CDATA[The MP ended his time in parliament by drinking beer out of his shoe during his farewell speech.]]></description>
+            <link>https://www.bbc.com/news/videos/c4grdy4znr0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4grdy4znr0o#4</guid>
+            <pubDate>Fri, 23 May 2025 03:14:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74f/live/42bb3490-377d-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI system resorts to blackmail if told it will be removed]]></title>
+            <description><![CDATA[In a fictional scenario, the model was willing to expose that the engineer seeking to replace it was having an affair.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqeng9d20go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqeng9d20go#4</guid>
+            <pubDate>Fri, 23 May 2025 12:15:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/53de8670-37c6-11f0-8d2d-9ff0cdfc8abf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Love conquers all' - couple marry on intensive care unit]]></title>
+            <description><![CDATA[David Fontana and Joanne Stringfellow married a day after they were told to say their final goodbyes.]]></description>
+            <link>https://www.bbc.com/news/articles/c706r0k4471o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c706r0k4471o#4</guid>
+            <pubDate>Sun, 25 May 2025 06:35:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde2/live/835fe360-37f5-11f0-b03d-23713b9a6cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Starmer Scrap the Two-Child Benefit Cap?]]></title>
+            <description><![CDATA[And Rayner responds to the Telegraph memo leak.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lddkvc</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lddkvc#6</guid>
+            <pubDate>Sun, 25 May 2025 11:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did Trump ambush the South African president?]]></title>
+            <description><![CDATA[Cyril Ramaphosa kept his cool despite the onslaught]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002cf4v</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002cf4v#6</guid>
+            <pubDate>Thu, 22 May 2025 17:26:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris wins in Monaco to narrow gap to Piastri]]></title>
+            <description><![CDATA[McLaren's Lando Norris wins the Monaco Grand Prix for the first time, with Charles Leclerc second and Oscar Piastri third.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cp3qvn0nnv0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cp3qvn0nnv0o#8</guid>
+            <pubDate>Sun, 25 May 2025 15:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3209/live/0b2251f0-3979-11f0-b7d1-a39e6c3a45e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grealish left out of Man City squad for final game]]></title>
+            <description><![CDATA[Jack Grealish has been left out of Manchester City's squad for the final Premier League of the season at Fulham to fuel further uncertainty over his future.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c629nl4r7y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c629nl4r7y0o#8</guid>
+            <pubDate>Sun, 25 May 2025 13:49:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a1/live/c95252d0-395e-11f0-a1b9-9b7594c95a97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sabalenka races to French Open first-round win]]></title>
+            <description><![CDATA[World number one Aryna Sabalenka drops just one game against Kamilla Rakhimova to get her French Open campaign under way in emphatic style.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c331rejg1exo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c331rejg1exo#8</guid>
+            <pubDate>Sun, 25 May 2025 14:35:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943c/live/8a4be710-395c-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+    </channel>
+</rss>
