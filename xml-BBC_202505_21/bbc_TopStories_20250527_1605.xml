@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 May 2025 16:05:02 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What eyewitness videos tell us about the Liverpool crash]]></title>
+            <description><![CDATA[BBC Verify examines videos of the incident in which a car drove into a crowd during Liverpool FC's parade on Monday.]]></description>
+            <link>https://www.bbc.com/news/videos/c9dq6jj0l9do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9dq6jj0l9do#0</guid>
+            <pubDate>Tue, 27 May 2025 12:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe8/live/2314b600-3aef-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why police released details about Liverpool crash suspect so quickly]]></title>
+            <description><![CDATA[The decision shows lessons have been learned from the Southport attacks last summer, writes Daniel Sandford. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvgv4ddpyddo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv4ddpyddo#0</guid>
+            <pubDate>Tue, 27 May 2025 10:52:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2e/live/6b75ce10-3af0-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Controversial US-backed group says it has begun aid distribution in Gaza]]></title>
+            <description><![CDATA[Hundreds of Palestinians collect food from a site run by the Gaza Humanitarian Foundation, whose work the UN calls a "distraction".]]></description>
+            <link>https://www.bbc.com/news/articles/cev41em3r9lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cev41em3r9lo#0</guid>
+            <pubDate>Tue, 27 May 2025 15:02:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae2/live/05d1dbc0-3b05-11f0-8b5d-0de34fc45231.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farage pledges more tax breaks for married couples to make having children easier]]></title>
+            <description><![CDATA[Reform leader backs lifting the two-child benefit cap and introducing more generous tax breaks for married people.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yx062pvlvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yx062pvlvo#0</guid>
+            <pubDate>Tue, 27 May 2025 14:57:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b493/live/a370ca20-3af2-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary Earps announces shock England retirement before Euro 2025]]></title>
+            <description><![CDATA[England goalkeeper Mary Earps announces her retirement from international football with immediate effect - just five weeks before Euro 2025 begins.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cdj9ryd8mgro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdj9ryd8mgro#0</guid>
+            <pubDate>Tue, 27 May 2025 12:08:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d4/live/7184b320-3ae1-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IMF raises UK growth forecast as it warns on tax and spending]]></title>
+            <description><![CDATA[In its annual health-check for the UK economy, the IMF predicted growth of 1.2%, a marginal upgrade to its previous forecast.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2jy0jk231o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2jy0jk231o#0</guid>
+            <pubDate>Tue, 27 May 2025 15:50:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a049/live/87616d00-3aeb-11f0-9fac-e782546bd539.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drug-fuelled driver who caused death of three-year-old girl jailed]]></title>
+            <description><![CDATA[Rawal Rehman is jailed for 12 years after his van hit and killed Louisa Palmisano in Manchester.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3qdj0qdp7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3qdj0qdp7o#0</guid>
+            <pubDate>Tue, 27 May 2025 13:34:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4a/live/192a34b0-3b0f-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ministers considering scrapping two-child benefit cap]]></title>
+            <description><![CDATA[The education secretary says the policy pushes people into poverty but warns scrapping it would be costly.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ykp78r5r7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ykp78r5r7o#0</guid>
+            <pubDate>Tue, 27 May 2025 14:43:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34fa/live/a5737e20-3ad5-11f0-892a-dbff7bc02e54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ancient human fingerprint suggests Neanderthals made art]]></title>
+            <description><![CDATA[A Neanderthal man is believed to have painted a nose on a pebble using red pigment more than 43,000 years ago.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0g9jv707yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0g9jv707yo#0</guid>
+            <pubDate>Tue, 27 May 2025 14:45:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd3e/live/e1fe5e90-3b03-11f0-b0d7-71720076f013.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Leaked recording reveals police doubts over woman’s abortion arrest]]></title>
+            <description><![CDATA[Police “not comfortable” operating in abortion criminalisation, says Met officer in case of Nicola Packer.]]></description>
+            <link>https://www.bbc.com/news/articles/cp852g0l6j6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp852g0l6j6o#0</guid>
+            <pubDate>Tue, 27 May 2025 05:04:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a94/live/054b2390-3ad9-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Driver looked emotional and agitated' - witnesses share stories]]></title>
+            <description><![CDATA[Fans describe the moment a car ploughed into people as they celebrated in the street.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e63z2899jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e63z2899jo#1</guid>
+            <pubDate>Tue, 27 May 2025 14:50:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ac/live/5b5fc450-3ae5-11f0-9b36-75be5ac2a538.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do we know so far?]]></title>
+            <description><![CDATA[A 53-year-old white British man has been arrested after dozens of people were hit by a car.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8209lzzp4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8209lzzp4o#1</guid>
+            <pubDate>Tue, 27 May 2025 15:38:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6c/live/9a5eeb00-3b11-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Liverpool united after car ploughed into crowd]]></title>
+            <description><![CDATA[The city quickly pulled together with a wave of kindness from offers of lifts and food to accommodation.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg7mem7v7mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg7mem7v7mo#1</guid>
+            <pubDate>Tue, 27 May 2025 13:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fec/live/20b12b10-3b11-11f0-b0d7-71720076f013.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment car drives into parade]]></title>
+            <description><![CDATA[A 53-year-old white British man has been arrested after a car drove into pedestrians in Water Street, police say.]]></description>
+            <link>https://www.bbc.com/news/videos/c4grq15y6yeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4grq15y6yeo#1</guid>
+            <pubDate>Mon, 26 May 2025 21:53:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/9ebba5f0-3a83-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six highlights from American Music Awards - from J. Lo's kiss to Billie Eilish's wins]]></title>
+            <description><![CDATA[A round-up of action from the American Music Awards which also honoured Sir Rod Stewart in Vegas on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/c071mk5081do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c071mk5081do#2</guid>
+            <pubDate>Tue, 27 May 2025 11:19:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd2/live/aaf50e20-3b04-11f0-8b5d-0de34fc45231.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC given rare access to search for Hezbollah positions with UN troops in Lebanon]]></title>
+            <description><![CDATA[A Unifil spokesperson said the main violations of a ceasefire deal reached six months ago are from the Israeli side.]]></description>
+            <link>https://www.bbc.com/news/videos/cgj8vqng4vvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgj8vqng4vvo#2</guid>
+            <pubDate>Tue, 27 May 2025 05:50:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45eb/live/5b192150-2ce2-11f0-8f57-b7237f6a66e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Battle begins over new homes approved in historic village without sewage capacity]]></title>
+            <description><![CDATA[Charity launches legal challenge as it says problem of over-capacity sewage works near new homes is "rife". ]]></description>
+            <link>https://www.bbc.com/news/articles/cn055462jy1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn055462jy1o#2</guid>
+            <pubDate>Tue, 27 May 2025 05:07:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b5/live/3777c640-3569-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My life was saved by a stranger on the other side of the world']]></title>
+            <description><![CDATA[An Australian man meets his stem-cell donor for the first time after travelling to the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqe52pj1d2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqe52pj1d2o#2</guid>
+            <pubDate>Tue, 27 May 2025 05:01:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf9/live/e4644d40-399e-11f0-851f-813e3b8ee421.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The underdogs who ended football trophy drought this season]]></title>
+            <description><![CDATA[BBC Sport has a look at some of the teams who ended long trophy droughts this season in cup competitions.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c9wgyk0yjgxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wgyk0yjgxo#2</guid>
+            <pubDate>Tue, 27 May 2025 10:41:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba7/live/aaeabf10-37fd-11f0-9fd9-17e174727c02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just Stop Oil protesters who planned Manchester airport disruption jailed]]></title>
+            <description><![CDATA[The four Just Stop Oil protesters were planning to glue themselves to the airport taxiway last August.]]></description>
+            <link>https://www.bbc.com/news/articles/cewd4g0nvx5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewd4g0nvx5o#4</guid>
+            <pubDate>Tue, 27 May 2025 12:40:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb98/live/bc101ce0-3af0-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adidas says customer data stolen in cyber attack]]></title>
+            <description><![CDATA[The sportswear giant says criminals accessed its systems through a "third-party customer service provider." ]]></description>
+            <link>https://www.bbc.com/news/articles/c071m82v80po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c071m82v80po#4</guid>
+            <pubDate>Tue, 27 May 2025 12:21:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/08db5060-3af3-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tommy Robinson released after seven months in jail]]></title>
+            <description><![CDATA[The 42-year-old, whose real name is Stephen Yaxley-Lennon, is freed after his sentence was reduced.]]></description>
+            <link>https://www.bbc.com/news/articles/c9q0147e4yxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q0147e4yxo#4</guid>
+            <pubDate>Tue, 27 May 2025 09:57:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb43/live/f36df090-3adc-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth beach huts destroyed in overnight fire]]></title>
+            <description><![CDATA[Crews fought the fire on East Beach, Undercliff Drive, on the Bournemouth seafront.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgn4y4n0vno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgn4y4n0vno#4</guid>
+            <pubDate>Tue, 27 May 2025 14:11:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f400/live/4f1c4a90-3ad3-11f0-bb33-cb43edff610f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrian admits triple murder at trial for German knife attack]]></title>
+            <description><![CDATA[Issa al H is accused of pledging allegiance to the Islamic State jihadist group before the attack.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyj1662yrzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyj1662yrzo#4</guid>
+            <pubDate>Tue, 27 May 2025 13:02:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bd0/live/724410e0-3af4-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pornhub and three other porn sites face EU child safety probe]]></title>
+            <description><![CDATA[The EU said the sites did not appear to have "appropriate" age verification to stop children accessing porn.]]></description>
+            <link>https://www.bbc.com/news/articles/c1j58pwy82no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1j58pwy82no#4</guid>
+            <pubDate>Tue, 27 May 2025 13:59:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a2/live/39b6a460-3ae8-11f0-9b36-75be5ac2a538.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand teen dies in viral rugby-style tackle game]]></title>
+            <description><![CDATA[He was critically injured in a game of "run it straight", which has become a social media trend.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2q043q8z2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2q043q8z2o#4</guid>
+            <pubDate>Tue, 27 May 2025 09:35:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f04/live/3f9bd9d0-3ab7-11f0-a7c9-af2e8d84f0c0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did Trump ambush the South African president?]]></title>
+            <description><![CDATA[Cyril Ramaphosa kept his cool despite the onslaught]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002cf4v</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002cf4v#6</guid>
+            <pubDate>Thu, 22 May 2025 17:26:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newscast]]></title>
+            <description><![CDATA[Live from Hay Festival with Marcus Brigstocke, Anne Applebaum and David Spiegelhalter.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0ldk427</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ldk427#6</guid>
+            <pubDate>Mon, 26 May 2025 11:37:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Van Dijk 'praying' for supporters injured at parade]]></title>
+            <description><![CDATA[Liverpool captain Virgil van Dijk says he is "praying" for those injured during the club's Premier League trophy parade on Monday. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ce81z1031nko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce81z1031nko#8</guid>
+            <pubDate>Tue, 27 May 2025 13:13:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4540/live/7e2587c0-3af6-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I deserve a diploma' - Norrie stuns Medvedev in five-set epic]]></title>
+            <description><![CDATA[Cameron Norrie claims one of his best victories of the year as he beats Daniil Medvedev 7-5 6-3 4-6 1-6 7-5 in a thrilling French Open first-round match.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cd90k2lw1y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd90k2lw1y0o#8</guid>
+            <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b5/live/2086a860-3b00-11f0-b0d7-71720076f013.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[She made keeping cool and fought off-field battles - so why is Earps retiring now?]]></title>
+            <description><![CDATA[Few international retirements have shocked women's football in the way Mary Earps' decision did.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cwyw7gkx8ygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyw7gkx8ygo#8</guid>
+            <pubDate>Tue, 27 May 2025 12:56:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf1/live/be757a90-3ae4-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Schmid screengrab reignited putter debate]]></title>
+            <description><![CDATA[Matti Schmid achieved his best ever PGA Tour finish on Sunday, but his putting technique is facing increasing scrutiny.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/ceqg2py1839o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/ceqg2py1839o#8</guid>
+            <pubDate>Tue, 27 May 2025 11:27:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e0/live/5b084a00-3a2b-11f0-8b82-f75b8da723b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England's Atkinson ruled out of West Indies ODIs]]></title>
+            <description><![CDATA[Fast bowler Gus Atkinson is out of England's one-day international series against West Indies because of a hamstring injury.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cy4k0kw22vgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cy4k0kw22vgo#8</guid>
+            <pubDate>Tue, 27 May 2025 14:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7018/live/d3649060-3aff-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+    </channel>
+</rss>

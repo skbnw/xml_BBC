@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 May 2025 16:05:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[British man jailed in Bali for drug offence]]></title>
+            <description><![CDATA[Thomas Parker is serving 10 months in prison in Indonesia after receiving a package containing MDMA.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mg35xm02zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mg35xm02zo#0</guid>
+            <pubDate>Tue, 27 May 2025 09:46:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9d/live/2b88de70-3ae4-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drug-fuelled driver who caused girl's death jailed]]></title>
+            <description><![CDATA[Rawal Rehman is jailed for 12 years after his van hit and killed Louisa Palmisano in Manchester.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3qdj0qdp7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3qdj0qdp7o#0</guid>
+            <pubDate>Tue, 27 May 2025 13:34:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4a/live/192a34b0-3b0f-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man who stalked radio DJ avoids prison]]></title>
+            <description><![CDATA[Keaton Adams believed he was in a relationship with the presenter, a court hears.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2r7vvy4e0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2r7vvy4e0o#0</guid>
+            <pubDate>Tue, 27 May 2025 11:43:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4868/live/f2985dd0-3aec-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protesters who planned airport disruption jailed]]></title>
+            <description><![CDATA[The four Just Stop Oil protesters were planning to glue themselves to the airport taxiway last August.]]></description>
+            <link>https://www.bbc.com/news/articles/cewd4g0nvx5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewd4g0nvx5o#0</guid>
+            <pubDate>Tue, 27 May 2025 12:40:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb98/live/bc101ce0-3af0-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beach huts destroyed in overnight fire]]></title>
+            <description><![CDATA[Crews fought the fire on East Beach, Undercliff Drive, on the Bournemouth seafront.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgn4y4n0vno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgn4y4n0vno#0</guid>
+            <pubDate>Tue, 27 May 2025 14:11:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f400/live/4f1c4a90-3ad3-11f0-bb33-cb43edff610f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare 1920s splash boat opens for rides]]></title>
+            <description><![CDATA[The almost 100-year-old attraction is a popular attraction, according to East Park's manager.  ]]></description>
+            <link>https://www.bbc.com/news/articles/ce80z7933w1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce80z7933w1o#0</guid>
+            <pubDate>Tue, 27 May 2025 12:20:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb2/live/8dfc6f40-37d8-11f0-a4af-73821f3ada00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suspect followed ambulance before parade car crash]]></title>
+            <description><![CDATA[The suspect's car followed an ambulance through a road block in Liverpool city centre, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/c62n0nkj4m2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62n0nkj4m2o#1</guid>
+            <pubDate>Tue, 27 May 2025 15:51:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c10/live/1e6b1400-3b03-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Liverpool united after car ploughed into crowd]]></title>
+            <description><![CDATA[The city quickly pulled together with a wave of kindness from offers of lifts and food to accommodation.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg7mem7v7mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg7mem7v7mo#1</guid>
+            <pubDate>Tue, 27 May 2025 13:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fec/live/20b12b10-3b11-11f0-b0d7-71720076f013.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why police released details about Liverpool crash suspect so quickly]]></title>
+            <description><![CDATA[The decision shows lessons have been learned from the Southport attacks last summer, writes Daniel Sandford. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvgv4ddpyddo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv4ddpyddo#1</guid>
+            <pubDate>Tue, 27 May 2025 10:52:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2e/live/6b75ce10-3af0-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tommy Robinson released after seven months in jail]]></title>
+            <description><![CDATA[The 42-year-old, whose real name is Stephen Yaxley-Lennon, is freed after his sentence was reduced.]]></description>
+            <link>https://www.bbc.com/news/articles/c9q0147e4yxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q0147e4yxo#2</guid>
+            <pubDate>Tue, 27 May 2025 09:57:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb43/live/f36df090-3adc-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charity shop donated guitars fetch £12,000 at auction]]></title>
+            <description><![CDATA[Among the guitars donated to the Oxfam shop in Witney last year was a favourite of Elvis Presley.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xg185520jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xg185520jo#2</guid>
+            <pubDate>Tue, 27 May 2025 12:56:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7cb/live/d49e37f0-3af6-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miniature pony stolen from stables overnight]]></title>
+            <description><![CDATA[The six-year-old animal vanished overnight during a burglary, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cz70pv4xdzwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz70pv4xdzwo#2</guid>
+            <pubDate>Tue, 27 May 2025 11:54:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56c/live/57ffb2f0-3af1-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Wurzels write song using artificial intelligence]]></title>
+            <description><![CDATA[The West Country folk band's new single, Wurzel Me Up, has been written using AI.]]></description>
+            <link>https://www.bbc.com/news/articles/c74q03genl5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74q03genl5o#2</guid>
+            <pubDate>Tue, 27 May 2025 11:30:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/c5fbb200-3b04-11f0-8b5d-0de34fc45231.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father and daughter make history at football club]]></title>
+            <description><![CDATA[Richard and Imogen Mansell play in the same position for their club's men's and women's teams.]]></description>
+            <link>https://www.bbc.com/news/articles/cn055perw4zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn055perw4zo#3</guid>
+            <pubDate>Tue, 27 May 2025 05:28:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43e/live/09021870-3ad6-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery as 'Minions' painted under motorway bridge]]></title>
+            <description><![CDATA[The colourful characters have been painted by an as-yet unknown artist under the bridge in Burnley.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4gjygg91vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4gjygg91vo#3</guid>
+            <pubDate>Tue, 27 May 2025 14:48:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7355/live/c36e4f30-3aea-11f0-9fac-e782546bd539.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RAF vet, 100, puts longevity down to daily cycling]]></title>
+            <description><![CDATA[He says he does not like any fuss and feels "no different at 100... it's just a number".]]></description>
+            <link>https://www.bbc.com/news/articles/cvgq45208pdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgq45208pdo#3</guid>
+            <pubDate>Tue, 27 May 2025 04:25:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68c/live/29c8d8e0-3708-11f0-a65c-47ca07a6460a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['They laid the bodies out in our garden' - 50 years since Dibbles Bridge crash]]></title>
+            <description><![CDATA[On 27 May 1975, 45 women were on a day trip in the Yorkshire Dales when their coach crashed.]]></description>
+            <link>https://www.bbc.com/news/articles/c2d506y5l81o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d506y5l81o#4</guid>
+            <pubDate>Tue, 27 May 2025 05:21:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb51/live/f1bf1b40-37bf-11f0-8c61-1388b061cbbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The detectives trying new tricks on old cases]]></title>
+            <description><![CDATA[A team of cold case detectives has more than 70 unsolved murders across three counties on its books.]]></description>
+            <link>https://www.bbc.com/news/articles/c8ep0431j6no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8ep0431j6no#4</guid>
+            <pubDate>Tue, 27 May 2025 04:23:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04a/live/bbb0dd90-3a3a-11f0-9fe7-6dcc0a293de1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I got cancer at 24 - it can happen to you too']]></title>
+            <description><![CDATA[Told she was "too young" for cancer, Alice Greaves now shares her journey to raise awareness.]]></description>
+            <link>https://www.bbc.com/news/articles/cgj8g886n0do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgj8g886n0do#4</guid>
+            <pubDate>Tue, 27 May 2025 05:11:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d8/live/ef430580-3700-11f0-a77b-8f31eb4b7eef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Only 60 people in the UK have our daughter's genetic condition']]></title>
+            <description><![CDATA[Three-year-old Autumn will spend three months in an isolation room during her treatment.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5yynk6303o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5yynk6303o#4</guid>
+            <pubDate>Tue, 27 May 2025 08:15:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd89/live/a2ee3330-363d-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moment car drives into crowd at Liverpool trophy parade]]></title>
+            <description><![CDATA[A 53-year-old white British man has been arrested after a car drove into pedestrians in Water Street, police say.]]></description>
+            <link>https://www.bbc.com/news/videos/c4grq15y6yeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4grq15y6yeo#5</guid>
+            <pubDate>Mon, 26 May 2025 21:53:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/9ebba5f0-3a83-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen sets record for solving 12-sided Rubik's cube]]></title>
+            <description><![CDATA[Aidan Grainger, 17, managed to complete the Megaminx gadget in just 22.89 seconds.]]></description>
+            <link>https://www.bbc.com/news/videos/c8jgg2kp0m9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8jgg2kp0m9o#5</guid>
+            <pubDate>Mon, 26 May 2025 05:51:17 GMT</pubDate>
+            <media:thumbnail width="240" height="152" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4642/live/e04405c0-3660-11f0-8519-3b5a01ebe413.png"/>
+        </item>
+        <item>
+            <title><![CDATA['We're in the Premier League baby']]></title>
+            <description><![CDATA[Black Cats fans celebrate Sunderland's promotion to the top flight after eight years away.]]></description>
+            <link>https://www.bbc.com/news/videos/cdxkyp1j0xwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdxkyp1j0xwo#5</guid>
+            <pubDate>Sat, 24 May 2025 21:06:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d472/live/fb6bfa00-38e1-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I think I deserve a diploma' - Norrie stuns Medvedev]]></title>
+            <description><![CDATA[Cameron Norrie claims one of his best victories of the year as he beats Daniil Medvedev 7-5 6-3 4-6 1-6 7-5 in a thrilling French Open first-round match.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cd90k2lw1y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd90k2lw1y0o#6</guid>
+            <pubDate>Tue, 27 May 2025 16:03:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b5/live/2086a860-3b00-11f0-b0d7-71720076f013.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earps announces shock England retirement after losing place]]></title>
+            <description><![CDATA[England goalkeeper Mary Earps announces her retirement from international football with immediate effect - just five weeks before Euro 2025 begins.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cdj9ryd8mgro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdj9ryd8mgro#6</guid>
+            <pubDate>Tue, 27 May 2025 12:08:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d4/live/7184b320-3ae1-11f0-a379-ddaa80eac7b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England & Tigers prop Cole to retire at end of season]]></title>
+            <description><![CDATA[Veteran England and Leicester Tigers prop Dan Cole is to retire at the end of the season.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/clyr1qpn882o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/clyr1qpn882o#6</guid>
+            <pubDate>Tue, 27 May 2025 12:08:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f5/live/f5d32760-3af5-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England's Atkinson ruled out of West Indies ODIs]]></title>
+            <description><![CDATA[Fast bowler Gus Atkinson is out of England's one-day international series against West Indies because of a hamstring injury.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cy4k0kw22vgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cy4k0kw22vgo#6</guid>
+            <pubDate>Tue, 27 May 2025 14:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7018/live/d3649060-3aff-11f0-9a86-f7906cd4e14e.jpg"/>
+        </item>
+    </channel>
+</rss>
