@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/technology</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/technology</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 May 2025 08:05:55 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[The people who think AI might become conscious]]></title>
+            <description><![CDATA[With a leap in the evolution of large language models, some leading thinkers are questioning whether AI might become sentient ]]></description>
+            <link>https://www.bbc.com/news/articles/c0k3700zljjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k3700zljjo#0</guid>
+            <pubDate>Mon, 26 May 2025 00:38:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/050b/live/ced6bd60-37ea-11f0-8519-3b5a01ebe413.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Humanoid robots fight in Chinese kick-boxing competition]]></title>
+            <description><![CDATA[The two humanoid robots traded punches while fans watched on, in a world-first humanoid robot fighting event. ]]></description>
+            <link>https://www.bbc.com/news/videos/cgeg2x3lwepo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgeg2x3lwepo#0</guid>
+            <pubDate>Mon, 26 May 2025 06:09:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9838/live/06509dd0-39f6-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian IT giant investigates link to M&S cyber-attack]]></title>
+            <description><![CDATA[M&S said earlier this week that the hackers got into systems via a third party - but did not say who that was.]]></description>
+            <link>https://www.bbc.com/news/articles/c989le2p3lno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c989le2p3lno#0</guid>
+            <pubDate>Fri, 23 May 2025 19:13:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed8/live/919d6a50-3805-11f0-981f-292340dd0d9d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI system resorts to blackmail if told it will be removed]]></title>
+            <description><![CDATA[In a fictional scenario, the model was willing to expose that the engineer seeking to replace it was having an affair.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqeng9d20go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqeng9d20go#0</guid>
+            <pubDate>Fri, 23 May 2025 12:15:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/53de8670-37c6-11f0-8d2d-9ff0cdfc8abf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['World's greatest designer' Jony Ive joins OpenAI to 'reimagine' computers]]></title>
+            <description><![CDATA[The man who designed the iPad, iMac and iPhone will try to come up with a new generation of products for the AI era.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y66yemjdmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y66yemjdmo#0</guid>
+            <pubDate>Thu, 22 May 2025 16:42:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fd/live/fdd74c50-367e-11f0-b620-aba527f3791c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protestors accuse Trump of corruption as he hosts crypto gala dinner]]></title>
+            <description><![CDATA[Trump hosted the biggest investors in his own cryptocurrency, but insisted he put the country ahead of his  businesses interests.]]></description>
+            <link>https://www.bbc.com/news/articles/c74nn4ppdvdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74nn4ppdvdo#0</guid>
+            <pubDate>Fri, 23 May 2025 09:22:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f5/live/354d5a10-37b7-11f0-9e4d-b7a43daeff47.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK exposes Russian cyber campaign targeting support for Ukraine]]></title>
+            <description><![CDATA[A joint investigation by the UK and allies found Russian hackers in the systems of logistics organisations.]]></description>
+            <link>https://www.bbc.com/news/articles/c17rrjdr79po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17rrjdr79po#0</guid>
+            <pubDate>Wed, 21 May 2025 16:37:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257b/live/888d3570-364e-11f0-8185-6772e52c97ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M&S website back online, allowing users to browse]]></title>
+            <description><![CDATA[After going down overnight, the website is open for browsing again, but online orders remain suspended after the recent cyber attack.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k374x1y8do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k374x1y8do#1</guid>
+            <pubDate>Thu, 22 May 2025 06:43:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4720/live/e5689060-3689-11f0-82e4-5f48ba77edf9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retail hackers believed to be young and from US and UK, detectives say]]></title>
+            <description><![CDATA[The National Crime Agency tells the BBC how it is trying to find the culprits of the M&S and Co-op hacks.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgnndrgxv3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgnndrgxv3o#1</guid>
+            <pubDate>Wed, 21 May 2025 10:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eeb/live/fdd44980-3596-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[National parking platform seeks to end 'hassle' of multiple parking apps]]></title>
+            <description><![CDATA[The frustration of having to download multiple apps to pay for parking may go if a new platform is widely adopted.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg44pgn2g4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg44pgn2g4o#1</guid>
+            <pubDate>Wed, 21 May 2025 13:41:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d86/live/ab3d4240-3644-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI chatbot to be embedded in Google search]]></title>
+            <description><![CDATA[The new option in its marquee search engine comes as the firm is facing competition from AI firms. ]]></description>
+            <link>https://www.bbc.com/news/articles/cpw77qwd117o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw77qwd117o#1</guid>
+            <pubDate>Tue, 20 May 2025 22:53:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7dd/live/ee4a2710-35c2-11f0-986a-05bac79267b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fortnite back on US Apple app store after ban lifted]]></title>
+            <description><![CDATA[It was removed in 2020 for violating Apple's policies by launching its own in-app payment system.]]></description>
+            <link>https://www.bbc.com/news/articles/c0711mrl470o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0711mrl470o#1</guid>
+            <pubDate>Wed, 21 May 2025 04:36:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6cf/live/eac36920-35f5-11f0-a42a-596eb5326f2d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cyber-attack threat keeps me awake at night, bank boss says]]></title>
+            <description><![CDATA[Ian Stuart, from HSBC, said banks were spending "enormous" sums shoring up their IT systems.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g3372vl3yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g3372vl3yo#1</guid>
+            <pubDate>Tue, 20 May 2025 13:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/a01f2800-3569-11f0-bf15-094eef773db0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fortnite faces complaint from actors' union over AI Darth Vader]]></title>
+            <description><![CDATA[Sag-Aftra says the hit video game has used tech to replace human performers.]]></description>
+            <link>https://www.bbc.com/news/articles/cn844l3eznqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn844l3eznqo#1</guid>
+            <pubDate>Tue, 20 May 2025 10:36:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bc0/live/f03952b0-355b-11f0-bf15-094eef773db0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can AI therapists really be an alternative to human help?]]></title>
+            <description><![CDATA[With NHS mental health waitlists at record highs, are chatbots a possible solution?]]></description>
+            <link>https://www.bbc.com/news/articles/ced2ywg7246o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced2ywg7246o#2</guid>
+            <pubDate>Mon, 19 May 2025 23:04:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f074/live/f7426060-34b6-11f0-8519-3b5a01ebe413.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sesame Street heads to Netflix after Trump pulled funding]]></title>
+            <description><![CDATA[The platform will offer a new season and 90 hours of previous episodes to its 300 million subscribers.]]></description>
+            <link>https://www.bbc.com/news/articles/c80k7z8z77yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80k7z8z77yo#2</guid>
+            <pubDate>Tue, 20 May 2025 03:38:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/016629a0-3525-11f0-8d66-cd233f41fe78.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why so many military veterans move into cybersecurity]]></title>
+            <description><![CDATA[The vigilance needed in the military can be an asset in the cybersecurity industry.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3vgjzwl04o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3vgjzwl04o#2</guid>
+            <pubDate>Thu, 22 May 2025 23:04:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a85/live/3e3b8710-204b-11f0-8c2e-77498b1ce297.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK weather forecast more accurate with Met Office supercomputer]]></title>
+            <description><![CDATA[Detailed weather forecasts and better predictions about the rain will soon be enjoyed in the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/clyg4ygerpjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyg4ygerpjo#2</guid>
+            <pubDate>Mon, 19 May 2025 16:05:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f1/live/2a6c2580-326d-11f0-9794-69740985bbb1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesla battery maker sees shares jump in Hong Kong debut]]></title>
+            <description><![CDATA[China's CATL makes more than a third of electric vehicle batteries sold worldwide and also supplies VW and Toyota.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d4k1derzgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d4k1derzgo#2</guid>
+            <pubDate>Tue, 20 May 2025 04:55:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c5/live/6f7cc450-3532-11f0-ad49-6d647ca974e9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's 'Silicon Valley' flooded after heavy rains]]></title>
+            <description><![CDATA[Three people have been killed in Bengaluru after the city received heavy rainfall from Sunday night.]]></description>
+            <link>https://www.bbc.com/news/articles/c7800l27ynzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7800l27ynzo#2</guid>
+            <pubDate>Tue, 20 May 2025 10:25:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/688cc380-3540-11f0-b0a8-0d69e851e1e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK driverless cars coming in 2027 - but Uber says it's ready now]]></title>
+            <description><![CDATA[The previous government had said autonomous vehicles were "set to be on the road" by 2026.]]></description>
+            <link>https://www.bbc.com/news/articles/c8jg80j771zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jg80j771zo#2</guid>
+            <pubDate>Sun, 18 May 2025 23:24:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4101/live/692eeba0-323a-11f0-99e4-1f881fd90e09.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggling DNA testing firm 23andMe to be bought for $256m]]></title>
+            <description><![CDATA[It said new buyers Regeneron had committed to protect user data as part of the deal.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ln0e5g6kgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ln0e5g6kgo#2</guid>
+            <pubDate>Mon, 19 May 2025 19:11:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ea2/live/1928efc0-34ba-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[You've had a 'lightbulb moment' and invented something amazing. Now you need a patent.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6znq</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6znq#4</guid>
+            <pubDate>Tue, 20 May 2025 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lcf8nb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane visits the McLaren Technology Centre.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002cjrv</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002cjrv#4</guid>
+            <pubDate>Sat, 17 May 2025 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lbjcgm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[Young people from marginalised groups tell of the online abuse they receive.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6znp</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6znp#4</guid>
+            <pubDate>Tue, 13 May 2025 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l9zctf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[How one of the world's fastest supercomputers is shaping climate research.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002c74s</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002c74s#4</guid>
+            <pubDate>Sat, 10 May 2025 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l98prp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[One man describes his job as a moderator in Ghana. And we say goodbye to Skype.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6znn</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6znn#4</guid>
+            <pubDate>Tue, 06 May 2025 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l8k9pc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[The space mission to better understand how forests affect climate change on Earth.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6znm</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6znm#4</guid>
+            <pubDate>Tue, 29 Apr 2025 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l772jz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[Artificial intelligence is being used to unlock the mysteries of dolphin communication.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6znl</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6znl#4</guid>
+            <pubDate>Tue, 22 Apr 2025 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l5v4kn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frugal tech: The start-ups working on cheap innovation]]></title>
+            <description><![CDATA[Indian start-ups are using local materials and innovative ideas to make useful and affordable products.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xlqn0e5po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xlqn0e5po#5</guid>
+            <pubDate>Mon, 26 May 2025 23:03:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1742/live/b757ef70-21eb-11f0-9c65-a5c3dc449bf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why we need 'revolutionary' cooling tech]]></title>
+            <description><![CDATA[Cooling systems that avoid the use of polluting refrigerants are being launched.]]></description>
+            <link>https://www.bbc.com/news/articles/cpdzjev2d9wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpdzjev2d9wo#5</guid>
+            <pubDate>Mon, 19 May 2025 23:13:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df00/live/531e1d50-2596-11f0-88f6-794ae336edff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The monthly AI or real quiz: May 2025]]></title>
+            <description><![CDATA[Challenge yourself with this edition of our monthly AI or real quiz and see if you can get top marks!]]></description>
+            <link>https://www.bbc.co.uk/bitesize/articles/z2b7rmn</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z2b7rmn#5</guid>
+            <pubDate>Thu, 15 May 2025 17:16:00 GMT</pubDate>
+            <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0lc68mv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The camera tech propelling shows like Adolescence]]></title>
+            <description><![CDATA[Whole TV shows shot in one long take are made possible by new lightweight cameras.]]></description>
+            <link>https://www.bbc.com/news/articles/c62g6vdl3vqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62g6vdl3vqo#5</guid>
+            <pubDate>Thu, 15 May 2025 23:22:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda0/live/c5503190-24d0-11f0-b26b-ab62c890638b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to avoid a puncture on the Moon]]></title>
+            <description><![CDATA[Giant tyre firms are testing tyres that can survive conditions on the Moon and Mars.]]></description>
+            <link>https://www.bbc.com/news/articles/czrve1zrlg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrve1zrlg3o#5</guid>
+            <pubDate>Mon, 12 May 2025 23:08:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a1/live/8607cd20-2405-11f0-a686-ebbae6481125.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visit the Arctic vault holding back-ups of great works]]></title>
+            <description><![CDATA[An arctic vault holds digital back-ups of some of humanity's great works of art, history and technology. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7vnyn17p57o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vnyn17p57o#5</guid>
+            <pubDate>Thu, 08 May 2025 23:37:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb9/live/9a411350-24d7-11f0-8c66-ebf25fc2cfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who should you trust for a weather forecast?]]></title>
+            <description><![CDATA[Weather influencers can provide useful local information but are also accused of exaggerating conditions.]]></description>
+            <link>https://www.bbc.com/news/articles/cql6vgwyv4xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql6vgwyv4xo#5</guid>
+            <pubDate>Thu, 01 May 2025 23:01:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cf/live/1e55a940-0fab-11f0-9f4f-1b858dcfe51a.jpg"/>
+        </item>
+    </channel>
+</rss>
