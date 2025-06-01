@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 01 Jun 2025 00:21:32 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK to spend £1.5bn on six new weapons factories]]></title>
+            <description><![CDATA[The defence ministry said the factories would support up to 7,000 UK-built long-range weapons. ]]></description>
+            <link>https://www.bbc.com/news/articles/cq69vqpp2l4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq69vqpp2l4o#0</guid>
+            <pubDate>Sat, 31 May 2025 23:56:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f18/live/7d2e6200-3e21-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disposable vape ban begins but will teens quit? ]]></title>
+            <description><![CDATA[Retailers will no longer be able to sell single-use vapes as new laws comes into force across the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/c80kxx2xr77o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80kxx2xr77o#0</guid>
+            <pubDate>Sat, 31 May 2025 23:12:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/32d01220-3ca6-11f0-9011-c52991bf7ecc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tough choices on public spending unavoidable, says IFS]]></title>
+            <description><![CDATA[With the NHS and defence getting more funding, cuts to other areas are inevitable, the influential think tank says.]]></description>
+            <link>https://www.bbc.com/news/articles/c787385qx62o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c787385qx62o#0</guid>
+            <pubDate>Sat, 31 May 2025 23:16:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2df/live/f6416ad0-3d6c-11f0-8731-19176ad798be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK steelmakers call Trump doubling tariffs 'another body blow']]></title>
+            <description><![CDATA[Donald Trump says he will double tariffs on steel and aluminium imports to 50% from Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/c17rzvvzr0ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17rzvvzr0ko#0</guid>
+            <pubDate>Sat, 31 May 2025 16:24:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1279/live/d45a5440-3e2f-11f0-a630-5f905e7d7396.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 15, who died in fire named as Ann Eyre]]></title>
+            <description><![CDATA[The deaths are unexplained, and an investigation is under way, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2qypv6607o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2qypv6607o#0</guid>
+            <pubDate>Sat, 31 May 2025 17:00:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2a3/live/09836340-3e40-11f0-bdf7-adc0e8634a1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenager and two adults killed in M5 crash]]></title>
+            <description><![CDATA[A second child is taken to hospital after sustaining serious injuries in the single-vehicle crash.]]></description>
+            <link>https://www.bbc.com/news/articles/czxy3n361pgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxy3n361pgo#0</guid>
+            <pubDate>Sat, 31 May 2025 17:45:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/317b/live/c84542b0-3e0b-11f0-9c86-919ba9abf877.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body found in search for girl missing in Thames]]></title>
+            <description><![CDATA[A body has been found in the search for a girl missing in the River Thames, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyng2jvx4vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyng2jvx4vo#0</guid>
+            <pubDate>Sat, 31 May 2025 16:15:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ef/live/dcb5aa40-3e34-11f0-9e13-4dd3b8c1358e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lawyers ask for year-long delay to Lockerbie bombing trial]]></title>
+            <description><![CDATA[A judge will be asked to decide whether the trial of the man accused of building the bomb can be delayed until next April.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ge3492d13o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ge3492d13o#1</guid>
+            <pubDate>Sat, 31 May 2025 16:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/1b1962d0-3e36-11f0-9e13-4dd3b8c1358e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Third arrest made after man dies in garden]]></title>
+            <description><![CDATA[Three men in their 20s are in police custody after a man died in a garden.]]></description>
+            <link>https://www.bbc.com/news/articles/ced2wx9vv18o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced2wx9vv18o#1</guid>
+            <pubDate>Sat, 31 May 2025 14:47:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427e/live/7e8db4a0-3e05-11f0-9c86-919ba9abf877.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rise in crashes caused by tourists in Scotland driving on wrong side of road]]></title>
+            <description><![CDATA[Tourists driving on the wrong side of roads in Scotland were responsible for 35 crashes in 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4kqq8dw00o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4kqq8dw00o#1</guid>
+            <pubDate>Sat, 31 May 2025 10:29:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b53/live/fc3799b0-3e0b-11f0-835b-310c7b938e84.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Breakthrough cancer drug doubles survival in trial]]></title>
+            <description><![CDATA[An international study found immunotherapy before surgery could give patients extra years of life. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce82gderpl9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce82gderpl9o#1</guid>
+            <pubDate>Fri, 30 May 2025 23:08:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdde/live/fdfe37b0-3d41-11f0-8214-2f45dd20e205.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after car hits number of pedestrians]]></title>
+            <description><![CDATA[Police say a 31 year-old man has been arrested while four pedestrians remain in hopsital.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgqppwwje8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgqppwwje8o#1</guid>
+            <pubDate>Sat, 31 May 2025 10:46:01 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b5/live/25f30010-3e0b-11f0-bace-e1270fc31f5e.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Road from hell' fully reopens after 23 years]]></title>
+            <description><![CDATA[For the first time since 2002, you can drive on the A465 without getting stuck in roadworks.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvkdvrm1wpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvkdvrm1wpo#1</guid>
+            <pubDate>Sat, 31 May 2025 09:26:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb96/live/a9da9410-3d8e-11f0-9347-e35545653993.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman removes cyst from own eye after years waiting for op]]></title>
+            <description><![CDATA[A report into waiting times found the woman with deteriorating eyesight is still awaiting eye surgery.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy781jj7keo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy781jj7keo#1</guid>
+            <pubDate>Fri, 30 May 2025 16:48:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1185/live/23ab6460-3de7-11f0-9f85-7dba7f824ebb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bin strike deal offer watered down, says union]]></title>
+            <description><![CDATA[Unite the Union calls for further negotiations after weeks of waiting for a deal offer to be made.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yqxxg9541o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqxxg9541o#1</guid>
+            <pubDate>Sat, 31 May 2025 11:43:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d56/live/f36cfc90-3e05-11f0-9c86-919ba9abf877.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firefighting twins retire after 68 years of service]]></title>
+            <description><![CDATA[Dave and Paul Minall are leaving Whitchurch Fire Station after a combined 68 years of on-call service.]]></description>
+            <link>https://www.bbc.com/news/articles/cre92dpd4yno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cre92dpd4yno#1</guid>
+            <pubDate>Sat, 31 May 2025 06:13:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a3/live/e482a700-3d49-11f0-9672-b5f8c6868c1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rugby league anger at no knighthoods in 130 years]]></title>
+            <description><![CDATA[The Speaker Sir Lindsay Hoyle joins protests at the lack of knighthoods for rugby league players.]]></description>
+            <link>https://www.bbc.com/news/articles/cgeg74j4w1ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgeg74j4w1ro#1</guid>
+            <pubDate>Sat, 31 May 2025 00:11:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcde/live/2dea2220-3240-11f0-9702-032be3c1f222.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Charles gifted Rolls-Royce as coronation present]]></title>
+            <description><![CDATA[Other gifts received by the King include a feather crown and a gold Blue Peter badge. ]]></description>
+            <link>https://www.bbc.com/news/articles/c249g14v1jyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c249g14v1jyo#1</guid>
+            <pubDate>Fri, 30 May 2025 21:56:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e67/live/08117970-3da0-11f0-b2ce-355e105da608.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Temperatures rise for last day of record breaking spring]]></title>
+            <description><![CDATA[As spring turns to summer we will see temperatures rise over the weekend.]]></description>
+            <link>https://www.bbc.com/weather/articles/cqxeqzwzw71o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cqxeqzwzw71o#1</guid>
+            <pubDate>Sat, 31 May 2025 09:28:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5a/live/2fe45c40-3d48-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['As awkward as it gets': Ricky Gervais gets star on Hollywood Walk of Fame]]></title>
+            <description><![CDATA[The British actor says he is "humbled" and his success was "luck, persistence, and a little bit of pushing against the tide".]]></description>
+            <link>https://www.bbc.com/news/videos/c5ykdkn1p4no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5ykdkn1p4no#2</guid>
+            <pubDate>Sat, 31 May 2025 00:36:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d59/live/492df950-3db5-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key highlights from the King's speech in Canada]]></title>
+            <description><![CDATA[A look at the King's historic 2025 visit to Ottawa and opening of the Canadian parliament.]]></description>
+            <link>https://www.bbc.com/news/videos/cn4gj32g32yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn4gj32g32yo#2</guid>
+            <pubDate>Tue, 27 May 2025 16:19:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3940/live/fada89e0-3b1a-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It went from an amazing day to traumatising' - Liverpool fans]]></title>
+            <description><![CDATA[
+Jack Trotter and his girlfriend Abbie Gallagher, from Newtownards, County Down, were hit by the car as it drove into fans on Water Street, in Liverpool
+]]></description>
+            <link>https://www.bbc.com/news/videos/cj4211x1gk4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj4211x1gk4o#2</guid>
+            <pubDate>Tue, 27 May 2025 19:42:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fd/live/2d8dd9c0-3b32-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What eyewitness videos tell us about the Liverpool crash]]></title>
+            <description><![CDATA[BBC Verify examines videos of the incident in which a car drove into a crowd during Liverpool FC's parade on Monday.]]></description>
+            <link>https://www.bbc.com/news/videos/c9dq6jj0l9do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9dq6jj0l9do#2</guid>
+            <pubDate>Tue, 27 May 2025 12:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe8/live/2314b600-3aef-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Starmer's military review match the threats we're told we face?]]></title>
+            <description><![CDATA[BBC's Laura Kuenssberg examines what we can expect from the strategic defence review - and its potential pitfalls.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e50g0vzl5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e50g0vzl5o#3</guid>
+            <pubDate>Sat, 31 May 2025 16:33:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f27/live/66c8bb30-3d29-11f0-af00-f94ff1cabcc0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Samantha Mumba: From 'obnoxious teen' to pop superstar]]></title>
+            <description><![CDATA[It was 25 years ago that the Dubliner's life changed forever when she shot to fame as a 17-year-old with debut single Gotta Tell You.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynwd8rkewo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynwd8rkewo#3</guid>
+            <pubDate>Sat, 31 May 2025 00:17:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d747/live/01fd3ad0-3b0a-11f0-91a0-abc9c23352d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scouse superhero Speedo Mick: From rock bottom to seeing life story on stage]]></title>
+            <description><![CDATA[He went from sleeping rough to raising £1m on charity walks in all weathers in just his swimming trunks.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy7wky3vyyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy7wky3vyyo#3</guid>
+            <pubDate>Sat, 31 May 2025 01:44:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6eb/live/65d0f260-3491-11f0-8519-3b5a01ebe413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The police job that is beyond the stuff of nightmares]]></title>
+            <description><![CDATA[David Murray is a victim identification officer who examines images and footage to find children who've been sexually abused.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8nj5n0k3vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8nj5n0k3vo#3</guid>
+            <pubDate>Sat, 31 May 2025 08:07:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d15/live/bff74ae0-3d9d-11f0-b2ce-355e105da608.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A cry from the council estate' - the trans teen drama that pulls no punches]]></title>
+            <description><![CDATA[The coming-of-age BBC drama is a visceral look at working class life when you don't fit in.]]></description>
+            <link>https://www.bbc.com/news/articles/c70zd31n2k0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70zd31n2k0o#3</guid>
+            <pubDate>Sat, 31 May 2025 01:28:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0544/live/960ecf40-2fe3-11f0-95a3-134424679f15.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lawyers ask for year-long delay to Lockerbie bombing trial]]></title>
+            <description><![CDATA[A judge will be asked to decide whether the trial of the man accused of building the bomb can be delayed until next April.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ge3492d13o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ge3492d13o#4</guid>
+            <pubDate>Sat, 31 May 2025 16:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/1b1962d0-3e36-11f0-9e13-4dd3b8c1358e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales 'confident' of hosting Euro 2028 opening ceremony]]></title>
+            <description><![CDATA[A Senedd meeting reveals Cardiff is expected host the Euro 2028 opening ceremony and six matches.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y22p6pkw9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y22p6pkw9o#4</guid>
+            <pubDate>Wed, 21 May 2025 05:40:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1847/live/a0bda120-3649-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Kenneth Bloomfield dies aged 94]]></title>
+            <description><![CDATA[The former head of the NI Civil Service was the national governor of the BBC in Northern Ireland in the 1990s.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j7vy89vp0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j7vy89vp0o#4</guid>
+            <pubDate>Sat, 31 May 2025 22:59:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/7612ab90-3e56-11f0-9301-493c5e1e5872.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sharp rise in home burglary reports 'a big worry']]></title>
+            <description><![CDATA[The Dyfed-Powys Police area has seen the highest percentage increase in home burglaries in Wales and England.]]></description>
+            <link>https://www.bbc.com/news/articles/ce81z357gygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce81z357gygo#4</guid>
+            <pubDate>Sat, 31 May 2025 21:01:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402e/live/22166f00-3c93-11f0-82c7-03b979c44686.jpg"/>
+        </item>
+    </channel>
+</rss>
