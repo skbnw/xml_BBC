@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 03 Jun 2025 16:05:33 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[At least 27 Palestinians killed by Israeli fire near aid centre, Gaza authorities say]]></title>
+            <description><![CDATA[Civilians were fired at by tanks, drones and helicopters, civil defence officials say, while Israel says only that troops fired towards several suspects.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lkwz0y5n0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lkwz0y5n0o#0</guid>
+            <pubDate>Tue, 03 Jun 2025 15:27:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da5c/live/480d60c0-406b-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Growing risks for pregnancy and childbirth in Gaza under Israeli blockade and bombardment]]></title>
+            <description><![CDATA[Rather than representing the hope of new life, babies in Gaza have come to epitomise the struggle to survive.]]></description>
+            <link>https://www.bbc.com/news/articles/c626ljrp21yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c626ljrp21yo#0</guid>
+            <pubDate>Tue, 03 Jun 2025 10:20:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bab/live/54d033c0-4069-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine says it hit Crimea bridge with underwater explosives]]></title>
+            <description><![CDATA[Kyiv's security service says it it used more than 1,000kg of TNT to mine the supports of Russia's Kerch Bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/cz708lpzgxro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz708lpzgxro#0</guid>
+            <pubDate>Tue, 03 Jun 2025 14:11:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f72/live/ff26fb00-4088-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dutch government collapses after far-right leader quits coalition]]></title>
+            <description><![CDATA[The decision, which sparked anger among Geert Wilders' coalition partners, will pave the way for new elections in the Netherlands.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r1x5yyd5wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r1x5yyd5wo#0</guid>
+            <pubDate>Tue, 03 Jun 2025 13:46:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc34/live/c5683d70-405b-11f0-a6af-f97c73335e2e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India anger over 10-year-old rape victim's death after alleged treatment delay]]></title>
+            <description><![CDATA[Family members allege that the girl was kept waiting in an ambulance for hours before being admitted to the hospital.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0gzp0wlrno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0gzp0wlrno#0</guid>
+            <pubDate>Tue, 03 Jun 2025 08:29:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca60/live/30f9aa20-4038-11f0-96dd-159a5fa3589d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Madeleine McCann search under way in Portugal]]></title>
+            <description><![CDATA[Authorities say the new search will be across 21 plots and will continue until Friday.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4k1vg34wlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4k1vg34wlo#0</guid>
+            <pubDate>Tue, 03 Jun 2025 14:28:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553e/live/df8ea790-4068-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN aid trucks come under attack in Sudan]]></title>
+            <description><![CDATA[Initial reports suggest multiple casualties following the attack on the convoy, a UN spokesperson says.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j76z5jd1lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j76z5jd1lo#0</guid>
+            <pubDate>Tue, 03 Jun 2025 11:55:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec2/live/56bb6c80-406a-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 200 inmates escape Pakistan jail after earthquake]]></title>
+            <description><![CDATA[Prisoners smash doors and windows after tremors from the earthquake shake the facility's walls.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyvwv0e55po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvwv0e55po#1</guid>
+            <pubDate>Tue, 03 Jun 2025 11:06:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/1b45a190-4068-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Struggling to be alive': Kenyan activist speaks of 'sexual torture' in Tanzania]]></title>
+            <description><![CDATA[Boniface Mwangi says he has decided to speak despite the "shame and guilt" of being "sexually tortured".]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6x7jgx75o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6x7jgx75o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 13:36:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b03/live/c4730f60-4058-11f0-95b4-19782fc5d14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toxic mushroom cook tells murder trial wild fungi have 'more flavour']]></title>
+            <description><![CDATA[Erin Patterson, who has pleaded not guilty, is accused of intentionally poisoning four relatives.]]></description>
+            <link>https://www.bbc.com/news/articles/ce82lj7g1g7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce82lj7g1g7o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 08:14:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3255/live/74f46ac0-404d-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively drops two claims against Justin Baldoni]]></title>
+            <description><![CDATA[The actress's lawyers say they are "streamlining and focusing" her case.]]></description>
+            <link>https://www.bbc.com/news/articles/c62v5g81857o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62v5g81857o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 10:18:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f755/live/86ee7b20-4076-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese baseball legend Shigeo Nagashima dies aged 89]]></title>
+            <description><![CDATA[Known as Mr Giants, Nagashima was one of Japan's most famous sports stars during the 1960s and 70s.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xqx88137o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xqx88137o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 12:09:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae14/live/78d38140-406f-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexican police arrest suspect in killing of five band members]]></title>
+            <description><![CDATA[Investigators accuse the man of having given the order to kill the members of Grupo Fugitivo. ]]></description>
+            <link>https://www.bbc.com/news/articles/clygr1v6z2mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygr1v6z2mo#1</guid>
+            <pubDate>Tue, 03 Jun 2025 09:31:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/1a98d3b0-4050-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother of jailed British Egyptian activist vows to continue hunger strike despite risk of death]]></title>
+            <description><![CDATA[Laila Soueif tells the BBC she believes she has "no other choice" to secure the release of her son Alaa Abdel Fattah from an Egyptian jail.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyj35pr2z6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyj35pr2z6o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 07:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce9/live/a2027c00-3ff3-11f0-b6e6-4ddb91039da1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Disney makes hundreds more layoffs as it cuts costs]]></title>
+            <description><![CDATA[The media giant has been under pressure as viewers move away from cable TV to streaming platforms.]]></description>
+            <link>https://www.bbc.com/news/articles/ce80j93wrd2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce80j93wrd2o#1</guid>
+            <pubDate>Tue, 03 Jun 2025 01:58:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae75/live/ad4aae60-401c-11f0-be8d-75c6e7247db8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suspect in Colorado fire attack planned for a year, FBI says]]></title>
+            <description><![CDATA[Officials say the suspect wanted to target Zionists and researched Molotov cocktails online.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8ng0g4k2no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8ng0g4k2no#1</guid>
+            <pubDate>Mon, 02 Jun 2025 23:30:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9631/live/8b920b70-3fda-11f0-b74d-91fa6007fac5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia and Ukraine fail again to agree ceasefire but commit to prisoner swap]]></title>
+            <description><![CDATA[The two warring sides remain far apart on how to end the conflict after a second round of talks in Turkey.]]></description>
+            <link>https://www.bbc.com/news/articles/clyng4dknwwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyng4dknwwo#1</guid>
+            <pubDate>Mon, 02 Jun 2025 21:10:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3099/live/ac9c0100-3fde-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mount Etna erupts as large plumes rise from volcano]]></title>
+            <description><![CDATA[The full scale of the eruption is currently unclear and disruption appears to be minimal.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5e7vx2pk9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5e7vx2pk9o#1</guid>
+            <pubDate>Mon, 02 Jun 2025 13:45:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e70b/live/aefc28c0-4039-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates to give most of his $200bn fortune to Africa]]></title>
+            <description><![CDATA[The Microsoft founder urges young innovators to use Artificial Intelligence to improve health services.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4qg5gzgzxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4qg5gzgzxo#1</guid>
+            <pubDate>Mon, 02 Jun 2025 16:57:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52af/live/ed0cb480-3fc7-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Bowen: Killings near Gaza aid centre will deepen criticism of Israel's new distribution system]]></title>
+            <description><![CDATA[Western diplomats are looking on with dismay at the killing of hungry Gazans near aid hubs, writes Jeremy Bowen. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8jgk1w320lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jgk1w320lo#2</guid>
+            <pubDate>Tue, 03 Jun 2025 14:07:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceea/live/e7c48a80-4089-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Ukraine carried out daring 'Spider Web' attack on Russian bombers]]></title>
+            <description><![CDATA[On 1 June, more than 100 Ukrainian drones struck strategic targets deep into Russia in an elaborate and audacious operation.]]></description>
+            <link>https://www.bbc.com/news/articles/cq69qnvj6nlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq69qnvj6nlo#2</guid>
+            <pubDate>Mon, 02 Jun 2025 18:49:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef9/live/98944440-408f-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One death every seven minutes: The world's worst country to give birth]]></title>
+            <description><![CDATA[Nigeria accounts for 29% of global maternal deaths - a lack of medics and poor facilities are partly to blame.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yk8ek86kdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yk8ek86kdo#2</guid>
+            <pubDate>Mon, 02 Jun 2025 23:02:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/96b16cb0-3c6c-11f0-aa24-d1c64c46ace6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why monsoon rains wreak havoc annually in India's cities]]></title>
+            <description><![CDATA[Indian cities flood again as poor planning, outdated drainage and climate change expose the urban crisis.]]></description>
+            <link>https://www.bbc.com/news/articles/cr7zlm3mpejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7zlm3mpejo#2</guid>
+            <pubDate>Mon, 02 Jun 2025 23:18:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54b6/live/c375aa60-3f99-11f0-aefb-5bdcf7b5706c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's audacious drone attack sends critical message to Russia - and the West]]></title>
+            <description><![CDATA[The BBC's Paul Adams reflects on the impact of Ukraine's major drone attack on Russian bombers.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r1jv0rn0ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r1jv0rn0ko#2</guid>
+            <pubDate>Sun, 01 Jun 2025 20:52:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963d/live/a520e9c0-3f95-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mormon wives on swinging scandals, friendship fallouts and religious backlash]]></title>
+            <description><![CDATA[Set in suburban Utah, the series follows a group of Mormon women, most of whom rose to fame on TikTok.]]></description>
+            <link>https://www.bbc.com/news/articles/c20ndp1yzkxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20ndp1yzkxo#2</guid>
+            <pubDate>Mon, 02 Jun 2025 00:52:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff7e/live/959611c0-3d55-11f0-a3e0-9d06ba32c38a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I watched helplessly as water washed my family away' in Nigeria floods]]></title>
+            <description><![CDATA[Residents of a Nigeria town tell the BBC they are homeless and penniless after devastating floods.]]></description>
+            <link>https://www.bbc.com/news/articles/cdd2n66pg82o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdd2n66pg82o#2</guid>
+            <pubDate>Mon, 02 Jun 2025 13:24:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92c/live/e723b130-3ec9-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martial law fractured South Korea. Can this election heal the nation?]]></title>
+            <description><![CDATA[The snap election follows the impeachment of former president Yoon for declaring martial law.]]></description>
+            <link>https://www.bbc.com/news/articles/c7069pg4zpko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7069pg4zpko#2</guid>
+            <pubDate>Mon, 02 Jun 2025 00:16:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/317b/live/6440c050-3f64-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly superbugs thrive as access to antibiotics falters in India]]></title>
+            <description><![CDATA[Antibiotics are overused by some and out of reach for others - fuelling resistance and leaving deadly gaps in care.]]></description>
+            <link>https://www.bbc.com/news/articles/ced262l83gjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced262l83gjo#2</guid>
+            <pubDate>Sun, 01 Jun 2025 21:34:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccf/live/5cf28cc0-3afa-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zebra crossing: Tennessee police search for animal on the loose]]></title>
+            <description><![CDATA[A zebra, described as a pet, is still running free after after being filmed on 31 May galloping on a road in Christiana.]]></description>
+            <link>https://www.bbc.com/news/videos/cm2y5xy3rpvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cm2y5xy3rpvo#3</guid>
+            <pubDate>Tue, 03 Jun 2025 10:03:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16cb/live/ea76e070-4061-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How the Boulder attack unfolded using Molotov cocktails]]></title>
+            <description><![CDATA[A suspect has been arrested and charged with a federal hate crime and attempted murder, accused of "setting people on fire".]]></description>
+            <link>https://www.bbc.com/news/videos/cdxvg163qe5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdxvg163qe5o#3</guid>
+            <pubDate>Tue, 03 Jun 2025 00:15:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8b/live/fecdbbe0-3fe2-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three things to know about South Korea's snap election]]></title>
+            <description><![CDATA[South Korea is voting for a new leader after the former president was impeached for imposing martial law.]]></description>
+            <link>https://www.bbc.com/news/videos/c3rpz380vpdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3rpz380vpdo#3</guid>
+            <pubDate>Mon, 02 Jun 2025 22:04:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9637/live/fe0baa30-3f7b-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Mount Etna in Sicily spews huge plumes of ash]]></title>
+            <description><![CDATA[Footage shows clouds of dark coloured smoke and ash billowing from the volcano on the Mediterranean island.]]></description>
+            <link>https://www.bbc.com/news/videos/cj3j26yjg5ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj3j26yjg5ro#3</guid>
+            <pubDate>Mon, 02 Jun 2025 12:33:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/781c/live/3a640190-3fad-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Footage shows aftermath of Russia bridge collapse]]></title>
+            <description><![CDATA[Fire crews were called to the scene after a road bridge came down in Bryansk.]]></description>
+            <link>https://www.bbc.com/news/videos/c861y3gx977o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c861y3gx977o#3</guid>
+            <pubDate>Sun, 01 Jun 2025 13:13:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d7/live/086864d0-3ed9-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Why's Elon Musk got a black eye?]]></title>
+            <description><![CDATA[The tech mogul, whose time as a special government employee has ended, explained how he had got the bruise.]]></description>
+            <link>https://www.bbc.com/news/videos/cdr5eyjv306o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdr5eyjv306o#3</guid>
+            <pubDate>Fri, 30 May 2025 19:52:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b27a/live/54134bd0-3d89-11f0-af00-f94ff1cabcc0.jpg"/>
+        </item>
+    </channel>
+</rss>
