@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 12 Jun 2025 00:17:30 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reeves boosts NHS and housing as some budgets squeezed]]></title>
+            <description><![CDATA[Some departments, including the Home Office and Foreign Office, have lost out in the government's Spending Review.]]></description>
+            <link>https://www.bbc.com/news/articles/c331xnrn3dzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c331xnrn3dzo#0</guid>
+            <pubDate>Wed, 11 Jun 2025 17:52:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/fa21b840-46ee-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: This Spending Review is a gamble on patience in an era of impatience]]></title>
+            <description><![CDATA[The big bet for the government remains on economic growth - finding it and sustaining it.]]></description>
+            <link>https://www.bbc.com/news/articles/cj09lz0q5pno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj09lz0q5pno#0</guid>
+            <pubDate>Thu, 12 Jun 2025 00:15:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05a8/live/e117f930-4717-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK will end use of asylum hotels by 2029, Reeves says]]></title>
+            <description><![CDATA[The Chancellor pledged £200m to "cut the asylum backlog" and speed up deportations.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xgzprn1vjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xgzprn1vjo#0</guid>
+            <pubDate>Wed, 11 Jun 2025 17:12:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac8c/live/40990d50-2b47-11f0-a57b-e1386fb20a25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK agrees post-Brexit deal over Gibraltar]]></title>
+            <description><![CDATA[Talks on rules governing the border of Spain and Gibraltar have been ongoing since Britain left the EU.]]></description>
+            <link>https://www.bbc.com/news/articles/cd903neydwjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd903neydwjo#0</guid>
+            <pubDate>Wed, 11 Jun 2025 21:24:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b69/live/9c6adfb0-46da-11f0-b10e-bf0cd4fce580.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leisure centre attacked in third night of violence in Northern Ireland]]></title>
+            <description><![CDATA[This comes after two days of disorder, in which 32 officers were injured and six people arrested.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdzv79l1emo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdzv79l1emo#0</guid>
+            <pubDate>Wed, 11 Jun 2025 22:53:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f22/live/461e5350-4700-11f0-8e9e-d32205bfcc56.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Race Across The World winners crowned]]></title>
+            <description><![CDATA[The duo will share a cash prize of £20,000 after racing through China, Nepal and India.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg4x142p35o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg4x142p35o#0</guid>
+            <pubDate>Wed, 11 Jun 2025 21:04:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d146/live/f8c90f40-46b0-11f0-98c9-f388968ae068.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First heat-health alerts issued for 2025 while storms bring flood risk]]></title>
+            <description><![CDATA[Lightning, hail, gusty winds and flash flooding are likely to affect parts of the UK over the next few days.]]></description>
+            <link>https://www.bbc.com/weather/articles/c4grkg27269o</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/c4grkg27269o#1</guid>
+            <pubDate>Wed, 11 Jun 2025 12:10:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7542/live/7856e070-46c0-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp tells BBC it backs Apple in legal row with UK over user data]]></title>
+            <description><![CDATA[The messaging app says the UK government's demands over data access could set a "dangerous precedent."]]></description>
+            <link>https://www.bbc.com/news/articles/cgmjrn42wdwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmjrn42wdwo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 16:01:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d572/live/be6529c0-460f-11f0-8402-c958f7234d20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tories accuse PM of funding tax cuts for Mauritians]]></title>
+            <description><![CDATA[Sir Keir Starmer defends the UK's £3.4bn Chagos islands deal after Kemi Badenoch says it is bad value for money.]]></description>
+            <link>https://www.bbc.com/news/articles/c39x8ly827yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39x8ly827yo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 16:41:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e73/live/355548e0-46d7-11f0-ab95-39eec8ac238f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenagers in court accused of murdering boy, 14]]></title>
+            <description><![CDATA[Ibrahima Seck had been on his way to play football with his friends and brothers, a court hears.]]></description>
+            <link>https://www.bbc.com/news/articles/c1kvxvj4d2wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kvxvj4d2wo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 12:21:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8eb/live/f3c0dde0-4695-11f0-bbc5-cd6840bd40cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belfast Zoo closed for a second day after E. coli outbreak]]></title>
+            <description><![CDATA[The zoo closed on Tuesday as a "precautionary measure" and authorities hope to reopen "as soon as possible".]]></description>
+            <link>https://www.bbc.com/news/articles/clyge8vg1dno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyge8vg1dno#1</guid>
+            <pubDate>Wed, 11 Jun 2025 14:44:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906b/live/5aaa3760-4653-11f0-97cb-75f8052001a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Up to 400 jobs at risk at Scottish bus maker Alexander Dennis]]></title>
+            <description><![CDATA[Factories at Falkirk and Larbert are under threat under relocation plans announced by Alexander Dennis]]></description>
+            <link>https://www.bbc.com/news/articles/c39x8l8dvmpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39x8l8dvmpo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 21:19:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbf/live/0aab4850-46ce-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Public meeting calls for end to Birmingham bin strike]]></title>
+            <description><![CDATA[About 150 people attend a gathering in Bordesley, with more to be held across Birmingham.]]></description>
+            <link>https://www.bbc.com/news/articles/c2kqej2932ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2kqej2932ko#1</guid>
+            <pubDate>Wed, 11 Jun 2025 12:18:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d66/live/556079a0-46bb-11f0-98c9-f388968ae068.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban on 'no ball games' signs suggested to get kids off screens]]></title>
+            <description><![CDATA[Experts say outdoor play in England has declined by 50% and are calling for urgent change.]]></description>
+            <link>https://www.bbc.com/news/articles/c39xegx41xko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39xegx41xko#1</guid>
+            <pubDate>Wed, 11 Jun 2025 00:14:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef3e/live/9f3ae520-4615-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muriel McKay's family offer £1m reward to find body]]></title>
+            <description><![CDATA[Her grandson says her family decided to put up the money after watching the Mel Gibson film Ransom.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgqyg9wnnzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgqyg9wnnzo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 11:55:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4786/live/537aa700-46d9-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uni job cuts a health and safety crisis, union says]]></title>
+            <description><![CDATA[Cardiff UCU says its members have reported suicidal thoughts and high levels of anxiety amid cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/cm26qmgm5jgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm26qmgm5jgo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 10:48:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/def9/live/8e024a90-469d-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airport fined after man, 81, dies following fall from lift]]></title>
+            <description><![CDATA[
+James Young, 81, from Edinburgh, was travelling home from Greece when the accident happened in November 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/c249j4l01qeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c249j4l01qeo#1</guid>
+            <pubDate>Wed, 11 Jun 2025 10:23:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7909/live/e99b5060-46aa-11f0-96a8-a75e3b85a8e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heathrow expansion 'essential' after busiest May  ]]></title>
+            <description><![CDATA[More than 7.2 million passengers travelled through the airport's four terminals last month.]]></description>
+            <link>https://www.bbc.com/news/articles/cly3lj5n50ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly3lj5n50ko#1</guid>
+            <pubDate>Wed, 11 Jun 2025 09:13:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff6/live/69b0cb20-4699-11f0-bbaa-4bc03e0665b7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC at the scene of violent Ballymena protests]]></title>
+            <description><![CDATA[Homes and vehicles were targeted as protesters clashed with police on a second night of violence.
+]]></description>
+            <link>https://www.bbc.com/news/videos/ckg7xg3g8r2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckg7xg3g8r2o#2</guid>
+            <pubDate>Wed, 11 Jun 2025 09:12:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c2/live/309039d0-46a2-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince William speaks French in address on ocean protection]]></title>
+            <description><![CDATA[Prince of Wales outlines risks to world's oceans at Monaco conference.]]></description>
+            <link>https://www.bbc.com/news/videos/cgegwnpp70jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgegwnpp70jo#2</guid>
+            <pubDate>Sun, 08 Jun 2025 12:13:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ab/live/99e03e30-445e-11f0-b6e6-4ddb91039da1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Top of the crops: Famous faces star in veggie lookalike show]]></title>
+            <description><![CDATA[The annual Lambeth Country Show featured pop culture icons and even a 'corny' papal conclave.]]></description>
+            <link>https://www.bbc.com/news/videos/cwyjlg83k7zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwyjlg83k7zo#2</guid>
+            <pubDate>Sun, 08 Jun 2025 04:38:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef90/live/3947d810-441f-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moment drug dealer re-arrested as he leaves prison]]></title>
+            <description><![CDATA[Samuel Watts is filmed being arrested just after he is released from prison last November. ]]></description>
+            <link>https://www.bbc.com/news/articles/clyr7zy16pmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyr7zy16pmo#2</guid>
+            <pubDate>Sat, 07 Jun 2025 08:23:46 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c77/live/4b0abed0-4377-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fans queue overnight for the launch of the Nintendo Switch 2]]></title>
+            <description><![CDATA[Nintendo's long-awaited Switch 2 has been released worldwide.]]></description>
+            <link>https://www.bbc.com/news/videos/cwy62lvng82o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwy62lvng82o#2</guid>
+            <pubDate>Thu, 05 Jun 2025 11:29:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ca6/live/3ab7f0f0-41fd-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Reeves 'renewing Britain' or 'reckless splurge'?]]></title>
+            <description><![CDATA[Reaction to the chancellor's Spending Review dominates the front pages on Thursday.]]></description>
+            <link>https://www.bbc.com/news/articles/cz70x93pjr7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz70x93pjr7o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 23:12:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8804/live/989ba2e0-4714-11f0-84b6-6bf0f66205f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven ways the Spending Review will affect you]]></title>
+            <description><![CDATA[Spending limits for government departments are being outlined by the chancellor. This is how it affects you.]]></description>
+            <link>https://www.bbc.com/news/articles/czdyzrm99g2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdyzrm99g2o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 14:48:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d2b/live/45100ac0-4607-11f0-9b27-cd0bc54f64dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key points at a glance from the Spending Review]]></title>
+            <description><![CDATA[Chancellor Rachel Reeves unveils how the government plans to spend money in the coming years.]]></description>
+            <link>https://www.bbc.com/news/articles/clyr170qm19o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyr170qm19o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 17:23:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b13/live/4c9936e0-46c0-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welcome for housing pledge - but is it too late for some?]]></title>
+            <description><![CDATA[Chancellor Rachel Reeves pledges £39bn across 10 years for social and affordable housing in England.]]></description>
+            <link>https://www.bbc.com/news/articles/c8e6zk5p9l5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e6zk5p9l5o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 19:50:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b9/live/a91dad20-46d8-11f0-ab95-39eec8ac238f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winners and losers: Who got what in the spending review?]]></title>
+            <description><![CDATA[BBC correspondents analyse how departments have fared and the impact decisions could have on you.]]></description>
+            <link>https://www.bbc.com/news/articles/cgq3w2p2129o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgq3w2p2129o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 18:40:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83fc/live/4b3883b0-46e7-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a peaceful protest descended into hate-filled violence]]></title>
+            <description><![CDATA[Why did a peaceful protest in a County Antrim town end up in two nights of attacks on police?]]></description>
+            <link>https://www.bbc.com/news/articles/cr7zyv8xgxeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7zyv8xgxeo#3</guid>
+            <pubDate>Wed, 11 Jun 2025 16:12:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d3c/live/d89aef60-46db-11f0-b10e-bf0cd4fce580.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldstream Guards mark 375th anniversary]]></title>
+            <description><![CDATA[The regiment travels to its birthplace of Berwick to mark the anniversary.]]></description>
+            <link>https://www.bbc.com/news/articles/cly3jd2jgl9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly3jd2jgl9o#3</guid>
+            <pubDate>Wed, 11 Jun 2025 11:58:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/431e/live/89458d40-45d6-11f0-9122-31b55bf3a162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Solved after 47 years: The mystery of the North Sea message in a bottle]]></title>
+            <description><![CDATA[The note with a Scottish address and dated 1978 was found on a Swedish island.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgxwg4738eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgxwg4738eo#3</guid>
+            <pubDate>Wed, 11 Jun 2025 04:58:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e5/live/68357c30-45dd-11f0-bace-e1270fc31f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Up to 400 jobs at risk at Scottish bus maker Alexander Dennis]]></title>
+            <description><![CDATA[Factories at Falkirk and Larbert are under threat under relocation plans announced by Alexander Dennis]]></description>
+            <link>https://www.bbc.com/news/articles/c39x8l8dvmpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39x8l8dvmpo#4</guid>
+            <pubDate>Wed, 11 Jun 2025 21:19:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbf/live/0aab4850-46ce-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales 'confident' of hosting Euro 2028 opening ceremony]]></title>
+            <description><![CDATA[A Senedd meeting reveals Cardiff is expected host the Euro 2028 opening ceremony and six matches.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y22p6pkw9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y22p6pkw9o#4</guid>
+            <pubDate>Wed, 21 May 2025 05:40:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1847/live/a0bda120-3649-11f0-96c3-cf669419a2b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leisure centre attacked in third night of violence in Northern Ireland]]></title>
+            <description><![CDATA[This comes after two days of disorder, in which 32 officers were injured and six people arrested.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdzv79l1emo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdzv79l1emo#4</guid>
+            <pubDate>Wed, 11 Jun 2025 22:53:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f22/live/461e5350-4700-11f0-8e9e-d32205bfcc56.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spending review could mean cuts in Wales - experts]]></title>
+            <description><![CDATA[Experts warn of potential cuts if cash boost in spending review is spent on the Welsh NHS.]]></description>
+            <link>https://www.bbc.com/news/articles/crr7yw4vd50o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crr7yw4vd50o#4</guid>
+            <pubDate>Wed, 11 Jun 2025 22:00:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ea/live/6378aa00-46e6-11f0-9471-e380f647874e.jpg"/>
+        </item>
+    </channel>
+</rss>
