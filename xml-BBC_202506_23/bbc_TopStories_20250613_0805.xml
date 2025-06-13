@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 13 Jun 2025 08:05:30 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hossein Salami, Iran's Revolutionary Guards chief, killed by Israel]]></title>
+            <description><![CDATA[Just last month, Salami had warned that Tehran would "open the gates of hell" if attacked by Israel or the US.]]></description>
+            <link>https://www.bbc.com/news/articles/clyg0yywr4no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyg0yywr4no#1</guid>
+            <pubDate>Fri, 13 Jun 2025 05:33:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a742/live/4f34b5e0-480b-11f0-991c-154446bbbaa6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Footage shows explosions and buildings ablaze in Tehran]]></title>
+            <description><![CDATA[Israel says it has carried out strikes on Iran's nuclear programme, with blasts and fires seen in Tehran.]]></description>
+            <link>https://www.bbc.com/news/videos/c20qw0xjp10o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c20qw0xjp10o#1</guid>
+            <pubDate>Fri, 13 Jun 2025 02:33:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d4/live/fa5ba9c0-47fb-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about Israel's attacks on Iran]]></title>
+            <description><![CDATA[Israel says Iran's Revolutionary Guards chief Hossein Salami was among those killed. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdj9vj8glg2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdj9vj8glg2o#1</guid>
+            <pubDate>Fri, 13 Jun 2025 06:58:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea24/live/cafce1a0-481c-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Analysis: Israel chose to act now, whether Trump likes it or not]]></title>
+            <description><![CDATA[There has been a growing tension between the leaders over Iran - now the US is distancing itself from Israel's "unilateral action".]]></description>
+            <link>https://www.bbc.com/news/articles/cwyw04x1kqpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyw04x1kqpo#1</guid>
+            <pubDate>Fri, 13 Jun 2025 04:54:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8b/live/3eecc5b0-480b-11f0-991c-154446bbbaa6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What could have caused Air India plane to crash in 30 seconds?]]></title>
+            <description><![CDATA[Experts told the BBC that a flap issue, engine failure or a bird strike are among the possible causes of the crash.]]></description>
+            <link>https://www.bbc.com/news/articles/c626y121rxxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c626y121rxxo#2</guid>
+            <pubDate>Thu, 12 Jun 2025 20:20:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706b/live/b5c3ada0-47b8-11f0-84b6-6bf0f66205f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the victims of the crash?]]></title>
+            <description><![CDATA[Details are still emerging, but these are the people so far confirmed by the BBC to have died.]]></description>
+            <link>https://www.bbc.com/news/articles/cdd28legnzvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdd28legnzvo#2</guid>
+            <pubDate>Fri, 13 Jun 2025 07:11:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8329/live/4c3defd0-4826-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World-first blood cancer therapy to be given on NHS]]></title>
+            <description><![CDATA[It sneaks toxic drugs inside cancer cells to hit them hard while minimising side-effects.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg4kj2nxjgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg4kj2nxjgo#2</guid>
+            <pubDate>Fri, 13 Jun 2025 00:05:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5a1/live/88d18c50-46b3-11f0-98c9-f388968ae068.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Misled and intimidated: Caravan owners say they felt 'bullied' by holiday parks]]></title>
+            <description><![CDATA[Caravan owners share allegations of unfair contracts and sharp practices by holiday parks. ]]></description>
+            <link>https://www.bbc.com/news/articles/c2016lxnepno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2016lxnepno#2</guid>
+            <pubDate>Thu, 12 Jun 2025 23:56:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65e0/live/521ca6d0-469b-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration blocked from  deploying National Guard to LA ]]></title>
+            <description><![CDATA[A judge's order that Trump return control of California's National Guard will not go into effect immediately.]]></description>
+            <link>https://www.bbc.com/news/articles/cd62d8jp046o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd62d8jp046o#2</guid>
+            <pubDate>Fri, 13 Jun 2025 01:26:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/376e58a0-47fa-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My kids are the reason I'm alive': Backstage with Shakira]]></title>
+            <description><![CDATA[Shakira says the situation facing immigrants in the US is "painful" as she talks to the BBC in Miami.]]></description>
+            <link>https://www.bbc.com/news/articles/cn056ky4d00o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn056ky4d00o#2</guid>
+            <pubDate>Fri, 13 Jun 2025 05:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/51d3e540-4820-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's first black professor Sir Geoff Palmer dies aged 85]]></title>
+            <description><![CDATA[Sir Geoff moved to the UK from Jamaica as a teenager and became known as both an academic and a human rights advocate.]]></description>
+            <link>https://www.bbc.com/news/articles/c93lry1e6z5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93lry1e6z5o#2</guid>
+            <pubDate>Fri, 13 Jun 2025 07:13:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4cb/live/d7ccc540-4820-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bricks thrown at police in Portadown in fourth night of disorder]]></title>
+            <description><![CDATA[There have been three days of violence in Ballymena and other towns, leading to 13 arrests.]]></description>
+            <link>https://www.bbc.com/news/articles/c20xrq9vzz7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20xrq9vzz7o#2</guid>
+            <pubDate>Fri, 13 Jun 2025 06:05:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d3/live/77415fd0-47d3-11f0-92a6-c12f673fe086.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Record 1 in 5 pupils in England getting special education needs support]]></title>
+            <description><![CDATA[It marks the highest proportion since government statistics were collected in this way. ]]></description>
+            <link>https://www.bbc.com/news/articles/c23mdz2728zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23mdz2728zo#2</guid>
+            <pubDate>Thu, 12 Jun 2025 21:00:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deec/live/2600c640-47d0-11f0-86c7-c5559a13b6d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frank replaces Postecoglou as Tottenham head coach]]></title>
+            <description><![CDATA[Tottenham appoint Brentford head coach Thomas Frank as their manager, replacing Ange Postecoglou.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c15n8wv2yq8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15n8wv2yq8o#2</guid>
+            <pubDate>Thu, 12 Jun 2025 21:07:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a8/live/57ba2590-47c2-11f0-a29b-330d4f9e04c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Masterful' romance novel wins Women's Prize for Fiction]]></title>
+            <description><![CDATA[The award's judges say Yael van der Wouden's debut novel The Safekeep is a "classic in the making".]]></description>
+            <link>https://www.bbc.com/news/articles/c93yz7glw4vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93yz7glw4vo#2</guid>
+            <pubDate>Thu, 12 Jun 2025 19:27:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c144/live/835c4390-4790-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far about Air India flight AI171]]></title>
+            <description><![CDATA[Air India confirms that 241 passengers and crew died, and one British man survived, when the plane crashed moments after take off.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5nq170z4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5nq170z4o#3</guid>
+            <pubDate>Thu, 12 Jun 2025 17:26:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4065/live/fd0da990-482b-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British man in seat 11A is only passenger to survive]]></title>
+            <description><![CDATA[Vishwashkumar Ramesh is only passenger to survive the Air India crash that killed 241 people.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3v6drp96zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3v6drp96zo#3</guid>
+            <pubDate>Thu, 12 Jun 2025 21:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f166/live/0a75e120-4826-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How the day unfolded]]></title>
+            <description><![CDATA[London-bound flight carrying 242 people crashed shortly after take-off in Ahmedabad, western India.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2q3z716v9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2q3z716v9o#3</guid>
+            <pubDate>Thu, 12 Jun 2025 20:29:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943d/live/f006a010-47c9-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does the crash mean for Boeing?]]></title>
+            <description><![CDATA[Until Thursday's tragic Air India crash in Ahmedabad, Boeing's 787 Dreamliner had an exemplary safety record.]]></description>
+            <link>https://www.bbc.com/news/articles/cje7542k0gno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cje7542k0gno#3</guid>
+            <pubDate>Thu, 12 Jun 2025 22:59:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7579/live/c0de2470-478d-11f0-bc7c-8b1a4886b501.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump vowed to make the world safer - has he?]]></title>
+            <description><![CDATA[Chief international correspondent Lyse Doucet assesses the US president's pledge to be a peacemaker.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4270jp19xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4270jp19xo#4</guid>
+            <pubDate>Thu, 12 Jun 2025 23:08:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64c/live/a29f2600-479a-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Air India crash 'sole survivor' and 'miracle of seat 11A']]></title>
+            <description><![CDATA[A British man from Leicester, Vishwash Kumar Ramesh, was the sole survivor of the crash that killed more than 260.]]></description>
+            <link>https://www.bbc.com/news/articles/c89pzj02j73o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89pzj02j73o#4</guid>
+            <pubDate>Thu, 12 Jun 2025 22:57:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b63/live/4d9d2e20-47d8-11f0-84b6-6bf0f66205f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian scientists search for the perfect apple]]></title>
+            <description><![CDATA[India can't grow enough apples to meet demand but farmers are struggling to raise production.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l05762elpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l05762elpo#4</guid>
+            <pubDate>Thu, 12 Jun 2025 23:05:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790b/live/02065a80-45ea-11f0-835b-310c7b938e84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly quiz: What's Alex Warren's record-breaking number one hit called?]]></title>
+            <description><![CDATA[How much attention did you pay to what's being going on in the world over the past seven days?]]></description>
+            <link>https://www.bbc.com/news/articles/c62vydednqeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62vydednqeo#4</guid>
+            <pubDate>Thu, 12 Jun 2025 16:49:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee6/live/1442d7b0-47ab-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamas faces leadership vacuum at critical time with demise of Gaza 'War Council']]></title>
+            <description><![CDATA[The killing of Mohammed Sinwar marks the end of the secretive group that planned the 7 October 2023 attack on Israel. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7v7p9p0rn7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v7p9p0rn7o#4</guid>
+            <pubDate>Thu, 12 Jun 2025 16:59:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b2/live/75c614d0-47af-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two women die in water at national park beauty spot]]></title>
+            <description><![CDATA[Police were called to the Watkin Path, one of the main routes to the summit of Yr Wyddfa, on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/c861zd2q0zeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c861zd2q0zeo#6</guid>
+            <pubDate>Fri, 13 Jun 2025 07:57:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bc2/live/fa1e72f0-47a9-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal win for son tricked into moving to Africa by parents]]></title>
+            <description><![CDATA[The boy travelled to Ghana from London in March 2024 after being told a relative was ill.
+]]></description>
+            <link>https://www.bbc.com/news/articles/clyg0p88z83o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyg0p88z83o#6</guid>
+            <pubDate>Thu, 12 Jun 2025 16:18:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc5/live/8ddaf750-47ac-11f0-84b6-6bf0f66205f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Our son's kickboxing death must lead to change']]></title>
+            <description><![CDATA[The family of 15-year-old Alex Eastwood say change is needed to ensure safety in the sport. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly3ej1r6y1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly3ej1r6y1o#6</guid>
+            <pubDate>Fri, 13 Jun 2025 05:05:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/f1300790-469a-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Tory MP Mel Stride pushed to say sorry for Liz Truss's mini-budget]]></title>
+            <description><![CDATA[The shadow chancellor was being interviewed on the BBC's Political Thinking with Nick Robinson podcast.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgq707q82jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgq707q82jo#6</guid>
+            <pubDate>Fri, 13 Jun 2025 05:13:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b2/live/13fa1410-4799-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raducanu through at Queen's and will be British number one]]></title>
+            <description><![CDATA[Emma Raducanu overcomes Slovakia's Rebecca Sramkova to reach the quarter-finals at Queen's and will now regain her place as British number one for the first time in two years.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c3v5qeq670ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3v5qeq670ko#6</guid>
+            <pubDate>Thu, 12 Jun 2025 18:45:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef97/live/9c1019d0-47bc-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea claims warship launch successful on second try]]></title>
+            <description><![CDATA[The 5,000-ton destroyer was damaged when it capsized during the first attemped launch in May.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mgd0252kpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mgd0252kpo#6</guid>
+            <pubDate>Fri, 13 Jun 2025 05:51:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca4/live/a5fc4b90-481a-11f0-ae33-a1e238717da7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US senator dragged out of LA immigration news conference]]></title>
+            <description><![CDATA[California senator Alex Padilla was pushed out of the news conference by authorities after he interrupted Noem.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ygn48djrko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ygn48djrko#6</guid>
+            <pubDate>Thu, 12 Jun 2025 22:05:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef37/live/e89f1130-47ca-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#7</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Q&A: Russian POWs, counting casualties and DIY bomb shelters]]></title>
+            <description><![CDATA[Your questions answered on conditions for captives]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lhz0yg</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lhz0yg#8</guid>
+            <pubDate>Thu, 12 Jun 2025 17:16:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kwvwyl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI and Sexism: The Fight Against Misogyny Online]]></title>
+            <description><![CDATA[Laura Bates on how algorithms are fuelling misogyny and radicalising young men.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002d8wf</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002d8wf#8</guid>
+            <pubDate>Thu, 12 Jun 2025 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lgrqgm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scheffler and McIlroy off pace at bruising US Open]]></title>
+            <description><![CDATA[Rory McIlroy and Scottie Scheffler are among many to find  Oakmont Country Club a bruising challenge as JJ Spaun sets the pace on day one at the US Open.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c0qgkywg22no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c0qgkywg22no#10</guid>
+            <pubDate>Fri, 13 Jun 2025 00:20:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d3/live/52f94ce0-47e8-11f0-9471-e380f647874e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Raducanu through at Queen's and will be British number one]]></title>
+            <description><![CDATA[Emma Raducanu overcomes Slovakia's Rebecca Sramkova to reach the quarter-finals at Queen's and will now regain her place as British number one for the first time in two years.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c3v5qeq670ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3v5qeq670ko#10</guid>
+            <pubDate>Thu, 12 Jun 2025 18:45:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef97/live/9c1019d0-47bc-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A gamble for Frank - but Dane has earned Spurs chance']]></title>
+            <description><![CDATA[Thomas Frank's move to Spurs is a risk for the charismatic Dane - but he has earned the big opportunity, says chief football writer Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0qgxgylk2xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0qgxgylk2xo#10</guid>
+            <pubDate>Thu, 12 Jun 2025 19:43:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2142/live/a74c4500-45c6-11f0-9dbf-39b2cc2def6d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mills beats Farah's UK record at Oslo Diamond League]]></title>
+            <description><![CDATA[George Mills sets a UK record in the men's 5,000m at the Diamond League meeting in Oslo.]]></description>
+            <link>https://www.bbc.com/sport/athletics/articles/cly3d9p4j81o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/articles/cly3d9p4j81o#10</guid>
+            <pubDate>Thu, 12 Jun 2025 20:49:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cfe/live/07ec2340-47c9-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cummins takes 300th Test wicket with final in balance ]]></title>
+            <description><![CDATA[Pat Cummins takes his 300th Test wicket before South Africa fight back with the ball to leave Australia on 144-8 in the second innings of the ICC Test Championship final at Lord's - a lead of 218 heading into day three. ]]></description>
+            <link>https://www.bbc.com/sport/cricket/videos/cx2xqvg84jzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/videos/cx2xqvg84jzo#10</guid>
+            <pubDate>Thu, 12 Jun 2025 17:48:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e5/live/e233d090-47b3-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+    </channel>
+</rss>
