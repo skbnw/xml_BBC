@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 16 Jun 2025 08:05:41 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump told Israel not to kill Iran's supreme leader, says report ]]></title>
+            <description><![CDATA[Trump told Israeli Prime Minister Benjamin Netanyahu that assassinating Khamenei was not a good idea, according to CBS. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg7gl4zegyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg7gl4zegyo#1</guid>
+            <pubDate>Mon, 16 Jun 2025 00:27:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8a/live/c2a4cb20-4a34-11f0-839f-77d4cd73e6fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Explosions and damage across Israel as Iran launches fresh air strikes]]></title>
+            <description><![CDATA[Five people have been killed and dozens injured, according to Israel's national emergency service. ]]></description>
+            <link>https://www.bbc.com/news/videos/cre9e4y2n17o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cre9e4y2n17o#1</guid>
+            <pubDate>Mon, 16 Jun 2025 06:15:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd89/live/b37ad2a0-4a77-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Nowhere feels safe': Iranians on life under Israeli attacks]]></title>
+            <description><![CDATA[Some of those in Iran who have spoken to the BBC use one word to describe life in there right now.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xgxdr01wro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xgxdr01wro#1</guid>
+            <pubDate>Sun, 15 Jun 2025 20:57:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/350f4e10-4a2b-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite imagery reveals damage to key Iran nuclear sites]]></title>
+            <description><![CDATA[Imagery from two different providers shows damage to Iranian nuclear facilities. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7808xvv737o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7808xvv737o#1</guid>
+            <pubDate>Sun, 15 Jun 2025 07:43:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f68/live/bc8bd490-49ee-11f0-84b6-6bf0f66205f1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man suspected of shooting Minnesota lawmakers arrested after huge manhunt]]></title>
+            <description><![CDATA[Vance Luther Boelter is accused of killing Democrat Melissa Hortman and her husband Mark, and injuring two others.  ]]></description>
+            <link>https://www.bbc.com/news/articles/cg5v5l4eylyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5v5l4eylyo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 07:00:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7954/live/fd82fc40-4a7e-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘I broke my jaw in half’: Accidents raise questions about funfair safety]]></title>
+            <description><![CDATA[Hundreds injured by funfair rides over the past decade, a Panorama investigation has found.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5vjn604qqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5vjn604qqo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 05:03:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/85878e50-485c-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Forever chemical' scientists fear may affect reproduction found in 31 UK rivers]]></title>
+            <description><![CDATA[The long-term impact of the chemical on human health is still unclear and being researched.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2yjxxvx08o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2yjxxvx08o#2</guid>
+            <pubDate>Sun, 15 Jun 2025 23:33:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e15a/live/59961610-4a76-11f0-b24e-5da3b43383e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Investigators find cockpit voice recorder from crashed Air India flight]]></title>
+            <description><![CDATA[The recovery of the recorder is a key step in uncovering what caused last week's deadly plane crash.]]></description>
+            <link>https://www.bbc.com/news/articles/ce818jlz5mlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce818jlz5mlo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 07:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c470/live/f63a5950-4a7a-11f0-8d39-b9f536de82ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MI6 appoints first female chief in 116-year history ]]></title>
+            <description><![CDATA[Blaise Metreweli joined the Secret Intelligence Service (MI6) in 1999 and will become its 18th chief.]]></description>
+            <link>https://www.bbc.com/news/articles/czxyx04dv1wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxyx04dv1wo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 01:44:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3167/live/26fdfeb0-4a04-11f0-b46b-33a60000a3da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Truckloads of Scotland's rubbish will be sent to England, experts say]]></title>
+            <description><![CDATA[Up to 100 trucks a day could take Scotland's waste to England once a landfill ban comes in at the end of the year.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r1de24pdgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r1de24pdgo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 08:02:51 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d38/live/525e43f0-486d-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Brown returns to Manchester for first show in city since arrest]]></title>
+            <description><![CDATA[The US singer is on £5m bail after being charged over an alleged assualt in a nightclub in 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/czdydj938mvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdydj938mvo#2</guid>
+            <pubDate>Sun, 15 Jun 2025 22:59:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/b10b9c40-4a07-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[G7 summit is a big moment for Canada's PM Carney. Here are five things to watch]]></title>
+            <description><![CDATA[The gathering of leaders in Alberta will be a big test for Canada's new leader. We break down his challenges.]]></description>
+            <link>https://www.bbc.com/news/articles/clyg07jj17eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyg07jj17eo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 01:38:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af4b/live/c3bf3540-4796-11f0-852d-2b00931dcf75.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shared ownership: 'It's a con and we felt trapped']]></title>
+            <description><![CDATA[Londoners, including couple Chris and Diana, share their experiences of shared ownership.]]></description>
+            <link>https://www.bbc.com/news/articles/clyz8m8jj4mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyz8m8jj4mo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 04:41:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae6/live/b335b6e0-4854-11f0-8ee0-4f68d841efd9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump orders increase in migrant deportations]]></title>
+            <description><![CDATA[The president called on federal agencies to enforce the "largest mass deportation programme in history".]]></description>
+            <link>https://www.bbc.com/news/articles/crk2kpk817vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk2kpk817vo#2</guid>
+            <pubDate>Mon, 16 Jun 2025 05:18:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35db/live/f4a07910-4a72-11f0-a696-ed7606278c94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare Welsh Bible from 1588 displayed for first time]]></title>
+            <description><![CDATA[The rare copy of the Bible in Welsh, printed in 1588, has never been displayed before.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5y0yp149o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5y0yp149o#2</guid>
+            <pubDate>Mon, 16 Jun 2025 05:17:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e433/live/517b9a10-49f7-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The reality behind Trump's incredible investment claims]]></title>
+            <description><![CDATA[The president's impact on investment in the US is far more incremental than he has claimed.]]></description>
+            <link>https://www.bbc.com/news/articles/clynl129kd2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clynl129kd2o#3</guid>
+            <pubDate>Mon, 16 Jun 2025 00:44:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c2/live/97fc85c0-485e-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hospices are at centre of debate over assisted dying bill - what do they think?]]></title>
+            <description><![CDATA[As MPs debate whether to legalise assisted dying, we speak to those providing end-of-life care.]]></description>
+            <link>https://www.bbc.com/news/articles/c3wdg8z8ywwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wdg8z8ywwo#3</guid>
+            <pubDate>Mon, 16 Jun 2025 04:30:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48de/live/ffa6aeb0-4851-11f0-8a8e-21cdcf60d74e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers:  'Retreat over grooming gangs' and 'Say sorry for delay']]></title>
+            <description><![CDATA[The prime minister's new call for a national inquiry into grooming gangs features in the papers.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d1d08gj1zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d1d08gj1zo#3</guid>
+            <pubDate>Mon, 16 Jun 2025 04:14:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/364e/live/7494e900-4a3a-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your next Traitors fix, and Yungblud's new album: What's coming up this week]]></title>
+            <description><![CDATA[28 Years Later is also released, Date Everything is here, and Benson Boone has a new album out.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy7q4005v2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy7q4005v2o#3</guid>
+            <pubDate>Sun, 15 Jun 2025 17:13:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5717/live/596b3180-4831-11f0-bbaa-4bc03e0665b7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cape Town safety fears force parents to seek former white-only schools]]></title>
+            <description><![CDATA[A legacy of apartheid means some black students have to go the extra mile to get a decent education.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k36ge21jxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k36ge21jxo#3</guid>
+            <pubDate>Mon, 16 Jun 2025 00:00:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8414/live/613d5ce0-488f-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Benefits reform must be pushed through, says PM]]></title>
+            <description><![CDATA[MPs will vote in the coming weeks on a package of measures aiming to cut the benefits bill by £5bn by 2030.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7078wrryno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7078wrryno#5</guid>
+            <pubDate>Mon, 16 Jun 2025 07:57:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ed/live/ae003690-4a3f-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asylum sites to be expanded as ministers bid to end hotel use]]></title>
+            <description><![CDATA[Chancellor Rachel Reeves pledged to stop using taxpayer-funded hotels to house asylum seekers by 2029.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg92lyr7yvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg92lyr7yvo#5</guid>
+            <pubDate>Sun, 15 Jun 2025 14:23:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34d/live/cddcde10-49f3-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman charged £4,586 for two-hour car park stay]]></title>
+            <description><![CDATA[It took three weeks for the mum to receive a refund for the accidental overcharge.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cwy683260zzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy683260zzo#5</guid>
+            <pubDate>Mon, 16 Jun 2025 04:11:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac83/live/902d6b70-4a20-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Son of Estee Lauder, who took the brand global, dies aged 92]]></title>
+            <description><![CDATA[Leonard Lauder joined his parents' company in 1958 and served as chief executive for 17 years.]]></description>
+            <link>https://www.bbc.com/news/articles/c70n0d8q892o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70n0d8q892o#5</guid>
+            <pubDate>Mon, 16 Jun 2025 01:51:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efac/live/7da9cf60-4a5d-11f0-b480-27e57f370b63.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HS2 reports subcontractor over alleged fraud]]></title>
+            <description><![CDATA[The firm managing the giant rail project has shared whistleblower allegations with HMRC.]]></description>
+            <link>https://www.bbc.com/news/articles/cje7edx5wzwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cje7edx5wzwo#5</guid>
+            <pubDate>Sun, 15 Jun 2025 15:48:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/43d5c8f0-39c5-11f0-afdd-afbf5cfb93f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airport parking fall driver leaves hospital ]]></title>
+            <description><![CDATA[A spokesperson for the airport says the man has been discharged with "minor injuries".]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvg8v9yz0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvg8v9yz0o#5</guid>
+            <pubDate>Mon, 16 Jun 2025 07:19:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d4/live/d26beb90-4a81-11f0-b0e2-c543f4271609.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Syrian commander claims missing US journalist Austin Tice was executed]]></title>
+            <description><![CDATA[Major General Bassam Al Hassan claims former Syrian President Assad ordered Austin Tice's execution.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg72g960pxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg72g960pxo#5</guid>
+            <pubDate>Sun, 15 Jun 2025 02:04:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3272/live/45d2d650-49bc-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Grooming Gangs National Inquiry Announced]]></title>
+            <description><![CDATA[Keir Starmer has accepted recommendations from Baroness Louise Casey.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0ljfqd9</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ljfqd9#7</guid>
+            <pubDate>Sun, 15 Jun 2025 12:17:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hedy Lamarr: A Hollywood star and an inventor]]></title>
+            <description><![CDATA[A scandal in Vienna: Hedy Lamarr’s debut movie is banned in several countries]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct7y91</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct7y91#7</guid>
+            <pubDate>Mon, 16 Jun 2025 00:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/948a/live/546287c0-4a83-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spaun birdies last two to win US Open from MacIntyre]]></title>
+            <description><![CDATA[American JJ Spaun beats Robert MacIntyre by two shots to win his first major title on a chaotic final day at the US Open.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c0mrmjp27zro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c0mrmjp27zro#9</guid>
+            <pubDate>Mon, 16 Jun 2025 00:23:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa08/live/6d04be50-4a4d-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris 'made a fool' of himself in Piastri collision]]></title>
+            <description><![CDATA[Lando Norris says he "made a fool" of himself in colliding with McLaren team-mate Oscar Piastri in the Canadian Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c3v5v7vn0qpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c3v5v7vn0qpo#9</guid>
+            <pubDate>Mon, 16 Jun 2025 00:36:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ff/live/b4b145b0-4a49-11f0-929d-f537ab08aab5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A footballing mismatch – why were Auckland City playing Bayern Munich?]]></title>
+            <description><![CDATA[Bayern Munich's Club World Cup group game against Auckland City was a mismatch on the pitch - so why were the part-timers from New Zealand facing the 34-time German champions?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cq85844qwyjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq85844qwyjo#9</guid>
+            <pubDate>Sun, 15 Jun 2025 21:32:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3bc/live/31d794f0-4a26-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Some Man Utd players may have been intimidated by weight of shirt']]></title>
+            <description><![CDATA[In an exclusive interview with BBC Sport, Angel Gomes discusses why players have flourished away from Manchester United and confronts suggestions his England caps are rooted in nepotism.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c8xgxv9pye0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xgxv9pye0o#9</guid>
+            <pubDate>Mon, 16 Jun 2025 05:01:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/3b806ca0-49f6-11f0-90d3-bb2e63138ca0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spaun wins US Open with 64-foot birdie putt]]></title>
+            <description><![CDATA[JJ Spaun makes an incredible birdie putt on the 18th hole to seal US Open victory at Oakmont.]]></description>
+            <link>https://www.bbc.com/sport/golf/videos/c3e5exgy8x7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/videos/c3e5exgy8x7o#9</guid>
+            <pubDate>Mon, 16 Jun 2025 00:47:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7808/live/3c8bb2c0-4a51-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+    </channel>
+</rss>
