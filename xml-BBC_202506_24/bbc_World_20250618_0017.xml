@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 18 Jun 2025 00:17:31 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Russia fears another loss in Middle East from Iran's conflict with Israel]]></title>
+            <description><![CDATA[The longer Israel's military operation goes on, the greater the realisation that Russia has much to lose.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w463pyj90o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w463pyj90o#0</guid>
+            <pubDate>Tue, 17 Jun 2025 22:59:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4105/live/eb70e070-4b9c-11f0-9c88-11bce79778c8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the Air India crash investigation is unfolding ]]></title>
+            <description><![CDATA[Investigators now sift wreckage and decode black boxes to learn what caused last week's Boeing 787 crash.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gkd555jlko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gkd555jlko#0</guid>
+            <pubDate>Wed, 18 Jun 2025 00:02:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0a/live/fbecc040-4b4c-11f0-8bdb-73c0815c1d31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I want to get home': Thousands of Britons trapped in Israel as conflict with Iran rages]]></title>
+            <description><![CDATA[Since the conflict with Iran broke out, Israel's airspace has been closed and all flights suspended]]></description>
+            <link>https://www.bbc.com/news/articles/cj6r6jz1p4lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6r6jz1p4lo#0</guid>
+            <pubDate>Tue, 17 Jun 2025 12:00:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ae/live/32a66610-4b78-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli forces kill 51 Palestinians waiting for flour at Gaza aid site, witnesses and rescuers say]]></title>
+            <description><![CDATA[It is potentially the deadliest of the almost daily shootings that have been taking place recently near aid distribution sites.]]></description>
+            <link>https://www.bbc.com/news/articles/c74zj9kv2xjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74zj9kv2xjo#0</guid>
+            <pubDate>Tue, 17 Jun 2025 12:24:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d24/live/b281bbd0-4b57-11f0-8bdb-73c0815c1d31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia's deadliest attack on Kyiv for months flattens part of apartment block]]></title>
+            <description><![CDATA[Ukrainian officials say a drone smashed into the building, leaving a number of people dead and wounded.]]></description>
+            <link>https://www.bbc.com/news/articles/cx24g4850x4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24g4850x4o#0</guid>
+            <pubDate>Tue, 17 Jun 2025 15:14:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed3/live/0b4a0350-4b42-11f0-9125-21984b2eddef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia issues highest alert as volcano erupts]]></title>
+            <description><![CDATA[Disaster agency imposes exclusion zone around Lewotobi Laki-Laki after it spewed an ash cloud that rose miles into the air.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg32p7kv4lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg32p7kv4lo#0</guid>
+            <pubDate>Tue, 17 Jun 2025 19:11:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165a/live/ed8d6bf0-4ba9-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump signs order confirming parts of UK-US tariff deal]]></title>
+            <description><![CDATA[The pact between the US and UK means tariffs will be reduced on certain goods such as cars entering the US.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8gxp7dvepo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8gxp7dvepo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 09:31:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ce/live/d78d5290-4b52-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The teen who filmed the Air India crash video the world saw]]></title>
+            <description><![CDATA[Aryan Asari just wanted to film planes flying in the sky  - but he ended up capturing one of the country's biggest air crashes.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l484l40gyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l484l40gyo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 11:02:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a16/live/ac99dc00-4b40-11f0-8c47-237c2e4015f5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[California doctor to plead guilty to supplying Matthew Perry with ketamine ]]></title>
+            <description><![CDATA[The actor - best known for playing Chandler Bing on Friends – was found dead in his hot tub in October 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/c784l795lzdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c784l795lzdo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 01:42:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b9/live/1714d960-4b4e-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minnesota suspect attempted to kill two other state lawmakers, officials say]]></title>
+            <description><![CDATA[Vance Luther Boelter attempted to kill two other Minnesota state lawmakers, authorities revealed at a press conference on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/c98j5e34dy6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98j5e34dy6o#1</guid>
+            <pubDate>Mon, 16 Jun 2025 19:27:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccc7/live/427000f0-4ae8-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts question whether $499 gold Trump phone can be US-made]]></title>
+            <description><![CDATA[It is the latest plan by US President Donald Trump's family that looks to cash in on his name.]]></description>
+            <link>https://www.bbc.com/news/articles/cjrld3erq4eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjrld3erq4eo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 10:34:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6088/live/1e9739e0-4b66-11f0-9a0b-27ba8ae87ef8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombian senator in 'extremely critical condition' after being shot]]></title>
+            <description><![CDATA[The presidential hopeful was badly injured in a targeted attack on 7 June. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8j1lr3nlggo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j1lr3nlggo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 11:32:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e7d/live/dbd86060-4b6b-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uganda leader signs new law allowing military trials for civilians]]></title>
+            <description><![CDATA[A previous law that activists said was used to silence opponents was struck down by the Supreme Court.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r1rrjzpllo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r1rrjzpllo#1</guid>
+            <pubDate>Tue, 17 Jun 2025 11:17:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5fd/live/f0e2d630-4ab1-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the death of a blogger has put Kenya's police on trial]]></title>
+            <description><![CDATA[His widow tells the BBC his last words from a police station in Nairobi were: "I'll see you soon."]]></description>
+            <link>https://www.bbc.com/news/articles/c79epzj703eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79epzj703eo#2</guid>
+            <pubDate>Tue, 17 Jun 2025 22:55:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81fc/live/921b4380-4ba6-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where is Israel's operation heading?]]></title>
+            <description><![CDATA[As the military confrontation between Iran and Israel intensifies, what is Israel’s real endgame?]]></description>
+            <link>https://www.bbc.com/news/articles/ce829v2qzyro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce829v2qzyro#2</guid>
+            <pubDate>Mon, 16 Jun 2025 15:43:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aac/live/ac22e140-4861-11f0-bbaa-4bc03e0665b7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The protesters and residents pushing back on tourism in Barcelona ]]></title>
+            <description><![CDATA[Hostility towards tourists in Spain grows as locals complain of being forced out of their own cities.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8d87l6lp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8d87l6lp1o#2</guid>
+            <pubDate>Mon, 16 Jun 2025 10:20:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a6/live/67d9c010-4a9d-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump has left the G7 early - what are his options for dealing with Iran?]]></title>
+            <description><![CDATA[The US president said he would end wars and now a vocal part of his support is urging him to stay out of this conflict.]]></description>
+            <link>https://www.bbc.com/news/articles/cx23e4pzjg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx23e4pzjg3o#2</guid>
+            <pubDate>Tue, 17 Jun 2025 06:59:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c608/live/7eaa8df0-4b57-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What the capsizing and relaunching of a warship tells us about North Korea's regime]]></title>
+            <description><![CDATA[The intrigue has less to do with the failure itself and more with how Kim Jong Un reacted.]]></description>
+            <link>https://www.bbc.com/news/articles/c9898zjgq2ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9898zjgq2ro#2</guid>
+            <pubDate>Mon, 16 Jun 2025 23:08:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d4/live/ebbf3820-4a97-11f0-a346-a921769abdd6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sudan in danger of self-destructing as conflict and famine reign]]></title>
+            <description><![CDATA[The war is in strategic stalemate, but Sudan is no-one's priority - an orphan in a region that is ablaze.]]></description>
+            <link>https://www.bbc.com/news/articles/cg717385nj7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg717385nj7o#2</guid>
+            <pubDate>Mon, 16 Jun 2025 22:53:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/3338da30-4a48-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Canada break its ice hockey curse?]]></title>
+            <description><![CDATA[It's been over 30 years since a Canadian team took home the Stanley Cup trophy.]]></description>
+            <link>https://www.bbc.com/news/articles/cj9vl0y9v0go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9vl0y9v0go#2</guid>
+            <pubDate>Mon, 16 Jun 2025 23:41:20 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf9/live/f62f67f0-4aea-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How Trump looms over G7 despite early departure]]></title>
+            <description><![CDATA[The BBC's James Landale highlights the role of the US president at the summit as the conflict in the Middle East overshadows the gathering.]]></description>
+            <link>https://www.bbc.com/news/videos/cd783w709d8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd783w709d8o#3</guid>
+            <pubDate>Tue, 17 Jun 2025 22:08:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a25/live/a9df2b90-4bbe-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment people flee church as earthquake interrupts mass in Peru]]></title>
+            <description><![CDATA[The 5.6 magnitude earthquake struck near Lima, Peru on Sunday morning, causing panic at the city's cathedral.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgvgz3z3w2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgvgz3z3w2o#3</guid>
+            <pubDate>Mon, 16 Jun 2025 02:34:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741b/live/e4937530-4a55-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Virginia police find alligator outside motel]]></title>
+            <description><![CDATA[The reptile was found just 20 minutes south of Washington DC. ]]></description>
+            <link>https://www.bbc.com/news/videos/c2d0g15k03zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2d0g15k03zo#3</guid>
+            <pubDate>Tue, 17 Jun 2025 16:11:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/e0415240-4b8b-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Footage captures exchange of attacks between Iran and Israel]]></title>
+            <description><![CDATA[Israel and Iran have continued to attack each other throughout the night]]></description>
+            <link>https://www.bbc.com/news/videos/cy9090yje1do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy9090yje1do#3</guid>
+            <pubDate>Sun, 15 Jun 2025 09:53:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53eb/live/8e7ff840-49cd-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Destruction all around': BBC reports from Israeli city targeted by Iran]]></title>
+            <description><![CDATA[Israeli authorities have indicated that this could be the beginning of a prolonged campaign against Iran.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg92jnylzxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg92jnylzxo#3</guid>
+            <pubDate>Sat, 14 Jun 2025 15:58:44 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39cc/live/402d72a0-4935-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A very long night of attacks, with fears of more to come']]></title>
+            <description><![CDATA[The BBC's Hugo Bachega reports from Jerusalem as the two sides trade fire. ]]></description>
+            <link>https://www.bbc.com/news/videos/c3rpg2qj377o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3rpg2qj377o#3</guid>
+            <pubDate>Sat, 14 Jun 2025 08:14:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbf/live/cad54fd0-48f5-11f0-84b6-6bf0f66205f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Explosions and huge plumes of smoke in Tel Aviv as Iran retaliates]]></title>
+            <description><![CDATA[Iran launched a fresh wave of missiles towards the country on Friday night, vowing to "inflict heavy blows".]]></description>
+            <link>https://www.bbc.com/news/videos/c74q21jez82o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c74q21jez82o#3</guid>
+            <pubDate>Fri, 13 Jun 2025 19:25:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b92/live/988512b0-488a-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+    </channel>
+</rss>
