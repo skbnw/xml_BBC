@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 23 Jun 2025 16:04:46 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US and UK tell citizens in Qatar to shelter in place]]></title>
+            <description><![CDATA[Qatar's foreign affairs ministry said the advisory does "not necessarily reflect the existence of specific threats".]]></description>
+            <link>https://www.bbc.com/news/articles/cqx29w0lrx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx29w0lrx0o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 14:43:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96d5/live/6f5bfc70-503a-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is the Strait of Hormuz and why does it matter?]]></title>
+            <description><![CDATA[Iran's threat to block the world's most vital oil transit point has raised fears of major global economic consequences.]]></description>
+            <link>https://www.bbc.com/news/articles/c78n6p09pzno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78n6p09pzno#1</guid>
+            <pubDate>Mon, 23 Jun 2025 10:05:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b8/live/599b5910-500f-11f0-8c0a-5b816c079050.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How successful have the US strikes on Iran been?]]></title>
+            <description><![CDATA[BBC security analyst Gordon Corera examines how much damage is likely to have been caused to Iran's nuclear sites.]]></description>
+            <link>https://www.bbc.com/news/videos/cq53l9dvggjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cq53l9dvggjo#1</guid>
+            <pubDate>Sun, 22 Jun 2025 20:39:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9131/live/3a33b1c0-501f-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestine Action to be banned under anti-terror law, home secretary confirms]]></title>
+            <description><![CDATA[It comes after what she called a "disgraceful attack" on an RAF base and as a protest takes place in central London.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g83l33wdeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g83l33wdeo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 15:47:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a2/live/02b500e0-5039-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[National inquiry announced after NHS maternity failings]]></title>
+            <description><![CDATA[It will target the worst-performing trusts in England - and report back by the end of the year.]]></description>
+            <link>https://www.bbc.com/news/articles/c994x95yygyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c994x95yygyo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 15:19:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9a/live/ced05590-5024-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Our sister died of cancer because of our mum's conspiracy theories']]></title>
+            <description><![CDATA[Paloma Shemirani’s brothers say she refused chemotherapy because of their mother’s beliefs.]]></description>
+            <link>https://www.bbc.com/news/articles/crenzwyvpn1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crenzwyvpn1o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 05:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e96/live/fe0bd640-4dea-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could this be the most significant Nato summit since the Cold War?]]></title>
+            <description><![CDATA[Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies]]></description>
+            <link>https://www.bbc.com/news/articles/cqjqvr75v1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjqvr75v1jo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 14:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d41a/live/cf807fd0-5031-11f0-a466-d54f65b60deb.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwave over - but temperatures set to soar again in parts of UK]]></title>
+            <description><![CDATA[After last week's heatwave, temperatures have dropped a bit but the heat is likely to start to build again by the end of the week.]]></description>
+            <link>https://www.bbc.com/weather/articles/cj0mr0l5d9eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cj0mr0l5d9eo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 10:49:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec9/live/9f824990-5035-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Let non-doms pay £250,000 and avoid some UK tax, Farage says]]></title>
+            <description><![CDATA[The Reform UK leader says money raised from the policy would go to the lowest-paid 10% of full-time workers.]]></description>
+            <link>https://www.bbc.com/news/articles/c14e03dvydno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14e03dvydno#2</guid>
+            <pubDate>Mon, 23 Jun 2025 15:33:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20a/live/c3d3fca0-5024-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV presenter Dermot Murnaghan reveals stage four cancer]]></title>
+            <description><![CDATA[The ex-BBC and Sky journalist says he is "responding positively" to treatment and is "feeling well".]]></description>
+            <link>https://www.bbc.com/news/articles/cp8mql4j8e8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8mql4j8e8o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 13:29:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d87d/live/9d6ff210-503a-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Killer whales 'massage' each other using kelp]]></title>
+            <description><![CDATA[Orcas have been filmed using kelp as a tool to massage each other]]></description>
+            <link>https://www.bbc.com/news/articles/cwyqll5n2qro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyqll5n2qro#2</guid>
+            <pubDate>Mon, 23 Jun 2025 15:02:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/c8173050-503f-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gallery portrait damaged by visitor taking selfie]]></title>
+            <description><![CDATA[The museum says it will impose restrictions on selfie-taking in the future.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvj4pze706o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvj4pze706o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 15:15:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c50a/live/113f4b40-5028-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish wingsuit flyer Liam Byrne dies during Swiss Alps jump]]></title>
+            <description><![CDATA[British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".]]></description>
+            <link>https://www.bbc.com/news/articles/cwyepy2zz11o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyepy2zz11o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 13:36:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f9/live/7f983530-502c-11f0-920b-d5c6e124573f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murder of woman found stabbed in home after gas explosion]]></title>
+            <description><![CDATA[Annabel Rook was found stabbed following a gas explosion at her home in north London.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cvg1n295z0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1n295z0wo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 11:43:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb4/live/b814e660-5018-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesla launches its long-awaited robotaxis in Texas]]></title>
+            <description><![CDATA[Tesla hopes to rival firms already offering driverless ride-hailing in the US and around the world, such as Waymo, Zoox and Baidu.]]></description>
+            <link>https://www.bbc.com/news/articles/cjwnlje3yp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwnlje3yp1o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 10:52:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/9d4cfc60-501c-11f0-b2cc-8d0e5d29c10e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the 'Harvard of coaching' - the elite course attracting football's biggest names]]></title>
+            <description><![CDATA[BBC Sport goes behind the scenes at the coaching course which counts Thierry Henry and Mikel Arteta as graduates, and is shaping stars of the future.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c2d567xj7jeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d567xj7jeo#3</guid>
+            <pubDate>Mon, 23 Jun 2025 09:54:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc1/live/614d71e0-4770-11f0-bdd6-438c9d4f20a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How ketamine on the NHS could help treat severe depression]]></title>
+            <description><![CDATA[Ketamine is linked to serious health problems but some believe it can be used to treat depression.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvjy7m3vmdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvjy7m3vmdo#3</guid>
+            <pubDate>Mon, 23 Jun 2025 05:13:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8e/live/edaabba0-4f51-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia is on the verge of recession - can its economy recover?]]></title>
+            <description><![CDATA[The country's economy has been surprisingly resilient but there are underlying problems.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqnj17vryjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqnj17vryjo#3</guid>
+            <pubDate>Mon, 23 Jun 2025 06:07:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d014/live/b0323030-4c4c-11f0-a403-397b1d8545e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lyse Doucet: What US and Iran do next could be even more momentous]]></title>
+            <description><![CDATA[The "tortuous" US-Iran relationship was tested at least once before, but this is of far greater magnitude]]></description>
+            <link>https://www.bbc.com/news/articles/cy0w94yj68xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0w94yj68xo#3</guid>
+            <pubDate>Sun, 22 Jun 2025 21:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4879/live/def7c1b0-4fb1-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How China made electric vehicles mainstream]]></title>
+            <description><![CDATA[The world's second largest economy is both the biggest producer and buyer of EVs.]]></description>
+            <link>https://www.bbc.com/news/articles/c2d5ld8y8pwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d5ld8y8pwo#3</guid>
+            <pubDate>Sun, 22 Jun 2025 23:17:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/b4fc6550-5024-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First celestial image unveiled from revolutionary telescope]]></title>
+            <description><![CDATA[The telescope should detect killer asteroids and may even find the ninth planet in our solar system.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3rmjjgx6xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3rmjjgx6xo#5</guid>
+            <pubDate>Mon, 23 Jun 2025 04:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1f/live/d674edd0-4dfc-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hugo Boss wants Liverpool pet store to change name]]></title>
+            <description><![CDATA[Boss Pets in Bootle was told by Hugo Boss it had to stop using the name or face legal action.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8m841844o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8m841844o#5</guid>
+            <pubDate>Mon, 23 Jun 2025 05:12:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aed/live/1576e660-4df7-11f0-bb1d-1741330db98d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Drummer has cardiac arrest on festival stage]]></title>
+            <description><![CDATA[Lionel Duke fell ill as the band were supporting Sting during Liverpool's On The Waterfront festival.]]></description>
+            <link>https://www.bbc.com/news/articles/czjkdr7xvd0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjkdr7xvd0o#5</guid>
+            <pubDate>Mon, 23 Jun 2025 11:02:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2573/live/c6299e80-4ffa-11f0-a4e7-aff14a71dc45.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Weight loss jab Mounjaro available to England NHS patients - but with strict rules]]></title>
+            <description><![CDATA[NHS England says the first patients able to get the jab will be those most in need.]]></description>
+            <link>https://www.bbc.com/news/articles/cglz4xyk7w9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglz4xyk7w9o#5</guid>
+            <pubDate>Mon, 23 Jun 2025 08:58:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254a/live/d8873f30-4fc1-11f0-811b-071829192696.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheaper energy part of 10-year plan for industry]]></title>
+            <description><![CDATA[Plans to cut energy bills by up to 25% for more than 7,000 UK businesses is announced alongside other plans to boost growth.]]></description>
+            <link>https://www.bbc.com/news/articles/c1ljnrrmd7jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1ljnrrmd7jo#5</guid>
+            <pubDate>Mon, 23 Jun 2025 14:35:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea8/live/c1c52760-5004-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police appeal after £150k violin stolen from pub]]></title>
+            <description><![CDATA[The 18th century violin was allegedly stolen on 18 February from The Marquess Tavern in Islington.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2jn280dnxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2jn280dnxo#5</guid>
+            <pubDate>Mon, 23 Jun 2025 15:52:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b64d/live/3b0826b0-5049-11f0-932e-09e4445146f3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers search for Brazilian tourist on Indonesian volcano]]></title>
+            <description><![CDATA[Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.]]></description>
+            <link>https://www.bbc.com/news/articles/crk60k8gp8jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk60k8gp8jo#5</guid>
+            <pubDate>Mon, 23 Jun 2025 11:10:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/986d/live/da9bd6a0-502a-11f0-bdf6-9d43c4322174.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump’s Iran decision is splitting the Republican party]]></title>
+            <description><![CDATA[We speak to Trump’s former representative to Iran]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002dljf</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002dljf#7</guid>
+            <pubDate>Thu, 19 Jun 2025 20:16:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The US Bombs Iranian Nuclear Sites]]></title>
+            <description><![CDATA[And Iran warns of "everlasting consequences".]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lksb6f</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lksb6f#7</guid>
+            <pubDate>Sun, 22 Jun 2025 12:04:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lions demand Wallaby stars play in tour games]]></title>
+            <description><![CDATA[The British and Irish Lions have warned Australia the Wallabies' superstars must appear for their Super Rugby sides in the tourists' pre-Test series matches. ]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c20np7x17zpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c20np7x17zpo#9</guid>
+            <pubDate>Mon, 23 Jun 2025 11:08:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef4/live/ff2cc350-501e-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brentford set-piece coach Andrews in line to be named manager]]></title>
+            <description><![CDATA[Brentford set-piece coach Keith Andrews is frontrunner to succeed Thomas Frank in what would be his first managerial role.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3w48p7n014o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w48p7n014o#9</guid>
+            <pubDate>Mon, 23 Jun 2025 13:23:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a5/live/bc29d060-502e-11f0-bdf6-9d43c4322174.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England pick suspended Feyi-Waboso for summer tour]]></title>
+            <description><![CDATA[Wing Immanuel Feyi-Waboso will go on tour with England this summer despite being suspended for the entirety of the two-Test series against Argentina.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cgq70y5qpl4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cgq70y5qpl4o#9</guid>
+            <pubDate>Mon, 23 Jun 2025 15:08:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9f/live/2cef76c0-5042-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evans 'work in progress' after fine Eastbourne win]]></title>
+            <description><![CDATA[Britain's Dan Evans says he is "the most confident I have been on grass for a long time" after sealing his second win over a top-50 player in as many weeks.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cx2lqxk5p70o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx2lqxk5p70o#9</guid>
+            <pubDate>Mon, 23 Jun 2025 15:29:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9699/live/74d2b3a0-5040-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Super, super, super!' - Pant makes magnificent century as India dominate]]></title>
+            <description><![CDATA[Rishabh Pant scores a "magnificent" century off 130 balls as India take full control of the first Test against England at Headingley, with the tourists moving on to 264-3, with their lead building towards 270. ]]></description>
+            <link>https://www.bbc.com/sport/cricket/videos/clyx9048jddo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/videos/clyx9048jddo#9</guid>
+            <pubDate>Mon, 23 Jun 2025 14:47:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210b/live/6e153250-503f-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+    </channel>
+</rss>
