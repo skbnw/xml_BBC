@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 24 Jun 2025 16:04:30 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What we know about the Iran-Israel ceasefire]]></title>
+            <description><![CDATA[Donald Trump accuses both sides of breaking the ceasefire and urges them to "calm down".]]></description>
+            <link>https://www.bbc.com/news/articles/czjk3kxr3zno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjk3kxr3zno#0</guid>
+            <pubDate>Tue, 24 Jun 2025 12:40:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097e/live/0e18f300-50ee-11f0-80a0-b52754f7012d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany vows to pay its 'fair share' on defence as Nato prepares for summit]]></title>
+            <description><![CDATA[The German chancellor says Nato leaders will aim to ensure peace in Europe for generations to come.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gd98qry6jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gd98qry6jo#0</guid>
+            <pubDate>Tue, 24 Jun 2025 13:22:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b07/live/0d362bc0-50fc-11f0-915a-f94d3e93c63e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian missile strikes kill 11 in Ukraine's Dnipropetrovsk region]]></title>
+            <description><![CDATA[President Zelensky said at least 160 more were injured, and warned the death toll may rise.]]></description>
+            <link>https://www.bbc.com/news/articles/cr4w6kwvgg6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4w6kwvgg6o#0</guid>
+            <pubDate>Tue, 24 Jun 2025 15:20:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5508/live/9a0cb3b0-5107-11f0-8268-2df9989f3f1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venice protesters claim victory as Bezos changes wedding venue]]></title>
+            <description><![CDATA[No Space for Bezos activist group tells BBC they are "very proud of this".]]></description>
+            <link>https://www.bbc.com/news/articles/cd0vjr07570o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0vjr07570o#0</guid>
+            <pubDate>Tue, 24 Jun 2025 15:26:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ed/live/06a37710-5113-11f0-918d-fb788d4dd5b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian tourist who fell off Indonesian volcano found dead]]></title>
+            <description><![CDATA[Juliana Marins survived the initial fall during an early morning hike along a trail on Mount Rinjani.]]></description>
+            <link>https://www.bbc.com/news/articles/c939q6k1ewwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c939q6k1ewwo#0</guid>
+            <pubDate>Tue, 24 Jun 2025 15:39:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/986d/live/da9bd6a0-502a-11f0-bdf6-9d43c4322174.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The water was just screaming' - Eight dead in Lake Tahoe after boats capsize]]></title>
+            <description><![CDATA[A witness described how quickly the weather changed, leading to people being thrown from boats.]]></description>
+            <link>https://www.bbc.com/news/articles/czdvlyjezrdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdvlyjezrdo#0</guid>
+            <pubDate>Tue, 24 Jun 2025 02:25:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d1/live/a4bf3c60-5099-11f0-a9ee-d5feb5dea553.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Best place to have herpes': New Zealand advert wins top prize]]></title>
+            <description><![CDATA[The charity was awarded a Cannes Lions award for its campaign to destigmatise the infection.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d150xe7vjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d150xe7vjo#0</guid>
+            <pubDate>Tue, 24 Jun 2025 09:05:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/86b7c180-50ce-11f0-8f34-1d8449bb8ffa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thailand bans tourists from going to Cambodia as border dispute persists]]></title>
+            <description><![CDATA[Thailand has banned travel into Cambodia as the two countries remain locked in a bitter border dispute.]]></description>
+            <link>https://www.bbc.com/news/articles/c2ezgjlzggyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ezgjlzggyo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 06:33:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0403/live/1fb4ed30-50bc-11f0-9a6a-41d9f1cf2af3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children killed in 'appalling' Sudan hospital attack - WHO head]]></title>
+            <description><![CDATA[Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop everywhere".]]></description>
+            <link>https://www.bbc.com/news/articles/c8j18w3ndg9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j18w3ndg9o#1</guid>
+            <pubDate>Tue, 24 Jun 2025 11:14:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d8/live/3e722b70-50f3-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[German court lifts ban on far-right magazine]]></title>
+            <description><![CDATA[Judges said that while the magazine published anti-constitutional content, it did not justify a ban.]]></description>
+            <link>https://www.bbc.com/news/articles/c2ezg4wzr8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ezg4wzr8yo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 11:57:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3687/live/e3514230-50ed-11f0-80a0-b52754f7012d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombian army frees 57 soldiers held captive by locals]]></title>
+            <description><![CDATA[Fifty-seven soldiers had been seized over the weekend and held captive in the restive Cauca region. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8rp51n1zmlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8rp51n1zmlo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 12:50:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7593/live/132070d0-50f8-11f0-915a-f94d3e93c63e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about Iran's attack on US base in Qatar]]></title>
+            <description><![CDATA[Iranian missiles targeted the Al-Udeid air base in retaliation for US strikes on its nuclear sites.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjxdgjpd48o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjxdgjpd48o#1</guid>
+            <pubDate>Tue, 24 Jun 2025 09:10:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db8b/live/0890ea10-5061-11f0-86d5-3b52b53af158.png"/>
+        </item>
+        <item>
+            <title><![CDATA[If Iran and Israel do stop firing, Trump's high-risk strikes may pay off]]></title>
+            <description><![CDATA[If the US president has helped to end the fighting it would mark a significant step back from the brink of a regional conflict.]]></description>
+            <link>https://www.bbc.com/news/articles/cdr3yxgjd6ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr3yxgjd6ro#1</guid>
+            <pubDate>Tue, 24 Jun 2025 08:31:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b876/live/5c6e5050-50ed-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talk of regime change resonates with Iranians fleeing across border]]></title>
+            <description><![CDATA[A steady stream of Iranians are crossing into Armenia by foot, laden with luggage and pets.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9xl4nrq8wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9xl4nrq8wo#1</guid>
+            <pubDate>Mon, 23 Jun 2025 16:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe31/live/c70d0390-5050-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US marine jailed for seven years for sexual assault in Japan]]></title>
+            <description><![CDATA[Jamel Clayton was given seven years, with a judge describing the physical attack as "vicious".]]></description>
+            <link>https://www.bbc.com/news/articles/cwyxjnee9rzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyxjnee9rzo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 11:35:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4b/live/d1cc5ed0-50e5-11f0-922f-9fb4bdd79d98.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers search for Brazilian tourist on Indonesian volcano]]></title>
+            <description><![CDATA[Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.]]></description>
+            <link>https://www.bbc.com/news/articles/crk60k8gp8jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk60k8gp8jo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 03:08:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/986d/live/da9bd6a0-502a-11f0-bdf6-9d43c4322174.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine killed in Kyiv in intense Russian air attack]]></title>
+            <description><![CDATA[Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k7vll16l3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k7vll16l3o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 13:12:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5645/live/0b2bad10-4ffc-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First celestial image unveiled from revolutionary telescope]]></title>
+            <description><![CDATA[The telescope should detect killer asteroids and may even find the ninth planet in our solar system.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3rmjjgx6xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3rmjjgx6xo#1</guid>
+            <pubDate>Mon, 23 Jun 2025 16:35:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1f/live/d674edd0-4dfc-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US says Kilmar Ábrego García will 'never go free' after judge orders his release]]></title>
+            <description><![CDATA[US Homeland Security, which says he'll "never go free on American soil",  is expected to keep him detained for immigration reasons.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2ny7yl097o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2ny7yl097o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 16:40:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0718/live/5007c900-503d-11f0-b062-3bd22b911c28.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bride shot dead in attack on French wedding party]]></title>
+            <description><![CDATA[Two suspects are arrested after the ceremony ended in a deadly exchange of fire near Avignon.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0q8pypxwxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0q8pypxwxo#1</guid>
+            <pubDate>Mon, 23 Jun 2025 00:50:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c8c/live/70a50660-4fba-11f0-a594-e5956efbe4e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remembering India's iconic crocodile-hunting tigress]]></title>
+            <description><![CDATA[Arrowhead, also known as T-84, died last week in India's Ranthambore national park.]]></description>
+            <link>https://www.bbc.com/news/articles/c77vj7v74lmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77vj7v74lmo#1</guid>
+            <pubDate>Tue, 24 Jun 2025 05:50:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e0/live/61add510-50aa-11f0-ac17-615f297aae5f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florence's Uffizi tears into selfie-takers after priceless portrait damaged]]></title>
+            <description><![CDATA[The museum says it will impose restrictions on selfie-taking in the future.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvj4pze706o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvj4pze706o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 16:13:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c50a/live/113f4b40-5028-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish wingsuit flyer Liam Byrne dies during Swiss Alps jump]]></title>
+            <description><![CDATA[British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".]]></description>
+            <link>https://www.bbc.com/news/articles/cwyepy2zz11o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyepy2zz11o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 13:36:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f9/live/7f983530-502c-11f0-920b-d5c6e124573f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wreck of sunken luxury yacht Bayesian to be examined]]></title>
+            <description><![CDATA[Tech entrepreneur Mike Lynch and daughter were among seven people killed when boat went down off coast of Italy.]]></description>
+            <link>https://www.bbc.com/news/articles/crrq0w8evnjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrq0w8evnjo#1</guid>
+            <pubDate>Mon, 23 Jun 2025 17:16:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c87/live/824cf4b0-50cb-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires rage on Greek island of Chios]]></title>
+            <description><![CDATA[A state of emergency is declared and an arson investigation launched after five separate fires were sparked within hours.]]></description>
+            <link>https://www.bbc.com/news/articles/cz09lmngyv2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz09lmngyv2o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 15:58:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9299/live/e0a6af20-503e-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Why wouldn't there be a regime change?' Trump's latest on Iran]]></title>
+            <description><![CDATA[The president's comments came after other top officials said replacing the leadership in Tehran was not the aim.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8m3861637o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8m3861637o#1</guid>
+            <pubDate>Mon, 23 Jun 2025 13:01:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a019/live/fc1baf90-501a-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel says it struck Tehran's Evin prison and Fordo access routes]]></title>
+            <description><![CDATA[Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8621gnknjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8621gnknjo#1</guid>
+            <pubDate>Mon, 23 Jun 2025 18:10:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d51/live/eb02ebf0-5048-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[As Diddy prosecution rests, how compelling is the case against him?]]></title>
+            <description><![CDATA[Legal experts say testimony of key witnesses has helped build prosecutors' argument, but does not ensure a conviction on all counts.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7dymzzdvgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7dymzzdvgo#2</guid>
+            <pubDate>Tue, 24 Jun 2025 01:33:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/6addd730-4c30-11f0-a380-d5e16029f677.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Did Trump have the legal authority to strike Iran?]]></title>
+            <description><![CDATA[Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did he have the authority to order them?]]></description>
+            <link>https://www.bbc.com/news/articles/c4gkw04yze1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gkw04yze1o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 21:50:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb5/live/a9ad4e50-506d-11f0-86d5-3b52b53af158.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Could this be the most significant Nato summit since the Cold War?]]></title>
+            <description><![CDATA[Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies]]></description>
+            <link>https://www.bbc.com/news/articles/cqjqvr75v1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjqvr75v1jo#2</guid>
+            <pubDate>Mon, 23 Jun 2025 14:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d41a/live/cf807fd0-5031-11f0-a466-d54f65b60deb.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Our sister died of cancer because of our mum's conspiracy theories']]></title>
+            <description><![CDATA[Paloma Shemirani’s brothers say she refused chemotherapy because of their mother’s beliefs.]]></description>
+            <link>https://www.bbc.com/news/articles/crenzwyvpn1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crenzwyvpn1o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 05:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e96/live/fe0bd640-4dea-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Telegram channels spreading pro-Russian propaganda in Poland]]></title>
+            <description><![CDATA[Telegram channels sharing disinformation in Polish are pushing the Kremlin’s narrative, experts warn.]]></description>
+            <link>https://www.bbc.com/news/articles/c0eqdd53dd7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0eqdd53dd7o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 23:09:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa11/live/8b6fe810-502e-11f0-86d5-3b52b53af158.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lyse Doucet: What the US and Iran do next could be momentous]]></title>
+            <description><![CDATA[The "tortuous" US-Iran relationship was tested at least once before, but this is of far greater magnitude]]></description>
+            <link>https://www.bbc.com/news/articles/cy0w94yj68xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0w94yj68xo#2</guid>
+            <pubDate>Sun, 22 Jun 2025 21:41:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4879/live/def7c1b0-4fb1-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decoy flights and seven B-2 stealth bombers - how US says it hit Iran's nuclear sites]]></title>
+            <description><![CDATA[A timeline of how the complex mission unfolded was laid out in a Pentagon briefing.]]></description>
+            <link>https://www.bbc.com/news/articles/cew0x7159edo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cew0x7159edo#2</guid>
+            <pubDate>Sun, 22 Jun 2025 21:45:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/928e/live/48e892c0-5007-11f0-86d5-3b52b53af158.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How China made electric vehicles mainstream]]></title>
+            <description><![CDATA[The world's second largest economy is both the biggest producer and buyer of EVs.]]></description>
+            <link>https://www.bbc.com/news/articles/c2d5ld8y8pwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d5ld8y8pwo#2</guid>
+            <pubDate>Sun, 22 Jun 2025 23:17:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/b4fc6550-5024-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caught in the crossfire - the victims of Cape Town's gang warfare]]></title>
+            <description><![CDATA[Children are the unwitting casualties of the violence that has destroyed the lives of thousands.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mg2xg339jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mg2xg339jo#2</guid>
+            <pubDate>Sun, 22 Jun 2025 23:57:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f73/live/90d915c0-47a4-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Tourists are our lifeline': Picking up the pieces in Kashmir after April killings]]></title>
+            <description><![CDATA[Twenty-six people were killed in an attack on tourists visiting a meadow near Pahalgam town in April.]]></description>
+            <link>https://www.bbc.com/news/articles/cly8lx75d6ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly8lx75d6ro#2</guid>
+            <pubDate>Sun, 22 Jun 2025 23:53:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8b/live/4f24b140-4da6-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about US strikes on three Iranian nuclear sites]]></title>
+            <description><![CDATA[The sites targeted include a uranium enrichment facility at Fordo. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg9r4q99g4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg9r4q99g4o#2</guid>
+            <pubDate>Mon, 23 Jun 2025 14:29:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207d/live/2b46d510-4f6c-11f0-bbb0-112520537b7a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Paralysed and constantly caught by surprise': Voices from Iran after US strikes]]></title>
+            <description><![CDATA[People inside Iran tell BBC Persian about their fear and anger after the US bombed key nuclear sites overnight.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwq2vnd827o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwq2vnd827o#2</guid>
+            <pubDate>Sun, 22 Jun 2025 16:25:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6a/live/d307eb60-4f8d-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a self-styled knight giving away cars and wads of cash got people talking]]></title>
+            <description><![CDATA[Some are beguiled by the Zimbabwean tycoon's generosity, others alarmed about the source of his wealth.]]></description>
+            <link>https://www.bbc.com/news/articles/cn81ynyjy8no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn81ynyjy8no#2</guid>
+            <pubDate>Sun, 22 Jun 2025 01:31:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c03/live/88159dd0-4e9f-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump in angry outburst aimed at Israel and Iran]]></title>
+            <description><![CDATA[The US president expressed his frustration at the conduct of the two nations. ]]></description>
+            <link>https://www.bbc.com/news/videos/cwygp9d44zeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwygp9d44zeo#3</guid>
+            <pubDate>Tue, 24 Jun 2025 11:57:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f7/live/adc33530-50f0-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It took a direct hit' - BBC at scene of Beersheba missile strike]]></title>
+            <description><![CDATA[At least four people were killed when an Iranian missile hit a residential building, Israeli officials say.]]></description>
+            <link>https://www.bbc.com/news/videos/cj4e8lywq99o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj4e8lywq99o#3</guid>
+            <pubDate>Tue, 24 Jun 2025 10:12:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4960/live/83873580-50e3-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Air defences over Qatar as Iran attacks US airbase]]></title>
+            <description><![CDATA[Video footage from eyewitnesses captures lights in the sky over Doha during Iran's missile strike]]></description>
+            <link>https://www.bbc.com/news/videos/czrylle48yyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czrylle48yyo#3</guid>
+            <pubDate>Mon, 23 Jun 2025 18:23:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f1/live/b5778e50-505c-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: US strikes against Iran spark protests in North America]]></title>
+            <description><![CDATA[Protesters took to the streets in New York, LA, Washington DC and Toronto after the US hit Iranian nuclear sites.]]></description>
+            <link>https://www.bbc.com/news/videos/cj9v1n14w20o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj9v1n14w20o#3</guid>
+            <pubDate>Mon, 23 Jun 2025 14:13:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5961/live/d23d9fd0-5038-11f0-8c47-237c2e4015f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment helicopter flips and crash lands in Michigan]]></title>
+            <description><![CDATA[No injuries were reported after the aircraft abruptly turned on its side while landing in Clay Township.]]></description>
+            <link>https://www.bbc.com/news/videos/cn41myw33d2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn41myw33d2o#3</guid>
+            <pubDate>Mon, 23 Jun 2025 21:06:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d711/live/b560ed80-5066-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Video shows aftermath of Israeli strikes on Iran]]></title>
+            <description><![CDATA[Footage has emerged showing smoke billowing over Tehran and the city of Karaj, west of the capital.]]></description>
+            <link>https://www.bbc.com/news/videos/c8xvqje77ygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8xvqje77ygo#3</guid>
+            <pubDate>Mon, 23 Jun 2025 16:44:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3599/live/ca46f280-5048-11f0-86d5-3b52b53af158.jpg"/>
+        </item>
+    </channel>
+</rss>
