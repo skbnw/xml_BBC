@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 02 Jul 2025 00:17:41 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Government wins welfare bill vote after big concessions to rebels]]></title>
+            <description><![CDATA[MPs approved the Universal Credit and Personal Independence Payment Bill but only after ministers made big changes. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly8877x3z2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly8877x3z2o#0</guid>
+            <pubDate>Tue, 01 Jul 2025 21:45:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the welfare bill rebels? Find out how your MP voted]]></title>
+            <description><![CDATA[Check whether your MP voted for or against the Universal Credit and Personal Independence Payment Bill]]></description>
+            <link>https://www.bbc.com/news/articles/c4g889ywy82o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g889ywy82o#0</guid>
+            <pubDate>Tue, 01 Jul 2025 19:06:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f51/live/4d3dcf40-56ae-11f0-9261-abd7e0261bf5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says]]></title>
+            <description><![CDATA[US president warns Hamas "it will only get worse" if they do not accept the deal. ]]></description>
+            <link>https://www.bbc.com/news/articles/cgkg4m0133po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkg4m0133po#0</guid>
+            <pubDate>Wed, 02 Jul 2025 00:06:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diddy jury to keep deliberating after deadlocking on most serious charge]]></title>
+            <description><![CDATA[The panel reached a verdict on four of the five counts, but could not agree on the most racketeering count.]]></description>
+            <link>https://www.bbc.com/news/articles/c20nn0p9xg2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20nn0p9xg2o#0</guid>
+            <pubDate>Tue, 01 Jul 2025 23:10:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4c/live/c2980a30-56c7-11f0-82d5-cba5453c1a00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three former bosses of Lucy Letby arrested on suspicion of gross negligence manslaughter]]></title>
+            <description><![CDATA[All three worked at the Countess of Chester Hospital when the nurse killed babies at its neonatal unit.]]></description>
+            <link>https://www.bbc.com/news/articles/c62ddkde7y5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ddkde7y5o#0</guid>
+            <pubDate>Tue, 01 Jul 2025 11:45:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac93/live/60a574a0-566f-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK sees hottest day of 2025 as heatwave peaks]]></title>
+            <description><![CDATA[Temperatures are set to fall after a scorching days in parts of England.]]></description>
+            <link>https://www.bbc.com/news/articles/c79qqx1r5yyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79qqx1r5yyo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 16:47:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d911/live/8c37f3e0-568d-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will there be a drought where I live?]]></title>
+            <description><![CDATA[We take a look at river, reservoir and groundwater levels after a particularly dry few months.]]></description>
+            <link>https://www.bbc.com/news/articles/crk661074ejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk661074ejo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 23:09:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec00/live/e8c273b0-569c-11f0-90cf-2db8f0b9be7b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family pay tribute to girl, 7, killed by falling tree]]></title>
+            <description><![CDATA[Leonna Ruka died after being injured in a Southend park and her family calls her "a light in our lives".]]></description>
+            <link>https://www.bbc.com/news/articles/c0k77m8r8n2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k77m8r8n2o#0</guid>
+            <pubDate>Tue, 01 Jul 2025 21:03:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f66/live/0d1661f0-5692-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banknotes are getting a makeover - and the Bank of England wants your help]]></title>
+            <description><![CDATA[The first facelift in more than 50 years signals the possible end of historical figures on notes.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4nn1d2vzxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4nn1d2vzxo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 23:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ab/live/05890720-5689-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TSB could disappear from high street after £2.65bn sale to Santander]]></title>
+            <description><![CDATA[The bank is set to be integrated into Santander UK which has said there could be job cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjxxvg3vpeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjxxvg3vpeo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 20:01:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf75/live/97d1d110-56a8-11f0-a412-279de04df754.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Small boat crossings in first half of year up 48%]]></title>
+            <description><![CDATA[Official figures show nearly 20,000 people have crossed the English Channel from France since January.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2vv4ndl4zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2vv4ndl4zo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 14:35:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898c/live/b0ecc070-567a-11f0-95fc-edf89039c20a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions of websites to get 'game-changing' AI bot blocker]]></title>
+            <description><![CDATA[Publishers including Condé Nast and Sky News have welcomed the new tech from internet infrastructure firm, Cloudflare. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg885p923jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg885p923jo#0</guid>
+            <pubDate>Tue, 01 Jul 2025 15:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e972/live/b9c37fa0-568d-11f0-8378-af62018ae2d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Dalai Lama reveal succession plan as he turns 90?]]></title>
+            <description><![CDATA[The exiled spiritual head of Tibetan Buddhism is due to release a video message in his birthday week.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvjjd7xw8go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvjjd7xw8go#1</guid>
+            <pubDate>Tue, 01 Jul 2025 18:20:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d117/live/b515c220-56a5-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers:  'Starmer guts welfare reform' and 'Buggy useless']]></title>
+            <description><![CDATA[Last-minute changes to the welfare cuts bill and migrant channel crossings make Wednesday's front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/c23ggjrl379o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23ggjrl379o#1</guid>
+            <pubDate>Tue, 01 Jul 2025 23:01:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fec2/live/4cee0d50-56c9-11f0-960d-e9f1088a89fe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS are back: K-pop band confirm new album and tour]]></title>
+            <description><![CDATA[The kings of K-pop are returning after all seven members completed their military service.]]></description>
+            <link>https://www.bbc.com/news/articles/c3355y3pkk6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3355y3pkk6o#1</guid>
+            <pubDate>Tue, 01 Jul 2025 15:26:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f8/live/d4e0d210-5688-11f0-8378-af62018ae2d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do the Royals spend their money on?]]></title>
+            <description><![CDATA[The Royal's annual accounts show travel is a huge expenditure for the King and Queen]]></description>
+            <link>https://www.bbc.com/news/videos/cjrllvj7w7ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjrllvj7w7ro#1</guid>
+            <pubDate>Tue, 01 Jul 2025 16:23:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d693/live/d7384c40-56ac-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police reflect on Sarah Payne's murder 25 years on]]></title>
+            <description><![CDATA[BBC spoke to investigators who look back on their role in solving the Sarah Payne murder inquiry.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg66zpnr5zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg66zpnr5zo#1</guid>
+            <pubDate>Tue, 01 Jul 2025 05:05:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2425/live/4b9aba60-55ad-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chief rabbi attacks BBC for airing 'vile Jew hate' at Glastonbury]]></title>
+            <description><![CDATA[Sir Ephraim Mirvis hit out after Bob Vylan's controversial performance at Glastonbury was aired by BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/c70rrld1nlpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70rrld1nlpo#3</guid>
+            <pubDate>Tue, 01 Jul 2025 17:01:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8416/live/0c5ca720-564b-11f0-91ce-75a7c213ee0c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Senate Republicans narrowly pass Trump's 'big, beautiful'  bill ]]></title>
+            <description><![CDATA[Vice-President JD Vance casts the tie-breaking vote after more than 24 hours of intense debate, sending the bill back to the House.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzzzdj15vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzzzdj15vo#3</guid>
+            <pubDate>Tue, 01 Jul 2025 17:07:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af3/live/cac684a0-569c-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father jumps off Disney cruise ship to save daughter who fell overboard]]></title>
+            <description><![CDATA[Crew members were able to quickly rescue the pair, who were on the last day of a Disney cruise to the Bahamas.]]></description>
+            <link>https://www.bbc.com/news/articles/c6288v6j4y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6288v6j4y0o#3</guid>
+            <pubDate>Tue, 01 Jul 2025 19:38:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8b/live/c0a1e550-5660-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M&S should be 'fully online' within four weeks, boss says]]></title>
+            <description><![CDATA[The retailer continues to recover from a cyber attack that is expected to hit profits by £300m.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qxx34ngp5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qxx34ngp5o#3</guid>
+            <pubDate>Tue, 01 Jul 2025 12:59:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d74/live/dd36bcc0-5680-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Notable' rise in dads over 60 in England and Wales]]></title>
+            <description><![CDATA[Official figures show that the birth rate in England and Wales went up for the first time since 2021.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0vvr9j1dxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0vvr9j1dxo#3</guid>
+            <pubDate>Tue, 01 Jul 2025 14:57:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217a/live/c0ba57e0-5677-11f0-95fc-edf89039c20a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Outcry after Algeria sentences French sports journalist to seven years in jail]]></title>
+            <description><![CDATA[The sentence comes off the back of a souring of relations between French and Algeria. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj6113n1y9no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6113n1y9no#3</guid>
+            <pubDate>Tue, 01 Jul 2025 15:58:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a05f/live/e05c5a30-5695-11f0-90cf-2db8f0b9be7b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danish women to face conscription by lottery]]></title>
+            <description><![CDATA[The 18 year olds will join males in a lottery that could require them undergo a period of service.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e0094n5d3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e0094n5d3o#3</guid>
+            <pubDate>Tue, 01 Jul 2025 10:45:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/7d8726a0-565a-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Has the Supreme Court made Trump more powerful than ever?]]></title>
+            <description><![CDATA[And will Congress pass his big beautiful bill before July 4th?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lmbr39</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lmbr39#5</guid>
+            <pubDate>Mon, 30 Jun 2025 18:19:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bittersweet' welfare reform bill waved through]]></title>
+            <description><![CDATA[Emergency episode: 'Bittersweet' welfare reform bill waved through on government vote]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lmk81r</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lmk81r#5</guid>
+            <pubDate>Tue, 01 Jul 2025 20:40:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0h55mwr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Draper through Wimbledon opener as opponent retires]]></title>
+            <description><![CDATA[British number one Jack Draper starts his Wimbledon bid with a comfortable victory over clay-court specialist Sebastian Baez.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cx2jjzzrnjxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx2jjzzrnjxo#7</guid>
+            <pubDate>Tue, 01 Jul 2025 19:08:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6d0/live/c416ef90-56a7-11f0-a412-279de04df754.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['England face questions after bump back down to earth']]></title>
+            <description><![CDATA[England are 2-0 down in the five-match T20 series against India and face a tough challenge to turn things around. ]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c4g88g01qjro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c4g88g01qjro#7</guid>
+            <pubDate>Tue, 01 Jul 2025 23:13:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b767/live/11ce2990-56d2-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alexander-Arnold pays back Real signing fee - and the 'new Raul']]></title>
+            <description><![CDATA[Eyebrows were raised when Real Madrid paid Liverpool £8.4m to sign Trent Alexander-Arnold early, but his first month with the Spanish club has repaid their calculated gamble.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3vddgz4d6yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3vddgz4d6yo#7</guid>
+            <pubDate>Tue, 01 Jul 2025 22:58:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/665aefa0-56cf-11f0-805c-530c245cb320.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweltering Switzerland - how hot is Euro 2025 going to be?]]></title>
+            <description><![CDATA[Switzerland may be known for its snow-covered mountains, cosy chalets and world-class skiing, but the sun-scorched country is looking very different for Euro 2025.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckgll0492vgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgll0492vgo#7</guid>
+            <pubDate>Tue, 01 Jul 2025 13:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e1/live/f565f850-566d-11f0-b065-d59d8f77ead2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was Club World Cup trip worth it for Man City?]]></title>
+            <description><![CDATA[Manchester City are heading home from the Club World Cup after a shock defeat by Saudi side Al-Hilal, so what now for Pep Guardiola's side?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cew00782yw2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew00782yw2o#7</guid>
+            <pubDate>Tue, 01 Jul 2025 15:43:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf2/live/f1b5a1e0-566a-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell and Gibson-Park, the dream that is about to become a reality]]></title>
+            <description><![CDATA[Finn Russell and Jamison Gibson-Park could be a devastating Lions partnership against the Queensland Reds and beyond, writes Tom English.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c8e44n06j9yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c8e44n06j9yo#7</guid>
+            <pubDate>Tue, 01 Jul 2025 17:20:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a126/live/b833c170-5699-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Djokovic overcomes physical issues to reach second round]]></title>
+            <description><![CDATA[Novak Djokovic overcomes physical issues to join Jannik Sinner in the Wimbledon second round, but third seed Alexander Zverev is out.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c0q88952nx0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0q88952nx0o#7</guid>
+            <pubDate>Tue, 01 Jul 2025 22:29:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/9cb31650-56bf-11f0-97f0-d590f0afca9a.jpg"/>
+        </item>
+    </channel>
+</rss>
