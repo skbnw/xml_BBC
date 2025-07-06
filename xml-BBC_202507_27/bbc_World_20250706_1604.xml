@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 06 Jul 2025 16:04:11 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Texas flood victims: Girl 'having time of her life' and 'heart and soul' of camp]]></title>
+            <description><![CDATA[Eight-year-old Renee Smajstrla and "strong and powerful" camp director Jane Ragsdale were swept away.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ygl8lpyyqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ygl8lpyyqo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 12:46:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccb/live/e9f19b40-59c5-11f0-940a-9b5ba49991cc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk says he is launching new political party]]></title>
+            <description><![CDATA[The world's richest man says he is setting up a new political organisation called the America Party.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dn04lvgpdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dn04lvgpdo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 03:44:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4760/live/c9dfbb20-59de-11f0-9923-a558932c78ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel sends negotiators to Gaza talks despite 'unacceptable' Hamas demands, PM says]]></title>
+            <description><![CDATA[Benjamin Netanyahu says Hamas is seeking changes to a proposal for a ceasefire deal that Israel has accepted.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8p24zm3vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8p24zm3vo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 10:36:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b70/live/0df6b750-59e9-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Archaeologists unveil 3,500-year-old city in Peru]]></title>
+            <description><![CDATA[Researchers believe Peñico served as a trading hub linking ancient Pacific coast communities with those living in the Andes and Amazon.]]></description>
+            <link>https://www.bbc.com/news/articles/c07dmx38kyeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07dmx38kyeo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 13:31:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfb/live/c4da2190-5a62-11f0-bb7d-5f9bf28de527.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uganda's 80-year-old president in bid to extend 40-year rule]]></title>
+            <description><![CDATA[Yoweri Museveni has been endorsed by the ruling party as its candidate in the 2026 election. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm2ml8lzzrno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2ml8lzzrno#0</guid>
+            <pubDate>Sun, 06 Jul 2025 11:34:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7196/live/905fba60-5a58-11f0-aef2-232164d696da.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands turn out to mark Dalai Lama's 90 birthday]]></title>
+            <description><![CDATA[Earlier this week, the exiled Tibetan spiritual leader confirmed plans for a successor.]]></description>
+            <link>https://www.bbc.com/news/articles/c14eppgrgvno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14eppgrgvno#0</guid>
+            <pubDate>Sun, 06 Jul 2025 07:47:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c73/live/2a12b040-5a40-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran supreme leader in first public appearance since Israel war]]></title>
+            <description><![CDATA[State TV showed footage of Ayatollah Ali Khamenei being cheered at a mosque ahead of a Shia festival.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d1n8z8nzro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d1n8z8nzro#1</guid>
+            <pubDate>Sat, 05 Jul 2025 21:48:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb55/live/72a41070-59db-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US deports eight men to South Sudan after legal battle]]></title>
+            <description><![CDATA[The US Supreme Court had overturned a judge's decision that the men be allowed to contest their removal.]]></description>
+            <link>https://www.bbc.com/news/articles/c80p315krr4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80p315krr4o#1</guid>
+            <pubDate>Sun, 06 Jul 2025 16:01:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd8/live/ec807780-5a49-11f0-960d-e9f1088a89fe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Key suspect arrested in shooting of Colombia senator   ]]></title>
+            <description><![CDATA[Police say Élder Arteaga masterminded the attempt on the life of presidential hopeful Miguel Uribe in June.]]></description>
+            <link>https://www.bbc.com/news/articles/c77vzr1843ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77vzr1843ro#1</guid>
+            <pubDate>Sat, 05 Jul 2025 19:45:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43be/live/f020e550-59d1-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US aid workers wounded, says Gaza Humanitarian Foundation]]></title>
+            <description><![CDATA[Militants threw grenades at an aid centre in Khan Younis, the controversial relief organisation says.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3kx9pwxwwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3kx9pwxwwo#1</guid>
+            <pubDate>Sat, 05 Jul 2025 14:34:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a244/live/97a05800-59a1-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian PM vows 'full force of law' after arson attack at synagogue]]></title>
+            <description><![CDATA[“Antisemitism has no place in Australia,” Anthony Albanese said after the latest in a string of attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l4kljezydo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l4kljezydo#1</guid>
+            <pubDate>Sun, 06 Jul 2025 05:54:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4849/live/0435d1c0-597f-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Mossad official details how Israel eliminated Iran's military elite]]></title>
+            <description><![CDATA[The former deputy chief of the Israeli intelligence explains how technology and innovation played a key role for Israel in the 12-day conflict.]]></description>
+            <link>https://www.bbc.com/news/videos/ckglkxl2d25o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckglkxl2d25o#1</guid>
+            <pubDate>Sat, 05 Jul 2025 17:48:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/cc7b56f0-59c5-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Trump is using the 'Madman Theory' to try to change the world (and it's working)]]></title>
+            <description><![CDATA[Political scientists have a term for the tactic, that has been used by some leaders including Nixon, to persuade adversaries that they are temperamentally capable of anything, to extract concessions. But can it work in the long term? ]]></description>
+            <link>https://www.bbc.com/news/articles/czxww2kez0go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxww2kez0go#2</guid>
+            <pubDate>Sat, 05 Jul 2025 23:09:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1f/live/12bf5410-5695-11f0-b5c5-012c5796682d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A boy saved by barbed wire, a 'destroyed' camp and missed warning signs in Texas floods]]></title>
+            <description><![CDATA[Survivors describe a deluge that pounced with devastating speed in the pre-dawn hours in central Texas.]]></description>
+            <link>https://www.bbc.com/news/articles/c20w16wz953o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20w16wz953o#2</guid>
+            <pubDate>Sun, 06 Jul 2025 05:40:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4274/live/a0601650-59c0-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guru Dutt: The tragic life of an Indian cinematic genius]]></title>
+            <description><![CDATA[This week marks the birth centenary of Guru Dutt, one of Bollywood's most iconic directors.]]></description>
+            <link>https://www.bbc.com/news/articles/cq8z7wwpg0jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8z7wwpg0jo#2</guid>
+            <pubDate>Sat, 05 Jul 2025 23:08:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c981/live/fe1faeb0-58a6-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel's strike on bustling Gaza cafe killed a Hamas operative - but dozens more people were killed]]></title>
+            <description><![CDATA[The attack raises more questions over whether Israel’s use of force is proportionate, as required by international law.]]></description>
+            <link>https://www.bbc.com/news/articles/cgeqr73p8wyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgeqr73p8wyo#2</guid>
+            <pubDate>Fri, 04 Jul 2025 14:24:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f872/live/9d249e60-5723-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tennis hero Arthur Ashe's South African legacy: 'The first free black man I'd ever seen']]></title>
+            <description><![CDATA[The tennis champion wanted to be remembered for fighting racism, not just his sporting prowess.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgdy59ey59o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgdy59ey59o#2</guid>
+            <pubDate>Fri, 04 Jul 2025 23:13:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d1f/live/299d69e0-5877-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Y'all need to get out now' - Texans reflect on flood devastation]]></title>
+            <description><![CDATA[Search and rescue efforts continue after flash floods swept through central Texas killing at least 51.]]></description>
+            <link>https://www.bbc.com/news/videos/crmvx4z8j11o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crmvx4z8j11o#3</guid>
+            <pubDate>Sun, 06 Jul 2025 06:10:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a19/live/5afe8630-5a0d-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC visits house ripped from foundations in Texas floods]]></title>
+            <description><![CDATA[At least 32 people have been killed, including 14 children, officials said, after flash floods hit Kerr County.]]></description>
+            <link>https://www.bbc.com/news/videos/c75r1ddd63po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c75r1ddd63po#3</guid>
+            <pubDate>Sat, 05 Jul 2025 21:32:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e52/live/022d3210-59e3-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richard Gere joins Dalai Lama's 90th birthday celebrations]]></title>
+            <description><![CDATA[The Hollywood attended alongside thousands of Tibetan Buddhists in the Himalayan town of Dharamsala.]]></description>
+            <link>https://www.bbc.com/news/videos/cwykpgkn9x1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwykpgkn9x1o#3</guid>
+            <pubDate>Sun, 06 Jul 2025 09:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f75/live/ad963ef0-5a4a-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Footballers and family lay flowers at funeral of Diogo Jota and André Silva]]></title>
+            <description><![CDATA[Jota, 28, was laid to rest alongside his brother, Silva, 25, after they died in a car crash on Thursday.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg1vlp1v0yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg1vlp1v0yo#3</guid>
+            <pubDate>Sat, 05 Jul 2025 18:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2720/live/78a56850-59c9-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Holiday park wiped out by Texas floods]]></title>
+            <description><![CDATA[Jason Allen, correspondent at the BBC's US partner CBS, reports from Kerrville, Texas.]]></description>
+            <link>https://www.bbc.com/news/videos/cpvjlg0l9jzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cpvjlg0l9jzo#3</guid>
+            <pubDate>Sat, 05 Jul 2025 07:05:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa8/live/e9f0b8e0-596d-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment Oasis take to the stage for first gig in 16 years]]></title>
+            <description><![CDATA[The Gallagher brothers play their first concert since reuniting, in front of a packed Cardiff stadium.]]></description>
+            <link>https://www.bbc.com/news/videos/c8j1mkzr209o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8j1mkzr209o#3</guid>
+            <pubDate>Fri, 04 Jul 2025 21:16:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4809/live/0c3e8440-591e-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+    </channel>
+</rss>
