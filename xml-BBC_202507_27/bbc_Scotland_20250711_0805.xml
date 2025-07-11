@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Scotland]]></description>
+        <link>https://www.bbc.co.uk/news/scotland</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/scotland</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 11 Jul 2025 08:06:28 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/scotland/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Police issue anti-social behaviour warning as heatwave hits]]></title>
+            <description><![CDATA[The force will increase patrols in the area surrounding Loch Lomond during the summer months.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8zg05vm89o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8zg05vm89o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:12:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2763/live/57d4b7d0-5dce-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glasgow Airport strikes to go ahead at end of July]]></title>
+            <description><![CDATA[About 100 workers at Glasgow Airport are set to go on strike for 48 hours during the Glasgow Fair fortnight in a dispute over pay.]]></description>
+            <link>https://www.bbc.com/news/articles/ce37gzgnd5lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce37gzgnd5lo#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:09:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4be/live/37454a40-58b8-11f0-9267-3d10d9c5c6de.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Migrant boats deal and death of TV's Glen Michael]]></title>
+            <description><![CDATA[A review of the front page stories from the daily newspapers in Scotland.]]></description>
+            <link>https://www.bbc.com/news/articles/c056vl99vq7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c056vl99vq7o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:59:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/50c33890-5e19-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trainspotting's Irvine Welsh: We've become 'dumbed down machines']]></title>
+            <description><![CDATA[Author Irvine Welsh has written a sequel called Men in Love, because the world is "so full of hate".]]></description>
+            <link>https://www.bbc.com/news/articles/cgq7vzjwyvxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgq7vzjwyvxo#0</guid>
+            <pubDate>Thu, 10 Jul 2025 23:31:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb3/live/cb91de90-5e29-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenager in crash dies after achieving 'Ben Nevis dream']]></title>
+            <description><![CDATA[Jake Larmour's family say he was returning home after climbing the UK's highest mountain and had recently celebrated his 18th birthday.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd29kk91p8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd29kk91p8o#0</guid>
+            <pubDate>Thu, 10 Jul 2025 13:44:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/37cddc30-5d8f-11f0-a6b8-21ace6496903.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The TRNSMT star who cut her teeth busking in Glasgow]]></title>
+            <description><![CDATA[Rianne Downey's cover of the Beautiful South was praised by former singer Paul Heaton, and now she sings with him.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qx5vdg7e8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qx5vdg7e8o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:14:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cb/live/3df77890-5da9-11f0-994b-7bf5a5074c2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Island Games fever takes hold in transformed Orkney]]></title>
+            <description><![CDATA[The area has been transformed to cope with a similar number of competitors to the Winter Olympics.]]></description>
+            <link>https://www.bbc.com/news/articles/c335883jyy2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c335883jyy2o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:13:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6950/live/b5cc57a0-5d9a-11f0-b495-a322bca7c985.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New homes for teachers at island's five-pupil school]]></title>
+            <description><![CDATA[Highland Council already provides accommodation on Rum, but it is currently a temporary static caravan.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y23yjxj10o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y23yjxj10o#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:12:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961a/live/49c93900-5da0-11f0-a3d8-41c5cb0931cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Council strikes averted as unions back pay offer]]></title>
+            <description><![CDATA[The offer will see a 4% rise this year, with another 3.5% increase the following year.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2zy226qvmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2zy226qvmo#1</guid>
+            <pubDate>Thu, 10 Jul 2025 14:52:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e9/live/48e040f0-5d92-11f0-9297-dd87eb704fa9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pacific rower saves brother swept overboard during storm]]></title>
+            <description><![CDATA[Lachlan MacLean, who is mid-way through a challenge with his two brothers, was dragged behind his rowing boat before being helped back on board.]]></description>
+            <link>https://www.bbc.com/news/articles/cnvmgvy51r4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnvmgvy51r4o#1</guid>
+            <pubDate>Thu, 10 Jul 2025 18:10:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73b2/live/d891bc00-5da2-11f0-bb8e-312cb511e91c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cartoon Cavalcade presenter Glen Michael dies aged 99]]></title>
+            <description><![CDATA[The star hosted Glen Michael's Cartoon Cavalcade for nearly three decades on STV.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gk3g2w7jno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk3g2w7jno#1</guid>
+            <pubDate>Thu, 10 Jul 2025 12:40:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba7/live/fe557270-5d8d-11f0-a6b8-21ace6496903.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police Scotland can deal with Trump visit, says chief]]></title>
+            <description><![CDATA[Senior officer insists a visit from the US President would not come at the expense of communities, despite warnings from the Scottish Police Federation.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3k2dv32g2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3k2dv32g2o#1</guid>
+            <pubDate>Thu, 10 Jul 2025 16:25:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53b/live/9500a5c0-5da5-11f0-960d-e9f1088a89fe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man jailed for murdering pedestrian in hit and run attack]]></title>
+            <description><![CDATA[Michael Day murdered Thomas Bowers and attempted to murder Stephen Byrne in Glasgow in April 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cm20xlp1r0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20xlp1r0wo#1</guid>
+            <pubDate>Thu, 10 Jul 2025 11:17:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a152/live/05a1b650-5d7b-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All you need to know for TRNSMT 2025]]></title>
+            <description><![CDATA[Headlining the festival's eighth instalment are 50 Cent, Biffy Clyro and Snow Patrol.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5zmqm6llqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5zmqm6llqo#2</guid>
+            <pubDate>Thu, 10 Jul 2025 18:41:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9170/live/e57a6aa0-5bec-11f0-9584-0dcfb55e8671.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Full line-up and stage times for the weekend]]></title>
+            <description><![CDATA[The Glasgow Green music jamboree will take place over three days and features scores of acts.]]></description>
+            <link>https://www.bbc.com/news/articles/czdvqvq67nvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdvqvq67nvo#2</guid>
+            <pubDate>Thu, 10 Jul 2025 05:14:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c813/live/9de9fd10-5cbc-11f0-ae37-a7df7603ca40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weather forecast for TRNSMT weekend]]></title>
+            <description><![CDATA[The weather forecast for TRNSMT music festival in Glasgow.]]></description>
+            <link>https://www.bbc.com/news/videos/cjrlq3z2x93o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjrlq3z2x93o#2</guid>
+            <pubDate>Thu, 10 Jul 2025 16:02:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbd/live/b4e13350-5da5-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Subway strike called off in time for festival]]></title>
+            <description><![CDATA[An enhanced interim offer has now been backed by members of the Unite union.]]></description>
+            <link>https://www.bbc.com/news/articles/c9391r4r6z9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9391r4r6z9o#2</guid>
+            <pubDate>Thu, 10 Jul 2025 10:29:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d300/live/97348870-5d73-11f0-9518-ad4f6a7be5be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why zonal electricity pricing for Scotland is not going to happen]]></title>
+            <description><![CDATA[Plans to set people's electricity bills based on where they live have been dropped by the UK government.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0v3z5x8nxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0v3z5x8nxo#3</guid>
+            <pubDate>Thu, 10 Jul 2025 15:54:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b95/live/06d39830-1769-11ef-9e39-410e2d585bfa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Island Games: Everything you need to know about Orkney 2025]]></title>
+            <description><![CDATA[What is the Island Games? Where is it being held? And how can I watch the sports involved? ]]></description>
+            <link>https://www.bbc.com/news/articles/czjkkd92rm2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjkkd92rm2o#3</guid>
+            <pubDate>Thu, 10 Jul 2025 09:36:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d68f/live/32ec3420-55a9-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Pictures: Real Madrid legend joins golf stars at Scottish Open]]></title>
+            <description><![CDATA[Some of the world's top golfers are in North Berwick for the event, which has a prize fund of £6.6m.]]></description>
+            <link>https://www.bbc.com/news/articles/c625r525277o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c625r525277o#3</guid>
+            <pubDate>Wed, 09 Jul 2025 16:54:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd4/live/76eb8d70-5cb5-11f0-ae37-a7df7603ca40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could taxpayer-funded public diners be revived?]]></title>
+            <description><![CDATA[Thousands of diners were supported by the government and operated throughout the UK until the 1960s. ]]></description>
+            <link>https://www.bbc.com/news/articles/cnvm299d5m1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnvm299d5m1o#3</guid>
+            <pubDate>Wed, 09 Jul 2025 18:42:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1319/live/330cae10-5cf4-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures of Scotland]]></title>
+            <description><![CDATA[A selection of photographs submitted to BBC Scotland News from around the country this week.]]></description>
+            <link>https://www.bbc.com/news/articles/c9944rn1zpro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9944rn1zpro#3</guid>
+            <pubDate>Thu, 10 Jul 2025 05:39:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb49/live/94909480-5e16-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Early risers spot rare 'night shining' clouds]]></title>
+            <description><![CDATA[Noctilucent clouds are seen high up in the Earth's atmosphere over Aberdeen, Edinburgh and elsewhere.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j4e32p0ydo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j4e32p0ydo#3</guid>
+            <pubDate>Wed, 09 Jul 2025 05:24:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f505/live/42a9b4f0-5c07-11f0-9d64-1b7197dd7c07.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are all airports following Edinburgh and increasing liquid limits?]]></title>
+            <description><![CDATA[It will now be possible to carry liquids in containers of up to two litres through security in hand luggage.]]></description>
+            <link>https://www.bbc.com/news/articles/clyndvdvd39o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyndvdvd39o#3</guid>
+            <pubDate>Tue, 08 Jul 2025 10:00:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b6/live/fa73f5b0-5b20-11f0-9b28-9bfb5df7c94a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Capaldi says therapy played 'massive part' in comeback]]></title>
+            <description><![CDATA[Scottish star says his performance two years ago "was the worst moment of his life" but therapy helped.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3m0vg5y3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3m0vg5y3o#3</guid>
+            <pubDate>Mon, 07 Jul 2025 11:09:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50e1/live/c50e26a0-5b22-11f0-a8af-13621e0a9410.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football club asks fans to offer a room to new players]]></title>
+            <description><![CDATA[Partick Thistle have appealed for fans with spare rooms to take in new signings and help them integrate into Glasgow life.]]></description>
+            <link>https://www.bbc.com/news/articles/c89e8xj7ye4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89e8xj7ye4o#3</guid>
+            <pubDate>Mon, 07 Jul 2025 10:00:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcc/live/e0d95e90-5b18-11f0-a7cb-992f82c2d299.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Photographer to recreate childhood river trip in dad's canoe]]></title>
+            <description><![CDATA[Ed Smith made his first descent of the Spey with his dad David almost 30 years ago.]]></description>
+            <link>https://www.bbc.com/news/articles/cjrl1ejd398o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjrl1ejd398o#3</guid>
+            <pubDate>Sun, 06 Jul 2025 08:17:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c7c/live/e3a1b130-59b6-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trainspotting's Irvine Welsh: We've become 'dumbed down machines']]></title>
+            <description><![CDATA[Author Irvine Welsh has written a sequel called Men in Love, because the world is "so full of hate".]]></description>
+            <link>https://www.bbc.com/news/articles/cgq7vzjwyvxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgq7vzjwyvxo#4</guid>
+            <pubDate>Thu, 10 Jul 2025 23:31:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb3/live/cb91de90-5e29-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenager in crash dies after achieving 'Ben Nevis dream']]></title>
+            <description><![CDATA[Jake Larmour's family say he was returning home after climbing the UK's highest mountain and had recently celebrated his 18th birthday.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd29kk91p8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd29kk91p8o#4</guid>
+            <pubDate>Thu, 10 Jul 2025 13:44:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/37cddc30-5d8f-11f0-a6b8-21ace6496903.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Island Games fever takes hold in transformed Orkney]]></title>
+            <description><![CDATA[The area has been transformed to cope with a similar number of competitors to the Winter Olympics.]]></description>
+            <link>https://www.bbc.com/news/articles/c335883jyy2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c335883jyy2o#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:13:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6950/live/b5cc57a0-5d9a-11f0-b495-a322bca7c985.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman accused of airgun killing 'unfit for trial']]></title>
+            <description><![CDATA[Simone Ramage denies killing Brian Kowbel by shooting him with an air rifle in Galashiels. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8d60vy8g5no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d60vy8g5no#4</guid>
+            <pubDate>Thu, 10 Jul 2025 11:28:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2fd/live/2713a490-75d4-11ef-a49d-abfade995e88.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dies and passenger injured in M9 collision]]></title>
+            <description><![CDATA[The incident happened on the M9 near Carronshore on Wednesday morning]]></description>
+            <link>https://www.bbc.com/news/articles/cvgexj01834o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgexj01834o#4</guid>
+            <pubDate>Wed, 09 Jul 2025 14:21:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77cb/live/eb98bf80-5cce-11f0-ac2f-d518c8150550.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish League Cup in unprecedented spotlight on 80th birthday ]]></title>
+            <description><![CDATA[The Scottish League Cup starts its 80th year on Friday, but what are the strange rules and most intriguing match-ups of this season's group stage?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crk6r7jk3lxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crk6r7jk3lxo#5</guid>
+            <pubDate>Fri, 11 Jul 2025 07:48:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251c/live/fefae5f0-5da8-11f0-994b-7bf5a5074c2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Como keen on Motherwell's Miller - gossip]]></title>
+            <description><![CDATA[Italian club emerge as a suitor for Lennon Miller, Rangers linked with goalkeeper and Dunfermline go on recruitment drive.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c04dv6gdd5vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04dv6gdd5vo#5</guid>
+            <pubDate>Fri, 11 Jul 2025 06:30:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3954/live/3f257830-5e20-11f0-a40e-a1af2950b220.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell's role in earning White first Lions start]]></title>
+            <description><![CDATA[British & Irish Lions scrum-half Ben White has gone from regimented to relaxed, thanks to team-mate Finn Russell.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c20wlplv94xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c20wlplv94xo#5</guid>
+            <pubDate>Thu, 10 Jul 2025 16:29:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcf3/live/af18ffc0-5daa-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McIlroy rallies as Straka shares Scottish Open lead]]></title>
+            <description><![CDATA[Rory McIlroy salvages his opening round with a superb finish as Sepp Straka defies his own "very low expectations" to share the Scottish Open lead. ]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cj0md8851zjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cj0md8851zjo#5</guid>
+            <pubDate>Thu, 10 Jul 2025 18:33:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/496a/live/ef921050-5d96-11f0-b495-a322bca7c985.jpg"/>
+        </item>
+    </channel>
+</rss>

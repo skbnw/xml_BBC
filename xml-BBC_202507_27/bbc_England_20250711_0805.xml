@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 11 Jul 2025 08:06:26 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Teenage boy found dead in lake]]></title>
+            <description><![CDATA[Police say the boy was reported missing on Thursday evening and an "extensive search" ensued.]]></description>
+            <link>https://www.bbc.com/news/articles/clynxr3dwy2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clynxr3dwy2o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 07:54:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/466c/live/63ddd820-5e16-11f0-9e9d-5bea6209b538.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surgeon banned by private practice is working for NHS]]></title>
+            <description><![CDATA[Marc Lamah, dropped by a private provider, continues to operate on NHS patients in Brighton.]]></description>
+            <link>https://www.bbc.com/news/articles/cev0n2r0d2yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cev0n2r0d2yo#0</guid>
+            <pubDate>Thu, 10 Jul 2025 23:01:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee9/live/c463b910-5cd3-11f0-8ad1-05b0327a56af.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hosepipe ban frustration as leaks continue]]></title>
+            <description><![CDATA[Yorkshire Water customers say they understand a ban but question the firm's efforts to fix leaks.]]></description>
+            <link>https://www.bbc.com/news/articles/cqx2y21p1xjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx2y21p1xjo#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:18:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffbd/live/25271370-5d9a-11f0-b495-a322bca7c985.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cedar climbed by Beatles on tree awards shortlist]]></title>
+            <description><![CDATA[Nominees include the Lollipop Tree on Salisbury Plain, which features in Sam Mendes' WW1 film.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2vr5gwlxro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2vr5gwlxro#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:13:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f27e/live/594d5440-5db1-11f0-994b-7bf5a5074c2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I had to watch Justin Timberlake from a car park']]></title>
+            <description><![CDATA[Sara Stacey says music venues need to do more to improve accessibility for disabled guests.]]></description>
+            <link>https://www.bbc.com/news/articles/c628w2kzwgxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c628w2kzwgxo#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:30:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f15/live/6aba1fc0-5d8d-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Council AI helper struggling to grasp local dialect]]></title>
+            <description><![CDATA[Derby City Council's AI helper Darcie has not been able to pick up words such as "mardy" and "duck".]]></description>
+            <link>https://www.bbc.com/news/articles/cr4wkgyq259o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4wkgyq259o#0</guid>
+            <pubDate>Fri, 11 Jul 2025 05:19:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0b/live/d7ecacf0-5da3-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long delays expected on M1 after large fuel spill]]></title>
+            <description><![CDATA[Drivers are being warned of a lane closure and delays throughout the day.]]></description>
+            <link>https://www.bbc.com/news/articles/cn86z5j84l6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn86z5j84l6o#1</guid>
+            <pubDate>Fri, 11 Jul 2025 06:28:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff77/live/d38de640-5e1d-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Councillor calls man-made global warming a 'hoax']]></title>
+            <description><![CDATA[The comment came from Nottinghamshire County Council's cabinet member for transport and environment.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j458q00e2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j458q00e2o#1</guid>
+            <pubDate>Thu, 10 Jul 2025 19:54:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f1/live/5d8df410-5dc5-11f0-8328-5fcabfbdb3e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protected trees felled to save money, group says]]></title>
+            <description><![CDATA[Tree Preservation Orders are declared by local authorities but not enforced, tree officers say.]]></description>
+            <link>https://www.bbc.com/news/articles/c999nk2kplqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c999nk2kplqo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:17:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e176/live/525e2c10-2a48-11ef-b64c-c726a43bdd7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alarm drives residents and bar customers 'insane']]></title>
+            <description><![CDATA[The sound of an anti-loitering alarm is disturbing residents and businesses in Nottingham.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y9d2q807eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9d2q807eo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:27:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d3/live/3fe1c1a0-5a62-11f0-bb7d-5f9bf28de527.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farmers facing losses over crop circle damage]]></title>
+            <description><![CDATA[A spider motif in a field near Cerne Abbas is the latest crop circle to appear in Dorset.]]></description>
+            <link>https://www.bbc.com/news/articles/cn86zjq1393o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn86zjq1393o#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:26:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee4/live/99d3ce20-5da4-11f0-bb8e-312cb511e91c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man who warned residents of fire hailed a 'hero']]></title>
+            <description><![CDATA[Sarad Yousaf was walking home when he saw smoke and flames from the roof of the flats in Rotherham.]]></description>
+            <link>https://www.bbc.com/news/articles/c74w3l82dj8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74w3l82dj8o#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:21:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caf/live/4f8eecd0-5da1-11f0-a3d8-41c5cb0931cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Climate simulator 'brings weather into the lab']]></title>
+            <description><![CDATA[The new facility can mimic current and future weather patterns around the world.]]></description>
+            <link>https://www.bbc.com/news/articles/cqjq2e5gd8wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjq2e5gd8wo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:14:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54a2/live/55666270-5d77-11f0-9518-ad4f6a7be5be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Councillors should be tested on local knowledge']]></title>
+            <description><![CDATA[Wakefield councillors should face similar tests to taxi drivers, the opposition leader says.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w4z9p67lxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w4z9p67lxo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 07:11:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/f5cac700-8a3d-11ef-91e3-2bc8acef8e57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Filthy' state of UK's oldest lido 'heartbreaking']]></title>
+            <description><![CDATA[Cleveland Pools is closed for its second summer season after a grand relaunch in 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3k40z2xlgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3k40z2xlgo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:12:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf7/live/b523e8e0-5cb9-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anger as firm applies to build homes near landslip]]></title>
+            <description><![CDATA[Developers want to build more houses at a new-build estate where a landslip has blocked homes.]]></description>
+            <link>https://www.bbc.com/news/articles/c24vd536dejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24vd536dejo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:11:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03d/live/2b96abc0-5daf-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Landslip detour adds hours to family's care trips]]></title>
+            <description><![CDATA[The journey time to take Rafferty to his carer have more than doubled, his family says.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m8kmgvyd7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m8kmgvyd7o#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:02:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3729/live/e5e5dc10-5dac-11f0-994b-7bf5a5074c2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pollution 'through the roof' in heated rivers ]]></title>
+            <description><![CDATA[Conservationists say low flows and concentrated pollutants have caused fish to die. ]]></description>
+            <link>https://www.bbc.com/news/articles/cgrxd4gn41vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrxd4gn41vo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 04:51:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a32/live/3ad6b0a0-5ce5-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guinea pigs in nappy box dumped in cemetery]]></title>
+            <description><![CDATA[RSPCA Canterbury says the animals were discovered on one of the hottest days of the year.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0w5ekjj0lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0w5ekjj0lo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 04:53:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad62/live/0c7b6f00-5d78-11f0-9518-ad4f6a7be5be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Multi-wheeled bins introduced in recycling trial]]></title>
+            <description><![CDATA[The measure by Stevenage Borough Council is part of a bid to improve recycling rates at flats.]]></description>
+            <link>https://www.bbc.com/news/articles/cew08vjxedwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cew08vjxedwo#1</guid>
+            <pubDate>Fri, 11 Jul 2025 05:59:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b8/live/6f1c5280-5dbb-11f0-93fd-3976526717ae.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Timberlake fan, 9, stunned by shoutout]]></title>
+            <description><![CDATA[Arabella could not believe the Señorita singer spotted her in the crowd.]]></description>
+            <link>https://www.bbc.com/news/videos/ce83r5y071lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce83r5y071lo#3</guid>
+            <pubDate>Thu, 10 Jul 2025 10:46:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87b/live/1d5cf960-5d73-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Historic moment' as pine marten kits born]]></title>
+            <description><![CDATA[Fifteen martens were reintroduced on Dartmoor in 2024 following a 100-year absence.]]></description>
+            <link>https://www.bbc.com/news/articles/cd780x5dxw7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd780x5dxw7o#3</guid>
+            <pubDate>Fri, 11 Jul 2025 05:15:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/d7b4d410-5da3-11f0-bb8e-312cb511e91c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl designs Superman film age classification card]]></title>
+            <description><![CDATA[The Eastbourne girl's winning design will display before UK screenings of the new Superman film.]]></description>
+            <link>https://www.bbc.com/news/articles/c62d3ykg4ego</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62d3ykg4ego#3</guid>
+            <pubDate>Thu, 10 Jul 2025 10:18:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2761/live/b2a2cd20-5d86-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Nurse who drugged my mum could be released early']]></title>
+            <description><![CDATA[Nurse Catherine Hudson could be in line for release less than half way through her seven-year sentence.]]></description>
+            <link>https://www.bbc.com/news/articles/cqx2y5jy5qxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx2y5jy5qxo#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:18:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2537/live/6b8c9250-5d8a-11f0-a6b8-21ace6496903.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Town braces for arrival of 300,000 Oasis fans]]></title>
+            <description><![CDATA[Heaton Park will open its gates at 3pm ahead of the first Oasis gig in Manchester in 16 years.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jwkdw71l3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jwkdw71l3o#4</guid>
+            <pubDate>Fri, 11 Jul 2025 07:40:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4430/live/eaeaeb10-5dc5-11f0-960d-e9f1088a89fe.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Our mosque was threatened after the 7/7 bombings']]></title>
+            <description><![CDATA[The 7 July bombers were all British Muslims, and their actions affected London's Muslim communities.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3r8eplp22o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3r8eplp22o#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:01:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef7e/live/3876a3b0-5b3c-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Some of my turf fields are as dry as biscuits']]></title>
+            <description><![CDATA[A turf grower in Lincolnshire says the effect of relentless heat has been "heartbreaking".]]></description>
+            <link>https://www.bbc.com/news/articles/c74w1rvjwz9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74w1rvjwz9o#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:19:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf95/live/be2b2230-5cb1-11f0-ae37-a7df7603ca40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['How I helped Torvill and Dean 45 years ago']]></title>
+            <description><![CDATA[Former entertainment agent Tony Sherwood recalls being asked to support the figure skaters.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3r8xp5g0lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3r8xp5g0lo#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:28:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01df/live/61add3b0-5ca0-11f0-b8c6-458cd8075fd5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['People cry over piles of rice' at art exhibit]]></title>
+            <description><![CDATA[The exhibition at Farnham Maltings runs from Friday until Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cj61w6z31y5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj61w6z31y5o#4</guid>
+            <pubDate>Fri, 11 Jul 2025 04:48:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/534d/live/62c8e620-5d9c-11f0-a644-0dca43fa2326.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The phone that helped thousands of LGBTQ+ people]]></title>
+            <description><![CDATA[A phone used to support thousands of LGBTQ+ people from 1975 until 2012 has gone on display.]]></description>
+            <link>https://www.bbc.com/news/articles/c20r66m745yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20r66m745yo#4</guid>
+            <pubDate>Fri, 11 Jul 2025 05:11:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced4/live/ba986a40-57ea-11f0-972f-6b9fb11f4e82.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I hope they get relegated so I can buy the club']]></title>
+            <description><![CDATA[Back in 1996, Noel Gallagher's quick wit saw him suggest he might purchase his beloved Man City.]]></description>
+            <link>https://www.bbc.com/news/videos/cn9yz2vnlg3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn9yz2vnlg3o#5</guid>
+            <pubDate>Fri, 11 Jul 2025 05:04:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0a/live/97132dc0-5cc3-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Sabbath fans get tattoos to mark farewell gig]]></title>
+            <description><![CDATA[Vivid Ink tattoo shop says demand for the Black Sabbath themed art was "unexpected".]]></description>
+            <link>https://www.bbc.com/news/videos/c4gd0zv3wk0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gd0zv3wk0o#5</guid>
+            <pubDate>Thu, 10 Jul 2025 05:11:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551a/live/38c93f50-5ce3-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire crews tackle house blaze that started in shed]]></title>
+            <description><![CDATA[Brigade says five crews were called to the scene on Kesteven Road in Bradford.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvj70wzry3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvj70wzry3o#5</guid>
+            <pubDate>Wed, 09 Jul 2025 14:26:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/cbf81030-5cc5-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Post Office scandal victims demand accountability]]></title>
+            <description><![CDATA[Seema Misra and Janet Skinner share their feelings of pain and call for accountability in the Post Office scandal.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg81jz1j06o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg81jz1j06o#5</guid>
+            <pubDate>Tue, 08 Jul 2025 14:30:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e4/live/22239890-5c07-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pitch-perfect mowing by football groundsman]]></title>
+            <description><![CDATA[Westfields FC groundsman Joe Mecke-Davis turns computer design into football pitch reality.]]></description>
+            <link>https://www.bbc.com/news/videos/cddz5evr48yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cddz5evr48yo#5</guid>
+            <pubDate>Tue, 08 Jul 2025 04:57:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/1d225b60-5b44-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masterful Root leads England grind against India]]></title>
+            <description><![CDATA[Joe Root's superb unbeaten 99 leads England to 251-4 after day one of the third Test against India at Lord's.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cm2l18xkz2ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cm2l18xkz2ro#6</guid>
+            <pubDate>Thu, 10 Jul 2025 17:45:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89ed/live/d4f8dcd0-5dad-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal close to signing Chelsea's Madueke for £50m]]></title>
+            <description><![CDATA[Arsenal are on the verge of agreeing a deal with Chelsea to sign winger Noni Madueke for just over £50m.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crrqxdwnz5go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrqxdwnz5go#6</guid>
+            <pubDate>Thu, 10 Jul 2025 22:31:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3210/live/c0875140-5ddb-11f0-ac0e-47be37637c6b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Things are getting difficult' - Stewart on MND]]></title>
+            <description><![CDATA[Former striker Marcus Stewart says he left his Yeovil coaching role this summer as he felt unable to "physically do the job" as his MND progresses.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3r91gzvej9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r91gzvej9o#6</guid>
+            <pubDate>Fri, 11 Jul 2025 07:08:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e112/live/79115f50-5d94-11f0-9297-dd87eb704fa9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tottenham sign West Ham midfielder Kudus for £55m]]></title>
+            <description><![CDATA[Tottenham complete the signing of Mohammed Kudus from West Ham for £55m, subject to a work permit. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cr793e22k2no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr793e22k2no#6</guid>
+            <pubDate>Thu, 10 Jul 2025 21:34:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56fb/live/2a835970-5dcf-11f0-b1af-694104f8ecc2.jpg"/>
+        </item>
+    </channel>
+</rss>
