@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 14 Jul 2025 16:04:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boeing fuel switches safe, regulator says after Air India crash]]></title>
+            <description><![CDATA[A preliminary investigation found the switches had been turned off in June's fatal Air India crash.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9xpgnx3vdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9xpgnx3vdo#0</guid>
+            <pubDate>Mon, 14 Jul 2025 14:55:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dd/live/bc46f860-6060-11f0-a2d9-712c1b53e44a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Historic lodge destroyed in Grand Canyon blaze]]></title>
+            <description><![CDATA[Tens of thousands of acres of land have been burned by two separate wildfires in the US state of Arizona. ]]></description>
+            <link>https://www.bbc.com/news/articles/c33527p2nzeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c33527p2nzeo#0</guid>
+            <pubDate>Mon, 14 Jul 2025 09:56:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/ad51d3e0-6095-11f0-83e5-c99758354894.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[German backpacker lost in outback 'beyond grateful' to be found]]></title>
+            <description><![CDATA[Carolina Wilga says she survived for 11 days thanks to the "incredible" support from people searching for her.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8zpej236o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8zpej236o#0</guid>
+            <pubDate>Mon, 14 Jul 2025 08:29:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9895/live/29a085d0-6088-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clashes between Druze and Bedouin in southern Syria kill at least 30]]></title>
+            <description><![CDATA[The Syrian interior ministry sends forces to intervene in the fighting in the city of Suweida and surrounding area.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmwp70pwmyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmwp70pwmyo#0</guid>
+            <pubDate>Mon, 14 Jul 2025 09:52:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ce/live/9dab2460-60a3-11f0-ba44-5934558aeaa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World's oldest president to seek eighth term]]></title>
+            <description><![CDATA[Cameroon's Paul Biya, 92, has been power since 1982 and could govern until he is nearly 100.]]></description>
+            <link>https://www.bbc.com/news/articles/ckglpnk0kqko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckglpnk0kqko#0</guid>
+            <pubDate>Mon, 14 Jul 2025 14:53:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/0aa8d1a0-6088-11f0-83e5-c99758354894.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meteor Garden's boy band F4 thrills fans with surprise reunion]]></title>
+            <description><![CDATA[The Taiwanese boy band shot to stardom in the early 2000s after starring in the hit TV drama Meteor Garden.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyr2gnzx5wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyr2gnzx5wo#0</guid>
+            <pubDate>Mon, 14 Jul 2025 04:39:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee0/live/df7d77a0-6074-11f0-a57a-dbe3c9b9fe1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First Indian astronaut to visit ISS heads back to Earth]]></title>
+            <description><![CDATA[The Axiom-4 (Ax-4) mission with Shubhanshu Shukla is expected to splash down in just under 24 hours.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgl13l3e9xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgl13l3e9xo#1</guid>
+            <pubDate>Mon, 14 Jul 2025 11:22:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da63/live/2d66e630-6094-11f0-83e5-c99758354894.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't vilify Air India crash crew: Indian pilots' association ]]></title>
+            <description><![CDATA[Earlier, India's aviation minister said not to jump to conclusions and another pilots' group criticised the report.]]></description>
+            <link>https://www.bbc.com/news/articles/cddzp0g5l25o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cddzp0g5l25o#1</guid>
+            <pubDate>Mon, 14 Jul 2025 08:01:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c5/live/32937a30-6088-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina's Milei told to 'grow up' by VP in spat over pensions]]></title>
+            <description><![CDATA[President Milei and his vice-president trade barbs after a controversial pension hike is approved. ]]></description>
+            <link>https://www.bbc.com/news/articles/cjrlp75p8x2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjrlp75p8x2o#1</guid>
+            <pubDate>Mon, 14 Jul 2025 12:40:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180d/live/04d46b40-609c-11f0-ba44-5934558aeaa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria declares public holiday to honour former leader who died aged 82]]></title>
+            <description><![CDATA[Muhammadu Buhari, who led Nigeria as both a military ruler and elected president, died in London on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/c93kxl08glwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93kxl08glwo#1</guid>
+            <pubDate>Mon, 14 Jul 2025 15:51:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a9a/live/72c955b0-60c0-11f0-80fb-b5965c5fb784.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza officials say children killed in strike as Israeli military admits 'error']]></title>
+            <description><![CDATA[Six children waiting for water are among those killed in an Israeli air strike, emergency service officials say.]]></description>
+            <link>https://www.bbc.com/news/articles/c0rvxjnvv71o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rvxjnvv71o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 16:29:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/a02a6500-5fce-11f0-8a86-378d494e3c54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gisèle Pelicot given France's highest award]]></title>
+            <description><![CDATA[Pelicot was named knight of the Legion of Honour on a list announced ahead of France's Bastille Day.]]></description>
+            <link>https://www.bbc.com/news/articles/cr5v1p4zel8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5v1p4zel8o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 13:40:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b434/live/77b0cda0-5ff4-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RSF storms cattle market and prison in 'death trap' Sudanese city]]></title>
+            <description><![CDATA[It is the first time RSF fighters have entered el-Fasher in such numbers since a siege began in May 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7d84k3r43o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7d84k3r43o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 20:04:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a6/live/045b3420-600e-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'strongman' PM who inspired Trump's playbook - but now finds his power crumbling]]></title>
+            <description><![CDATA[Hungarian Prime Minister Viktor Orban finds his power under threat, but not in the way one might expect.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd1j1x2l1lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd1j1x2l1lo#2</guid>
+            <pubDate>Sun, 13 Jul 2025 23:05:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3975/live/a2c56f70-5e53-11f0-b5c5-012c5796682d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The deepening water shortage row between the US and Mexico ]]></title>
+            <description><![CDATA[The US is accusing its southern neighbour of breaking a long-held water sharing agreement.]]></description>
+            <link>https://www.bbc.com/news/articles/c0epzp21z47o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0epzp21z47o#2</guid>
+            <pubDate>Sun, 13 Jul 2025 23:04:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ad/live/dc1179a0-58d0-11f0-a113-db0360eed65c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Congolese mine vital to mobile phones, as rebels give BBC rare access]]></title>
+            <description><![CDATA[The US wants rights to DR Congo's minerals, but one vital mine is still in rebel hands.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvj986l615o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvj986l615o#2</guid>
+            <pubDate>Sat, 12 Jul 2025 23:40:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2f/live/a2e4bc50-5fc9-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery of Air India crash deepens as report reveals cockpit audio]]></title>
+            <description><![CDATA[Fuel cut-off switches were flipped seconds after take-off, a preliminary report finds.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gy78gpnqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gy78gpnqo#2</guid>
+            <pubDate>Sat, 12 Jul 2025 16:50:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6a/live/f13e6b60-5f44-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The mushroom killer was obsessed with true crime. Now true crime fans are obsessed with her]]></title>
+            <description><![CDATA[A jury found Erin Patterson guilty on all charges - but the frenzy of speculation has only intensified.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m8glx2zleo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m8glx2zleo#2</guid>
+            <pubDate>Sat, 12 Jul 2025 21:11:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58cb/live/946cda10-5e7d-11f0-a40e-a1af2950b220.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Putin's friend Gergiev set for concert as Italy breaks ban on pro-Kremlin artists]]></title>
+            <description><![CDATA[An Italian region has invited the pro-Putin conductor, signalling a rehabilitation despite no sign of an end to the war.]]></description>
+            <link>https://www.bbc.com/news/articles/czxw4n7vy70o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxw4n7vy70o#2</guid>
+            <pubDate>Sun, 13 Jul 2025 00:00:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f722/live/a52160b0-5fdb-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Was Lady Gaga's Rio concert really attended by 2.1m people?]]></title>
+            <description><![CDATA[BBC Verify looks at a claim from Rio de Janeiro officials that the pop star's beach gig drew huge numbers.]]></description>
+            <link>https://www.bbc.com/news/articles/cm20rg0vvp9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20rg0vvp9o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 17:08:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d4/live/3f115eb0-60b7-11f0-b5c5-012c5796682d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What we know about the fuel switches on Air India flight 171]]></title>
+            <description><![CDATA[A preliminary report investigating the Air India crash finds both fuel switches were moved to the off position.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2vrdd5xkeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2vrdd5xkeo#3</guid>
+            <pubDate>Fri, 11 Jul 2025 22:53:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127f/live/c64802e0-5f17-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air India report may lead to answers, but not closure for families]]></title>
+            <description><![CDATA[As experts analyse the findings of the report, it provides little comfort to the families who lost their loved ones. ]]></description>
+            <link>https://www.bbc.com/news/videos/c80pj0pv974o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c80pj0pv974o#3</guid>
+            <pubDate>Sat, 12 Jul 2025 06:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21b1/live/a05f2a20-5edd-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russians tell the BBC how they think the Ukraine war will end]]></title>
+            <description><![CDATA[Russian victory is a key message at the 'Patriotic Festival' a few miles outside Moscow. ]]></description>
+            <link>https://www.bbc.com/news/videos/c1wp55wqq0lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1wp55wqq0lo#3</guid>
+            <pubDate>Fri, 11 Jul 2025 16:24:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/83f63cf0-5e76-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+    </channel>
+</rss>
