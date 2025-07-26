@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 26 Jul 2025 00:18:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Two teens who murdered boy, 14, on bus sentenced to life]]></title>
+            <description><![CDATA[Kelyan Bokassa was stabbed 27 times as he travelled home on a bus in south-east London on 7 January.]]></description>
+            <link>https://www.bbc.com/news/articles/cj9v987d4kjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9v987d4kjo#0</guid>
+            <pubDate>Fri, 25 Jul 2025 16:52:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b36/live/b0036df0-696a-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jay Slater's death in Tenerife ravine was accidental, inquest finds]]></title>
+            <description><![CDATA[Jay Slater's friend Lucy Law begged him to get back to safety after he ventured off a mountain road.]]></description>
+            <link>https://www.bbc.com/news/articles/cx232rnp2npo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx232rnp2npo#0</guid>
+            <pubDate>Fri, 25 Jul 2025 11:24:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d9e/live/4a359930-6942-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Driver jailed after e-bike crash kills young mum]]></title>
+            <description><![CDATA[Keaton Muldoon was found not guilty of murder, but admitted causing death by dangerous driving.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4gz8829go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4gz8829go#0</guid>
+            <pubDate>Fri, 25 Jul 2025 16:03:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8c/live/b306f450-6946-11f0-89ea-4d6f9851f623.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Failings in care of cricketer who died, coroner says]]></title>
+            <description><![CDATA[The ex-cricketer's wife said his mental health declined after losing his job as a batting coach.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9x9r038y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9x9r038y0o#0</guid>
+            <pubDate>Fri, 25 Jul 2025 19:10:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d18a/live/e170ffc0-6973-11f0-ba8e-91d56f9acc4a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Missed chances to save daughter found dead with mum, coroner says]]></title>
+            <description><![CDATA[An inquest finds authorities should have done more to help Alphonsine Djiako Leuga and Loraine Choulla.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4l4v5vgk2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4l4v5vgk2o#0</guid>
+            <pubDate>Fri, 25 Jul 2025 17:23:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/87b1f480-687e-11f0-8f9f-1d38db11c370.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airport brawl officer 'was a bully with a badge', jury told]]></title>
+            <description><![CDATA[Two brothers are on trial following a violent disturbance involving police at Manchester Airport.]]></description>
+            <link>https://www.bbc.com/news/articles/c36x6dep05zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36x6dep05zo#0</guid>
+            <pubDate>Fri, 25 Jul 2025 15:14:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a18b/live/fa9d34c0-6967-11f0-9519-e3a8ae3ab590.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World-famous Flying Scotsman helps town get back on track]]></title>
+            <description><![CDATA[The locomotive is spending four days at the Severn Valley Railway after a major  landslip.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgdkken92eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgdkken92eo#0</guid>
+            <pubDate>Fri, 25 Jul 2025 14:30:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b595/live/0048f060-6947-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doctor who put bodily fluids in coffee struck off]]></title>
+            <description><![CDATA[Nicholas Chapman, 57, was criticised for bringing the medical profession into "disrepute".]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3gw8p7nro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3gw8p7nro#1</guid>
+            <pubDate>Fri, 25 Jul 2025 15:43:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f9/live/b7418a60-693e-11f0-9fe7-1d73ff11e709.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police commissioner apologises for multiple bodies claim]]></title>
+            <description><![CDATA[Detective leading murder investigation confirms the remains of no more than one body have been found.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e0e1wypljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e0e1wypljo#1</guid>
+            <pubDate>Fri, 25 Jul 2025 19:04:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65aa/live/0c25d9f0-6976-11f0-915d-d15295b70487.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two more men in court over asylum hotel protests]]></title>
+            <description><![CDATA[Shaun Thompson allegedly jumped on police vehicles and punched windows, a court hears.]]></description>
+            <link>https://www.bbc.com/news/articles/c20n0462eeqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20n0462eeqo#1</guid>
+            <pubDate>Fri, 25 Jul 2025 17:52:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e18a/live/572f3e60-6966-11f0-9519-e3a8ae3ab590.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['School banned our kids from bouncy castle treat']]></title>
+            <description><![CDATA[Parents are upset that only pupils with impeccable attendance were allowed on a bouncy castle.]]></description>
+            <link>https://www.bbc.com/news/articles/cp909xzj583o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp909xzj583o#1</guid>
+            <pubDate>Fri, 25 Jul 2025 11:10:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c5/live/8316d030-693c-11f0-839d-3fa73d07d9bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rock and metal fans to unite for Ozzy memorial]]></title>
+            <description><![CDATA[Fans are invited to a meet-up to share Sabbath stories and pay tribute to Ozzy Osbourne on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mzm1rd5xlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mzm1rd5xlo#1</guid>
+            <pubDate>Fri, 25 Jul 2025 15:26:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b09/live/03802af0-6965-11f0-9519-e3a8ae3ab590.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Village cheers local Lioness with postbox topper ]]></title>
+            <description><![CDATA[Jan Platt stayed up until 02:30 BST to knit a model of the England goalkeeper, who is from Studley. ]]></description>
+            <link>https://www.bbc.com/news/articles/cwyky20x1yro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyky20x1yro#2</guid>
+            <pubDate>Fri, 25 Jul 2025 14:52:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/6b3c4450-694f-11f0-b771-49b10cce2af8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Son to go home after 'unbelievable'  DIY SOS rebuild]]></title>
+            <description><![CDATA[The renovation means Daniel Flemen is able to go back to his Lancashire home after years in hospital.]]></description>
+            <link>https://www.bbc.com/news/articles/ce838y1yrpmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce838y1yrpmo#2</guid>
+            <pubDate>Thu, 24 Jul 2025 16:55:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58b/live/c29a9150-62f3-11f0-83d2-4f671b8c1523.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Runaway tortoise found after 16-day adventure]]></title>
+            <description><![CDATA[Shelley the tortoise is back home after she was found 2.8 miles (4.5km) away.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d6dml8m09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d6dml8m09o#2</guid>
+            <pubDate>Thu, 24 Jul 2025 13:41:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9027/live/e67c9190-6893-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What inquest told us about Jay Slater's disappearance]]></title>
+            <description><![CDATA[Preston Coroner's Court heard from Jay Slater's friends including Lucy Law and his 'heartbroken' mum.]]></description>
+            <link>https://www.bbc.com/news/articles/c14e42g0n0go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14e42g0n0go#3</guid>
+            <pubDate>Fri, 25 Jul 2025 16:58:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ef/live/a8fda9f0-6972-11f0-ba8e-91d56f9acc4a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will a new law prevent illegally imported puppies?]]></title>
+            <description><![CDATA[Over 1,000 illegally imported dogs in five years have ended up in rehoming centres, figures suggest.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jw3kzxzw4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jw3kzxzw4o#3</guid>
+            <pubDate>Fri, 25 Jul 2025 10:50:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f7/live/ae588db0-6865-11f0-aac5-39aeca2aa8c7.png"/>
+        </item>
+        <item>
+            <title><![CDATA['My energy bills are so high I asked the council to buy back my flat']]></title>
+            <description><![CDATA[A BBC investigation finds people using energy networks often pay more than regular customers.]]></description>
+            <link>https://www.bbc.com/news/articles/c1k4rpg4ggeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1k4rpg4ggeo#3</guid>
+            <pubDate>Thu, 24 Jul 2025 05:04:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89aa/live/694ec830-670a-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should museums still display mummified remains?]]></title>
+            <description><![CDATA[A museum ethics expert has been in Derby to discuss why people go and visit mummified remains.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvjv7zmp0po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvjv7zmp0po#3</guid>
+            <pubDate>Fri, 25 Jul 2025 05:07:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec5/live/76487e00-689a-11f0-9f22-b51d9ce822ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV shows moments before motorbike mows down woman]]></title>
+            <description><![CDATA[Former Wigan Athletic youth player, Kian Monks, 21, is jailed for riding into the 70-year-old woman.]]></description>
+            <link>https://www.bbc.com/news/videos/cev0v4jm4rgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cev0v4jm4rgo#4</guid>
+            <pubDate>Fri, 25 Jul 2025 05:16:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b91/live/4230d6d0-68bd-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do the Red Arrows think of the Red Barrows? ]]></title>
+            <description><![CDATA[Flt Lts Ollie Suckling and Dustin Wales, or Red 9 and Red 5, give a review of Devon's Red Barrows.]]></description>
+            <link>https://www.bbc.com/news/articles/c9949515vl0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9949515vl0o#4</guid>
+            <pubDate>Fri, 25 Jul 2025 14:18:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa5/live/0902b810-6962-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flying Scotsman steams into Bridgnorth]]></title>
+            <description><![CDATA[The famous locomotive travels from Kidderminster on a line that had been blocked since January.]]></description>
+            <link>https://www.bbc.com/news/videos/c15we37p002o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c15we37p002o#4</guid>
+            <pubDate>Fri, 25 Jul 2025 09:46:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fc/live/05ad9640-6939-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reporter descends tower landmark on live TV]]></title>
+            <description><![CDATA[John Maguire told viewers: "You get the most extraordinary view... it is rather disconcerting."]]></description>
+            <link>https://www.bbc.com/news/articles/cx202rr3re4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx202rr3re4o#4</guid>
+            <pubDate>Fri, 25 Jul 2025 16:35:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ff/live/23b29620-6972-11f0-af20-030418be2ca5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Root passes Ponting as England dominate India]]></title>
+            <description><![CDATA[Joe Root's masterful 150 puts him second on the all-time Test run-scorers' list and gives England complete control over India at Old Trafford.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cm202gepe72o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cm202gepe72o#5</guid>
+            <pubDate>Fri, 25 Jul 2025 18:40:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdf/live/201a3ae0-6977-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James faces fight to be fit for Euro 2025 final]]></title>
+            <description><![CDATA[Manager Sarina Wiegman says she "does not know yet" whether England forward Lauren James will be available for Sunday's Euro 2025 final.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4gdg337gpeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdg337gpeo#5</guid>
+            <pubDate>Fri, 25 Jul 2025 17:31:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c017/live/13560950-696e-11f0-8b64-831f4a2e9ec8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hey big spenders - Liverpool lead top-four domination of £1bn deals]]></title>
+            <description><![CDATA[The biggest sides in the top flight are all at the top of the list for spending in the summer transfer window.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx232rg4xj9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx232rg4xj9o#5</guid>
+            <pubDate>Fri, 25 Jul 2025 15:03:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2f/live/3e8043f0-6957-11f0-b771-49b10cce2af8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surrey one point clear at top after Yorkshire draw]]></title>
+            <description><![CDATA[County champions Surrey are one point clear at the top of the Division One table after an inevitable draw with Yorkshire at Scarborough.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c70x0kypz2ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c70x0kypz2ro#5</guid>
+            <pubDate>Fri, 25 Jul 2025 17:31:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e6/live/1dee7280-697d-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+    </channel>
+</rss>
