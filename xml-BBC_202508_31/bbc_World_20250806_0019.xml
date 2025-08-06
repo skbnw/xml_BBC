@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 06 Aug 2025 00:19:07 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Besieged Sudan city residents face starvation, UN warns]]></title>
+            <description><![CDATA[El-Fasher, encircled by RSF paramilitary fighters, has not had food deliveries for over a year.]]></description>
+            <link>https://www.bbc.com/news/articles/c776njyl74po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c776njyl74po#0</guid>
+            <pubDate>Tue, 05 Aug 2025 13:59:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea8/live/9caf19e0-71f6-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Romanian President Ion Iliescu dies aged 95]]></title>
+            <description><![CDATA[He was Romania's first freely elected leader after communism fell in 1989, and later faced charges of crimes against humanity.]]></description>
+            <link>https://www.bbc.com/news/articles/cy5prnk1qw1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5prnk1qw1o#0</guid>
+            <pubDate>Tue, 05 Aug 2025 16:32:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e87/live/9cada990-7212-11f0-b797-413d7f99a45c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Great Barrier Reef suffers worst coral decline on record]]></title>
+            <description><![CDATA[Reefs have been battered by cyclones and starfish that eat coral, but heat stress driven by climate change is the main cause of damage.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg3pp52m65o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg3pp52m65o#0</guid>
+            <pubDate>Tue, 05 Aug 2025 19:38:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a8/live/d143e3e0-7221-11f0-843e-eb3da839c0e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clintons subpoenaed to testify in congressional Epstein investigation]]></title>
+            <description><![CDATA[Former top officials from the justice department during the Obama, Trump and Biden administrations were also sent subpoenas.]]></description>
+            <link>https://www.bbc.com/news/articles/c79l38vl3lwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79l38vl3lwo#0</guid>
+            <pubDate>Tue, 05 Aug 2025 21:32:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759f/live/8e1fe1f0-7211-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky thanks Trump for 'productive' talks ahead of ceasefire deadline]]></title>
+            <description><![CDATA[US envoy Steve Witkoff will visit Moscow on Wednesday, as Trump's deadline for Russia to agree a ceasefire with Ukraine looms.]]></description>
+            <link>https://www.bbc.com/news/articles/cgm2812p9yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgm2812p9yxo#0</guid>
+            <pubDate>Tue, 05 Aug 2025 18:14:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2551/live/327a2130-7220-11f0-843e-eb3da839c0e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens feared trapped as cloudburst triggers flash floods in India]]></title>
+            <description><![CDATA[Rescue teams have reached Dharali village in Uttarkashi, which is believed to have borne the brunt of the floods.]]></description>
+            <link>https://www.bbc.com/news/articles/c78zjd8xj2xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78zjd8xj2xo#0</guid>
+            <pubDate>Tue, 05 Aug 2025 12:08:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f835/live/10845d20-71fd-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu to propose full reoccupation of Gaza, Israeli media report]]></title>
+            <description><![CDATA[The plan will involve a complete takeover of Gaza, but reportedly faces opposition from military chiefs.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqv2qjg5vvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqv2qjg5vvo#1</guid>
+            <pubDate>Tue, 05 Aug 2025 15:06:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2e/live/4c698de0-720e-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nasa to put nuclear reactor on the Moon by 2030 - US media]]></title>
+            <description><![CDATA[The reactor would provide power for humans on the Moon but there are questions about feasibility.]]></description>
+            <link>https://www.bbc.com/news/articles/cev2dylxv74o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cev2dylxv74o#1</guid>
+            <pubDate>Tue, 05 Aug 2025 11:36:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fdf/live/4bea4430-71ec-11f0-a178-03cc5fabe4bc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[US attorney general orders grand jury hearings on Trump-Russia probe]]></title>
+            <description><![CDATA[The Trump administration alleges political foes were behind attempts to falsely tie him to Russia in the run-up to his 2016 presidential win.]]></description>
+            <link>https://www.bbc.com/news/articles/c206dv2ekdeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c206dv2ekdeo#1</guid>
+            <pubDate>Tue, 05 Aug 2025 20:45:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea73/live/1bf1fed0-7197-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Texas Republicans vote to arrest Democrats blocking plan to re-draw electoral boundaries]]></title>
+            <description><![CDATA[The Democrats facing arrest have fled to block a vote that could sway the balance of power in Washington.]]></description>
+            <link>https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93dkwnx94ro#1</guid>
+            <pubDate>Tue, 05 Aug 2025 16:17:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/486e/live/8d6e7a70-719c-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protests in China over viral school bullying case]]></title>
+            <description><![CDATA[One protester in Sichuan province said “things got bloody” after police used batons and electric prods.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yeg864g54o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yeg864g54o#1</guid>
+            <pubDate>Tue, 05 Aug 2025 09:33:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56a2/live/c9eb5020-71d5-11f0-bb15-e58cf64b3661.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US condemns house arrest of Brazil's ex-president Jair Bolsonaro ]]></title>
+            <description><![CDATA[US State Department responded to Brazil's supreme court order saying Bolsonaro allegedly breached a ban on using social media.
+]]></description>
+            <link>https://www.bbc.com/news/articles/crkzn5l6jxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkzn5l6jxzo#1</guid>
+            <pubDate>Tue, 05 Aug 2025 01:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e74/live/bd5f6910-717e-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war]]></title>
+            <description><![CDATA[It comes amid reports that PM Netanyahu is pushing to expand Israel's military operations in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkznje8nz8o#1</guid>
+            <pubDate>Mon, 04 Aug 2025 13:01:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95dc/live/c6247ad0-712a-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of Irish missionary kidnapped in Haiti 'devastated']]></title>
+            <description><![CDATA[Gena Heraty, from County Mayo, was taken with eight other people from an orphanage which she runs.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn94pmz21o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn94pmz21o#1</guid>
+            <pubDate>Tue, 05 Aug 2025 22:08:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/421db120-71ca-11f0-89ea-4d6f9851f623.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Danish zoo asks for unwanted pets to feed its predators]]></title>
+            <description><![CDATA[Aalborg Zoo says the unique scheme is aimed at mimicking what its predators would eat in the wild.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r7z2ynd2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r7z2ynd2lo#1</guid>
+            <pubDate>Mon, 04 Aug 2025 19:45:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ef/live/94d9a6e0-715b-11f0-b40d-2f2a77d02753.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China reports 7,000 cases of chikungunya virus]]></title>
+            <description><![CDATA[The uptick in cases have prompted measures that are being compared to those taken during the pandemic.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg0edj332yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0edj332yo#1</guid>
+            <pubDate>Tue, 05 Aug 2025 07:18:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d90/live/4e815f10-71c6-11f0-b5ea-af0b36d22169.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Convicted rapist fighting to remain in parliament in Australia]]></title>
+            <description><![CDATA[The New South Wales parliament wants to expel Gareth Ward after he was last month found guilty of rape.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr1yxngddpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr1yxngddpo#1</guid>
+            <pubDate>Tue, 05 Aug 2025 00:03:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1d/live/2b9bfaf0-718f-11f0-a6b4-b9838b89706a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[India calls Trump's tariff threat over Russian oil 'unjustified']]></title>
+            <description><![CDATA[The US president threatened to "substantially" raise tariffs against India over its purchase of oil from Russia.]]></description>
+            <link>https://www.bbc.com/news/articles/cly647wx9l3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly647wx9l3o#1</guid>
+            <pubDate>Mon, 04 Aug 2025 21:28:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e15e/live/eef7c520-716b-11f0-a110-776969256333.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aboriginal group launches legal bid to stop Brisbane Olympic stadium]]></title>
+            <description><![CDATA[The group says Victoria Park is culturally and historically significant to Indigenous people.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l6135kr1ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l6135kr1ro#1</guid>
+            <pubDate>Tue, 05 Aug 2025 07:09:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc2f/live/33335d80-71bc-11f0-a9ca-f91b83a9ef8c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ion Iliescu: Romania's first democratic leader with a divisive legacy]]></title>
+            <description><![CDATA[His three terms saw the tumultuous birth of modern Romania as it moved from communism to democracy.]]></description>
+            <link>https://www.bbc.com/news/articles/c1lemml19j0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lemml19j0o#2</guid>
+            <pubDate>Tue, 05 Aug 2025 20:52:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b910/live/9eb12cd0-7235-11f0-9d50-7d8683455742.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a Texas showdown could reshape Congress - and Trump's presidency]]></title>
+            <description><![CDATA[A dramatic redistricting fight could spread to other states before next year's crucial midterm elections. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2q7egqrpdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2q7egqrpdo#2</guid>
+            <pubDate>Tue, 05 Aug 2025 20:03:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0785/live/c7570150-7230-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Putin and Trump's relationship has soured - but behind the posturing, a Ukraine deal is still possible]]></title>
+            <description><![CDATA[Steve Witkoff is visiting Moscow this week - is it a sign that an agreement between Russia and the US to end the fighting in Ukraine could yet be reached?]]></description>
+            <link>https://www.bbc.com/news/articles/cj4wn1j7w1jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4wn1j7w1jo#2</guid>
+            <pubDate>Mon, 04 Aug 2025 23:22:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd3/live/0e18c220-713e-11f0-8dbd-f3d32ebd3327.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Disfigured, shamed and forgotten: BBC visits the Korean survivors of the Hiroshima bomb]]></title>
+            <description><![CDATA[When the atom bomb was dropped 80 years ago, 140,000 Koreans were in Japan's Hiroshima city, many as forced labour.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8zlwd3e42o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8zlwd3e42o#2</guid>
+            <pubDate>Mon, 04 Aug 2025 22:04:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1052/live/0f369320-71cb-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC reveals horrific exploitation of children in Kenya sex trade]]></title>
+            <description><![CDATA[An undercover BBC investigation reveals the women who involve children as young as 13 in sex work.]]></description>
+            <link>https://www.bbc.com/news/articles/c15l9zl508eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15l9zl508eo#2</guid>
+            <pubDate>Mon, 04 Aug 2025 00:10:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab4f/live/8e274a30-6e1a-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mission begins to save snails threatened by own beauty]]></title>
+            <description><![CDATA[Researchers in Cuba and the UK are working together to reveal the biological secrets of the beautiful but endangered Polymita snail. ]]></description>
+            <link>https://www.bbc.com/news/articles/clyrv8ndzzjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrv8ndzzjo#2</guid>
+            <pubDate>Mon, 04 Aug 2025 00:46:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d67/live/8dec6500-6ed3-11f0-ad0c-035b9044855d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The big fat 'fake' Indian wedding - Gen Z's latest party trend]]></title>
+            <description><![CDATA[Wedding-themed parties - minus the marriage - have become popular among young Indians chasing new experiences.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxyrk04kd0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxyrk04kd0o#2</guid>
+            <pubDate>Sun, 03 Aug 2025 23:29:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7a/live/a2f5e060-6d1c-11f0-8dbd-f3d32ebd3327.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hackers, secret cables and security fears: The explosive fight over China's new embassy in the UK]]></title>
+            <description><![CDATA[It will be the biggest embassy in Europe, if approved. But its opponents fear it brings with it certain risks and dangers]]></description>
+            <link>https://www.bbc.com/news/articles/c3v3rygdrryo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v3rygdrryo#2</guid>
+            <pubDate>Sun, 03 Aug 2025 23:15:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bed/live/582a1e10-6ed5-11f0-af20-030418be2ca5.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I felt an unspoken pressure to smile' - Kenyan women in the workplace]]></title>
+            <description><![CDATA[Is the pressure to be likeable holding women back at work?]]></description>
+            <link>https://www.bbc.com/news/articles/cy8j9jp0n2no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8j9jp0n2no#2</guid>
+            <pubDate>Sun, 03 Aug 2025 01:17:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654e/live/eb14df40-6ef2-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melting glaciers threaten to wipe out European villages - is the steep cost to protect them worth it?]]></title>
+            <description><![CDATA[Switzerland spends almost $500m a year on protective structures. Is it worth it - or, as some suggest, should people move away from the mountain villages at risk?]]></description>
+            <link>https://www.bbc.com/news/articles/cj4w9ggzxv4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4w9ggzxv4o#2</guid>
+            <pubDate>Sat, 02 Aug 2025 23:06:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/32850770-6ecf-11f0-af20-030418be2ca5.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Hiroshima survivor stories were painful to draw']]></title>
+            <description><![CDATA[Hiroshima students have spent weeks visualising the stories of survivors from the atomic bomb and turning them into art.]]></description>
+            <link>https://www.bbc.com/news/videos/c3dpk8gd1kdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3dpk8gd1kdo#3</guid>
+            <pubDate>Tue, 05 Aug 2025 22:07:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b5a/live/2043dd40-721a-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm upset, angry and disgusted,' Epstein accuser tells BBC]]></title>
+            <description><![CDATA[Haley Robson says recent speculation Ghislaine Maxwell could be pardoned has left her "extremely angry".]]></description>
+            <link>https://www.bbc.com/news/videos/cy853m9993vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy853m9993vo#3</guid>
+            <pubDate>Tue, 05 Aug 2025 00:12:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5700/live/d5de6e20-7172-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fireworks ignite as blaze hits Japanese festival launch boats]]></title>
+            <description><![CDATA[Launch barges at a fireworks festival in Japan's city Yokohama caught fire after pyrotechnics landed on them.]]></description>
+            <link>https://www.bbc.com/news/videos/cpqv7j97z3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cpqv7j97z3lo#3</guid>
+            <pubDate>Tue, 05 Aug 2025 09:02:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c9/live/bd8353e0-71c2-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Florida police officer removes alligator from family's pool with bare hands]]></title>
+            <description><![CDATA[The reptile was retrieved by the officer and buckled into the back of a police car.
+]]></description>
+            <link>https://www.bbc.com/news/videos/c0mlwp783r0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0mlwp783r0o#3</guid>
+            <pubDate>Mon, 04 Aug 2025 12:05:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cb/live/f5b098e0-7127-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+    </channel>
+</rss>
