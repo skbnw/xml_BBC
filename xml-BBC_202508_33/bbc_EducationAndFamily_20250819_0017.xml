@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Family & Education]]></description>
+        <link>https://www.bbc.co.uk/news/education</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/education</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 19 Aug 2025 00:17:51 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/education/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Do you have a girlfriend yet?': Pupils open time capsule letters to self]]></title>
+            <description><![CDATA[Students at a secondary school in London wrote letters to themselves at the height of Covid - and opened them again just before their GCSEs.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y3e14xx0po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y3e14xx0po#0</guid>
+            <pubDate>Sat, 16 Aug 2025 23:05:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/ae414bd0-79e2-11f0-a34f-318be3fb0481.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did so many teens get into their first choice uni this year?]]></title>
+            <description><![CDATA[A record number of 18-year-olds have been accepted by their "firm" university choice. Here's what's going on.]]></description>
+            <link>https://www.bbc.com/news/articles/c62n9ygdqeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62n9ygdqeno#0</guid>
+            <pubDate>Fri, 15 Aug 2025 13:55:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b6a/live/55dde070-79d3-11f0-bad9-e7f03dd8181e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five key takeaways from 2025's A-level results]]></title>
+            <description><![CDATA[Top A-level results have risen again. Here's what you need to know.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cz931kvldg4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz931kvldg4o#0</guid>
+            <pubDate>Thu, 14 Aug 2025 15:00:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c34/live/40722b60-791a-11f0-902c-1f79ecbf29bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The culmination of a lot of hard work': Joy, relief and worry as students get results]]></title>
+            <description><![CDATA[After a nerve-wracking wait, students react to their results and share what they plan to do next.]]></description>
+            <link>https://www.bbc.com/news/articles/c987n7605dwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c987n7605dwo#0</guid>
+            <pubDate>Thu, 14 Aug 2025 16:36:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b9/live/056712b0-7924-11f0-aa15-bd8054b0f49b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zoo keeper, nail tech, celeb photographer: How we got our jobs without going to uni]]></title>
+            <description><![CDATA[The BBC speaks to four young people who say skipping university does not have to mean missing out on success.]]></description>
+            <link>https://www.bbc.com/news/articles/czdvq06v648o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdvq06v648o#0</guid>
+            <pubDate>Thu, 14 Aug 2025 05:25:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3620/live/a4c63380-5cc9-11f0-a847-6f5cde5d04a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thirteen children died after falling from windows in six years]]></title>
+            <description><![CDATA[Calls for landlords to prioritise faulty window repairs to avoid "entirely preventable" deaths. ]]></description>
+            <link>https://www.bbc.com/news/articles/cqjyype0yn5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjyype0yn5o#0</guid>
+            <pubDate>Wed, 13 Aug 2025 05:00:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/736f/live/9969a950-76cc-11f0-a204-93dd2505d709.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher banned over sexual messages sent to pupils]]></title>
+            <description><![CDATA[Dale Millar-Evans unknowingly sent messages to undercover police officers, a tribunal hears.]]></description>
+            <link>https://www.bbc.com/news/articles/c79lvgwxnplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79lvgwxnplo#0</guid>
+            <pubDate>Wed, 13 Aug 2025 12:01:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b2a/live/375c6440-783f-11f0-aa29-15a69a839271.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When is GCSE results day 2025 and when are results out?]]></title>
+            <description><![CDATA[Your full guide to this year's GCSE exams in England, Wales and Northern Ireland.
+]]></description>
+            <link>https://www.bbc.com/news/articles/c1jxjk6g1l2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jxjk6g1l2o#1</guid>
+            <pubDate>Tue, 01 Jul 2025 10:52:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab87/live/078130a0-5668-11f0-86a4-4f1d55abaccf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GCSE grades 2025: The 9-1 boundaries explained]]></title>
+            <description><![CDATA[How do the 9-1 GCSE grades compare with the previous alphabetical system?]]></description>
+            <link>https://www.bbc.com/news/articles/czrynxzvjneo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrynxzvjneo#1</guid>
+            <pubDate>Mon, 18 Aug 2025 15:28:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1b/live/e874d440-566d-11f0-b065-d59d8f77ead2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did boys outperform girls at top A-level grades?]]></title>
+            <description><![CDATA[The percentage of boys' grades that were A* or A was 28.4%, narrowly beating the 28.2% achieved by girls.]]></description>
+            <link>https://www.bbc.com/news/articles/c62707l4lwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62707l4lwvo#1</guid>
+            <pubDate>Thu, 14 Aug 2025 17:33:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e2/live/c06314d0-79d1-11f0-bad9-e7f03dd8181e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does university cost, and is it worth it?]]></title>
+            <description><![CDATA[Tuition fees have risen, while maintenance loans have also gone up to help students with rising living costs.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyegp0dnq9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyegp0dnq9o#1</guid>
+            <pubDate>Thu, 14 Aug 2025 05:16:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134e/live/f9445710-51a3-11f0-b4be-8f7caf53b80c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are BTecs and how are they graded?]]></title>
+            <description><![CDATA[Hundreds of thousands of students do the vocational qualifications known as BTecs every year.]]></description>
+            <link>https://www.bbc.com/news/articles/ce832ze3y1vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce832ze3y1vo#1</guid>
+            <pubDate>Thu, 14 Aug 2025 08:02:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f76/live/e7df4040-7393-11f0-a20f-3b86f375586a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is an apprenticeship and how much are apprentices paid?]]></title>
+            <description><![CDATA[Going to school, college or university five days a week is not the only way to get a qualification. ]]></description>
+            <link>https://www.bbc.com/news/articles/c51xenx7pvqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51xenx7pvqo#1</guid>
+            <pubDate>Thu, 14 Aug 2025 05:32:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b61/live/5d5d9680-3aed-11f0-9fac-e782546bd539.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are T-levels and what are the grades worth?]]></title>
+            <description><![CDATA[T-levels are equivalent to three A-levels, and focus on practical rather than academic subjects.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgnd8z535jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgnd8z535jo#1</guid>
+            <pubDate>Thu, 14 Aug 2025 05:31:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/50b83fb0-739c-11f0-a20f-3b86f375586a.jpg"/>
+        </item>
+    </channel>
+</rss>
