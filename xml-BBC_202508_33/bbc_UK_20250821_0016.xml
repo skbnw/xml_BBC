@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 21 Aug 2025 00:16:11 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ex-priest found guilty of 17 indecent assaults]]></title>
+            <description><![CDATA[Chris Brain abused nine women while head of the Nine O'Clock Service in Sheffield in the 80s and 90s.]]></description>
+            <link>https://www.bbc.com/news/articles/c20662dxl88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20662dxl88o#0</guid>
+            <pubDate>Wed, 20 Aug 2025 16:01:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a22/live/52d05360-7de6-11f0-aa3b-29990a8088ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Ice cream man' in fatal Wembley attack named]]></title>
+            <description><![CDATA[Shazad Khan, 41, was treated for stab wounds but died at the scene on Tuesday evening, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cx23g97vk9mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx23g97vk9mo#0</guid>
+            <pubDate>Wed, 20 Aug 2025 19:13:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196a/live/04b94450-7df7-11f0-97b5-2745b2279d00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch encourages Tory councils to challenge asylum hotels]]></title>
+            <description><![CDATA[The Tory leader writes to council leaders after a court blocked a hotel from housing asylum seekers.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy0j9n4qzwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy0j9n4qzwo#0</guid>
+            <pubDate>Wed, 20 Aug 2025 22:12:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b52/live/f59a8eb0-7df2-11f0-99a6-6566970a8a8a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Students face nervous wait for GCSE and BTec results]]></title>
+            <description><![CDATA[The GCSE pass rate is expected to be broadly similar to 2024, after years of flux during the Covid pandemic.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g64qedynlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g64qedynlo#0</guid>
+            <pubDate>Wed, 20 Aug 2025 15:01:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0a9/live/135c0410-7db7-11f0-88de-21c2f8cb127a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government prepares to take over UK's third-largest steelworks]]></title>
+            <description><![CDATA[Managers have been lined up to take control in a bid to protect 1,500 jobs at the Yorkshire plant. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj0yd0829m4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0yd0829m4o#0</guid>
+            <pubDate>Wed, 20 Aug 2025 16:36:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66db/live/1b193490-7dd8-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air fares and food prices push up inflation to 3.8% in July]]></title>
+            <description><![CDATA[Prices are now rising slightly quicker than expected and at their fastest pace since January 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c741wkngndqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c741wkngndqo#0</guid>
+            <pubDate>Wed, 20 Aug 2025 12:55:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/e9a9e950-7db3-11f0-88de-21c2f8cb127a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Chilling' political interference in BBC must stop, says former news boss]]></title>
+            <description><![CDATA[The BBC's former director of news James Harding delivers the TV industry's flagship annual lecture.]]></description>
+            <link>https://www.bbc.com/news/articles/cn85z0z3gz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn85z0z3gz3o#0</guid>
+            <pubDate>Wed, 20 Aug 2025 18:02:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a496/live/cf57c160-7e00-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decision over Kneecap rapper terror charge delayed]]></title>
+            <description><![CDATA[Liam Óg Ó hAnnaidh was charged with a terror offence after allegedly displaying a flag in support of proscribed organisation Hezbollah.]]></description>
+            <link>https://www.bbc.com/news/articles/c939v4kw2l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c939v4kw2l4o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 15:04:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/64b1e9a0-7dd6-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man who shot PC with crossbow is jailed]]></title>
+            <description><![CDATA[The judge hears Jason King also stabbed a neighbour's partner in the stomach.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cy8jlwee0xjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8jlwee0xjo#1</guid>
+            <pubDate>Wed, 20 Aug 2025 18:45:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eefd/live/83e5ad80-7db7-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour MSP Colin Smyth charged over indecent images]]></title>
+            <description><![CDATA[The South Scotland representative has been suspended by the party after being arrested in Dumfries.]]></description>
+            <link>https://www.bbc.com/news/articles/cy08309kxw6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy08309kxw6o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 16:55:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308f/live/62663c30-7de7-11f0-aa3b-29990a8088ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Human rights regulator criticises Met's use of facial recognition cameras]]></title>
+            <description><![CDATA[The Equality and Human Rights Commission says it believes the Met's use of the tech is unlawful.]]></description>
+            <link>https://www.bbc.com/news/articles/c1kzgx4v2pko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kzgx4v2pko#1</guid>
+            <pubDate>Wed, 20 Aug 2025 16:18:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf9/live/34046060-7db5-11f0-88de-21c2f8cb127a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's first skatepark to be dug up by archaeologists ]]></title>
+            <description><![CDATA[A University of Glasgow team will undertake excavation and survey work at the former Kelvin Wheelies park.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jne4pry8go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jne4pry8go#1</guid>
+            <pubDate>Wed, 20 Aug 2025 10:29:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d9b/live/91083bc0-7c4c-11f0-b34b-3f615028e3e9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brothers rescue 'terrified' swimmers from dolphin]]></title>
+            <description><![CDATA[Rhys and Gareth Paterson say they helped two women while kayaking off the Dorset coast.]]></description>
+            <link>https://www.bbc.com/news/articles/cedvz3yx5zyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedvz3yx5zyo#1</guid>
+            <pubDate>Wed, 20 Aug 2025 14:17:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946a/live/ea516c90-7db6-11f0-88de-21c2f8cb127a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More weight-loss drugs could be offered as part of new diabetes care]]></title>
+            <description><![CDATA[Diabetes patients should have better and more equal access to newer medicines, says official healthcare body.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkr2g3e5p1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkr2g3e5p1o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 00:51:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8360/live/17dcad30-7d96-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists make 'superfood' that could save honeybees]]></title>
+            <description><![CDATA[We rely on honeybees to pollinate our crops and a new food could protect them from growing threats.]]></description>
+            <link>https://www.bbc.com/news/articles/c776kynn771o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c776kynn771o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 15:03:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7189/live/bf16e2a0-7deb-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leaked report shows 10,000 shortfall in probation staff]]></title>
+            <description><![CDATA[There is a shortage of probation staff to manage offenders serving sentences in the community, a report shows.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7yj0gkl3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7yj0gkl3zo#1</guid>
+            <pubDate>Wed, 20 Aug 2025 05:00:14 GMT</pubDate>
+            <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d425/live/13d93860-ceb5-11ef-87df-d575b9a434a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sentencing for man who dodged 113 train tickets delayed]]></title>
+            <description><![CDATA[Charles Brohiri was granted bail despite clocking up £30,000 in penalty fares.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy38zmvk04o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy38zmvk04o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 17:02:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1a/live/1df20900-7dd6-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Final £1 coins featuring late Queen enter circulation]]></title>
+            <description><![CDATA[More than 23 million coins are being released, alongside 7.5 million new King Charles III coins.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn3nv6g69o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn3nv6g69o#1</guid>
+            <pubDate>Wed, 20 Aug 2025 00:58:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f01a/live/9cbc8d70-7d25-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pine nuts and goat's milk should get allergy labels, say experts]]></title>
+            <description><![CDATA[Warnings for some 'emerging' food allergens should be added to food packaging, researchers suggest.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypgrzxx9go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypgrzxx9go#1</guid>
+            <pubDate>Wed, 20 Aug 2025 11:58:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f449/live/7b7f2770-7d03-11f0-8154-37a88043e97c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK independent space agency scrapped to cut costs]]></title>
+            <description><![CDATA[Britain's space agency is set to be scrapped - a scientist fears the UK space sector could fall behind as a result]]></description>
+            <link>https://www.bbc.com/news/articles/c4gmjm8z47jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gmjm8z47jo#1</guid>
+            <pubDate>Wed, 20 Aug 2025 00:35:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8115/live/f7ea0ff0-7d21-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sanex shower gel ad banned over racial stereotype]]></title>
+            <description><![CDATA[The TV ad depicted two black models with skin problems and a white model without.]]></description>
+            <link>https://www.bbc.com/news/articles/cn92znzx8zzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn92znzx8zzo#1</guid>
+            <pubDate>Tue, 19 Aug 2025 23:05:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd0/live/4429bc60-7d10-11f0-affd-3db3a18ad929.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Downton Abbey 'iconic' props and costumes up for auction ]]></title>
+            <description><![CDATA[Props, costumes and set pieces from the popular British historical drama Downton Abbey are being auctioned for charity in London.]]></description>
+            <link>https://www.bbc.com/news/videos/c3dpzre97j4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3dpzre97j4o#2</guid>
+            <pubDate>Tue, 19 Aug 2025 18:51:43 GMT</pubDate>
+            <media:thumbnail width="240" height="172" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f5/live/fe43bad0-7d2c-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: London Zoo's capybaras and tortoises on weigh-in day]]></title>
+            <description><![CDATA[London Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.]]></description>
+            <link>https://www.bbc.com/news/videos/c6267d6ng02o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c6267d6ng02o#2</guid>
+            <pubDate>Tue, 19 Aug 2025 15:01:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a8/live/439b46c0-7d0a-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tommy Fury: 'Alcohol was the only thing that made me happy']]></title>
+            <description><![CDATA[Professional boxer Tommy Fury has said he turned to alcohol after an injury left him unable to train or compete.]]></description>
+            <link>https://www.bbc.com/news/videos/cgjyz5de5weo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgjyz5de5weo#2</guid>
+            <pubDate>Tue, 19 Aug 2025 09:44:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4371/live/e8dd9020-7cd8-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surprise cows visit gives woman mooving experience]]></title>
+            <description><![CDATA[A woman has a surprising wake-up call when she hears noises outside and finds cows in her garden.]]></description>
+            <link>https://www.bbc.com/news/videos/c3r47d733ddo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3r47d733ddo#2</guid>
+            <pubDate>Sat, 16 Aug 2025 09:19:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0dc/live/cc6a4d10-79dc-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Royals and veterans mark VJ Day 80 years on]]></title>
+            <description><![CDATA[The King and Queen led a two-minute silence at a service in Staffordshire to commemorate 80 years since VJ Day.]]></description>
+            <link>https://www.bbc.com/news/videos/c80dxed31v8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c80dxed31v8o#2</guid>
+            <pubDate>Fri, 15 Aug 2025 22:53:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1db/live/f61d4470-79da-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Meteor shower seen in skies above UK]]></title>
+            <description><![CDATA[The astronomical event was captured on camera at North York Moors National Park on 13 August.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgnkmpkd77o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgnkmpkd77o#2</guid>
+            <pubDate>Thu, 14 Aug 2025 01:55:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65fd/live/b7f52610-78ac-11f0-a20f-3b86f375586a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Labour revolt on migrant hotels' and 'cult priest guilty']]></title>
+            <description><![CDATA[Local councils seeking legal action on asylum hotels and a priest guilty of 17 sex crimes make Thursday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/crkz14ydkjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkz14ydkjgo#3</guid>
+            <pubDate>Wed, 20 Aug 2025 23:55:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fd0/live/1036f4b0-7e17-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Difficult decisions lie ahead after asylum seeker hotel ruling]]></title>
+            <description><![CDATA[The High Court ruling follows an unprecedented backlog in people waiting for a decision on their cases.]]></description>
+            <link>https://www.bbc.com/news/articles/cly4v3pllgko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4v3pllgko#3</guid>
+            <pubDate>Wed, 20 Aug 2025 14:58:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/c0d119c0-7dbf-11f0-a512-25ed1ee64338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are Rachel Reeves' options on property tax?]]></title>
+            <description><![CDATA[Reports suggest the government is considering shaking up the property tax system to raise revenue.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2k1m56xgjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2k1m56xgjo#3</guid>
+            <pubDate>Wed, 20 Aug 2025 15:45:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e1/live/23085c10-7dad-11f0-abdc-59614a74b023.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are food prices still rising by so much?]]></title>
+            <description><![CDATA[Food and drink prices have risen by 4.9% over the last year, according to ONS inflation data.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvn9z3y78lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvn9z3y78lo#3</guid>
+            <pubDate>Wed, 20 Aug 2025 14:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef8/live/2381b250-7dcf-11f0-88a2-b9725373e32e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jewellery, cash or first cars: Do rewards boost exam grades?]]></title>
+            <description><![CDATA[Some parents offer money and gifts ahead of exams results - but does the promise of a reward work?]]></description>
+            <link>https://www.bbc.com/news/articles/cgqnzy9ej0do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgqnzy9ej0do#3</guid>
+            <pubDate>Wed, 20 Aug 2025 18:20:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6161/live/c65a99f0-79c5-11f0-8827-ede848a7813c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MND left her without a voice. Eight seconds of scratchy audio gave it back to her]]></title>
+            <description><![CDATA[Sarah Ezekiel was 34 with two children when motor neurone disease took away her ability to speak.]]></description>
+            <link>https://www.bbc.com/news/articles/c1ejvxne7elo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1ejvxne7elo#3</guid>
+            <pubDate>Wed, 20 Aug 2025 04:51:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c946/live/409dcbf0-7d0f-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-priest found guilty of 17 indecent assaults]]></title>
+            <description><![CDATA[Chris Brain abused nine women while head of the Nine O'Clock Service in Sheffield in the 80s and 90s.]]></description>
+            <link>https://www.bbc.com/news/articles/c20662dxl88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20662dxl88o#4</guid>
+            <pubDate>Wed, 20 Aug 2025 16:01:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a22/live/52d05360-7de6-11f0-aa3b-29990a8088ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a cowboy builder ripped off his customers – and got away with it]]></title>
+            <description><![CDATA[When the BBC exposed Russell McMaster as a cowboy builder last year, angry clients demanded he be prosecuted.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2v8d4z017o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2v8d4z017o#4</guid>
+            <pubDate>Wed, 20 Aug 2025 22:15:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ff/live/8c2f7eb0-7db9-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pupils get GCSE results ahead of major shake-up]]></title>
+            <description><![CDATA[Thousands of pupils will find out how they did in their GCSEs, but the qualifications are changing.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0yn6y2m3do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0yn6y2m3do#4</guid>
+            <pubDate>Wed, 20 Aug 2025 21:49:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbe/live/33da3790-7dbf-11f0-a512-25ed1ee64338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of NI students gear up to receive GCSE results]]></title>
+            <description><![CDATA[More than 32,000 students in NI get their GCSE and some vocational qualification results on Thursday.]]></description>
+            <link>https://www.bbc.com/news/articles/cx29gqgzy4no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx29gqgzy4no#4</guid>
+            <pubDate>Wed, 20 Aug 2025 23:07:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd43/live/af984140-7dbc-11f0-88de-21c2f8cb127a.jpg"/>
+        </item>
+    </channel>
+</rss>
