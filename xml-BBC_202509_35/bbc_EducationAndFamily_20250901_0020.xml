@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Family & Education]]></description>
+        <link>https://www.bbc.co.uk/news/education</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/education</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 01 Sep 2025 00:21:00 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/education/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[More parents to get childcare funding as nurseries struggle with demand]]></title>
+            <description><![CDATA[Working parents are now able to access 30 hours of childcare per week, paid for by the government.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yeldz568jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yeldz568jo#0</guid>
+            <pubDate>Sun, 31 Aug 2025 23:12:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b027/live/1b644b00-83f1-11f0-9648-cd48a6caa00f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister warns parents on school attendance ahead of new term]]></title>
+            <description><![CDATA[It comes as data shows children who missed some of the first week of school were more likely to be persistently absent.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7jk3rr225o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7jk3rr225o#0</guid>
+            <pubDate>Sun, 31 Aug 2025 10:01:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d0/live/ba8d70f0-8651-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet the three-year-olds helping anxious teens spend more time in school]]></title>
+            <description><![CDATA[As school returns, we look at a scheme that pairs teenagers with toddlers from a local nursery in a bid to help increase school attendance.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypm4z19myo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypm4z19myo#0</guid>
+            <pubDate>Sat, 30 Aug 2025 00:24:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b7/live/82df0e70-8403-11f0-bd2b-c9a8fb561af5.png"/>
+        </item>
+        <item>
+            <title><![CDATA['£150 for school uniform is money I don't really have']]></title>
+            <description><![CDATA[Two in five parents in the South East say they struggle to afford school uniform, a new poll says.]]></description>
+            <link>https://www.bbc.com/news/articles/cwypzl6erg1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwypzl6erg1o#0</guid>
+            <pubDate>Thu, 28 Aug 2025 05:09:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d60/live/5dc308c0-835f-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My daughter should be in a special school but there is no space']]></title>
+            <description><![CDATA[Niamh was due to start primary school two weeks ago but is still waiting to find out if there is a suitable place.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzdzzmjnro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzdzzmjnro#0</guid>
+            <pubDate>Thu, 28 Aug 2025 14:02:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c772/live/003cb3f0-8278-11f0-9816-2d21cdb3c36a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School set to reopen for new term following fire]]></title>
+            <description><![CDATA[Several fire crews had to be called after the fire broke out on the final day of the school year ]]></description>
+            <link>https://www.bbc.com/news/articles/cj4wjx0q74no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4wjx0q74no#0</guid>
+            <pubDate>Thu, 28 Aug 2025 05:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdae/live/c7900b50-834a-11f0-83cc-c5da98c419b8.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tributes pour in for 'inspirational' school leader]]></title>
+            <description><![CDATA[Dave Baker, founder of the Olympus Academy Trust, held many senior roles in the education sector.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2qdenr4vqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2qdenr4vqo#0</guid>
+            <pubDate>Tue, 26 Aug 2025 10:44:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ef/live/f26b0b00-8263-11f0-ba76-2552413beb48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are girls being left behind in school? Experts are sounding the alarm]]></title>
+            <description><![CDATA[Girls are still more likely to pass GCSEs, but why is the gender gap now the lowest on record?]]></description>
+            <link>https://www.bbc.com/news/articles/cx2q189kv7yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2q189kv7yo#1</guid>
+            <pubDate>Fri, 22 Aug 2025 15:57:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4894/live/07972080-7f63-11f0-9b45-d97edf6817de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five key takeaways from this year's GCSE results]]></title>
+            <description><![CDATA[The GCSE pass rate has fallen again this year. Here's what you need to know.]]></description>
+            <link>https://www.bbc.com/news/articles/c70x5j8z34do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70x5j8z34do#1</guid>
+            <pubDate>Thu, 21 Aug 2025 15:59:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9985/live/8d0af410-7e89-11f0-923e-99997b6988ee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How working parents can get 30 hours of free childcare]]></title>
+            <description><![CDATA[Free childcare support for working parents varies across the UK, depending on the child's age. ]]></description>
+            <link>https://www.bbc.com/news/articles/cql26knn4kzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql26knn4kzo#1</guid>
+            <pubDate>Wed, 27 Aug 2025 23:45:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5251/live/774e7f10-83f3-11f0-a3f8-9b56bf5c3841.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are T-levels and what are the grades worth?]]></title>
+            <description><![CDATA[T-levels are equivalent to three A-levels, and focus on practical rather than academic subjects.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgnd8z535jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgnd8z535jo#1</guid>
+            <pubDate>Fri, 22 Aug 2025 07:27:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/50b83fb0-739c-11f0-a20f-3b86f375586a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are BTecs and how are they graded?]]></title>
+            <description><![CDATA[Hundreds of thousands of students do the vocational qualifications known as BTecs every year.]]></description>
+            <link>https://www.bbc.com/news/articles/ce832ze3y1vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce832ze3y1vo#1</guid>
+            <pubDate>Fri, 22 Aug 2025 07:17:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da66/live/306d8990-828d-11f0-b582-ddd92628512a.png"/>
+        </item>
+    </channel>
+</rss>
