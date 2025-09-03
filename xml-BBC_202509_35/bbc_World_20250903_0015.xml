@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 Sep 2025 00:15:41 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[North Korea's Kim arrives in Beijing with daughter to attend massive military parade]]></title>
+            <description><![CDATA[The "Victory Day" parade on Wednesday will see Kim rub shoulders with China's Xi Jinping, Russia's Vladimir Putin and others.]]></description>
+            <link>https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78z2p6gg1zo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 18:01:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe58/live/24722d60-8802-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strong aftershock hits Afghanistan after quake kills more than 1,400]]></title>
+            <description><![CDATA[Many remain trapped under rubble as rescuers use helicopters in remote areas hit by recent landslides.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqvqeg3nz5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqvqeg3nz5o#0</guid>
+            <pubDate>Tue, 02 Sep 2025 16:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac2/live/4fb58e20-8813-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of Israeli reservists report for duty ahead of Gaza City offensive]]></title>
+            <description><![CDATA[Ground forces are already pushing into the city, where hospitals say more than 50 people were killed by Israeli strikes on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvnv5lv4zpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvnv5lv4zpo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 18:15:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6530/live/03d6e710-881d-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump addresses online health rumours in Oval Office]]></title>
+            <description><![CDATA[In response to a reporter's question, the president said he was ‘very active’ over the Labor Day weekend. ]]></description>
+            <link>https://www.bbc.com/news/videos/c62724wdxzwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c62724wdxzwo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 19:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a8/live/b7e030e0-8836-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm here to entertain' - Alcaraz books semi-final spot ]]></title>
+            <description><![CDATA[Carlos Alcaraz reaches the US Open semi-finals for the third time after comprehensive straight-set win against Jiri Lehecka. ]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c4gzgdl6dklo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c4gzgdl6dklo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 20:54:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0946/live/6b30ec00-8843-11f0-8085-3d0f0c8540e1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany's far-right AfD suffers series of candidate deaths ahead of local vote]]></title>
+            <description><![CDATA[Police say there is no evidence of foul play, ahead of local elections in western Germany.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ykyewrerpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ykyewrerpo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 12:12:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d773/live/9173b4c0-87f2-11f0-b36e-47414de99d82.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump rejects that China posing challenge to US on world stage]]></title>
+            <description><![CDATA[It comes as China's Xi prepares to host the North Korean and Russian leaders at a "Victory Day" parade in Beijing.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dxd9eyy71o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dxd9eyy71o#1</guid>
+            <pubDate>Tue, 02 Sep 2025 21:42:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f29c/live/0334e570-8843-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds killed in Sudan landslide, UN  says]]></title>
+            <description><![CDATA[Sunday's landslide followed heavy rain and "levelled" a remote village, a local armed group says.]]></description>
+            <link>https://www.bbc.com/news/articles/cdj2jygzzk9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdj2jygzzk9o#1</guid>
+            <pubDate>Tue, 02 Sep 2025 10:45:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9b/live/88d9a1b0-87e5-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's use of National Guard in Los Angeles was illegal, judge rules]]></title>
+            <description><![CDATA[The ruling comes as Trump seeks to use National Guard troops in order to crack down on crime in other US cities.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ylyd9lkkqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ylyd9lkkqo#1</guid>
+            <pubDate>Tue, 02 Sep 2025 17:48:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b43/live/0c4c31e0-881b-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burkina Faso's parliament votes to outlaw homosexual acts]]></title>
+            <description><![CDATA[People could face up to five years in prison for breaking the new measure once signed into law.]]></description>
+            <link>https://www.bbc.com/news/articles/c2060er4062o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2060er4062o#1</guid>
+            <pubDate>Tue, 02 Sep 2025 14:46:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab3/live/71b36c80-880a-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gérard Depardieu to face trial over rape and sexual assault allegations ]]></title>
+            <description><![CDATA[His accuser, Charlotte Arnould, says she is relieved the case is going to court, seven years after she filed a complaint.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2v2w8m88no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2v2w8m88no#1</guid>
+            <pubDate>Tue, 02 Sep 2025 13:35:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c0/live/bfa36430-87fc-11f0-be14-b712a0c48110.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do we know about Kim Jong Un's daughter - and potential successor?]]></title>
+            <description><![CDATA[Kim Ju Ae's visit to China with her father is likely to further fuel speculation she may succeed him.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvgj7ejqdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvgj7ejqdo#2</guid>
+            <pubDate>Tue, 02 Sep 2025 18:01:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30dc/live/2b05ab20-8848-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beijing tightens control ahead of Xi's big moment on world stage]]></title>
+            <description><![CDATA[It is a big week for Xi Jinping, who will host Vladimir Putin and Kim Jong Un in Beijing at a massive military parade.]]></description>
+            <link>https://www.bbc.com/news/articles/cn020wrnw78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn020wrnw78o#2</guid>
+            <pubDate>Tue, 02 Sep 2025 06:37:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3c/live/6428aab0-87c1-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body seen in secret mortuary could solve 50-year mystery of vanished religious leader]]></title>
+            <description><![CDATA[Compelling evidence to suggest Lebanese Shia leader Musa al-Sadr was killed in Libya is uncovered by BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/clyr1qr529xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyr1qr529xo#2</guid>
+            <pubDate>Tue, 02 Sep 2025 00:18:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b5/live/00b8a8f0-7ece-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the death of a delivery driver ignited Indonesia]]></title>
+            <description><![CDATA[Protests over corruption and inequality have spiralled into violence, arson and deaths. ]]></description>
+            <link>https://www.bbc.com/news/articles/c2dj9w306wzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dj9w306wzo#2</guid>
+            <pubDate>Mon, 01 Sep 2025 22:08:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe0c/live/0ac22dd0-871b-11f0-9daf-a1d92d7312e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enforcing Australia's social media ban on kids is possible but contains risks, report says]]></title>
+            <description><![CDATA[The impending ban is popular with many parents, but experts have raised concerns over privacy and age verification technology.]]></description>
+            <link>https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrkj0d44vo#2</guid>
+            <pubDate>Mon, 01 Sep 2025 02:34:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0294/live/769bbf80-86d5-11f0-943a-798435fc051b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Timelapse shows Northern Lights display over North Sea]]></title>
+            <description><![CDATA[Monday night's dazzling sight was filmed from Flamborough in East Yorkshire, over three hours and 40 minutes.
+]]></description>
+            <link>https://www.bbc.com/news/videos/ckglgp9q2nno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckglgp9q2nno#3</guid>
+            <pubDate>Tue, 02 Sep 2025 21:47:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/951b/live/298d1c40-8845-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump addresses online health rumours in Oval Office]]></title>
+            <description><![CDATA[In response to a reporter's question, the president said he was ‘very active’ over the Labor Day weekend. ]]></description>
+            <link>https://www.bbc.com/news/videos/c62724wdxzwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c62724wdxzwo#3</guid>
+            <pubDate>Tue, 02 Sep 2025 19:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a8/live/b7e030e0-8836-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghan quake victims buried on mountain top as aftershocks continue]]></title>
+            <description><![CDATA[The BBC's Yama Bariz travelled to a region devastated by the 6.0 magnitude earthquake.]]></description>
+            <link>https://www.bbc.com/news/videos/cd9j9g5n92do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd9j9g5n92do#3</guid>
+            <pubDate>Tue, 02 Sep 2025 18:46:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c80e/live/ad0216b0-8828-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Buildings destroyed and rescue efforts under way after deadly Afghanistan earthquake]]></title>
+            <description><![CDATA[At least 800 people have been killed and thousands injured in the east of the country after a 6.0 magnitude earthquake struck on Sunday night.]]></description>
+            <link>https://www.bbc.com/news/videos/cqxgx8d14wwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cqxgx8d14wwo#3</guid>
+            <pubDate>Mon, 01 Sep 2025 22:29:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/0ea2bd90-8782-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+    </channel>
+</rss>
