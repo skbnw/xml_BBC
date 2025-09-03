@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Middle East]]></description>
+        <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 Sep 2025 16:05:18 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Thousands of Israeli reservists report for duty ahead of Gaza City offensive]]></title>
+            <description><![CDATA[Ground forces are already pushing into the city, where hospitals say more than 50 people were killed by Israeli strikes on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvnv5lv4zpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvnv5lv4zpo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 18:15:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6530/live/03d6e710-881d-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel committing genocide in Gaza, world's leading experts say]]></title>
+            <description><![CDATA[The world's leading association of genocide scholars cited several actions by Israel, including attacks on the healthcare sector and the killing of children.]]></description>
+            <link>https://www.bbc.com/news/articles/cde3eyzdr63o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cde3eyzdr63o#0</guid>
+            <pubDate>Mon, 01 Sep 2025 17:22:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5245/live/04a00ae0-8756-11f0-ac15-0be71ebd833b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body seen in secret mortuary could solve 50-year mystery of vanished religious leader]]></title>
+            <description><![CDATA[Compelling evidence to suggest Lebanese Shia leader Musa al-Sadr was killed in Libya is uncovered by BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/clyr1qr529xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyr1qr529xo#0</guid>
+            <pubDate>Tue, 02 Sep 2025 00:18:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b5/live/00b8a8f0-7ece-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US suspends most visas for Palestinian passport-holders, reports say]]></title>
+            <description><![CDATA[The new restriction comes after a group of Palestinian officials were refused visas for a key UN meeting in New York. ]]></description>
+            <link>https://www.bbc.com/news/articles/cpv099421pro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv099421pro#0</guid>
+            <pubDate>Mon, 01 Sep 2025 15:37:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c95/live/f1a89bd0-8739-11f0-acd6-23d840edca4d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza flotilla with Greta Thunberg on board departs Barcelona]]></title>
+            <description><![CDATA[Around 20 boats have left the port of Barcelona with Greta Thunberg and aid supplies on board.]]></description>
+            <link>https://www.bbc.com/news/articles/cn727mjn73lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn727mjn73lo#0</guid>
+            <pubDate>Mon, 01 Sep 2025 21:59:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75a/live/ef239d00-8799-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN chief demands release of 11 staff arrested in Yemen]]></title>
+            <description><![CDATA[The food and children's agency workers are the latest UN staff detained by Houthi authorities.]]></description>
+            <link>https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce93k7ye2geo#0</guid>
+            <pubDate>Mon, 01 Sep 2025 10:06:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af20/live/58b00a00-870a-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamas spokesman Abu Obeida killed in Gaza, Israel says]]></title>
+            <description><![CDATA[The military spokesman was killed in strikes on Saturday, Israel says - Hamas has not confirmed the death.]]></description>
+            <link>https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm214r5rd29o#0</guid>
+            <pubDate>Sun, 31 Aug 2025 20:32:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a00/live/a20c7f00-867c-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Houthis confirm their prime minister killed in Israeli strike]]></title>
+            <description><![CDATA[Ahmed Ghaleb Nasser al-Rahawi and several other Houthi officials were killed in the attack, the Iran-backed movement says.]]></description>
+            <link>https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620ykrxedwo#1</guid>
+            <pubDate>Sat, 30 Aug 2025 20:39:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d209/live/eefe5f50-85b8-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US blocks Palestinian leader from attending UN meeting in New York]]></title>
+            <description><![CDATA[The decision comes as France leads international efforts to recognise a Palestinian state at the UN meeting next month.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdym32z9v7o#1</guid>
+            <pubDate>Sat, 30 Aug 2025 07:22:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa76/live/913f1f60-8501-11f0-bf6f-0d0a8492a6fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body of Israeli hostage recovered in Gaza, IDF says]]></title>
+            <description><![CDATA[Ilan Weiss was killed during Hamas's attack in southern Israel on 7 October 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/crlzyne9jl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crlzyne9jl2o#1</guid>
+            <pubDate>Fri, 29 Aug 2025 18:49:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8743/live/bedcbc10-84cb-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK, France and Germany move to reimpose UN sanctions on Iran]]></title>
+            <description><![CDATA[The three powers trigger a process which could restore sanctions in 30 days, calling Iran's nuclear programme a threat to peace and security. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gmr3z49lxo#1</guid>
+            <pubDate>Fri, 29 Aug 2025 00:34:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1264/live/5524ba70-8417-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill six Syrian troops, Syria says]]></title>
+            <description><![CDATA[The Israeli military declined to comment on reports of the strikes, which Syria condemned.]]></description>
+            <link>https://www.bbc.com/news/articles/cp37kdjk0n2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp37kdjk0n2o#1</guid>
+            <pubDate>Thu, 28 Aug 2025 11:13:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee8/live/23c30090-83ef-11f0-a98e-59c7bc4be675.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blair joins White House meeting with Trump on post-war Gaza]]></title>
+            <description><![CDATA[The talks come as Israel prepares to seize Gaza City as a step towards full control of the territory.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gmrxd8ryno#1</guid>
+            <pubDate>Thu, 28 Aug 2025 12:08:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/ca4f5590-834e-11f0-8a9a-613339b7e5c3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[UN demands justice over Israeli double strike on Gaza hospital]]></title>
+            <description><![CDATA[An initial Israeli military report says the attack targeted a "Hamas camera" and identified "gaps" for further investigation.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6n97gj1nqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6n97gj1nqo#1</guid>
+            <pubDate>Wed, 27 Aug 2025 02:16:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c4e/live/c622c880-82c2-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli double strike on Gaza hospital - what we know]]></title>
+            <description><![CDATA[Netanyahu said it was a "tragic mishap" but did little to address the apparent "double-tap" nature of the attack, which killed 20 people including journalists and health workers.]]></description>
+            <link>https://www.bbc.com/news/articles/c80d2zrdj7vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80d2zrdj7vo#1</guid>
+            <pubDate>Tue, 26 Aug 2025 16:36:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0922/live/1b6f1970-81cd-11f0-b1b7-d5227004453f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New footage shows Israel struck Gaza's Nasser Hospital four times]]></title>
+            <description><![CDATA[New footage has revealed that two more strikes were carried out on hospital by Israel than initially reported. ]]></description>
+            <link>https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6lxn1l4po#2</guid>
+            <pubDate>Fri, 29 Aug 2025 00:25:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/51258ca0-8454-11f0-b391-6936825093bd.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Exhausted, hungry, and scared': What it's like to be a journalist in Gaza]]></title>
+            <description><![CDATA[Palestinian journalists give the BBC first-hand accounts of the hardship and dangers they face while reporting on the war.]]></description>
+            <link>https://www.bbc.com/news/articles/crm49zxyn0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm49zxyn0go#2</guid>
+            <pubDate>Wed, 27 Aug 2025 20:46:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f862/live/a109c510-8297-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How Israel's policies created famine in Gaza]]></title>
+            <description><![CDATA[Israel has systematically obstructed food entering Gaza, aid agencies say, as a UN-backed body confirms a famine.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg4p90z1kxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg4p90z1kxo#2</guid>
+            <pubDate>Fri, 22 Aug 2025 19:55:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0404/live/ade190a0-7f69-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC witnesses Israeli settlers' attack on Palestinian farm in West Bank]]></title>
+            <description><![CDATA[A BBC team was interviewing a Palestinian farmer when masked men charged towards them.]]></description>
+            <link>https://www.bbc.com/news/articles/cewy88jle0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewy88jle0eo#2</guid>
+            <pubDate>Mon, 18 Aug 2025 09:52:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a59b/live/10dc19a0-7c3b-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Netanyahu is presiding over a divided Israel - the fault lines are now chasms]]></title>
+            <description><![CDATA[Jeremy Bowen travelled through Israel to hear views from all sides - from protesters in 'psychological despair' over Gaza, to those who feel an overwhelming sense that their country's actions are justified.]]></description>
+            <link>https://www.bbc.com/news/articles/c3r441zyw27o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r441zyw27o#2</guid>
+            <pubDate>Thu, 14 Aug 2025 23:33:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e9/live/0d738660-791e-11f0-94c9-359462cd741a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Israeli settlers intensify campaign to drive out West Bank Palestinians]]></title>
+            <description><![CDATA[In the shadow of the Gaza war, violence is rising in the occupied territories as radical settlers seize land with the backing of the government.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4wwxz12jko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4wwxz12jko#2</guid>
+            <pubDate>Sun, 10 Aug 2025 21:03:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9193/live/b51434c0-7610-11f0-8071-1788c7e8ae0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Thank you, but it's too late': Why some Palestinians aren't convinced by Starmer's promise]]></title>
+            <description><![CDATA[Some say Britain's decision is an important first step – while others worry it won't make a real difference, writes BBC's International Editor Jeremy Bowen. ]]></description>
+            <link>https://www.bbc.com/news/articles/cd6n0eeqp54o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6n0eeqp54o#2</guid>
+            <pubDate>Fri, 01 Aug 2025 23:36:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2132/live/a281b350-6ef4-11f0-8dbd-f3d32ebd3327.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gazan boy first to be treated in UK for war injuries]]></title>
+            <description><![CDATA[Majd, 15, was almost killed by an Israeli tank shell last February. He has finally arrived in the UK for reconstructive surgery.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn6979n59o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn6979n59o#2</guid>
+            <pubDate>Thu, 31 Jul 2025 18:07:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40d/live/57183190-6e14-11f0-89ea-4d6f9851f623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US allies break with Trump to force diplomatic shift on Gaza]]></title>
+            <description><![CDATA[As Canada joins France and the UK with plans to recognise a Palestinian state, the US stands firmly with Israel - but does Trump have a long-term plan for Gaza's future?]]></description>
+            <link>https://www.bbc.com/news/articles/cly6rl6158no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6rl6158no#2</guid>
+            <pubDate>Thu, 31 Jul 2025 01:44:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c05/live/4e7b6260-6de6-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Gulf bets big on AI as it seeks the 'new oil']]></title>
+            <description><![CDATA[The UAE and Saudi Arabia are partnering with the US to position themselves as AI hubs.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8z2mx508o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8z2mx508o#2</guid>
+            <pubDate>Wed, 30 Jul 2025 23:14:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a15/live/97061040-6317-11f0-b9e2-cfbce8d64ab1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy flash floods hit Saudi Arabia]]></title>
+            <description><![CDATA[Cars were driving through flooded streets after strong rain in the southwestern part of the country triggered flash floods.]]></description>
+            <link>https://www.bbc.com/news/videos/clyr0vlz2nvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/clyr0vlz2nvo#3</guid>
+            <pubDate>Fri, 29 Aug 2025 15:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bceb/live/346814c0-84c7-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the double strike on Gaza's Nasser Hospital unfolded]]></title>
+            <description><![CDATA[BBC Verify analyses footage from the attack and its aftermath to piece together the timeline of events and what it reveals.]]></description>
+            <link>https://www.bbc.com/news/videos/c36jdze5r4ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c36jdze5r4ko#3</guid>
+            <pubDate>Tue, 26 Aug 2025 21:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81f/live/ed8200e0-8339-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli hostage families and demonstrators hold day of protests]]></title>
+            <description><![CDATA[Families of hostages being held by Hamas are protesting across Israel in a day of marches, rallies and demonstrations.]]></description>
+            <link>https://www.bbc.com/news/videos/ce9373j8zdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce9373j8zdjo#3</guid>
+            <pubDate>Tue, 26 Aug 2025 11:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9698/live/d47f5cb0-8270-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza mother blames famine for halving daughter's weight]]></title>
+            <description><![CDATA[Rida Hijjeh says her daughter has lost 9.5kg, as famine is confirmed in Gaza City.]]></description>
+            <link>https://www.bbc.com/news/videos/ce87px1yd23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce87px1yd23o#3</guid>
+            <pubDate>Fri, 22 Aug 2025 15:39:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ba/live/215f7e60-7f6b-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC at Rafah crossing as queues of aid trucks wait to enter Gaza]]></title>
+            <description><![CDATA[The BBC's Chief International Correspondent Lyse Doucet is travelling with Palestinian Prime Minister Mohammad Mustafa and Egypt’s Foreign Minister Badr Abdelatty.]]></description>
+            <link>https://www.bbc.com/news/videos/cev2nmwxe1po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cev2nmwxe1po#3</guid>
+            <pubDate>Mon, 18 Aug 2025 16:11:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1364/live/05fcd2b0-7c48-11f0-83cc-c5da98c419b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC witnesses West Bank attack by masked Israeli settlers]]></title>
+            <description><![CDATA[The BBC's Lucy Williamson says the incident near Nablus was "completely unprovoked".]]></description>
+            <link>https://www.bbc.com/news/videos/c3v3e6r239ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3v3e6r239ro#3</guid>
+            <pubDate>Mon, 18 Aug 2025 10:20:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/7bf88190-7c10-11f0-a34f-318be3fb0481.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza aid dropped into Israeli-designated danger zone, BBC Verify finds]]></title>
+            <description><![CDATA[BBC Verify finds 10 occasions where aid was dropped into an area Israel has warned people not to enter, saying it would put their lives at risk.]]></description>
+            <link>https://www.bbc.com/news/videos/cn851l607djo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn851l607djo#3</guid>
+            <pubDate>Sat, 16 Aug 2025 23:04:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c43c/live/929f7330-79ff-11f0-a34f-318be3fb0481.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Palestinian and Israeli representatives address UN meeting]]></title>
+            <description><![CDATA[Riyad Mansour, Permanent Observer of Palestine to the UN, and Jonathan Miller, Deputy Permanent Representative for Israel to the UN, address a UN Security Council meeting.
+]]></description>
+            <link>https://www.bbc.com/news/videos/c4g66p5q1p9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4g66p5q1p9o#3</guid>
+            <pubDate>Sun, 10 Aug 2025 18:04:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e30/live/a538fe30-7612-11f0-a975-cb151ca452f4.jpg"/>
+        </item>
+    </channel>
+</rss>
