@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 08 Sep 2025 16:04:04 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Six killed by Palestinian gunmen at Jerusalem bus stop]]></title>
+            <description><![CDATA[Israeli police say two gunmen were killed after the attack, which was one of the deadliest in the city in years.]]></description>
+            <link>https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr70ny0l7vgo#0</guid>
+            <pubDate>Mon, 08 Sep 2025 13:09:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand dad shot dead by police after years on the run with children]]></title>
+            <description><![CDATA[Tom Phillips disappeared with his three children in 2021 after losing a custody battle.]]></description>
+            <link>https://www.bbc.com/news/articles/c75qlerp2e5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75qlerp2e5o#0</guid>
+            <pubDate>Mon, 08 Sep 2025 09:35:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344f/live/911309e0-8ca2-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 19 dead in Nepal after Gen Z protests at corruption and social media ban]]></title>
+            <description><![CDATA[Young protesters are demanding the government lift its social media ban and tackle corruption.]]></description>
+            <link>https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78nd2zy9jgo#0</guid>
+            <pubDate>Mon, 08 Sep 2025 14:18:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c3c/live/2b141cc0-8cab-11f0-84c8-99de564f0440.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lone survivor of mushroom murders pleads to grieve in private as killer jailed for life]]></title>
+            <description><![CDATA[As Erin Patterson was sentenced, her sole surviving victim Ian Wilkinson called for privacy and kindness.]]></description>
+            <link>https://www.bbc.com/news/articles/cly1v06xz7qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly1v06xz7qo#0</guid>
+            <pubDate>Mon, 08 Sep 2025 08:52:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d81/live/ec181ed0-8c88-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump threatens tougher sanctions after Russia's heaviest strikes on Ukraine]]></title>
+            <description><![CDATA[Trump's threat of sanctions comes after Russia's heaviest attack of the war. ]]></description>
+            <link>https://www.bbc.com/news/articles/cwyrx205dj2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyrx205dj2o#0</guid>
+            <pubDate>Mon, 08 Sep 2025 09:29:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452d/live/7f921dc0-8c50-11f0-b58c-ab8e0245c3fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korean worker tells BBC of panic during US immigration raid at Hyundai plant]]></title>
+            <description><![CDATA[Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yqg0rln74o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqg0rln74o#0</guid>
+            <pubDate>Sun, 07 Sep 2025 23:14:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6815/live/f34693f0-8c95-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lisbon funicular crash victim was 'transport enthusiast']]></title>
+            <description><![CDATA[Sixteen people died when the funicular crashed into a building in the Portuguese capital.]]></description>
+            <link>https://www.bbc.com/news/articles/cq8ev844egpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8ev844egpo#1</guid>
+            <pubDate>Mon, 08 Sep 2025 13:08:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153a/live/c8d51dd0-8cb3-11f0-82aa-7d0865a885a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French doctor goes on trial for poisoning 30 patients, 12 fatally]]></title>
+            <description><![CDATA[Frédéric Péchier, considered by colleagues to be a highly-talented practitioner, maintains there is no proof of any poisoning.]]></description>
+            <link>https://www.bbc.com/news/articles/crl5ngj9zwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crl5ngj9zwgo#1</guid>
+            <pubDate>Mon, 08 Sep 2025 11:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb07/live/8cd12fc0-8cc9-11f0-aff0-010617e09ce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Suitcase murder' trial begins in New Zealand]]></title>
+            <description><![CDATA[Hakyung Lee is accused of killing her two young children, whose bodies were found stuffed in suitcases.]]></description>
+            <link>https://www.bbc.com/news/articles/cn83jjx9pjvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn83jjx9pjvo#1</guid>
+            <pubDate>Mon, 08 Sep 2025 05:12:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8e/live/c62c0000-8c75-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian prisoners not being given adequate food, Israel top court says]]></title>
+            <description><![CDATA[The court said the state is legally obligated to provide enough food to ensure "a basic level of existence."
+]]></description>
+            <link>https://www.bbc.com/news/articles/c1mxlk518vko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mxlk518vko#1</guid>
+            <pubDate>Mon, 08 Sep 2025 02:53:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/9776dda0-8c4f-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Routh to stand trial for alleged Trump assassination attempt]]></title>
+            <description><![CDATA[A court case for Mr Routh, who has pleaded not guilty, begins on Monday - with the defendant representing himself.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xre584drdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xre584drdo#1</guid>
+            <pubDate>Mon, 08 Sep 2025 00:35:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5659/live/91e64f20-8c44-11f0-846a-470787cbae5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg's Gaza flotilla arrives in Tunisia]]></title>
+            <description><![CDATA[The boats, carrying 350 pro-Palestinian activists and stocked with medical and food supplies, are en route to Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gjz0d366eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gjz0d366eo#1</guid>
+            <pubDate>Sun, 07 Sep 2025 20:53:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34f/live/b73b0590-8c7b-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France is set to vote out another PM. Can anything break its political deadlock?]]></title>
+            <description><![CDATA[François Bayrou called a vote of confidence in himself after nine relatively ineffectual months in office.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2z8xyz68mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2z8xyz68mo#2</guid>
+            <pubDate>Sun, 07 Sep 2025 23:52:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5823/live/2efb8690-8c9f-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How four-year hunt for NZ dad on the run with his children unfolded]]></title>
+            <description><![CDATA[After a handful of chance encounters and brief sightings, the fugitive was shot dead on Monday morning.]]></description>
+            <link>https://www.bbc.com/news/articles/cly0279yervo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly0279yervo#2</guid>
+            <pubDate>Mon, 08 Sep 2025 14:19:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ea/live/c7ac75f0-8cab-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the coup trial of Jair Bolsonaro has divided Brazil]]></title>
+            <description><![CDATA[The ex-president is accused of trying to overturn his election loss but his supporters say it is a witch hunt.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4wx9zlpj5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4wx9zlpj5o#2</guid>
+            <pubDate>Mon, 08 Sep 2025 14:37:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff50/live/501617c0-8cc0-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge drugs bust reveals battles on cocaine 'superhighway']]></title>
+            <description><![CDATA[An audacious attempt to smuggle tonnes of cocaine was stopped, but pressure from drug cartels remains.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvplyrrwno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvplyrrwno#2</guid>
+            <pubDate>Mon, 08 Sep 2025 05:02:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5f/live/cac3d180-8bce-11f0-84c8-99de564f0440.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I don't dare go back': BBC visits Cambodian villages caught in Thai border conflict ]]></title>
+            <description><![CDATA[Tension along disputed parts of the border with Thailand erupted into conflict in July, leaving dozens dead.]]></description>
+            <link>https://www.bbc.com/news/articles/c059j8759rlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c059j8759rlo#2</guid>
+            <pubDate>Sun, 07 Sep 2025 22:04:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db6/live/1efacf30-8a47-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duped of millions in 'digital arrest', Indian woman seeks answers from banks]]></title>
+            <description><![CDATA[Anjali asks why such huge sums leaving her account didn’t trigger red flags and automatic alerts.  
+]]></description>
+            <link>https://www.bbc.com/news/articles/clydllln9lgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clydllln9lgo#2</guid>
+            <pubDate>Mon, 08 Sep 2025 00:45:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e90/live/1136d620-8a18-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Tariffs are costing my business $100,000 a month']]></title>
+            <description><![CDATA[The gulf between Trump's rhetoric and the reality on the ground is starting to show. ]]></description>
+            <link>https://www.bbc.com/news/articles/c3rvdxz9589o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rvdxz9589o#2</guid>
+            <pubDate>Mon, 08 Sep 2025 11:57:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/ba616780-8caa-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Glitz, glamour and emotional speeches at VMAs 2025]]></title>
+            <description><![CDATA[The MTV Video Music Awards (VMAs) have taken place in New York, with high profile figures in the music industry taking to the red carpet.]]></description>
+            <link>https://www.bbc.com/news/videos/crl5ngr2069o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crl5ngr2069o#3</guid>
+            <pubDate>Mon, 08 Sep 2025 09:04:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bc8/live/9e660230-8c90-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What it was like inside court as mushroom murderer was jailed for life]]></title>
+            <description><![CDATA[The BBC's Katy Watson was in the courtroom as Erin Patterson was sentenced to life.]]></description>
+            <link>https://www.bbc.com/news/videos/c15k4y5nwz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c15k4y5nwz7o#3</guid>
+            <pubDate>Mon, 08 Sep 2025 03:32:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e737/live/08cb93e0-8c7f-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Timelapse shows Blood Moon rising around the world]]></title>
+            <description><![CDATA[As the Moon passes through the Earth's shadow, it takes on a deep red hue, creating a striking "Blood Moon".]]></description>
+            <link>https://www.bbc.com/news/videos/c93071yz5zzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c93071yz5zzo#3</guid>
+            <pubDate>Sun, 07 Sep 2025 19:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d77/live/5c764ae0-8c1a-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands flock to Vatican as teenager made first millennial saint ]]></title>
+            <description><![CDATA[Pope Leo canonises the London-born Italian boy nicknamed "God's influencer" for his online skills.]]></description>
+            <link>https://www.bbc.com/news/videos/cy9njpyp09do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy9njpyp09do#3</guid>
+            <pubDate>Sun, 07 Sep 2025 16:32:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b52/live/4e933240-8c05-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+    </channel>
+</rss>
