@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Scotland]]></description>
+        <link>https://www.bbc.co.uk/news/scotland</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/scotland</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 11 Sep 2025 00:17:21 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/scotland/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Very mixed feelings' - How locals view a nearby asylum seeker hotel]]></title>
+            <description><![CDATA[BBC Scotland News speaks to people in Westhill about asylum seekers using a hotel on their doorstep.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7drnergr7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7drnergr7o#0</guid>
+            <pubDate>Wed, 10 Sep 2025 22:05:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c592/live/67289230-8e2d-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strikes at three Scottish universities in one day]]></title>
+            <description><![CDATA[Staff at Robert Gordon University, the University of the West of Scotland and the University of Edinburgh will all strike on Thursday.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy8pndz9r9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8pndz9r9o#0</guid>
+            <pubDate>Wed, 10 Sep 2025 22:05:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faad/live/62cfaca0-8e5f-11f0-96e7-475804d250b1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How do I find a job when hundreds in my town are redundant?]]></title>
+            <description><![CDATA[The Falkirk area has been hit by the loss of jobs at two major employers in the past year.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wd5rw9gk0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wd5rw9gk0o#0</guid>
+            <pubDate>Wed, 10 Sep 2025 22:04:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/7b07cd60-8e42-11f0-b199-41ee52afc86b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle v Barcelona tickets bought by Dundee school]]></title>
+            <description><![CDATA[Dozens of tickets for Newcastle United's Champions League opener against Barcelona have been bought by a school in Scotland, to the dismay of some regular fans.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czdjlnr7dr6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdjlnr7dr6o#0</guid>
+            <pubDate>Wed, 10 Sep 2025 19:17:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66d/live/81c20bd0-8e6e-11f0-9531-afe73c08c2bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters tackling large blaze at Glasgow scrapyard]]></title>
+            <description><![CDATA[Six fire engines, a high-reach and specialist resources have been sent to the S Norton Glasgow East recycling facility on London Road.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wgep5j00jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wgep5j00jo#0</guid>
+            <pubDate>Wed, 10 Sep 2025 21:14:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca0d/live/d8b22530-8e8a-11f0-8a4f-1fa553c65da2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Historic buildings to be improved with £2m funding]]></title>
+            <description><![CDATA[The money will help to upgrade buildings in places including the Castlegate area of Aberdeen.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5eyq6983no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5eyq6983no#0</guid>
+            <pubDate>Wed, 10 Sep 2025 22:04:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a005/live/2671e3f0-8e63-11f0-9531-afe73c08c2bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Real chance' of whisky tariff deal with Trump, says Swinney]]></title>
+            <description><![CDATA[The first minister is hopeful of a tariffs exemption following talks with the president in Washington. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm2d7vz50e2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2d7vz50e2o#0</guid>
+            <pubDate>Wed, 10 Sep 2025 18:10:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2f/live/a736ad50-8e58-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four guilty of murdering man by stab wound to heart]]></title>
+            <description><![CDATA[Tony Ferns had just dropped his girlfriend off and was in the car outside her home when he was stabbed in April 2019.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5v41j2lro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5v41j2lro#1</guid>
+            <pubDate>Wed, 10 Sep 2025 17:15:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038d/live/45e02680-8e49-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Edinburgh pledges £1.7m for Tour de France 2027 start]]></title>
+            <description><![CDATA[It is hoped the funding will come from income from the capital's visitor levy.]]></description>
+            <link>https://www.bbc.com/news/articles/c04qnn44y47o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04qnn44y47o#1</guid>
+            <pubDate>Wed, 10 Sep 2025 15:50:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42e/live/d0be98e0-8e5d-11f0-af6b-f75bb410f9ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban for bus driver who crashed into railway bridge]]></title>
+            <description><![CDATA[Darren Stevenson ignored alarms and drove the double decker under a low bridge which ripped off the roof.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9rnn5274jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9rnn5274jo#1</guid>
+            <pubDate>Wed, 10 Sep 2025 15:37:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b56/live/5e5e0300-8e51-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local anger after Port Glasgow named most dismal town]]></title>
+            <description><![CDATA[The Inverclyde town famed for its shipbuilding past has been honoured with the Plook on the Plinth award.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gwxv5nj9go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gwxv5nj9go#1</guid>
+            <pubDate>Wed, 10 Sep 2025 13:37:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4810/live/c8221c30-8e4d-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS Tayside sorry for 'adding to Eljamel trauma']]></title>
+            <description><![CDATA[A public inquiry into the disgraced surgeon who harmed dozens of patients is holding a preliminary hearing.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g53rk2ek5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g53rk2ek5o#1</guid>
+            <pubDate>Wed, 10 Sep 2025 13:51:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd8/live/6f4dda00-1070-11f0-ac9f-c37d6fd89579.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland could fall behind in Europe's space race, MPs warn]]></title>
+            <description><![CDATA[The Scottish Affairs Committee says Scotland has potential to be a leader in small satellite launches - but needs more investment.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyw19kpv4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyw19kpv4po#1</guid>
+            <pubDate>Wed, 10 Sep 2025 16:24:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b6/live/10f5f240-8e5a-11f0-8eba-0dbf19bcb4bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The NHS surgeon who butchered his patients]]></title>
+            <description><![CDATA[A victim of Sam Eljamel on her long fight for justice.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002j6zd?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002j6zd#2</guid>
+            <pubDate>Wed, 10 Sep 2025 16:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1zjmc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How I find silver linings as a BBC weather presenter living with Crohn's]]></title>
+            <description><![CDATA[Calum MacColl is well known for his sunny disposition and impromptu singing but few are aware of his struggles behind the scenes.]]></description>
+            <link>https://www.bbc.com/news/articles/c740x9pgl2no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c740x9pgl2no#2</guid>
+            <pubDate>Tue, 09 Sep 2025 15:31:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9017/live/0e9f9720-8d52-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The husband and wife team rescuing poorly seal pups]]></title>
+            <description><![CDATA[Phil and Clare Boardman have been shortlisted for a BBC award in recognition of their charity work.]]></description>
+            <link>https://www.bbc.com/news/articles/c2en0k244rpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2en0k244rpo#2</guid>
+            <pubDate>Tue, 09 Sep 2025 05:23:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6992/live/02c6cc00-88e0-11f0-8c02-ed32f57a7bac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should all pupils get the right to an  outdoor education week? ]]></title>
+            <description><![CDATA[The Scottish government must choose to fund outdoor education or a bill aiming to give all children the experience will fail.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4rnjxwjyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4rnjxwjyyo#2</guid>
+            <pubDate>Tue, 09 Sep 2025 05:22:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3a/live/e28be9e0-8d47-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures of Scotland]]></title>
+            <description><![CDATA[A selection of photographs submitted to BBC Scotland News from around the country this week.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yey383yvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yey383yvno#2</guid>
+            <pubDate>Fri, 05 Sep 2025 10:35:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21b4/live/566a7ce0-8e07-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One year before Glasgow 2026 - is sport accessible to all?]]></title>
+            <description><![CDATA[Glasgow is trying to make sport attractive for disabled people ahead of hosting the Commonwealth Games.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2z387v1pmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2z387v1pmo#2</guid>
+            <pubDate>Mon, 08 Sep 2025 05:11:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5431/live/69c8bd00-8a52-11f0-94f4-77b666520245.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Italian town stages Scots celebration]]></title>
+            <description><![CDATA[The Skye Youth Pipe Band was among the guests in the Tuscan town of Barga for its Scottish festival.]]></description>
+            <link>https://www.bbc.com/news/articles/ce32z9ky69qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce32z9ky69qo#2</guid>
+            <pubDate>Mon, 08 Sep 2025 05:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16cb/live/77c0cd10-8b3f-11f0-a23b-03b8d466a85d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will UK turmoil sink Labour's hopes at Holyrood?]]></title>
+            <description><![CDATA[Do Labour's ongoing struggles at Westminster doom its chances in next May's Holyrood election?]]></description>
+            <link>https://www.bbc.com/news/articles/c306pzrg3e9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c306pzrg3e9o#2</guid>
+            <pubDate>Sun, 07 Sep 2025 13:51:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9336/live/e6c50000-8be4-11f0-bcd6-e9a8acb86c0a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strikes at three Scottish universities in one day]]></title>
+            <description><![CDATA[Staff at Robert Gordon University, the University of the West of Scotland and the University of Edinburgh will all strike on Thursday.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy8pndz9r9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8pndz9r9o#3</guid>
+            <pubDate>Wed, 10 Sep 2025 22:05:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faad/live/62cfaca0-8e5f-11f0-96e7-475804d250b1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland could fall behind in Europe's space race, MPs warn]]></title>
+            <description><![CDATA[The Scottish Affairs Committee says Scotland has potential to be a leader in small satellite launches - but needs more investment.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyw19kpv4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyw19kpv4po#3</guid>
+            <pubDate>Wed, 10 Sep 2025 16:24:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b6/live/10f5f240-8e5a-11f0-8eba-0dbf19bcb4bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Very mixed feelings' - How locals view a nearby asylum seeker hotel]]></title>
+            <description><![CDATA[BBC Scotland News speaks to people in Westhill about asylum seekers using a hotel on their doorstep.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7drnergr7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7drnergr7o#3</guid>
+            <pubDate>Wed, 10 Sep 2025 22:05:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c592/live/67289230-8e2d-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Village bypass options go up for examination]]></title>
+            <description><![CDATA[There have been long-standing calls to take the A75 around the villages of Crocketford and Springholm.]]></description>
+            <link>https://www.bbc.com/news/articles/c98dye56533o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98dye56533o#3</guid>
+            <pubDate>Wed, 10 Sep 2025 09:51:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb4/live/712e6810-8e2b-11f0-a7c8-151354d0eaad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do I find a job when hundreds in my town are redundant?]]></title>
+            <description><![CDATA[The Falkirk area has been hit by the loss of jobs at two major employers in the past year.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wd5rw9gk0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wd5rw9gk0o#3</guid>
+            <pubDate>Wed, 10 Sep 2025 22:04:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/7b07cd60-8e42-11f0-b199-41ee52afc86b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retiring is a 'weight off my shoulders' - Craig]]></title>
+            <description><![CDATA[Scotland's Paul Craig says it feels like a "weight has been lifted" from his shoulders after bringing his distinguished UFC career to a close.]]></description>
+            <link>https://www.bbc.com/sport/mixed-martial-arts/articles/c3w588yz00go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/mixed-martial-arts/articles/c3w588yz00go#4</guid>
+            <pubDate>Wed, 10 Sep 2025 18:04:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b5d/live/7a93b330-8e60-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Just the start' - Goodwin agrees new Dundee United deal]]></title>
+            <description><![CDATA[Jim Goodwin signs a new 12-month rolling contract as Dundee United manager, saying the Tangerines are "only scratching the surface".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cvgql766jpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgql766jpgo#4</guid>
+            <pubDate>Wed, 10 Sep 2025 19:43:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8f/live/03c76cb0-8e7e-11f0-8c2b-d3304d08feaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It'll be loud' - MacIntyre ready for American taunts at Ryder Cup]]></title>
+            <description><![CDATA[Robert MacIntyre says he has no fears about taking abuse from Team USA fans at the Ryder Cup in New York this month.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cy85p72lzq4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cy85p72lzq4o#4</guid>
+            <pubDate>Wed, 10 Sep 2025 15:48:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e56/live/894bf4f0-8e5b-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How realistic is a non-Old Firm title challenge?]]></title>
+            <description><![CDATA[With champions Celtic arguably weaker and Rangers enduring their worst league start since 1983, is this the season a non-Old Firm club finally delivers a title challenge?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czdjp2pj868o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdjp2pj868o#4</guid>
+            <pubDate>Wed, 10 Sep 2025 07:17:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bdc/live/75713280-89a4-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+    </channel>
+</rss>
