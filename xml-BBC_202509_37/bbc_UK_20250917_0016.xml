@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 17 Sep 2025 00:16:21 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Eritrean man wins block on removal to France under 'one in, one out' deal]]></title>
+            <description><![CDATA[Some migrants who arrived in the UK by small boat had been told they would be put on flights to France as early as Tuesday.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dqe2443l1o#0</guid>
+            <pubDate>Tue, 16 Sep 2025 19:22:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher's fears over Southport killer were met with 'red tape']]></title>
+            <description><![CDATA[The Southport Inquiry has revealed it will examine whether agencies avoided "taking responsibility".]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvd15x8d7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvd15x8d7o#0</guid>
+            <pubDate>Tue, 16 Sep 2025 16:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdb/live/0fef7d90-624e-11f0-b903-f515e3045d80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two Labour MPs denied entry to Israel]]></title>
+            <description><![CDATA[Simon Opher and Peter Prinsley say they were heading to the occupied West Bank when they were stopped by Israeli authorities. ]]></description>
+            <link>https://www.bbc.com/news/articles/cge2gweqzjno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge2gweqzjno#0</guid>
+            <pubDate>Tue, 16 Sep 2025 22:16:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d8/live/c046ea50-9338-11f0-af4a-f13787547f9c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK hopes for 0% tariff on steel exports to US dashed]]></title>
+            <description><![CDATA[An agreement to reduce tariffs on UK steel to zero in short order was welcomed with some fanfare in July.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4y2gge7p1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4y2gge7p1o#0</guid>
+            <pubDate>Tue, 16 Sep 2025 17:14:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ce/live/1d90ed90-931c-11f0-873c-3fec77a46911.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Triathlete ready to face life with no limbs after sepsis ]]></title>
+            <description><![CDATA[Lily McGarry thought she had "fresher's flu" but it was a condition that nearly claimed her life.]]></description>
+            <link>https://www.bbc.com/news/articles/cr70zr51rmeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr70zr51rmeo#0</guid>
+            <pubDate>Tue, 16 Sep 2025 05:13:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e82/live/c6eb4fe0-92ed-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sky to cut 600 jobs in streaming move plans]]></title>
+            <description><![CDATA[A consultation has been launched on proposed changes, which affect 900 roles.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd945gv7z1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd945gv7z1o#0</guid>
+            <pubDate>Tue, 16 Sep 2025 17:20:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a6/live/7617c9d0-9307-11f0-a647-dff301f4a439.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The ego has landed' and 'Don in... none out']]></title>
+            <description><![CDATA[Donald Trump's arrival in the UK and the blocked removal of a migrant to France lead the papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cn95jrglzneo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn95jrglzneo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 23:46:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9be/live/63dbbd10-934f-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King at Duchess of Kent's funeral but ill Queen did not attend]]></title>
+            <description><![CDATA[Mourners, including the King and other senior royals, gathered at Westminster Cathedral.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq5eynnn8ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq5eynnn8ro#1</guid>
+            <pubDate>Tue, 16 Sep 2025 15:18:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d0/live/569ad150-930d-11f0-a647-dff301f4a439.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[State pension likely to rise by 4.7% in April]]></title>
+            <description><![CDATA[Earnings figures for the three months to July are used for the yearly increase.]]></description>
+            <link>https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62lnzdndkeo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 10:19:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d70/live/eca4eba0-92c1-11f0-aabe-7b11bbfd55ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter fuel payments fell by 9.3 million before U-turn]]></title>
+            <description><![CDATA[Official data shows the number of people who received winter fuel payments after now-reversed government cuts.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrq5049j0yo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 10:39:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9b/live/791a51f0-9237-11f0-a06c-f10cee3fef66.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer orders investigation into MI5 after BBC exposed false evidence in spy case]]></title>
+            <description><![CDATA[It will look at why the security service gave false evidence to three courts about conversations with BBC News.]]></description>
+            <link>https://www.bbc.com/news/articles/cn834zwe83lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn834zwe83lo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 11:37:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b10/live/c2545e70-92f4-11f0-84c8-99de564f0440.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mandelson red flags were missed or ignored, senior Labour MP says]]></title>
+            <description><![CDATA[Emily Thornberry says "something went very wrong", in an emergency debate about the peer's appointment.]]></description>
+            <link>https://www.bbc.com/news/articles/c147k2zpg68o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c147k2zpg68o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 17:19:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e22/live/6f455330-9301-11f0-a647-dff301f4a439.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inquiries dropped into ex-MP accused of misusing donors' money]]></title>
+            <description><![CDATA[There were claims former MP Mark Menzies used the money to pay what he called "bad people".]]></description>
+            <link>https://www.bbc.com/news/articles/c3vz5pgegr2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3vz5pgegr2o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 15:59:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad19/live/90370710-925b-11f0-b9c5-fd64e0842f34.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sex abuse cult leader's move to open prison blocked]]></title>
+            <description><![CDATA[Colin Batley was jailed in 2011 after being found guilty of brainwashing and abusing children.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynv2r5qw1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynv2r5qw1o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 14:58:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/e6155ce0-058e-11f0-9541-3d90994a77b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hillsborough Law will include duty of candour ]]></title>
+            <description><![CDATA[The proposed law would force public bodies to co-operate with investigations into major disasters.]]></description>
+            <link>https://www.bbc.com/news/articles/czrpvrrrmj2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrpvrrrmj2o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f26/live/255c0460-92c7-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenya issues arrest warrant for British national over young mother's murder]]></title>
+            <description><![CDATA[The 21-year-old was killed in 2012 and her body found in a septic tank in the garrison town of Nanyuki.]]></description>
+            <link>https://www.bbc.com/news/articles/cwywng4jp08o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwywng4jp08o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 10:56:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Council begins fresh court move to evict 'African tribe' from new site]]></title>
+            <description><![CDATA[Three members of the self-proclaimed Kingdom of Kubala were evicted from Jedburgh woodland but set up a new camp a few metres away.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kn3ex156mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kn3ex156mo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 17:33:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1a/live/5467b5f0-9313-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Tory minister Maria Caulfield defects to Reform]]></title>
+            <description><![CDATA[Caulfield lost her seat at last year's general election, after nearly nine years as the MP for Lewes.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wg3zx4r0qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wg3zx4r0qo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 11:30:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5830/live/12ad9cb0-92e1-11f0-950e-eb051178bae0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JLR could face disruption until November after hack]]></title>
+            <description><![CDATA[The firm will restart production on 24 September but industry sources warn the impact could last longer.]]></description>
+            <link>https://www.bbc.com/news/articles/czewlj57e24o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czewlj57e24o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 10:11:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ea2/live/1fcae130-92de-11f0-950e-eb051178bae0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigate England flag on white horse]]></title>
+            <description><![CDATA[Police say "early inquires" are under way after red fabric was draped across the chalk figure.]]></description>
+            <link>https://www.bbc.com/news/articles/c8xrg9q2w1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xrg9q2w1xo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 10:00:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f03/live/d5ab37f0-92d6-11f0-8331-8bf79809c794.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Essex cricket chairman resigns after CV scandal]]></title>
+            <description><![CDATA[Essex County Cricket Club thanks Anu Mohindru for his "leadership and significant contribution".]]></description>
+            <link>https://www.bbc.com/news/articles/cpw17nkddp0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw17nkddp0o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 09:22:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d050/live/d971a710-92dc-11f0-a27c-cb5ee395d317.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google owner reveals £5bn AI investment in UK ahead of Trump visit]]></title>
+            <description><![CDATA[Google's president and chief investment officer Ruth Porat tells the BBC there are "profound opportunities in the UK".]]></description>
+            <link>https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmek723dz9o#1</guid>
+            <pubDate>Tue, 16 Sep 2025 09:44:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389b/live/674d8820-9287-11f0-a951-dbb92f84a2fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wedgwood factory in 90-day pause after low demand]]></title>
+            <description><![CDATA[The pottery firm's Barlaston site will pause production from 29 September, with 70 workers on temporary leave.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2zkx0zmkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2zkx0zmkeo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 15:57:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea61/live/d7c93750-9315-11f0-be26-dfb5c8eb987f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of opioid deaths missed off official figures]]></title>
+            <description><![CDATA[The error - affecting England and Wales - raises concerns about the impact on the government's approach to drug deaths.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7dzmyjrjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7dzmyjrjzo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 16:43:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/8f926d00-9237-11f0-a06c-f10cee3fef66.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenager arrested after 15-year-old dies in Manchester stabbing]]></title>
+            <description><![CDATA[Police had reports of a "disturbance" on Monday and found a teenager with stab wounds.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3y9v8e7eqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3y9v8e7eqo#1</guid>
+            <pubDate>Tue, 16 Sep 2025 06:33:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22cd/live/bf0151c0-92c6-11f0-a03a-79264f13f66e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Police get extra time to question murder suspects]]></title>
+            <description><![CDATA[Detectives investigating Barry Furfey's death can question a man and a woman for another 36 hours.]]></description>
+            <link>https://www.bbc.com/news/articles/cq8e5dnlq8no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8e5dnlq8no#1</guid>
+            <pubDate>Tue, 16 Sep 2025 18:35:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ed/live/5203ea40-92f0-11f0-ad9f-17dac350ed4d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump]]></title>
+            <description><![CDATA[The BBC's Political Editor Chris Mason and North America Editor Sarah Smith discuss what's at stake for both sides during the trip.]]></description>
+            <link>https://www.bbc.com/news/videos/c9dxq447dwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9dxq447dwvo#2</guid>
+            <pubDate>Tue, 16 Sep 2025 16:27:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ab7/live/1f060ef0-92fc-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Emotional moment missing dog is reunited with family]]></title>
+            <description><![CDATA[The search effort to find Molly the cockapoo gained a huge following on social media.]]></description>
+            <link>https://www.bbc.com/news/videos/cz0838ngvmdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz0838ngvmdo#2</guid>
+            <pubDate>Sat, 13 Sep 2025 07:05:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be37/live/dbb45470-9005-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oldest Post Office scandal victim questions PM's dismissal of minister]]></title>
+            <description><![CDATA[The 92-year-old says the relationship built up with Gareth Thomas is "all lost".]]></description>
+            <link>https://www.bbc.com/news/videos/cdxqnvg0qnzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cdxqnvg0qnzo#2</guid>
+            <pubDate>Wed, 10 Sep 2025 09:43:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62cf/live/6fd6d940-8e29-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asylum seekers speak to BBC from inside house facing local opposition]]></title>
+            <description><![CDATA[Wigan has no asylum hotels but 900 homes in multiple occupation (HMOs), some of which house asylum seekers.]]></description>
+            <link>https://www.bbc.com/news/videos/c8exwjkglzro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c8exwjkglzro#2</guid>
+            <pubDate>Tue, 09 Sep 2025 16:47:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d0b/live/f2a732e0-8d96-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: First meeting of new cabinet inside Downing Street]]></title>
+            <description><![CDATA[The gathering follows Angela Rayner's departure from government and a dramatic cabinet reshuffle.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3nk15nz2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3nk15nz2o#2</guid>
+            <pubDate>Tue, 09 Sep 2025 09:22:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4271/live/ff089be0-8d5b-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MSPs to back plan to scrap not proven verdict from Scots law]]></title>
+            <description><![CDATA[The government also wants to raise the bar for a guilty verdict as part of wide-ranging justice reforms. ]]></description>
+            <link>https://www.bbc.com/news/articles/c62n6x352dko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62n6x352dko#3</guid>
+            <pubDate>Tue, 16 Sep 2025 19:56:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb42/live/a7a27630-9334-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's state visit is mired with potential pitfalls despite careful planning]]></title>
+            <description><![CDATA[Months of preparations have gone into this state visit - but the Lord Mandelson question is not the only concern troubling insiders.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw25w9841o#3</guid>
+            <pubDate>Mon, 15 Sep 2025 23:06:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f1/live/3fc05260-9246-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mason: Reform UK amplifies jitters for Labour and Conservatives]]></title>
+            <description><![CDATA[The BBC's political editor says people at the top of government acknowledge the last few weeks have been dreadful for them.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4y2ejlpdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4y2ejlpdjo#3</guid>
+            <pubDate>Tue, 16 Sep 2025 01:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c0/live/8372d940-92c5-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the century-old building standing above 400,000 gold bars]]></title>
+            <description><![CDATA[As a new exhibition opens about the Bank of England, the BBC takes a rare look inside the building.]]></description>
+            <link>https://www.bbc.com/news/articles/c15kzd19zz5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15kzd19zz5o#3</guid>
+            <pubDate>Tue, 16 Sep 2025 05:12:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a81/live/9494c0e0-9224-11f0-84c8-99de564f0440.png"/>
+        </item>
+        <item>
+            <title><![CDATA[These teens turned their rooms into tech-free zones. This was the result]]></title>
+            <description><![CDATA[Elizabeth and Henry are among those ditching technology in their bedrooms to see how they cope.]]></description>
+            <link>https://www.bbc.com/news/articles/c1lelqg0jy3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lelqg0jy3o#3</guid>
+            <pubDate>Tue, 16 Sep 2025 04:08:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c2/live/b5b8ff80-92c8-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hillsborough Law - what is it and how did we get here?]]></title>
+            <description><![CDATA[Following the news that an agreement has been reached on the long-awaited Public Authority (Accountability) Bill, the BBC's Judith Moritz looks at its history.]]></description>
+            <link>https://www.bbc.com/news/articles/c98d930p50no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98d930p50no#3</guid>
+            <pubDate>Mon, 15 Sep 2025 21:30:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d294/live/b99a3f80-9253-11f0-b9c5-fd64e0842f34.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher's fears over Southport killer met with 'red tape']]></title>
+            <description><![CDATA[The Southport Inquiry has revealed it will examine whether agencies avoided "taking responsibility".]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvd15x8d7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvd15x8d7o#4</guid>
+            <pubDate>Tue, 16 Sep 2025 16:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdb/live/0fef7d90-624e-11f0-b903-f515e3045d80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The blossoming relationship between Trump and Swinney]]></title>
+            <description><![CDATA[The politicians are at odds on a whole range of issues – but something has fundamentally changed in their relationship.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e75d7g49no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e75d7g49no#4</guid>
+            <pubDate>Tue, 16 Sep 2025 21:43:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/071a8960-92de-11f0-950e-eb051178bae0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents fight for justice over couple's toxic limoncello deaths]]></title>
+            <description><![CDATA[Greta Otteson and Arno Quinton died on Boxing Day last year after they were poisoned by methanol.  ]]></description>
+            <link>https://www.bbc.com/news/articles/c62le5ng686o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62le5ng686o#4</guid>
+            <pubDate>Tue, 16 Sep 2025 21:54:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/777a/live/3203d4e0-933f-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two charged with murder of Barry Furfey]]></title>
+            <description><![CDATA[Mr Furfey died in hospital after being found with serious injuries at an apartment block on Monday morning.]]></description>
+            <link>https://www.bbc.com/news/articles/cre59gzy0ylo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cre59gzy0ylo#4</guid>
+            <pubDate>Tue, 16 Sep 2025 22:46:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ed/live/5203ea40-92f0-11f0-ad9f-17dac350ed4d.jpg"/>
+        </item>
+    </channel>
+</rss>
