@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 18 Sep 2025 16:04:49 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[First migrant deported to France under 'one in one out' deal]]></title>
+            <description><![CDATA[The man was removed on Thursday under the "one in, one out" agreement and has arrived in Paris.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg653r06jgo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 15:49:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a9/live/e9aab620-947c-11f0-ad7d-63b0f51784c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance]]></title>
+            <description><![CDATA[A constant of stream of Palestinians flee southwards as Israeli tanks reportedly push further into Gaza's biggest urban centre.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y8l46m5evo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y8l46m5evo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 14:46:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corbyn and Sultana clash over new party membership]]></title>
+            <description><![CDATA[ MP Zarah Sultana says she is a victim of a "sexist boys' club" in row over setting up new left wing party.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkn3v1e7g3o#0</guid>
+            <pubDate>Thu, 18 Sep 2025 15:15:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e889/live/b8438490-688f-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two teenagers charged over Transport for London cyber attack]]></title>
+            <description><![CDATA[The police say the hack caused "significant disruption" and "millions in losses" for TfL.]]></description>
+            <link>https://www.bbc.com/news/articles/c62z8k14kxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62z8k14kxxo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 14:32:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a76c/live/e94482d0-9493-11f0-8e88-0f11af0637c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK not out of woods on inflation, says Bank of England as interest rates held]]></title>
+            <description><![CDATA[The Bank of England governor warns "we're not out of the woods yet" in terms of rising inflation.]]></description>
+            <link>https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge2q7wvyz3o#0</guid>
+            <pubDate>Thu, 18 Sep 2025 14:03:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d9e/live/f92b02e0-93b3-11f0-af04-cd07e8e3d1e7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists pinpoint 'mileage clock' inside brain]]></title>
+            <description><![CDATA[They located this key area of function by recording the brain activity of running rats.]]></description>
+            <link>https://www.bbc.com/news/articles/crkjn6r7j23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkjn6r7j23o#0</guid>
+            <pubDate>Thu, 18 Sep 2025 15:10:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c1/live/91b2dce0-93b4-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Planning approvals for new homes at record low, figures show]]></title>
+            <description><![CDATA[Planning approvals for new homes were at their lowest on record during Labour’s first year in office, figures show
+]]></description>
+            <link>https://www.bbc.com/news/articles/cgmzwk4yd1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmzwk4yd1eo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 14:39:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf96/live/8a7cd050-949c-11f0-ba1c-7d82afe5b321.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester Arena bomb plotter refuses to leave cell for court hearing]]></title>
+            <description><![CDATA[Hashem Abedi refuses to leave his cell  to appear in court accused of attacking four prison officers.]]></description>
+            <link>https://www.bbc.com/news/articles/cz089jg79npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz089jg79npo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 10:37:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b428/live/7e4873c0-9474-11f0-bc01-a3a35aa734ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keely Hodgkinson makes winning start to 800m world title bid in Tokyo]]></title>
+            <description><![CDATA[Great Britain's Olympic champion Keely Hodgkinson makes a winning start to her bid for a first world 800m title in Tokyo.]]></description>
+            <link>https://www.bbc.com/sport/athletics/articles/cevz0wmrz4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/articles/cevz0wmrz4eo#0</guid>
+            <pubDate>Thu, 18 Sep 2025 13:54:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2d/live/27d859d0-949a-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why America is at a dangerous crossroads following the Charlie Kirk shooting]]></title>
+            <description><![CDATA[This moment has parallels with other periods of discord in US history, but it is more complicated than simply repeating them.]]></description>
+            <link>https://www.bbc.com/news/articles/c78n0e83ye0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78n0e83ye0o#1</guid>
+            <pubDate>Thu, 18 Sep 2025 04:18:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e9/live/4ff31d80-93b2-11f0-b391-6936825093bd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Chequers, scout groups and a dolls' house - day two of Trump's state visit]]></title>
+            <description><![CDATA[Day two of US President Donald Trump's second state visit]]></description>
+            <link>https://www.bbc.com/news/articles/cn0xq78xdeqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0xq78xdeqo#1</guid>
+            <pubDate>Thu, 18 Sep 2025 15:19:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ff/live/cb060850-949a-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DiCaprio on his latest film and 'divisiveness in our culture']]></title>
+            <description><![CDATA[The actor says his latest film, One Battle After Another, "holds a mirror up to society".]]></description>
+            <link>https://www.bbc.com/news/articles/ckg65714d0xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg65714d0xo#1</guid>
+            <pubDate>Thu, 18 Sep 2025 10:53:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f378/live/c1d6b3c0-9485-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm taking life day by day, year by year': Tennis legend Bjorn Borg on cancer diagnosis]]></title>
+            <description><![CDATA[Tennis legend Bjorn Borg speaks to BBC Breakfast about his prostate cancer diagnosis and his rivalry-turned-friendship with John McEnroe.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cz691128dn6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz691128dn6o#1</guid>
+            <pubDate>Thu, 18 Sep 2025 08:59:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dde/live/3e9b8440-9471-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fashion risks going backwards on diversity, says ex-British Vogue editor]]></title>
+            <description><![CDATA[Edward Enninful says being "super-thin" and European is often seen as "the norm" again.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e758v449yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e758v449yo#1</guid>
+            <pubDate>Thu, 18 Sep 2025 05:00:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2e/live/faf918a0-9462-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#2</guid>
+            <pubDate>Thu, 18 Sep 2025 05:33:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MP investigated over alleged racial abuse on X]]></title>
+            <description><![CDATA[Ex-Reform MP James McMurdock is accused of starting a chain of posts that spelled out a racial slur.]]></description>
+            <link>https://www.bbc.com/news/articles/c79vqy8jyj8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79vqy8jyj8o#3</guid>
+            <pubDate>Thu, 18 Sep 2025 11:07:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/37613700-59c6-11f0-940a-9b5ba49991cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho appointed Benfica manager]]></title>
+            <description><![CDATA[Benfica appoint Jose Mourinho as their new manager on a deal until the summer of 2027.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3w54x0qzwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w54x0qzwvo#3</guid>
+            <pubDate>Thu, 18 Sep 2025 14:42:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e467/live/cc849530-949e-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three arrested on suspicion of spying for Russia]]></title>
+            <description><![CDATA[The two men and a woman were all arrested in Grays, Essex, the Metropolitan Police says.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgq19751d6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgq19751d6o#3</guid>
+            <pubDate>Thu, 18 Sep 2025 11:25:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f36e/live/271086b0-947e-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met Office rain warnings issued ahead of a wet and windy weekend for the UK]]></title>
+            <description><![CDATA[A developing area of low pressure will bring the risk of heavy rain and gales as well as a big drop in the temperature.]]></description>
+            <link>https://www.bbc.com/weather/articles/ckg6573kyp2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/ckg6573kyp2o#3</guid>
+            <pubDate>Thu, 18 Sep 2025 12:12:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bffe/live/6cd4fbe0-9474-11f0-bc01-a3a35aa734ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli minister touts Gaza 'real estate bonanza', defying international backlash]]></title>
+            <description><![CDATA[Bezalel Smotrich, an ultranationalist who has been sanctioned by the UK and others, said he was in discussion with the US over the idea. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5y59z6rznvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y59z6rznvo#3</guid>
+            <pubDate>Thu, 18 Sep 2025 12:08:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a5/live/4ebe8a80-9475-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Macrons to offer 'scientific evidence' to US court to prove Brigitte is a woman, lawyer says]]></title>
+            <description><![CDATA[They have filed a lawsuit against US right-wing influencer Candace Owens who claims the French first lady was born male.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3llj5nxdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3llj5nxdo#3</guid>
+            <pubDate>Thu, 18 Sep 2025 05:01:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4650/live/5eb4f630-93ef-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Next warns UK economy faces 'anaemic' growth]]></title>
+            <description><![CDATA[The warning from the clothing chain comes as it reported a 13.8% rise in pre-tax profits.]]></description>
+            <link>https://www.bbc.com/news/articles/cwywkegwnyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwywkegwnyeo#3</guid>
+            <pubDate>Thu, 18 Sep 2025 12:41:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e664/live/c7040080-9478-11f0-ad7d-63b0f51784c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Pomp and protests on day one of Trump state visit]]></title>
+            <description><![CDATA[King Charles hosts Donald Trump at Windsor Castle on the first full day of his UK state visit.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cd07v4g0yy3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd07v4g0yy3o#4</guid>
+            <pubDate>Wed, 17 Sep 2025 21:53:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d920/live/02da6c90-947c-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vintage port, 1,452 pieces of cutlery and very powerful people - a glimpse of the state banquet]]></title>
+            <description><![CDATA[Chicken and a special cocktail are being served, while Rupert Murdoch and Tim Cook are among the guests.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4l13gxy2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4l13gxy2lo#4</guid>
+            <pubDate>Thu, 18 Sep 2025 02:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f2/live/bff212e0-9451-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: All the best images from the day at Windsor Castle]]></title>
+            <description><![CDATA[President Trump greeted by the King and Queen and other senior royals at Windsor Castle.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gqd70v496o#4</guid>
+            <pubDate>Thu, 18 Sep 2025 11:15:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e5/live/841aa450-946d-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What does Donald Trump want from his UK state visit?]]></title>
+            <description><![CDATA[And the row over free speech after Charlie Kirk’s assassination]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0m3dxrk?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0m3dxrk#6</guid>
+            <pubDate>Wed, 17 Sep 2025 17:19:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel Committing Genocide in Gaza Says UN Commission]]></title>
+            <description><![CDATA[Israel rejects UN Commission finding that it is committing genocide in Gaza.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0m36nph?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0m36nph#6</guid>
+            <pubDate>Tue, 16 Sep 2025 18:26:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho appointed Benfica manager]]></title>
+            <description><![CDATA[Benfica appoint Jose Mourinho as their new manager on a deal until the summer of 2027.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3w54x0qzwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w54x0qzwvo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 14:42:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e467/live/cc849530-949e-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: World Athletics Championships day six highlights]]></title>
+            <description><![CDATA[There are chances for British medals on day 6 of the World Athletics Championships.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002jmkn?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002jmkn#8</guid>
+            <pubDate>Thu, 18 Sep 2025 16:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m10z0q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Slot-age time' - breaking down Liverpool's late success]]></title>
+            <description><![CDATA[BBC Sport examines how and why Liverpool's thrilling late winners have come about.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ce80zmpd2mpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce80zmpd2mpo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 13:30:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c20/live/7f4f3df0-948b-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hodgkinson makes winning start to world title bid]]></title>
+            <description><![CDATA[Great Britain's Olympic champion Keely Hodgkinson makes a winning start to her bid for a first world 800m title in Tokyo.]]></description>
+            <link>https://www.bbc.com/sport/athletics/articles/cevz0wmrz4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/articles/cevz0wmrz4eo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 13:54:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2d/live/27d859d0-949a-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Hopefully our time now' - GB into BJK Cup semis]]></title>
+            <description><![CDATA[A ruthless Katie Boulter secures Great Britain's place in the Billie Jean King Cup semi-finals with a 2-0 win against Japan.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cp8j6ek20rlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp8j6ek20rlo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 14:57:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5cd/live/50695380-94a5-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho back at Benfica 25 years on - revered but a risk?]]></title>
+            <description><![CDATA[As Jose Mourinho returns to Benfica after 25 years, is it a risk for both parties with elections looming?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx2pjg4563lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pjg4563lo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 15:07:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6d/live/d74029f0-9401-11f0-9f5a-6d750409d906.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB's Asher-Smith and Hunt reach 200m final]]></title>
+            <description><![CDATA[Great Britain's Dina Asher-Smith and Amy Hunt reach the final of the women's 200m at the World Athletics Championships in Tokyo. ]]></description>
+            <link>https://www.bbc.com/sport/athletics/videos/cd7289q972jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/videos/cd7289q972jo#8</guid>
+            <pubDate>Thu, 18 Sep 2025 13:44:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f18a/live/58b7e1a0-9491-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+    </channel>
+</rss>
