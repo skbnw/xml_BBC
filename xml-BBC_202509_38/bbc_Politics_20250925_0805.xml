@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Politics]]></description>
+        <link>https://www.bbc.co.uk/news/politics</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/politics</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 25 Sep 2025 08:05:23 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Labour MPs are privately urging me to challenge PM, says Burnham ]]></title>
+            <description><![CDATA[Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.]]></description>
+            <link>https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v1m873mjyo#0</guid>
+            <pubDate>Thu, 25 Sep 2025 07:46:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4660/live/05a268f0-99dc-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government considers financial support for JLR suppliers]]></title>
+            <description><![CDATA[Fears are growing that some of the carmaker's suppliers could go bust without support.]]></description>
+            <link>https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62nv0xx32go#0</guid>
+            <pubDate>Thu, 25 Sep 2025 07:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Urgent review ordered into asylum seeker taxi costs]]></title>
+            <description><![CDATA[Asylum seekers are travelling long distances for appointments, with one telling the BBC his journey to visit a GP cost the Home Office £600.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2j3regpdno#0</guid>
+            <pubDate>Wed, 24 Sep 2025 17:36:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corbyn sorry for 'confusion' as new party membership launched]]></title>
+            <description><![CDATA[The former Labour leader admits the new party has faced some "fraught days in the last week".]]></description>
+            <link>https://www.bbc.com/news/articles/cm2zvy74e1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2zvy74e1eo#0</guid>
+            <pubDate>Wed, 24 Sep 2025 16:42:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/af107160-994c-11f0-9a00-eba1f5856efc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Phillipson: I've been the victim of sexist briefings]]></title>
+            <description><![CDATA[Education Secretary Bridget Phillipson is running against Lucy Powell for Labour's deputy leadership.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jz9w7xkyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jz9w7xkyeo#0</guid>
+            <pubDate>Wed, 24 Sep 2025 16:33:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0b/live/a92f6f90-995a-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI tool helped recover £500m lost to fraud, government says]]></title>
+            <description><![CDATA[Ministers say software developed by the Cabinet Office has helped to ramp up fraud detection.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd92gpld0go#0</guid>
+            <pubDate>Wed, 24 Sep 2025 07:11:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tories call for inquiry into Labour Together support for Starmer]]></title>
+            <description><![CDATA[Kevin Hollinrake alleges the PM failed to declare polling and speechwriting help from the think tank.]]></description>
+            <link>https://www.bbc.com/news/articles/c79v74gy38lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c79v74gy38lo#0</guid>
+            <pubDate>Tue, 23 Sep 2025 14:40:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c39/live/bd667cb0-9888-11f0-b146-278281693603.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We'll stop Farage turning UK into Trump's America, says Davey]]></title>
+            <description><![CDATA[The Liberal Democrat leader attacks Nigel Farage in a speech to his party's autumn conference.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g7py75g0ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g7py75g0ko#1</guid>
+            <pubDate>Tue, 23 Sep 2025 15:32:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c06/live/97af9450-9899-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Punchy Lib Dems use Reform UK as call to action]]></title>
+            <description><![CDATA[The party is taking on Nigel Farage in a way Labour and the Tories either can't or won't, our political editor writes.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg97gq8230o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg97gq8230o#1</guid>
+            <pubDate>Tue, 23 Sep 2025 21:30:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394f/live/cea11a60-98c1-11f0-94c0-d393b11c46d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get behind a wealth tax, millionaire urges Lib Dems]]></title>
+            <description><![CDATA[A campaign group hopes to persuade politicians this autumn to hike taxes on the very wealthy.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jqd21gnw3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqd21gnw3o#1</guid>
+            <pubDate>Tue, 23 Sep 2025 12:07:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffef/live/8fe0edc0-986f-11f0-8ac5-61a603230ddd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home Office loses bid to overturn court order blocking migrant's removal]]></title>
+            <description><![CDATA[It comes after the removal of an Eritrean man who arrived on a small boat was blocked at the last minute.]]></description>
+            <link>https://www.bbc.com/news/articles/cz69nv1jyyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69nv1jyyyo#1</guid>
+            <pubDate>Tue, 23 Sep 2025 15:08:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f1b/live/beb94e60-987b-11f0-b146-278281693603.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says London wants 'to go to sharia law']]></title>
+            <description><![CDATA[President Trump tells the United Nations London has "been changed" and has a "terrible mayor".]]></description>
+            <link>https://www.bbc.com/news/articles/cp3qxrgl05lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3qxrgl05lo#1</guid>
+            <pubDate>Tue, 23 Sep 2025 17:06:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/d2492680-988f-11f0-9b6e-7b3441bd6aaf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Illegal working and streams of taxis - BBC gains rare access inside asylum hotels]]></title>
+            <description><![CDATA[Asylum seekers and hotel staff at four hotels revealed what daily life is like for them.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8ee2w73jo#1</guid>
+            <pubDate>Tue, 23 Sep 2025 13:33:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde1/live/09ab6d70-97c0-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trust doctors over Trump on paracetamol, Streeting says]]></title>
+            <description><![CDATA[He tells expectant mothers to ignore Trump's claims of a link between use of the painkiller and autism.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4230d0x0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4230d0x0go#1</guid>
+            <pubDate>Tue, 23 Sep 2025 12:36:43 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/b05f0c20-9875-11f0-af62-91486a511a31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems have moral duty to defeat Farage, says Davey]]></title>
+            <description><![CDATA[Speaking at the Lib Dem conference. Sir Ed tells the BBC he's afraid of Nigel Farage and is offering "radical change".]]></description>
+            <link>https://www.bbc.com/news/articles/c33rp46nr1jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c33rp46nr1jo#1</guid>
+            <pubDate>Mon, 22 Sep 2025 19:29:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7256/live/e3107cc0-97c7-11f0-af62-91486a511a31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-minister accused of assaulting Douglas Ross apologises to MSPs]]></title>
+            <description><![CDATA[Jamie Hepburn, previously the minister for parliamentary business, quit his government job after Ross claimed he had grabbed him and swore aggressively.]]></description>
+            <link>https://www.bbc.com/news/articles/c9v719djw78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v719djw78o#1</guid>
+            <pubDate>Tue, 23 Sep 2025 17:42:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac4/live/b05d5310-98a4-11f0-af62-91486a511a31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform plans to scrap indefinite leave to remain for migrants]]></title>
+            <description><![CDATA[The party says scrapping the scheme and restricting migrant access to benefits will save hundreds of billions of pounds. ]]></description>
+            <link>https://www.bbc.com/news/articles/c930xypxpqpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c930xypxpqpo#1</guid>
+            <pubDate>Mon, 22 Sep 2025 13:14:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fe/live/58a426c0-97ab-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JLR shutdown extended again as ministers meet suppliers]]></title>
+            <description><![CDATA[The business secretary will also meet suppliers of the car maker who are at risk of closure.]]></description>
+            <link>https://www.bbc.com/news/articles/c15kpxnn2p2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15kpxnn2p2o#1</guid>
+            <pubDate>Tue, 23 Sep 2025 16:41:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK says Israel must not retaliate against Palestinian statehood push]]></title>
+            <description><![CDATA[Yvette Cooper spoke to the BBC as France and more countries prepare to follow the UK and recognise Palestinian statehood.]]></description>
+            <link>https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wggrdn9dno#1</guid>
+            <pubDate>Mon, 22 Sep 2025 11:11:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db03/live/1d62c830-977b-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM's 'knee-bending' to Trump is  'cringey', says Clegg]]></title>
+            <description><![CDATA[The former deputy PM says Starmer and Trump's relationship is "getting a bit embarrassing".]]></description>
+            <link>https://www.bbc.com/news/articles/c1l881vnv2no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1l881vnv2no#1</guid>
+            <pubDate>Mon, 22 Sep 2025 06:09:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109f/live/a537a8e0-9733-11f0-85fa-7b56c173fde7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems urge probe into Trump golf course lobbying claims]]></title>
+            <description><![CDATA[Foreign affairs spokesman Calum Miller says the government should refer itself to its new ethics commission.]]></description>
+            <link>https://www.bbc.com/news/articles/crkjlx5lr5po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkjlx5lr5po#1</guid>
+            <pubDate>Mon, 22 Sep 2025 17:47:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d0/live/29ad7170-97db-11f0-b48d-eb3b631c9a51.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gatwick second runway plan approved by transport secretary]]></title>
+            <description><![CDATA[There has been strong opposition against the airport wanting to use its northern runway.]]></description>
+            <link>https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v7rz24z23o#1</guid>
+            <pubDate>Mon, 22 Sep 2025 15:17:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7630/live/6ef857a0-9712-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welfare reform 'must happen', minister says]]></title>
+            <description><![CDATA[The Work and Pensions Secretary tells the BBC he will press ahead with welfare system changes.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3jl0ylkyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3jl0ylkyo#1</guid>
+            <pubDate>Sun, 21 Sep 2025 23:10:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/47dae220-976a-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems want health warnings on teens' social media]]></title>
+            <description><![CDATA[The party says mandatory warnings are required to protect children from "addictive" app algorithms.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3vdw7wv2go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3vdw7wv2go#1</guid>
+            <pubDate>Mon, 22 Sep 2025 10:25:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/702b/live/8cb01050-9797-11f0-84a3-e314c0b97a4c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sultana looks to 'reconcile' with Corbyn after party row]]></title>
+            <description><![CDATA[Post on social media comes after the ex-Labour MPs clashed over the formation of their fledgling left-wing party.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q77y25l48o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q77y25l48o#1</guid>
+            <pubDate>Sun, 21 Sep 2025 22:27:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/76d963d0-9733-11f0-85fa-7b56c173fde7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems consider ditching opposition to ID cards]]></title>
+            <description><![CDATA[Leader Sir Ed Davey - who helped block Labour's last attempt to bring in ID cards - says "times have changed".]]></description>
+            <link>https://www.bbc.com/news/articles/c5y44pekj28o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y44pekj28o#1</guid>
+            <pubDate>Sun, 21 Sep 2025 14:49:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/212cdf10-96f8-11f0-b421-1f7adb2b0f32.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems call for bank windfall tax to fund green energy home loans]]></title>
+            <description><![CDATA[Lib Dem deputy leader Daisy Cooper says bank profits could fund solar panels, heat pumps and insulation.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg00k8nwgwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg00k8nwgwo#1</guid>
+            <pubDate>Sun, 21 Sep 2025 13:03:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf57/live/11205060-96db-11f0-879f-a957152c7665.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Robinson: How the simmering row over freedom of speech in the UK reached boiling point]]></title>
+            <description><![CDATA[How did we reach a point where the UK is being compared to a 'tin pot Third World dictatorship'?]]></description>
+            <link>https://www.bbc.com/news/articles/c62ln7mzd5ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ln7mzd5ro#2</guid>
+            <pubDate>Mon, 22 Sep 2025 23:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/2456f2a0-9547-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How many people would Reform's migrant plans impact?]]></title>
+            <description><![CDATA[Under the plans, migrants would need to reapply for new visas with tougher rules.]]></description>
+            <link>https://www.bbc.com/news/videos/c2ejmwrwj7mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2ejmwrwj7mo#2</guid>
+            <pubDate>Mon, 22 Sep 2025 16:37:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce4/live/090866f0-97d1-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Starmer decided the time was right to recognise a Palestinian state]]></title>
+            <description><![CDATA[The PM had signalled a shift in policy unless Israel took steps including agreeing to a ceasefire in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9848kxp2go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9848kxp2go#2</guid>
+            <pubDate>Sat, 20 Sep 2025 23:02:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40b/live/3e2a30b0-9575-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In full: Statement announcing UK's recognition of Palestinian state]]></title>
+            <description><![CDATA[A complete transcription of Sir Keir Starmer's video announcement on Palestinian statehood.]]></description>
+            <link>https://www.bbc.com/news/articles/cewnn8qe7wro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewnn8qe7wro#2</guid>
+            <pubDate>Sun, 21 Sep 2025 13:52:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9e/live/8c71a4d0-96f4-11f0-90f2-5f87cb020b24.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Davey loves clowning around, but is it time the Lib Dems got serious?]]></title>
+            <description><![CDATA[As they gather in Bournemouth for their annual conference, Laura Kuenssberg considers what next for the Lib Dems.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e7ny8n44jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e7ny8n44jo#2</guid>
+            <pubDate>Sat, 20 Sep 2025 08:54:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8259/live/a7babcc0-952f-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: Will the US tech bromance turn around the UK economy?]]></title>
+            <description><![CDATA[In the week the UK hosted Donald Trump for a second state visit, the country also rolled out the red carpet for US tech firms.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4w7wp24llo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4w7wp24llo#2</guid>
+            <pubDate>Fri, 19 Sep 2025 23:03:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dfa/live/f0d98b00-95ea-11f0-a55d-e9f5fb1cc989.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is the UK-France migrants returns deal workable?]]></title>
+            <description><![CDATA[An Eritrean man managed to temporarily block his removal to France - is the government facing a stumbling block or a more serious problem?]]></description>
+            <link>https://www.bbc.com/news/articles/ced5gyg2e09o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced5gyg2e09o#2</guid>
+            <pubDate>Wed, 17 Sep 2025 13:45:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's not easy': Reform council strives to identify promised savings]]></title>
+            <description><![CDATA[Reform UK has run the authority for just over four months and is embarking on the process of setting next year's budget.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9m75101lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9m75101lo#2</guid>
+            <pubDate>Thu, 18 Sep 2025 23:59:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4112/live/0f377910-949f-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Delight and relief in government after state visit]]></title>
+            <description><![CDATA[Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn3445655o#2</guid>
+            <pubDate>Fri, 19 Sep 2025 00:24:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15a/live/43fb9d90-9524-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key takeaways from Trump-Starmer news conference]]></title>
+            <description><![CDATA[The US and UK leaders fielded questions on Ukraine, migration, free speech and Mandelson among other issues.]]></description>
+            <link>https://www.bbc.com/news/articles/cre5nylyzd4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cre5nylyzd4o#2</guid>
+            <pubDate>Thu, 18 Sep 2025 17:09:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ce/live/42f0c840-94ab-11f0-a170-65cdc956211e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Smith: Trump visit showed UK's warm relations - and limited influence]]></title>
+            <description><![CDATA[The good-natured state visit demonstrated strong relations, but no ally is likely to change the US president's mind.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkn3key65do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkn3key65do#2</guid>
+            <pubDate>Thu, 18 Sep 2025 20:06:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea2d/live/a33aef10-9531-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In conversation with Lib Dem leader Sir Ed Davey]]></title>
+            <description><![CDATA[Liberal Democrats leader Ed Davey speaks to the BBC ahead of this autumn's party conferences.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynqvkg403o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynqvkg403o#2</guid>
+            <pubDate>Fri, 19 Sep 2025 05:10:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0da/live/6ef3f240-93da-11f0-abfc-670aca6e6d7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How long can the UK afford the pension triple lock?]]></title>
+            <description><![CDATA[The policy has been a success, but economists have raised questions around its fairness and its sustainability.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wdgk7ggezo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wdgk7ggezo#2</guid>
+            <pubDate>Tue, 16 Sep 2025 09:04:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07a/live/b2ce65e0-92cc-11f0-a72d-3fad567a173a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Trump visit puts focus on pageantry after PM's tough fortnight]]></title>
+            <description><![CDATA[The government will hope for a reprieve from questions about Peter Mandelson, says the BBC's political editor.]]></description>
+            <link>https://www.bbc.com/news/articles/c80gk8j8epvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80gk8j8epvo#2</guid>
+            <pubDate>Wed, 17 Sep 2025 04:48:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1a/live/27bc2bb0-939c-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The blossoming relationship between Trump and Swinney]]></title>
+            <description><![CDATA[The politicians are at odds on a whole range of issues – but something has fundamentally changed in their relationship.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e75d7g49no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e75d7g49no#2</guid>
+            <pubDate>Wed, 17 Sep 2025 06:07:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/071a8960-92de-11f0-950e-eb051178bae0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's state visit is mired with potential pitfalls despite careful planning]]></title>
+            <description><![CDATA[Months of preparations have gone into this state visit - but the Lord Mandelson question is not the only concern troubling insiders.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw25w9841o#2</guid>
+            <pubDate>Mon, 15 Sep 2025 23:06:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f1/live/3fc05260-9246-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mason: Reform UK amplifies jitters for Labour and Conservatives]]></title>
+            <description><![CDATA[The BBC's political editor says people at the top of government acknowledge the last few weeks have been dreadful for them.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4y2ejlpdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4y2ejlpdjo#2</guid>
+            <pubDate>Tue, 16 Sep 2025 01:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c0/live/8372d940-92c5-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[With Trump's state visit days away, blame game begins over Mandelson scandal]]></title>
+            <description><![CDATA[There is growing disquiet over the roles of Starmer, his chief of staff and Whitehall vetting in the saga.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8j2d5xm78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8j2d5xm78o#2</guid>
+            <pubDate>Sat, 13 Sep 2025 13:40:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a370/live/908db6c0-8fe3-11f0-84c8-99de564f0440.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did Starmer take the risk of appointing Peter Mandelson?]]></title>
+            <description><![CDATA[Many Labour MPs think the prime minister should have seen the Mandelson scandal coming a mile off, writes Joe Pike.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd1egrlj0mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd1egrlj0mo#2</guid>
+            <pubDate>Thu, 11 Sep 2025 13:16:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebe/live/4e627750-8f10-11f0-bf0b-13ad835103b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Mandelson: Rise and fall of Labour's political fixer]]></title>
+            <description><![CDATA[For 40 years the wily operator made himself indispensable to successive Labour leaders - but has also caused them headaches. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr4q61y399xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4q61y399xo#2</guid>
+            <pubDate>Thu, 11 Sep 2025 13:41:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/cabc01e0-8f06-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Delight and relief in government after state visit]]></title>
+            <description><![CDATA[Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn3445655o#3</guid>
+            <pubDate>Fri, 19 Sep 2025 00:24:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15a/live/43fb9d90-9524-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Trump visit puts focus on pageantry after PM's tough fortnight]]></title>
+            <description><![CDATA[The government will hope for a reprieve from questions about Peter Mandelson, says the BBC's political editor.]]></description>
+            <link>https://www.bbc.com/news/articles/c80gk8j8epvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80gk8j8epvo#3</guid>
+            <pubDate>Wed, 17 Sep 2025 04:48:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1a/live/27bc2bb0-939c-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Completely different, yet genuinely get on' - BBC correspondents on Starmer and Trump]]></title>
+            <description><![CDATA[The BBC's Political Editor Chris Mason and North America Editor Sarah Smith discuss what's at stake for both sides during the trip.]]></description>
+            <link>https://www.bbc.com/news/videos/c9dxq447dwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9dxq447dwvo#3</guid>
+            <pubDate>Tue, 16 Sep 2025 16:27:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b0/live/b7dbd0b0-9392-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mason: Reform UK amplifies jitters for Labour and Conservatives]]></title>
+            <description><![CDATA[The BBC's political editor says people at the top of government acknowledge the last few weeks have been dreadful for them.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4y2ejlpdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4y2ejlpdjo#3</guid>
+            <pubDate>Tue, 16 Sep 2025 01:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c0/live/8372d940-92c5-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Jaws drop in Westminster at Mandelson revelations]]></title>
+            <description><![CDATA[There is a drip, drip of revelations about the UK's ambassador's past links to Jeffrey Epstein - and calls for his resignation.]]></description>
+            <link>https://www.bbc.com/news/articles/c36k0k8kkpwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36k0k8kkpwo#3</guid>
+            <pubDate>Thu, 11 Sep 2025 05:06:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c473/live/6df84610-8ea9-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Robinson: How the simmering row over freedom of speech in the UK reached boiling point]]></title>
+            <description><![CDATA[How did we reach a point where the UK is being compared to a 'tin pot Third World dictatorship'?]]></description>
+            <link>https://www.bbc.com/news/articles/c62ln7mzd5ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ln7mzd5ro#4</guid>
+            <pubDate>Mon, 22 Sep 2025 23:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/2456f2a0-9547-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's state visit is mired with potential pitfalls despite careful planning]]></title>
+            <description><![CDATA[Months of preparations have gone into this state visit - but the Lord Mandelson question is not the only concern troubling insiders.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw25w9841o#4</guid>
+            <pubDate>Mon, 15 Sep 2025 23:06:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f1/live/3fc05260-9246-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer resets after Rayner row, but Labour turmoil is a gift for Reform]]></title>
+            <description><![CDATA[The start of this political season has been wild, writes Laura Kuenssberg, and Labour now has Reform UK breathing down its neck. ]]></description>
+            <link>https://www.bbc.com/news/articles/c39rk4jlpw7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39rk4jlpw7o#4</guid>
+            <pubDate>Sat, 06 Sep 2025 11:59:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a69/live/2f287a40-8a3f-11f0-b391-6936825093bd.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Thank you, but it's too late': Why some Palestinians aren't convinced by Starmer's promise]]></title>
+            <description><![CDATA[Some say Britain's decision is an important first step – while others worry it won't make a real difference, writes BBC's International Editor Jeremy Bowen. ]]></description>
+            <link>https://www.bbc.com/news/articles/cd6n0eeqp54o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6n0eeqp54o#4</guid>
+            <pubDate>Fri, 01 Aug 2025 23:36:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2132/live/a281b350-6ef4-11f0-8dbd-f3d32ebd3327.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is in charge? The prime minister's authority is in question again]]></title>
+            <description><![CDATA[It's been a week of dismissals, disagreements and backbench bust-ups, writes Laura Kuenssberg.]]></description>
+            <link>https://www.bbc.com/news/articles/czxwe3g4wl5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxwe3g4wl5o#4</guid>
+            <pubDate>Sat, 19 Jul 2025 12:09:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ece/live/b12e7b40-649a-11f0-89ea-4d6f9851f623.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How many people would Reform's migrant plans impact?]]></title>
+            <description><![CDATA[Under the plans, migrants would need to reapply for new visas with tougher rules.]]></description>
+            <link>https://www.bbc.com/news/videos/c2ejmwrwj7mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2ejmwrwj7mo#5</guid>
+            <pubDate>Mon, 22 Sep 2025 16:37:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce4/live/090866f0-97d1-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How Lib Dems hope 'punchy' new strategy will get them attention]]></title>
+            <description><![CDATA[The BBC's Damian Grammaticas reports from the Liberal Democrats party conference in Bournemouth.]]></description>
+            <link>https://www.bbc.com/news/videos/c4g7p03y715o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4g7p03y715o#5</guid>
+            <pubDate>Mon, 22 Sep 2025 15:44:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d89a/live/6f71f230-97c7-11f0-858a-a904eacbef23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What animal would Reform UK be?]]></title>
+            <description><![CDATA[If you were to pick an animal for Reform UK, would it be a hyena, elephant, tiger or snake?]]></description>
+            <link>https://www.bbc.com/news/videos/c5yepxrgknno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yepxrgknno#5</guid>
+            <pubDate>Mon, 22 Sep 2025 14:50:19 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdc/live/ff4b3800-97c0-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should Lib Dem leader Ed Davey ditch the stunts?]]></title>
+            <description><![CDATA[The party's autumn conference is starting in the seaside resort of Bournemouth.]]></description>
+            <link>https://www.bbc.com/news/videos/cy4jj1lk2zgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy4jj1lk2zgo#5</guid>
+            <pubDate>Mon, 22 Sep 2025 06:32:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9723/live/2b0d8aa0-96ff-11f0-84c8-99de564f0440.jpg"/>
+        </item>
+    </channel>
+</rss>
