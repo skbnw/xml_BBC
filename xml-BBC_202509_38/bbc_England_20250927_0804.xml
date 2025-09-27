@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 27 Sep 2025 08:05:24 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['I went in for a Caesarean - but ended up in a coma']]></title>
+            <description><![CDATA[Amie receives an apology from medics over the care she received after the birth of her son Reggie.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgjxq0yek2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjxq0yek2o#0</guid>
+            <pubDate>Sat, 27 Sep 2025 06:34:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2e6/live/e50c27a0-9ae6-11f0-b834-df3e788fef97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My brother's killer impersonated him for weeks']]></title>
+            <description><![CDATA[Stuart Everett's murderer even sent a birthday card to his victim's brother to try to evade justice.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g9v6y6813o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9v6y6813o#0</guid>
+            <pubDate>Sat, 27 Sep 2025 06:19:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fca/live/5ddea650-0648-11f0-94d4-6f954f5dcfa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police bill for Epping protests could reach £1.7m]]></title>
+            <description><![CDATA[A senior police figure says Essex Police's response has required a "substantial level" of resources.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yk44r174do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yk44r174do#0</guid>
+            <pubDate>Sat, 27 Sep 2025 07:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f846/live/00c15370-84cc-11f0-9a8e-b57ad0129150.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I saw Oasis in 1994 - they blew my tiny mind']]></title>
+            <description><![CDATA[Oliver Astley recalls Oasis in their early days, when they performed for £5 each in front of 200 people.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9j4yqkn8ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9j4yqkn8ko#0</guid>
+            <pubDate>Sat, 27 Sep 2025 06:14:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ed2/live/dd04f2a0-9ac1-11f0-8459-f985f888de2a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of stabbed 74-year-old call for case review]]></title>
+            <description><![CDATA[David Brickwood's son calls for a through review of evidence 10 years after his father was killed.]]></description>
+            <link>https://www.bbc.com/news/articles/cr5q7r18zvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5q7r18zvpo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 05:39:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ca1/live/514ccbd0-9ade-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Doctors said I was too young for breast cancer']]></title>
+            <description><![CDATA[Sarah Wheldon was living in France when doctors refused to investigate her cancer symptoms.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv6njme09mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv6njme09mo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 06:27:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c36/live/f527ab70-9887-11f0-b146-278281693603.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I lifted our first World Cup. Rugby was freedom']]></title>
+            <description><![CDATA[Karen Almond helped lay the foundations of today's game by leading her team to victory in 1994.]]></description>
+            <link>https://www.bbc.com/news/articles/cge2x330nq0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge2x330nq0o#0</guid>
+            <pubDate>Sat, 27 Sep 2025 06:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b93/live/1a0b5990-9acd-11f0-abef-4bf262341dd3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Screaming on a mountain helped me mourn my husband']]></title>
+            <description><![CDATA[James Cook, 40, died after being stabbed on Castle Gate in Newark on 1 May.]]></description>
+            <link>https://www.bbc.com/news/articles/cly17lqx7p5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly17lqx7p5o#1</guid>
+            <pubDate>Sat, 27 Sep 2025 06:27:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4038/live/53d091c0-9552-11f0-9cf6-cbf3e73ce2b9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS trial results suggest drugs could repair damage]]></title>
+            <description><![CDATA[The "truly exciting" early findings could be a step towards halting MS progression, a charity says.]]></description>
+            <link>https://www.bbc.com/news/articles/crmedvdx8ylo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmedvdx8ylo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 05:51:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfdd/live/e3410030-9ac8-11f0-99cb-e5b0dff735aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[From JLR engineer to content creator and artist]]></title>
+            <description><![CDATA[Artist Temi Danso has attracted hundreds of thousands of followers on social media.]]></description>
+            <link>https://www.bbc.com/news/articles/cly7pwydw3xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly7pwydw3xo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 06:00:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a04/live/a7940530-9ab1-11f0-a5a9-ef712abe4eeb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenage soldier's Falklands medal could fetch £70k]]></title>
+            <description><![CDATA[Baz Grayling was a "true hero" who received a Military Medal in the Falklands War, says auctioneer.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgjq5vy7gvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjq5vy7gvo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 05:35:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8e/live/5860ed30-9961-11f0-858a-a904eacbef23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare bird breeds for first time in 200 years]]></title>
+            <description><![CDATA[A special project involved relocating birds to be resettled in the area, where they have now nested.]]></description>
+            <link>https://www.bbc.com/news/articles/cd07k2pkg38o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd07k2pkg38o#1</guid>
+            <pubDate>Sat, 27 Sep 2025 07:19:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf05/live/313d6930-9935-11f0-ab4d-5f8ffff7227b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heritage trust wins award for saving UK perry pears]]></title>
+            <description><![CDATA[More than 100 varieties of perry pear are now cultivated at an orchard in Gloucestershire.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lxv7wv2kwo#3</guid>
+            <pubDate>Sat, 27 Sep 2025 06:05:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/974f/live/70a43290-9ae6-11f0-b834-df3e788fef97.png"/>
+        </item>
+        <item>
+            <title><![CDATA['My big squash needed its own transport operation']]></title>
+            <description><![CDATA[Lee Herrington's 500Ibs (226kg) squash is taken to a vegetable show with a forklift truck and van.]]></description>
+            <link>https://www.bbc.com/news/articles/c8ex918ee6go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8ex918ee6go#3</guid>
+            <pubDate>Sat, 27 Sep 2025 05:55:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d5/live/f8213930-9af4-11f0-802c-d18911fea293.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Model railway delivers food and drink in cafe]]></title>
+            <description><![CDATA[Dave Wheeler creates a unique model railway snack delivery system in his cafe in Newenden.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9r1k912evo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9r1k912evo#3</guid>
+            <pubDate>Sat, 27 Sep 2025 06:09:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25e/live/c4711a30-9a16-11f0-92bd-0166dfabcb1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's just something that I am,' says white witch]]></title>
+            <description><![CDATA[The modern day witch practising her craft in an ancient village long associated with witchcraft.]]></description>
+            <link>https://www.bbc.com/news/articles/cdr6ee6l33yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr6ee6l33yo#4</guid>
+            <pubDate>Sat, 27 Sep 2025 06:21:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e6/live/4f0acc40-9af8-11f0-8272-7f0194ae8142.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Our sons died to save other children's lives']]></title>
+            <description><![CDATA[A couple who lost both their sons offer financial support to families and encourage organ donation.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2xpvg74yzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2xpvg74yzo#4</guid>
+            <pubDate>Sat, 27 Sep 2025 07:04:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a895/live/446d6070-9a2d-11f0-8766-3f88e8be4733.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 'Our volunteering is vital to keep railway history alive']]></title>
+            <description><![CDATA[Yorkshire heritage railway volunteers reflect on the importance of their work as anniversary marked.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2repxek8ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2repxek8ko#4</guid>
+            <pubDate>Sat, 27 Sep 2025 05:52:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f198/live/8ee68410-9a23-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should children be banned from pubs?]]></title>
+            <description><![CDATA[After a pub in Lancashire banned under 16s, the BBC takes a look at both sides of the debate.]]></description>
+            <link>https://www.bbc.com/news/articles/c80gxp3xk9go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80gxp3xk9go#4</guid>
+            <pubDate>Sat, 27 Sep 2025 06:18:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b340/live/303e3460-9b74-11f0-bb0a-2be588407c23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Doctor Who filmed the Highlands in West Sussex]]></title>
+            <description><![CDATA[Terror of the Zygons, filmed on location 50 years ago in West Sussex, is coming out on Blu-ray. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg049j7d8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg049j7d8vo#4</guid>
+            <pubDate>Sat, 27 Sep 2025 06:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f3/live/e0fcf0e0-8290-11f0-ab3e-bd52082cd0ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I've got to get out of here': Antisocial acts leave locals living in fear]]></title>
+            <description><![CDATA[People living in Portsmouth have told the BBC's Dan Johnson they feel unsafe in their own homes.]]></description>
+            <link>https://www.bbc.com/news/videos/c0jqv18yd5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0jqv18yd5eo#5</guid>
+            <pubDate>Fri, 26 Sep 2025 05:06:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0a/live/a457b5a0-9a53-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Timberlake post-gig chaos captured by drone]]></title>
+            <description><![CDATA[Footage released by police shows hundreds of cars stuck on roads gridlocked for up to four hours.]]></description>
+            <link>https://www.bbc.com/news/videos/c87yr45l8p3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c87yr45l8p3o#5</guid>
+            <pubDate>Fri, 26 Sep 2025 12:21:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b4/live/f32f7a30-9ad2-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rugby fans reveal their favourite World Cup moments]]></title>
+            <description><![CDATA[Ahead of the Women's Rugby World Cup final, fans reveal their favourite moments of the tournament so far.]]></description>
+            <link>https://www.bbc.com/news/videos/ckgelykn6w3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckgelykn6w3o#5</guid>
+            <pubDate>Fri, 26 Sep 2025 15:16:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a4/live/6c9c3ee0-9ae6-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman with terminal illness given dream wedding]]></title>
+            <description><![CDATA[Staff at Teesside Hospice plan a wedding in "less than two weeks" for one of their wellbeing patients.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yjq0j3908o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yjq0j3908o#5</guid>
+            <pubDate>Thu, 25 Sep 2025 05:16:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8f/live/be4223b0-9959-11f0-af62-91486a511a31.png"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup final predictions - will England win?]]></title>
+            <description><![CDATA[BBC commentators and pundits give their views on whether England or Canada will win the Women's Rugby World Cup final at Twickenham on Saturday.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cz9jvj1ne3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cz9jvj1ne3zo#6</guid>
+            <pubDate>Fri, 26 Sep 2025 12:54:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/49832820-9ad1-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bath begin title defence with comeback win at Quins]]></title>
+            <description><![CDATA[Champions Bath put on a commanding second-half performance to fight back at Harlequins and begin their title defence with a bonus-point win.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cn4ljy33xkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cn4ljy33xkeo#6</guid>
+            <pubDate>Fri, 26 Sep 2025 22:32:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bfb/live/9f94fd60-9b17-11f0-840a-21bbf6fbd619.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leigh beat Wakefield to set up Wigan semi-final]]></title>
+            <description><![CDATA[Leigh Leopards sweep aside Wakefield 26-10 in the first Super League play-off eliminator to book a semi-final place against Wigan.]]></description>
+            <link>https://www.bbc.com/sport/rugby-league/articles/c20zdlqd31go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-league/articles/c20zdlqd31go#6</guid>
+            <pubDate>Fri, 26 Sep 2025 22:31:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/9d784d00-9b19-11f0-b87b-794bcb76d087.jpg"/>
+        </item>
+    </channel>
+</rss>
