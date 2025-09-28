@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 28 Sep 2025 00:18:29 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump authorises 'full force' as Portland becomes latest city to see troops deployed]]></title>
+            <description><![CDATA[The president says the latest move to send troops to a major US city is "necessary" to protect immigration detention facilities.]]></description>
+            <link>https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cddmn6ge6e2o#0</guid>
+            <pubDate>Sat, 27 Sep 2025 21:42:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 30 dead in crush at political rally in India]]></title>
+            <description><![CDATA[Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.]]></description>
+            <link>https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98dqyj5dpjo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 20:04:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drones seen over Danish military bases in latest air disruption]]></title>
+            <description><![CDATA[Drones were detected near its largest military facility, with possible sightings also reported in Germany, Norway and Lithuania.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rvzdq93yro#0</guid>
+            <pubDate>Sat, 27 Sep 2025 12:51:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b934/live/b23db4f0-9b9b-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say]]></title>
+            <description><![CDATA[Israel is continuing its offensive against Hamas, after PM Benjamin Netanyahu told the UN ​​Israel “must finish the job” in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87y58jgn5lo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 18:06:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e064/live/6c52fed0-9bc0-11f0-852e-075d0572b37f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia has no intention of attacking EU or Nato states, foreign minister says]]></title>
+            <description><![CDATA[Sergei Lavrov has been highly critical of Western countries and Israel in his speech at the UN General Assembly. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5ygjv0r2myo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ygjv0r2myo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 18:21:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa8/live/e7815fc0-9bca-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss vote on electronic identity cards for second time]]></title>
+            <description><![CDATA[The proposal was revised after voters rejected the idea in 2021 amid concerns over data protection.]]></description>
+            <link>https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20e4z2z8n7o#0</guid>
+            <pubDate>Sat, 27 Sep 2025 22:39:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b7/live/27b946d0-9bf2-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to declassify files over aviation pioneer Amelia Earhart]]></title>
+            <description><![CDATA[The story of Earhart, who vanished in 1937 while flying over the Pacific Ocean, "has captivated millions", the US president says.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkn84e1nvxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkn84e1nvxo#0</guid>
+            <pubDate>Sat, 27 Sep 2025 04:07:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f72b/live/866f07f0-9b39-11f0-bd12-8ba761220fbb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US revokes Colombian president's visa over 'reckless and incendiary' remarks]]></title>
+            <description><![CDATA[Gustavo Petro told US soldiers to "disobey Trump's orders" while addressing a protest in New York.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9jv8kne7no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9jv8kne7no#1</guid>
+            <pubDate>Sat, 27 Sep 2025 09:07:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5875/live/f9f37d30-9b6d-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu attacks Palestinian recognition as dozens walk out of UN speech]]></title>
+            <description><![CDATA[Officials and diplomats left the auditorium in protest as the Israeli leader took the stage, leaving large parts of the hall empty.]]></description>
+            <link>https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cderxxylpzdo#1</guid>
+            <pubDate>Fri, 26 Sep 2025 16:41:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police break up ring trafficking Kenyans to fight for Russia in Ukraine]]></title>
+            <description><![CDATA[Recruitment materials, travel documents, and job offer letters were seized during the raid. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdxqjqjln1ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxqjqjln1ko#1</guid>
+            <pubDate>Sat, 27 Sep 2025 11:19:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/74748a90-9add-11f0-8ee5-3b441e09ef17.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk and Prince Andrew named in new Epstein files]]></title>
+            <description><![CDATA[The documents by the estate of convicted paedophile financier Jeffrey Epstein were released by Congressional Democrats.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyl8j1we0lo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 03:39:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/89472f60-9b53-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV station owners reinstate Jimmy Kimmel show after ban]]></title>
+            <description><![CDATA[Viewers in Washington, DC, St Louis and Seattle will be able to watch the late night comedian's show again.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7pm1jz0dlo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 07:00:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK urged to act on colonial-era war crimes case after recognising Palestinian state]]></title>
+            <description><![CDATA[A legal petition alleges colonial-era war crimes by the UK in historical Palestine in 1917-48.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3yepedj57o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3yepedj57o#1</guid>
+            <pubDate>Fri, 26 Sep 2025 22:17:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b41/live/f7271330-9b1f-11f0-a521-fb5ed45b1785.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI fires agents pictured kneeling at George Floyd protest, US media report]]></title>
+            <description><![CDATA[The FBI Agents Association says the terminations - not yet confirmed by the bureau - violate the agents' rights.]]></description>
+            <link>https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4q5xrz9dpo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 18:50:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c3c/live/bfa11940-9b8f-11f0-bdeb-9de9348d5d1d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN sanctions against Iran to resume over banned nuclear activity]]></title>
+            <description><![CDATA[Sanctions lifted in 2015 look set to be snapped back after Tehran was accused of failing to fulfil its commitments.]]></description>
+            <link>https://www.bbc.com/news/articles/c39rpgpvwy1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39rpgpvwy1o#1</guid>
+            <pubDate>Sat, 27 Sep 2025 05:28:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0353/live/8873a830-9b52-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICE arrests top educator at Iowa's largest school district]]></title>
+            <description><![CDATA[In his role as superintendent for the city of Des Moines, Ian Roberts oversees around 30,000 students.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d70n4gpvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d70n4gpvpo#1</guid>
+            <pubDate>Sat, 27 Sep 2025 00:48:34 GMT</pubDate>
+            <media:thumbnail width="178" height="101" url="https://ichef.bbci.co.uk/ace/standard/178/cpsprodpb/a300/live/b1579750-9b72-11f0-923b-292f982dfb5c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey abandons bid to force doner kebab rules on Europe]]></title>
+            <description><![CDATA[The case had alarmed Germany's kebab industry in particular, who make doners very differently.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9g9g7j36o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9g9g7j36o#1</guid>
+            <pubDate>Fri, 26 Sep 2025 12:35:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75a/live/d0584610-9acb-11f0-abef-4bf262341dd3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New York office gunman had low-level CTE, medical examiner finds]]></title>
+            <description><![CDATA[Shane Tamura killed four while targeting NFL offices in July]]></description>
+            <link>https://www.bbc.com/news/articles/cj07nv4l7m5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj07nv4l7m5o#1</guid>
+            <pubDate>Fri, 26 Sep 2025 19:05:39 GMT</pubDate>
+            <media:thumbnail width="240" height="137" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/5d0b1890-9b07-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dubai sex-trade ring boss held by police after BBC investigation]]></title>
+            <description><![CDATA[Charles Mwesigwa led a degrading network exploiting vulnerable women in glamorous parts of Dubai.]]></description>
+            <link>https://www.bbc.com/news/articles/ce84ezl461po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce84ezl461po#1</guid>
+            <pubDate>Fri, 26 Sep 2025 15:52:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8d/live/16a38630-9abc-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slovakia passes law to recognise only two sexes and restrict adoption]]></title>
+            <description><![CDATA[Critics warn the change will make life more difficult for LGBT people. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0m4kpg2nmmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m4kpg2nmmo#1</guid>
+            <pubDate>Fri, 26 Sep 2025 15:29:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/685c9c90-9aea-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Assata Shakur, black liberation activist exiled in Cuba, dies at 78]]></title>
+            <description><![CDATA[She fled to Cuba after being convicted in the killing of a police officer but denied the shooting.]]></description>
+            <link>https://www.bbc.com/news/articles/cm28yrz6502o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm28yrz6502o#1</guid>
+            <pubDate>Fri, 26 Sep 2025 20:27:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/3ac1de80-9afe-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada's postal workers strike, bring mail deliveries to a halt]]></title>
+            <description><![CDATA[The strikes comes after proposals by the government that would shutter some post offices and end home delivery of parcels.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dn7zl9dp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dn7zl9dp1o#1</guid>
+            <pubDate>Fri, 26 Sep 2025 15:58:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/39e9a880-9b62-11f0-94f8-bfa5cc3b40d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Instagram vs reality: Bali is becoming a victim of its own success]]></title>
+            <description><![CDATA[Millions flock to Bali to Eat, Pray, Love. They also get crowds, traffic and the cacophony of construction.]]></description>
+            <link>https://www.bbc.com/news/articles/c07vxdny178o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07vxdny178o#2</guid>
+            <pubDate>Sat, 27 Sep 2025 22:06:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f6/live/692a68f0-9a9f-11f0-8a5e-2b93bd7574d5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns]]></title>
+            <description><![CDATA[Tensions between the two countries have increased after the US Navy targeted boats off the coast of Venezuela. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5q173053o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5q173053o#2</guid>
+            <pubDate>Sat, 27 Sep 2025 23:30:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be2f/live/a41a1560-9a1c-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump promised retribution - how far will he go?]]></title>
+            <description><![CDATA[As the US president pushes a crackdown on left-wing groups and openly targets political foes, critics ask where he's taking America]]></description>
+            <link>https://www.bbc.com/news/articles/c0q74pxx871o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q74pxx871o#2</guid>
+            <pubDate>Sat, 27 Sep 2025 05:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2b/live/ca2a45a0-9aed-11f0-92db-77261a15b9d2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The record-breaking Nigerian chef ready to take on the world]]></title>
+            <description><![CDATA["It feels good to be an inspiration," double Guinness World Record breaker Hilda Baci tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/crl50yrgpj7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crl50yrgpj7o#2</guid>
+            <pubDate>Fri, 26 Sep 2025 23:35:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdd7/live/69b81220-9a1f-11f0-89b7-f92e020b4774.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to know about James Comey's indictment and what happens next]]></title>
+            <description><![CDATA[The news puts the ex-FBI boss back in the spotlight nearly a decade after the drama of the 2016 election.]]></description>
+            <link>https://www.bbc.com/news/articles/cj07ndrnr34o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj07ndrnr34o#2</guid>
+            <pubDate>Fri, 26 Sep 2025 17:23:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f844/live/316dacc0-9afd-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moldova holds key election as Russia's shadow looms large]]></title>
+            <description><![CDATA[The country has accused Moscow of election interference on an unprecedented scale. ]]></description>
+            <link>https://www.bbc.com/news/articles/c179z9d4vl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c179z9d4vl1o#2</guid>
+            <pubDate>Sat, 27 Sep 2025 03:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627d/live/c6265280-9b4e-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Indian who caught 'Bikini killer' twice - and is now Netflix hero]]></title>
+            <description><![CDATA[Inspector Zende tells the story of an Indian police officer who captured notorious killer Charles Sobhraj twice.]]></description>
+            <link>https://www.bbc.com/news/articles/cq65gvjqz88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq65gvjqz88o#2</guid>
+            <pubDate>Fri, 26 Sep 2025 00:08:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a6/live/60910a00-8edd-11f0-bb83-ad56c4d5c170.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why a tiny island's fate could decide Seychelles' next president]]></title>
+            <description><![CDATA[India, Qatari royals, China and ecologists have their own, very different, views on Assumption Island's future.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvqrvjrw7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvqrvjrw7o#2</guid>
+            <pubDate>Thu, 25 Sep 2025 23:33:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a06/live/a2aa59f0-9a36-11f0-97f5-bd38218a3641.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids downplay global fame: 'Success is a strong word']]></title>
+            <description><![CDATA[As the K-pop idols continue to break records, they stay focused on making music and meeting fans.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9n502g0vxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9n502g0vxo#2</guid>
+            <pubDate>Fri, 26 Sep 2025 00:07:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/450c/live/abdfdc90-99e9-11f0-ab25-c9c4c516f15a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China launches campaign to keep killjoys off the internet]]></title>
+            <description><![CDATA[Pessimistic social media posts may now be targets of a fresh crackdown by the Chinese government.]]></description>
+            <link>https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39r7p47wzgo#2</guid>
+            <pubDate>Thu, 25 Sep 2025 22:01:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonic the Hedgehog boss on how the series keeps up to speed]]></title>
+            <description><![CDATA[The video game icon has been taking shots at an old rival, but the real competition comes from newer games.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8ry1vn097o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8ry1vn097o#2</guid>
+            <pubDate>Thu, 25 Sep 2025 11:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f1/live/378389d0-99f5-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Polar bears occupy abandoned Soviet-era research station]]></title>
+            <description><![CDATA[Drone footage captures a group of polar bears living inside an abandoned research station on Russia's Kolyuchin Island.]]></description>
+            <link>https://www.bbc.com/news/videos/c0ezre2x3gvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0ezre2x3gvo#3</guid>
+            <pubDate>Sat, 27 Sep 2025 08:23:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0e/live/bc2bf4e0-9b7d-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment freediver sets new world record with breath-defying 126m plunge]]></title>
+            <description><![CDATA[Russian Alexey Molchanov breaks his own 2024 world record in one of the most technically challenging freediving events.]]></description>
+            <link>https://www.bbc.com/news/videos/c4gvw7zmwgko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gvw7zmwgko#3</guid>
+            <pubDate>Sat, 27 Sep 2025 02:39:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19b/live/652ff370-9b47-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How Trump and Comey's relationship soured]]></title>
+            <description><![CDATA[The indictment of the ex-FBI boss comes days after Trump called for his adversaries to be more aggressively investigated.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cz69y2n6xexo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz69y2n6xexo#3</guid>
+            <pubDate>Fri, 26 Sep 2025 21:25:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e069/live/5c77ccb0-9b1c-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walk-out and loudspeakers near Gaza: See how Netanyahu's UN speech unfolded]]></title>
+            <description><![CDATA[Dozens of officials and diplomats staged a walk-out as he took to the podium, leaving large parts of the hall empty.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cz9jvqnk004o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz9jvqnk004o#3</guid>
+            <pubDate>Fri, 26 Sep 2025 17:21:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c75/live/bf2bb6e0-9afa-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+    </channel>
+</rss>
