@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 04 Oct 2025 16:03:53 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Police make 175 arrests at pro-Palestinian protest in London]]></title>
+            <description><![CDATA[Demonstrations went ahead in central London despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.]]></description>
+            <link>https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceq2e9x19g8o#0</guid>
+            <pubDate>Sat, 04 Oct 2025 15:58:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of extra police on streets after synagogue attack]]></title>
+            <description><![CDATA[Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.]]></description>
+            <link>https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkj50gd217o#0</guid>
+            <pubDate>Sat, 04 Oct 2025 14:06:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wind and rain warnings as Storm Amy hits UK]]></title>
+            <description><![CDATA[An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lky9nn948o#0</guid>
+            <pubDate>Sat, 04 Oct 2025 15:38:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen jailed in Dubai dies after London police chase]]></title>
+            <description><![CDATA[Marcus Fakana, who was jailed for having sex with a 17-year-old girl, dies after a pursuit in Tottenham.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e7yyjw77qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e7yyjw77qo#0</guid>
+            <pubDate>Sat, 04 Oct 2025 12:34:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f4c/live/77836b30-a112-11f0-807b-c1a7ae4b635d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rail firm fined £1m over train passenger's death ]]></title>
+            <description><![CDATA[Bethan Roper was killed in 2018 when she leaned out of a droplight window on a moving train.]]></description>
+            <link>https://www.bbc.com/news/articles/c20ej7rkj3ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20ej7rkj3ko#0</guid>
+            <pubDate>Sat, 04 Oct 2025 15:17:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2a/live/7f80e460-a104-11f0-ac34-1b87a37e0e9a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serving Met police officer arrested after BBC Panorama investigation]]></title>
+            <description><![CDATA[The officer has been bailed and suspended from duty, the Met police says.]]></description>
+            <link>https://www.bbc.com/news/articles/c86422y9vxno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86422y9vxno#0</guid>
+            <pubDate>Fri, 03 Oct 2025 20:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a45/live/91b67a90-a092-11f0-b1b3-b903aa8071ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK will leave ECHR if Tories win election, Badenoch says]]></title>
+            <description><![CDATA[The European Convention on Human Rights has become a focal point in debates around changing immigration policy.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mxy2j2elro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mxy2j2elro#0</guid>
+            <pubDate>Sat, 04 Oct 2025 11:04:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299f/live/f343b7e0-a098-11f0-a918-e111dd54869c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seaside funfair shuts its doors for final time after 107 years]]></title>
+            <description><![CDATA[The sun is finally setting on a much-loved fair that has entertained generations of families. ]]></description>
+            <link>https://www.bbc.com/news/articles/clyvvpl1551o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyvvpl1551o#1</guid>
+            <pubDate>Sat, 04 Oct 2025 06:08:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc9/live/a9af9750-a045-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barrowman says chase our partners for the money]]></title>
+            <description><![CDATA[A spokesperson for Doug Barrowman says other companies also received money for providing gowns to the government and should be pursued to get it back.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0v4plld8ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0v4plld8ro#1</guid>
+            <pubDate>Sat, 04 Oct 2025 00:24:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ed/live/2600a9b0-a079-11f0-bb47-b30225268691.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sales of electric cars hit record high in September]]></title>
+            <description><![CDATA[Sales of fully electric or hybrid vehicles made up more than half of all new car registrations in the UK last month.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyd094168go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyd094168go#1</guid>
+            <pubDate>Sat, 04 Oct 2025 00:41:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e058/live/ac7c44b0-a06d-11f0-8687-4726d7177866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Mullally named as new Archbishop of Canterbury]]></title>
+            <description><![CDATA[She becomes the first female leader of the Church of England, replacing Justin Welby who resigned over his handling of a safeguarding scandal.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lxyxqzxkdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lxyxqzxkdo#1</guid>
+            <pubDate>Fri, 03 Oct 2025 12:47:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d05/live/54230290-a04a-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonehead out of Oasis tour after cancer diagnosis]]></title>
+            <description><![CDATA[One of the band's founding members says he will be miss some upcoming shows for treatment.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvl3p7k0m1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvl3p7k0m1o#1</guid>
+            <pubDate>Fri, 03 Oct 2025 18:44:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a5/live/11566ca0-a080-11f0-bb47-b30225268691.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brewdog announces job cuts after posting £37m loss]]></title>
+            <description><![CDATA[It is the fifth year running that the firm, headquartered in Ellon, Aberdeenshire, has posted pre-tax losses. ]]></description>
+            <link>https://www.bbc.com/news/articles/cge2v0l5ywno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge2v0l5ywno#1</guid>
+            <pubDate>Fri, 03 Oct 2025 17:21:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d2/live/2362dd90-6703-11f0-af20-030418be2ca5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK ticket-holder wins £26m Euromillions jackpot]]></title>
+            <description><![CDATA[It is the third time someone from the UK has won the prize this year, but it remains unclaimed.]]></description>
+            <link>https://www.bbc.com/news/articles/crl573x605xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crl573x605xo#1</guid>
+            <pubDate>Sat, 04 Oct 2025 11:43:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3853/live/39019490-a117-11f0-acf1-c3cdd394c60e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keeping Up Appearances star Patricia Routledge dies at 96]]></title>
+            <description><![CDATA[She also starred in Alan Bennett's TV monologues and played the BBC's amateur sleuth Hetty Wainthropp.]]></description>
+            <link>https://www.bbc.com/news/articles/czdjegvjz3do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdjegvjz3do#1</guid>
+            <pubDate>Fri, 03 Oct 2025 12:21:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ca/live/298a4240-a050-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dad given life for killing baby son in hospital]]></title>
+            <description><![CDATA[Daniel Gunter denied harming his 14-day-old son inside a hospital's special care baby unit in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c62q1q1vd9yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62q1q1vd9yo#1</guid>
+            <pubDate>Fri, 03 Oct 2025 13:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a6/live/b13b4770-a02d-11f0-9eee-8f8d46a446f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tax wealthiest to end rip-off Britain, says Green leader]]></title>
+            <description><![CDATA[Zack Polanski sets out a new direction for the Green Party in his first conference speech as leader.]]></description>
+            <link>https://www.bbc.com/news/articles/c708y9nq174o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c708y9nq174o#1</guid>
+            <pubDate>Fri, 03 Oct 2025 15:51:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae45/live/a0ba2130-a061-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zack Polanski: 'We will say it loud, migrants and refugees are welcome here']]></title>
+            <description><![CDATA[Green Party leader Zack Polanski has delivered his first conference speech as leader and criticised the rise of Nigel Farage's Reform party.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yezqerrk0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yezqerrk0o#2</guid>
+            <pubDate>Fri, 03 Oct 2025 14:00:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3800/live/56e1f980-a060-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home secretary calls pro-Palestine protests after Manchester attack 'un-British']]></title>
+            <description><![CDATA[Home Secretary Shabana Mahmood has told the BBC she was "disappointed" pro-Palestinian protests went ahead on Thursday in the wake of the terror attack outside a synagogue in Manchester.]]></description>
+            <link>https://www.bbc.com/news/videos/c89d21j84gpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c89d21j84gpo#2</guid>
+            <pubDate>Fri, 03 Oct 2025 09:35:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/974b/live/c4b19dc0-a039-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Met Police chief says Panorama's findings are 'horrific']]></title>
+            <description><![CDATA[Met Police chief Sir Mark Rowley has spoken to BBC London after a Panorama investigation found misogyny and racism inside the force.]]></description>
+            <link>https://www.bbc.com/news/videos/c20e238mgkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c20e238mgkeo#2</guid>
+            <pubDate>Thu, 02 Oct 2025 07:58:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a525/live/c32d3070-9f64-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Key moments from Starmer's Labour conference speech]]></title>
+            <description><![CDATA[The prime minister said Britain was at a "fork in the road" in his address to the party conference in Liverpool.]]></description>
+            <link>https://www.bbc.com/news/videos/cjd18mde13po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjd18mde13po#2</guid>
+            <pubDate>Tue, 30 Sep 2025 15:39:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7a/live/30a4ec00-9e12-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Port Talbot 'quieter and cleaner' since blast furnaces shut down]]></title>
+            <description><![CDATA[A year since Port Talbot's blast furnaces were shut off, locals remain optimistic about the future.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv68z79r50o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv68z79r50o#3</guid>
+            <pubDate>Sat, 04 Oct 2025 11:13:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a31/live/ef565250-989b-11f0-8e62-81f400027fcb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[He reads, buys flowers and plays the ukulele. A dream man or is it all a performance?]]></title>
+            <description><![CDATA[Competitors with tote bags full of sanitary pads and feminist literature faced off in central London.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8jrzejqjro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8jrzejqjro#3</guid>
+            <pubDate>Sat, 04 Oct 2025 01:23:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8932/live/5f157260-a0f8-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We put out fires for decades, now we want our pension']]></title>
+            <description><![CDATA[Retained firefighters in Leicestershire say they are still waiting for the pensions they fought for.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yepv9kwjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yepv9kwjzo#3</guid>
+            <pubDate>Sat, 04 Oct 2025 02:48:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed13/live/a37223d0-a036-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dame Patricia Routledge: The life of TV's magnificently snobby 'Hyacinth Bucket']]></title>
+            <description><![CDATA[A much-loved actress who became famous in the role of Hyacinth Bucket in Keeping Up Appearances.]]></description>
+            <link>https://www.bbc.com/news/articles/c511ym2r2xpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c511ym2r2xpo#3</guid>
+            <pubDate>Fri, 03 Oct 2025 10:18:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4894/live/b705b4f0-80c2-11ef-ab28-17c883eb03dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about synagogue attacker Jihad Al-Shamie]]></title>
+            <description><![CDATA[At the time of the deadly attack, Jihad Al-Shamie was on bail after being arrested on suspicion of rape.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q7y72kppgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q7y72kppgo#3</guid>
+            <pubDate>Fri, 03 Oct 2025 20:26:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b5/live/1e576ba0-a032-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of extra police on streets after synagogue attack]]></title>
+            <description><![CDATA[Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.]]></description>
+            <link>https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crkj50gd217o#4</guid>
+            <pubDate>Sat, 04 Oct 2025 14:06:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Widespread damage as Storm Amy 'hit harder' than expected]]></title>
+            <description><![CDATA[More than 60,000 homes were left without power as wind and rain swept across Scotland overnight.]]></description>
+            <link>https://www.bbc.com/news/articles/c3dry34vzvmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dry34vzvmo#4</guid>
+            <pubDate>Sat, 04 Oct 2025 15:01:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3e/live/a4eb3160-a109-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds without power as 85mph gusts batter Wales]]></title>
+            <description><![CDATA[Section of the M4 forced to shut, train lines blocked and ferry circling offshore unable to berth.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dn202n4w8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dn202n4w8o#4</guid>
+            <pubDate>Sat, 04 Oct 2025 12:47:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c86/live/5ab5b200-a109-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands still without power as Storm Amy sweeps through NI]]></title>
+            <description><![CDATA[A Met Office yellow weather warning is in place as disruption continues on the roads but some train lines have reopened.]]></description>
+            <link>https://www.bbc.com/news/articles/ce86jkg8dx4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86jkg8dx4o#4</guid>
+            <pubDate>Sat, 04 Oct 2025 14:04:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c52/live/c29f1cf0-a0f3-11f0-b02a-d119062cfa74.jpg"/>
+        </item>
+    </channel>
+</rss>
