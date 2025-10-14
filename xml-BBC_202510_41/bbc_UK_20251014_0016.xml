@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 14 Oct 2025 00:16:24 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Chris Mason: SNP are the latest proof that things change quickly in politics]]></title>
+            <description><![CDATA[The SNP are not only hopeful of victory at next year's Scottish election, but are even talking of an outright majority.]]></description>
+            <link>https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx4lz0789xo#0</guid>
+            <pubDate>Mon, 13 Oct 2025 22:13:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vodafone admits 'major outage' as more than 130,000 report problems]]></title>
+            <description><![CDATA[Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yldldx659o#0</guid>
+            <pubDate>Mon, 13 Oct 2025 17:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/f3731590-a849-11f0-8df8-17b411cc599c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Undercover officer played role in Stephen Lawrence inquiry clashes ]]></title>
+            <description><![CDATA[There may be evidence of racism in how a police team targeted black justice campaigners, an inquiry hears.]]></description>
+            <link>https://www.bbc.com/news/articles/c803ex1xgr5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c803ex1xgr5o#0</guid>
+            <pubDate>Mon, 13 Oct 2025 18:52:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c245/live/0b16ba80-a859-11f0-a6a1-7df40e0558bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two charged with murder of Lostprophets singer Ian Watkins who died in prison attack]]></title>
+            <description><![CDATA[The disgraced Lostprophets frontman was fatally injured at HMP Wakefield on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c3drdy5ry2do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3drdy5ry2do#0</guid>
+            <pubDate>Mon, 13 Oct 2025 10:23:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12e/live/28d07cd0-a81f-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tommy Robinson refused to give phone Pin to protect 'journalistic material']]></title>
+            <description><![CDATA[The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lp1k7pnpno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lp1k7pnpno#0</guid>
+            <pubDate>Mon, 13 Oct 2025 16:26:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4755/live/64e20e60-a828-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Witkoff praises PM aide's 'tireless efforts' on Gaza]]></title>
+            <description><![CDATA[Trump's Middle East envoy also says the UK played a "vital role" in the peace agreement. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4rwne0ggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4rwne0ggo#0</guid>
+            <pubDate>Mon, 13 Oct 2025 19:13:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c0/live/77246bd0-a824-11f0-9402-2f1ec29d00d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mental health detention after children found dead]]></title>
+            <description><![CDATA[Meraj Ul Zahra, two, and Abdul Momin Alfaateh, three, were found on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/c2drgnx6d39o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2drgnx6d39o#0</guid>
+            <pubDate>Mon, 13 Oct 2025 15:58:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d94b/live/400bd0c0-a833-11f0-9f09-57500e5dbf06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Powell made no decisions about evidence in China spy case, minister says]]></title>
+            <description><![CDATA[The government's national security adviser is facing pressure over whether he played a role in the trial's collapse.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4r177k52o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4r177k52o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 21:18:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage rates creep back up as lenders show caution]]></title>
+            <description><![CDATA[Average mortgage rates have increased month-on-month for the first time since February, says Moneyfacts.]]></description>
+            <link>https://www.bbc.com/news/articles/cdx4l557n1lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx4l557n1lo#1</guid>
+            <pubDate>Mon, 13 Oct 2025 10:34:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/19aca900-a819-11f0-881e-a7ddfaa732cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prisoner questioned over schoolgirl's 1994 murder]]></title>
+            <description><![CDATA[Lindsay Rimer, 13, was found dead five months after she went missing from Hebden Bridge in 1994. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4rn3vdx6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4rn3vdx6o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 12:52:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/1809cb70-a83a-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['All the stress was for nothing': Woman drops sex assault case after court delays]]></title>
+            <description><![CDATA[The woman said she endured years of pain after being assaulted by a taxi driver on her birthday. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy50zp3dvxro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy50zp3dvxro#1</guid>
+            <pubDate>Mon, 13 Oct 2025 05:25:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1c/live/64b84b40-a2c2-11f0-9de5-4d449564150c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First German state visit to UK for 27 years announced]]></title>
+            <description><![CDATA[Germany's President Steinmeier will visit King Charles on a state visit to the UK in December.]]></description>
+            <link>https://www.bbc.com/news/articles/czxklen5p2qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxklen5p2qo#1</guid>
+            <pubDate>Mon, 13 Oct 2025 11:09:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c0/live/ec0d7f20-a821-11f0-85ef-e382bd92d5ce.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carmakers go on trial over 'dieselgate' emissions cheat claims]]></title>
+            <description><![CDATA[The trial is the latest chapter of what has become known as the "dieselgate" scandal.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr5epw8dweo#1</guid>
+            <pubDate>Mon, 13 Oct 2025 14:31:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ae/live/f9094d30-a803-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blowing whistle on racism killed my career, ex-England rugby player says]]></title>
+            <description><![CDATA[Former England centre Luther Burrell believes clubs were put off hiring him after he went public to reveal racist abuse he suffered during his time at Newcastle.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 05:12:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e57/live/2a144370-a5da-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman arrested after girl, 2, and boy, 3, die]]></title>
+            <description><![CDATA[Police name the pair as Meraj Ul Zahra and Abdul Momin Alfaateh.]]></description>
+            <link>https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78n8y3mlxko#1</guid>
+            <pubDate>Sun, 12 Oct 2025 20:51:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/eae1f310-a803-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heartbreak after modified e-bike fire destroys home]]></title>
+            <description><![CDATA[Emma Wills, from Chilworth, says she remains heartbroken about the fire at her home.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3yk5xvjgmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3yk5xvjgmo#1</guid>
+            <pubDate>Mon, 13 Oct 2025 17:18:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0a/live/af3be870-a795-11f0-8c9e-87f67f3eb58c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch demands PM address 'unanswered' China spy case questions]]></title>
+            <description><![CDATA[In a letter to Starmer, the Tory leader claimed his government's account of the collapsed case had "changed repeatedly".]]></description>
+            <link>https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg424d712q7o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 12:02:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lloyds warns car finance scandal could cost it £2bn]]></title>
+            <description><![CDATA[The bank has set aside an additional £800m, saying the number of eligible claims is expected to be higher than previously thought.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6zr733917o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6zr733917o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 11:52:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d3/live/ca6f5320-a80d-11f0-881e-a7ddfaa732cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London buses infested with cockroaches say drivers]]></title>
+            <description><![CDATA[Drivers say a number of buses and their rest areas are infested with cockroaches.]]></description>
+            <link>https://www.bbc.com/news/articles/cwynyq3vv34o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynyq3vv34o#1</guid>
+            <pubDate>Mon, 13 Oct 2025 05:01:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e94/live/08925e90-a822-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with stalking after allegedly targeting Ed Davey and family]]></title>
+            <description><![CDATA[As well as the accusations regarding Ed Davey, Inigo Rowland is charged with flick-knife possession.]]></description>
+            <link>https://www.bbc.com/news/articles/c77d702znm4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77d702znm4o#1</guid>
+            <pubDate>Sun, 12 Oct 2025 13:54:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9188/live/c3b1dca0-a76e-11f0-93e3-054bcb63bc18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Universities must tackle antisemitism, says Education Secretary Phillipson]]></title>
+            <description><![CDATA[Education Secretary Bridget Phillipson says Jewish students do not feel safe, as she sets out measures to tackle antisemitism.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cly9y7gg6eqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9y7gg6eqo#1</guid>
+            <pubDate>Sun, 12 Oct 2025 20:20:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad6/live/da179840-a75a-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNP leader says 'precedent on my side' to secure second referendum]]></title>
+            <description><![CDATA[The SNP won more than half of the seats at Holyrood in 2011, an electoral triumph that paved the way for a poll on the country's future.]]></description>
+            <link>https://www.bbc.com/news/articles/cg424dk03x9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg424dk03x9o#1</guid>
+            <pubDate>Sun, 12 Oct 2025 12:19:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbb/live/419bcf60-a75e-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rail firm Greater Anglia transfers to public ownership]]></title>
+            <description><![CDATA[Greater Anglia describes renationalisation as a step towards a "simpler, more unified" rail network.]]></description>
+            <link>https://www.bbc.com/news/articles/c36kg2lzjgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36kg2lzjgno#1</guid>
+            <pubDate>Sun, 12 Oct 2025 03:46:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d69/live/d6890e90-a73f-11f0-bcd6-45a56ab59606.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I was shocked when mum told me what she wants to do with her body when she dies]]></title>
+            <description><![CDATA[BBC presenter Lucy Owen finds out why her mum wants to donate her body to medical science.]]></description>
+            <link>https://www.bbc.com/news/articles/cly7lwp8pyno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly7lwp8pyno#1</guid>
+            <pubDate>Sun, 12 Oct 2025 06:10:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53a/live/fab07e70-a80c-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescue teams search for German walker missing on Scottish mountain]]></title>
+            <description><![CDATA[Matthias Beutin was last seen on Thursday before climbing Blà Bheinn and has not been in contact with his family since.]]></description>
+            <link>https://www.bbc.com/news/articles/c3060411ddyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3060411ddyo#1</guid>
+            <pubDate>Sun, 12 Oct 2025 14:03:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea7/live/d8953370-a759-11f0-a302-6bcd0f505684.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paedophile singer Ian Watkins dies after prison attack]]></title>
+            <description><![CDATA[Watkins, 48, was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2d2me0eljo#1</guid>
+            <pubDate>Sun, 12 Oct 2025 07:45:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e77/live/f73dd180-a73e-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch denies empty seats an issue at Tory conference]]></title>
+            <description><![CDATA[On Monday, shadow chancellor Mel Stride gave his speech to a partially empty hall in Manchester.]]></description>
+            <link>https://www.bbc.com/news/videos/cly6kk17v72o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cly6kk17v72o#2</guid>
+            <pubDate>Tue, 07 Oct 2025 09:08:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab20/live/e8ab90a0-a359-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Jilly Cooper's surprise cameo in hit TV series Rivals]]></title>
+            <description><![CDATA[The late author appeared in the TV adaptation of her 1988 novel last year.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg0yp5v88po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg0yp5v88po#2</guid>
+            <pubDate>Mon, 06 Oct 2025 14:34:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899b/live/8312f3c0-a2d0-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Old Trafford's minute's silence for Manchester synagogue attack victims]]></title>
+            <description><![CDATA[Two people died and three people were injured in the attack at a synagogue on Thursday.]]></description>
+            <link>https://www.bbc.com/news/videos/c89dnyz95k0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c89dnyz95k0o#2</guid>
+            <pubDate>Sat, 04 Oct 2025 16:15:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44fb/live/bb28d350-a13c-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zack Polanski: 'We will say it loud, migrants and refugees are welcome here']]></title>
+            <description><![CDATA[Green Party leader Zack Polanski has delivered his first conference speech as leader and criticised the rise of Nigel Farage's Reform party.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yezqerrk0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yezqerrk0o#2</guid>
+            <pubDate>Fri, 03 Oct 2025 14:00:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3800/live/56e1f980-a060-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your nose gets colder when you're stressed. These thermal images show the change]]></title>
+            <description><![CDATA[Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test.]]></description>
+            <link>https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj076ynnlpgo#3</guid>
+            <pubDate>Sun, 12 Oct 2025 23:28:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We must catch up soon!' How to stop ghosting your friends]]></title>
+            <description><![CDATA[How to keep friendships alive as an adult alongside work, family and endless to-do lists.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyr971q7rxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyr971q7rxo#3</guid>
+            <pubDate>Sun, 12 Oct 2025 23:28:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/d0670b70-a5f5-11f0-af09-bf7f0464c1dc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[My late husband's organs transformed the lives of four people]]></title>
+            <description><![CDATA[Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes "out of the blue".]]></description>
+            <link>https://www.bbc.com/news/articles/c62ldw09y6go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldw09y6go#3</guid>
+            <pubDate>Sun, 12 Oct 2025 08:33:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[By-election set to test Labour's century-long dominance in historic Caerphilly]]></title>
+            <description><![CDATA[Why the Caerphilly by-election is about more than just sending one representative to Cardiff Bay.]]></description>
+            <link>https://www.bbc.com/news/articles/czew7nedd8jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czew7nedd8jo#3</guid>
+            <pubDate>Mon, 13 Oct 2025 05:18:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b570/live/85c13390-a530-11f0-8469-192d9823e9a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cold, flu, Covid: Why is everyone sick right now?]]></title>
+            <description><![CDATA[Why coughs and colds seem to be taking hold currently - and what you can do to protect yourself.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jz608l9l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jz608l9l4o#3</guid>
+            <pubDate>Sat, 11 Oct 2025 23:07:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/c2050750-a6bb-11f0-a356-d3fc7522eb5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman detained under Mental Health Act after children found dead]]></title>
+            <description><![CDATA[Meraj Ul Zahra, two, and Abdul Momin Alfaateh, three, were found on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/c2drgnx6d39o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2drgnx6d39o#4</guid>
+            <pubDate>Mon, 13 Oct 2025 15:58:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d94b/live/400bd0c0-a833-11f0-9f09-57500e5dbf06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNP will create network of walk-in GP services, says Swinney]]></title>
+            <description><![CDATA[The announcement came during the first minister's keynote speech at the SNP conference in Aberdeen.]]></description>
+            <link>https://www.bbc.com/news/articles/ceq052d1ypeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceq052d1ypeo#4</guid>
+            <pubDate>Mon, 13 Oct 2025 15:40:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c9/live/15539c60-a84b-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Van driver's 'catastrophic' error led to Team GB triathlete's road death]]></title>
+            <description><![CDATA[Rebecca Comins, described as a "fierce competitor", had reached speeds of up to 30mph. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2d9n9np9no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2d9n9np9no#4</guid>
+            <pubDate>Mon, 13 Oct 2025 21:43:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c128/live/e36ffac0-a842-11f0-be75-03aefff797aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after discovery of woman's body released on bail]]></title>
+            <description><![CDATA[The police said they are not treating the death as murder at this time, following a post-mortem examination.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2d946wqryo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2d946wqryo#4</guid>
+            <pubDate>Mon, 13 Oct 2025 19:35:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d1/live/1855e5e0-a809-11f0-881e-a7ddfaa732cf.jpg"/>
+        </item>
+    </channel>
+</rss>
