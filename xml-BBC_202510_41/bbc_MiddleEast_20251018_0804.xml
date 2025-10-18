@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Middle East]]></description>
+        <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 18 Oct 2025 08:05:35 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel confirms latest body returned from Gaza is dead hostage]]></title>
+            <description><![CDATA[Eliyahu Margalit is the tenth dead hostage Hamas has returned - out of 28.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yp3eq9knvo#0</guid>
+            <pubDate>Sat, 18 Oct 2025 06:28:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten-year-old Palestinian boy shot dead by Israeli forces in West Bank]]></title>
+            <description><![CDATA[Witnesses say Muhammad al-Hallaq had been playing football before soldiers arrived and opened fire.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8g9p0ppe0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8g9p0ppe0o#0</guid>
+            <pubDate>Fri, 17 Oct 2025 13:48:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ed8/live/95cc5340-ab4e-11f0-86b3-2dd47a6542fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu 'determined' to pressure Hamas to find remaining dead hostages]]></title>
+            <description><![CDATA[The Israeli prime minister's comments come after Hamas said it could not access the bodies of 19 hostages in Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gkm0243wzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gkm0243wzo#0</guid>
+            <pubDate>Fri, 17 Oct 2025 09:13:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/0b0b5130-aabc-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aid group suspends Gaza operations after ceasefire]]></title>
+            <description><![CDATA[The US and Israeli-backed GHF group was heavily criticised before it announced a “pause” on its operations.]]></description>
+            <link>https://www.bbc.com/news/articles/cgjd783ywn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgjd783ywn3o#0</guid>
+            <pubDate>Thu, 16 Oct 2025 19:58:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141c/live/1a9fc450-aac6-11f0-b2a1-6f537f66f9aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Home Office told last week of potential Maccabi Tel Aviv fan ban, police unit says]]></title>
+            <description><![CDATA[The Israeli club's supporters will not be allowed to attend the Europa League game over safety concerns. ]]></description>
+            <link>https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c205gnz5p8xo#0</guid>
+            <pubDate>Fri, 17 Oct 2025 16:58:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/6a03aad0-ab1a-11f0-93f3-35cf52b1b510.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's Houthis say military chief of staff Mohammed al-Ghamari killed]]></title>
+            <description><![CDATA[Israel's defence minister says he "died of wounds" sustained in an Israeli air strike in the Yemeni capital in late August.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gpvx4qydvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gpvx4qydvo#0</guid>
+            <pubDate>Thu, 16 Oct 2025 15:18:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c1/live/a4cd10f0-aa9f-11f0-b533-114b7c628ce7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prominent Palestinian prisoner Marwan Barghouti attacked by guards, family says]]></title>
+            <description><![CDATA[The alleged attack on the 66-year-old is said to have left him unconscious. Israel's prison service called the claim "fake". ]]></description>
+            <link>https://www.bbc.com/news/articles/cpwvr2xpkz0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwvr2xpkz0o#1</guid>
+            <pubDate>Thu, 16 Oct 2025 12:08:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76cf/live/ad2d8f80-aa82-11f0-9334-19f2cf191969.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US plays down claims Hamas is violating ceasefire deal over hostage remains]]></title>
+            <description><![CDATA[Hamas says it has returned the bodies it can reach in Gaza's ruins, but needs specialised equipment and more time to retrieve others.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w9py9940go#1</guid>
+            <pubDate>Thu, 16 Oct 2025 06:16:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ff/live/34ea4af0-aa54-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Months after fall of Assad, families of Syria's missing still seeking justice]]></title>
+            <description><![CDATA[Some are only now coming forward with accounts of loved ones who disappeared during the civil war and are presumed dead.]]></description>
+            <link>https://www.bbc.com/news/articles/cj07p5zm229o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj07p5zm229o#1</guid>
+            <pubDate>Wed, 15 Oct 2025 23:04:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4c/live/b752b830-a043-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN humanitarian chief urges Israel to open more crossings into Gaza ]]></title>
+            <description><![CDATA[Palestinians in Gaza are reported to be stockpiling food, amid anxiety that the ceasefire will unravel.]]></description>
+            <link>https://www.bbc.com/news/articles/c803rmdzjdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c803rmdzjdjo#1</guid>
+            <pubDate>Wed, 15 Oct 2025 18:31:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza experts work to identify bodies of 90 Palestinians returned by Israel]]></title>
+            <description><![CDATA[Under the Gaza ceasefire deal, Israel has agreed to hand over the bodies of 15 Palestinians in return for every dead Israeli hostage.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypwqwlnn2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypwqwlnn2o#1</guid>
+            <pubDate>Wed, 15 Oct 2025 16:05:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/eb30fb80-a9c6-11f0-8da2-811fba9518ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Worse than starting from scratch': How big is the task of rebuilding Gaza?]]></title>
+            <description><![CDATA[BBC Verify investigates the damage done by two years of war, which could take $70bn and decades to repair.]]></description>
+            <link>https://www.bbc.com/news/articles/cr5e4ee9r13o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5e4ee9r13o#1</guid>
+            <pubDate>Wed, 15 Oct 2025 17:27:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a94/live/ba9a7ae0-a9e0-11f0-b2a1-6f537f66f9aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Time to begin healing together': Israeli hostage couple reunited after 738 days]]></title>
+            <description><![CDATA[Avinatan Or and Noa Argamani were kidnapped from the Nova music festival on 7 October2023 but held in separate locations.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yp0j0l3glo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yp0j0l3glo#1</guid>
+            <pubDate>Wed, 15 Oct 2025 12:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4117/live/051d2a50-a9a9-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My friend Bipin threw back Hamas grenade - and saved my life]]></title>
+            <description><![CDATA[Bipin Joshi tried to save fellow Nepalese students before being taken hostage, his mourning friend tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kllzqk1vo#2</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/9ab35420-a910-11f0-b5e8-25b94b51d777.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the released hostages?]]></title>
+            <description><![CDATA[The Israeli military says 20 living hostages have been released by Hamas and have returned to Israel.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvl9k4mw8no#2</guid>
+            <pubDate>Sat, 18 Oct 2025 06:26:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88c/live/941201e0-a855-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm learning how to get back into life, freed British-Egyptian activist says]]></title>
+            <description><![CDATA[Alaa Abdel Fattah tells the BBC's Today programme about life after a decade in prison.]]></description>
+            <link>https://www.bbc.com/news/articles/cdx21gn39r5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx21gn39r5o#2</guid>
+            <pubDate>Sat, 11 Oct 2025 05:08:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c90/live/efef4d60-a5d5-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Trump secured a Gaza breakthrough which eluded Biden]]></title>
+            <description><![CDATA[Trump's unique style and his relationships with key players helped but there were also factors beyond his control.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3yke64vp6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3yke64vp6o#2</guid>
+            <pubDate>Thu, 09 Oct 2025 21:09:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/7769f100-a54a-11f0-b8ec-574ff83ad78e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside one battle-scarred Gaza building, displaced families tell the story of the war]]></title>
+            <description><![CDATA[The Skeik building, in a quiet road in western Gaza City, has seen many families pass through it since the war began. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy4jz7l7qv8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4jz7l7qv8o#2</guid>
+            <pubDate>Wed, 08 Oct 2025 12:15:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/88e540b0-a450-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel and the Palestinians: History of the conflict explained]]></title>
+            <description><![CDATA[The conflict between Israel and the Palestinian people is one of the longest-running in the world.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgr71z0jp4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgr71z0jp4o#2</guid>
+            <pubDate>Tue, 14 Oct 2025 12:48:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f51/live/c0c010c0-3176-11f0-8947-7d6241f9fce9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I lost so much' - Palestinians reflect on the toll of two years of war in Gaza]]></title>
+            <description><![CDATA[Palestinians have been reflecting on the toll on their lives since Hamas's attack on Israel on 7 October 2023, which triggered the war.]]></description>
+            <link>https://www.bbc.com/news/articles/czjvzxn0ekko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjvzxn0ekko#2</guid>
+            <pubDate>Tue, 07 Oct 2025 14:27:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e5a/live/4823bcb0-a378-11f0-9261-e164f2f40295.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[They're making sex jokes in Saudi: Inside the controversial comedy festival]]></title>
+            <description><![CDATA[A-listers including Dave Chappelle, Bill Burr and Jack Whitehall have faced a backlash over the event.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyn2yqpnnpo#2</guid>
+            <pubDate>Sat, 04 Oct 2025 01:03:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/56c27be0-a066-11f0-b741-177e3e2c2fc7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hope and fear for hostage families after Hamas response to Gaza peace plan]]></title>
+            <description><![CDATA[Families describe a "fragile situation", with negotiations between Israel and Hamas expected to resume.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9e6mnve9o#2</guid>
+            <pubDate>Sat, 04 Oct 2025 21:11:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2dd/live/0727e8c0-a135-11f0-a9f1-8d9167fcc08f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's pact to defend Qatar could shake up or shore up a fragile region]]></title>
+            <description><![CDATA[The order vows to use the US military, if necessary, to defend the tiny energy-rich nation almost mirrors aspects of a Nato alliance.]]></description>
+            <link>https://www.bbc.com/news/articles/c203yldq44wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c203yldq44wo#2</guid>
+            <pubDate>Fri, 03 Oct 2025 00:27:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac22/live/e5e8df20-9fe0-11f0-a6a3-917e1fd570b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It was very tough but I love life' - ex-hostage whose family were killed on 7 October]]></title>
+            <description><![CDATA[Eli Sharabi reflects on finding out, after release, his wife and children had been killed in the attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyw2pgjg1no#2</guid>
+            <pubDate>Fri, 03 Oct 2025 05:30:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ef/live/db851280-a029-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamas response to US Gaza plan is significant - but there are key omissions ]]></title>
+            <description><![CDATA[There is still a huge amount of detail to be worked through around how a ceasefire could be implemented. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvg9myeqjl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg9myeqjl1o#2</guid>
+            <pubDate>Fri, 03 Oct 2025 22:59:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/c4199d40-a11a-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza doctors are starving while fighting to save lives, evacuated medic tells BBC]]></title>
+            <description><![CDATA[Dr Mohammed Abu Mughaisib, who worked in hospitals in Gaza for two years, says Israeli strikes have made conditions "indescribable" for colleagues still there. ]]></description>
+            <link>https://www.bbc.com/news/articles/c1wg4dyxjv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wg4dyxjv9o#2</guid>
+            <pubDate>Wed, 01 Oct 2025 05:00:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60c/live/b450e4f0-9d45-11f0-a0a0-937889ad3e92.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness]]></title>
+            <description><![CDATA[The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.]]></description>
+            <link>https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn829deeje3o#2</guid>
+            <pubDate>Wed, 01 Oct 2025 12:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856b/live/1250dd50-9e7f-11f0-9e55-1fac313765d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump trusts Blair, others don't - could he govern Gaza?]]></title>
+            <description><![CDATA[Sir Tony Blair's presence on the Gaza "Board of Peace" comes as no surprise but he remains a divisive figure. ]]></description>
+            <link>https://www.bbc.com/news/articles/c89d5938w3ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89d5938w3ko#2</guid>
+            <pubDate>Tue, 30 Sep 2025 19:31:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc5/live/f21cee50-9e2b-11f0-ba41-9d184b600492.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK urged to act on colonial-era war crimes case after recognising Palestinian state]]></title>
+            <description><![CDATA[A legal petition alleges colonial-era war crimes by the UK in historical Palestine in 1917-48.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3yepedj57o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3yepedj57o#2</guid>
+            <pubDate>Fri, 26 Sep 2025 22:17:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b41/live/f7271330-9b1f-11f0-a521-fb5ed45b1785.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Killed seeking food - Jeremy Bowen on Abdullah's shooting and Gaza's lethal aid system]]></title>
+            <description><![CDATA[Inside Panorama and BBC Eye's investigation into hunger in Gaza and why so many are risking their lives for aid.]]></description>
+            <link>https://www.bbc.com/news/articles/c75qr0gk0yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75qr0gk0yqo#2</guid>
+            <pubDate>Tue, 23 Sep 2025 21:39:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c481/live/04606bf0-9940-11f0-af62-91486a511a31.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[European recognition of Palestinian state shows US still only power that counts]]></title>
+            <description><![CDATA[Britain and France's decision to recognise a Palestinian state is a historic moment, but it only becomes feasible with US support. ]]></description>
+            <link>https://www.bbc.com/news/articles/c87y4ljx85qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87y4ljx85qo#2</guid>
+            <pubDate>Tue, 23 Sep 2025 09:09:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6892/live/394b2530-985a-11f0-858a-a904eacbef23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Freed detainee finds family alive after thinking they had been killed]]></title>
+            <description><![CDATA[Shadi Abu Sido told the BBC an Israeli prison officer said his family had been killed.]]></description>
+            <link>https://www.bbc.com/news/videos/c7516x2zy6ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c7516x2zy6ko#3</guid>
+            <pubDate>Wed, 15 Oct 2025 13:10:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6400/live/49bc1600-a9c5-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We want to raise our children': Life in Gaza after hostages and prisoners released]]></title>
+            <description><![CDATA[The United Nations Development Programme (UNDP) says over 80% of all buildings in the territory are destroyed or damaged.]]></description>
+            <link>https://www.bbc.com/news/videos/cev1yyzve3ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cev1yyzve3ro#3</guid>
+            <pubDate>Tue, 14 Oct 2025 16:30:50 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b79/live/0001f880-a912-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Netanyahu responds to Trump remark that he's not 'the easiest' to work with]]></title>
+            <description><![CDATA[CBS News, the BBC's US partner, conducted an exclusive interview with the Israeli prime minister in a hospital tending to freed hostages.]]></description>
+            <link>https://www.bbc.com/news/videos/c5y9je0dl2wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5y9je0dl2wo#3</guid>
+            <pubDate>Wed, 15 Oct 2025 01:24:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6fc/live/90386e50-a95f-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'I'm talking about rebuilding Gaza']]></title>
+            <description><![CDATA[Onboard Air Force One, the BBC's Tom Bateman pressed President Donald Trump on whether his negotiated ceasefire would stay intact.]]></description>
+            <link>https://www.bbc.com/news/videos/cly24ddw00qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cly24ddw00qo#3</guid>
+            <pubDate>Tue, 14 Oct 2025 15:57:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36e/live/ae82dd10-a913-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Joy and happiness' in Israel after 20 hostages released ]]></title>
+            <description><![CDATA[People in Tel Aviv describe how they feel, after all remaining living hostages are released by Hamas.]]></description>
+            <link>https://www.bbc.com/news/videos/crl28841yrjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/crl28841yrjo#3</guid>
+            <pubDate>Tue, 14 Oct 2025 15:41:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d38/live/11c385d0-a911-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+    </channel>
+</rss>
