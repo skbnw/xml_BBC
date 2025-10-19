@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 19 Oct 2025 08:04:30 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[More damaging reports on Andrew appear as King faces calls to strip him of prince title]]></title>
+            <description><![CDATA[Virginia Giuffre's brother calls on the King to go a step further, after Andrew gave up the Duke of York and other titles.]]></description>
+            <link>https://www.bbc.com/news/articles/cdegkd00yz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdegkd00yz3o#0</guid>
+            <pubDate>Sun, 19 Oct 2025 07:34:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/16c86f10-ac9e-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will giving up his titles really make much difference for Andrew?]]></title>
+            <description><![CDATA[Prince Andrew has lost his titles - but will much of his life remain the same and will it stop the negative headlines?]]></description>
+            <link>https://www.bbc.com/news/articles/cd670x96600o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd670x96600o#0</guid>
+            <pubDate>Sat, 18 Oct 2025 22:51:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4020/live/3a8e1fb0-ac96-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Betfred says all its shops may close if Reeves hikes gambling tax]]></title>
+            <description><![CDATA[The company's co-founder says it would be forced to close all its sites, putting 7,500 jobs at risk, if gambling taxes go up.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydpmy7mj1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydpmy7mj1o#0</guid>
+            <pubDate>Sun, 19 Oct 2025 08:01:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d57/live/028e0340-ac83-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No Kings' protests draw huge crowds as anti-Trump rallies sweep across US]]></title>
+            <description><![CDATA[The demonstrations against the US president - which Republicans had called "hate-America rallies" - were boisterous but peaceful.]]></description>
+            <link>https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93xgyp1zv4o#0</guid>
+            <pubDate>Sun, 19 Oct 2025 06:11:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e1e/live/d99353d0-ac8e-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US warns Hamas is planning 'imminent' attack on Gaza civilians in breach of ceasefire]]></title>
+            <description><![CDATA[The US state department says the move would be a violation of the ceasefire deal, but did not give further details.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2elr16jjqo#0</guid>
+            <pubDate>Sun, 19 Oct 2025 07:42:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d90e/live/5febcae0-ac8d-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm 89 and I saw my homeland rebuilt before - but now I don't believe Gaza has a future']]></title>
+            <description><![CDATA[One Palestinian family shares their story of life coming full circle - and what they believe lies ahead as talk turns to rebuilding Gaza]]></description>
+            <link>https://www.bbc.com/news/articles/c87400e3j5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87400e3j5eo#0</guid>
+            <pubDate>Sat, 18 Oct 2025 23:27:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dd5/live/e57c84d0-a90c-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Celebrity Traitors cast are closer to each other than you might think]]></title>
+            <description><![CDATA[The series is full of celebs who are connected in different ways, which adds a whole new layer of drama.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3z5yj4l60o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3z5yj4l60o#1</guid>
+            <pubDate>Sat, 18 Oct 2025 23:39:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168c/live/8e5f9ad0-ab7c-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I miss the past, but we like the money': The Bali-fication of a laidback surfers' island]]></title>
+            <description><![CDATA[For locals, the promise of more tourism is a welcome opportunity - but they are also wary.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yp87ppk7eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yp87ppk7eo#1</guid>
+            <pubDate>Sat, 18 Oct 2025 22:09:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/0e4202b0-ac9f-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grand Theft Auto made him a legend. His latest game was a disaster]]></title>
+            <description><![CDATA[Lesley Benzies was one of the architects behind one of the most successful video games in history.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzn34gwvwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzn34gwvwo#1</guid>
+            <pubDate>Sat, 18 Oct 2025 23:48:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1d/live/e52849d0-acbb-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery lingers weeks after missing schoolgirl found dead in pop star D4vd's Tesla]]></title>
+            <description><![CDATA[Questions around the up-and-coming TikTok star's connection to a teenage girl's death have eclipsed his career's rise.]]></description>
+            <link>https://www.bbc.com/news/articles/c205g10g0nvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c205g10g0nvo#1</guid>
+            <pubDate>Sat, 18 Oct 2025 23:34:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/59ce90f0-ac7b-11f0-93ac-2d5c35597cd9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why I fell in love with a book called I Want to Die but I Want to Eat Tteokbokki]]></title>
+            <description><![CDATA[In reflecting on a gentle melancholy many can relate to, this book teaches us to appreciate the small joys in life.]]></description>
+            <link>https://www.bbc.com/news/articles/c15p9ndxd4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15p9ndxd4eo#1</guid>
+            <pubDate>Sat, 18 Oct 2025 23:47:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3224/live/a155fe60-ac1a-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Prince Andrew's titles loss means for Sarah Ferguson, Beatrice and Eugenie]]></title>
+            <description><![CDATA[We analyse what life looks like for the women of the York family after Prince Andrew gave up his titles.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2p7xzz4lvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2p7xzz4lvo#2</guid>
+            <pubDate>Sat, 18 Oct 2025 20:08:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a59/live/ee95adb0-ac60-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How BBC secret filming exposed a £28m timeshare fraud]]></title>
+            <description><![CDATA[Nine years after the BBC exposed Sell My Timeshare's wrongdoing, 14 people have been convicted over a £28m fraud.
+]]></description>
+            <link>https://www.bbc.com/news/articles/c33pelk6pmlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c33pelk6pmlo#2</guid>
+            <pubDate>Sat, 18 Oct 2025 23:53:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab2/live/a92840c0-ab7b-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Andrew told Met to dig up dirt on Virginia' and 'Virginia's revenge']]></title>
+            <description><![CDATA[Prince Andrew dominates Sunday's papers in new allegations after he gave up his title of the Duke of York.]]></description>
+            <link>https://www.bbc.com/news/articles/cglg98w1284o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglg98w1284o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 05:40:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd2d/live/7d01b5d0-ac84-11f0-ba75-093eca1ac29b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia accuses US of 'murder' after  strike on boat ]]></title>
+            <description><![CDATA[President Gustavo Pedro says the vessel, which Donald Trump believes was carrying drugs, had its distress signal on when it was struck in September.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8xg1jve73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8xg1jve73o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 07:53:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a02/live/e46c6c80-acbe-11f0-8be0-edba131ad73f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I felt really lonely': Joe Swash on being a young dad]]></title>
+            <description><![CDATA[Joe Swash tells the BBC about his experiences of being a young dad and says more support is needed.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvw976158o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvw976158o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 00:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d366/live/4209e440-ab60-11f0-b0f1-8b73bbc9408d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rising temperatures are threatening UK trees - but these species could save our forests]]></title>
+            <description><![CDATA[Trees are struggling to cope with the rate of climate change and so we may need to intervene to make more resiliant forests for the future.]]></description>
+            <link>https://www.bbc.com/weather/articles/c0jdp9wynn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/c0jdp9wynn7o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 04:12:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34dc/live/c4d88300-a8c6-11f0-b0df-05ea5e3542cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spanish town bans black cat adoptions during Halloween]]></title>
+            <description><![CDATA[In an effort to ward off potentially sinister rituals, the Catalonian town of Terrassa hopes to keep its black cats safe during the occult-themed holiday.]]></description>
+            <link>https://www.bbc.com/news/articles/c77zjkxj750o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77zjkxj750o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 00:04:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e781/live/3cac6540-ac69-11f0-9ed4-59fe85238c20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Limp Bizkit bassist Sam Rivers dies aged 48]]></title>
+            <description><![CDATA["His talent was effortless, his presence unforgettable, his heart enormous," the band wrote.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3z0pypnpro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3z0pypnpro#2</guid>
+            <pubDate>Sun, 19 Oct 2025 03:55:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c8/live/f5e1dbd0-aca0-11f0-9d95-e18bb9bb3e27.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father 'finally home', says daughter of dead hostage returned to Israel]]></title>
+            <description><![CDATA[The first of two bodies returned on Saturday has been identified as that of Ronen Engel. ]]></description>
+            <link>https://www.bbc.com/news/articles/c7v8e1484n5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v8e1484n5o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 06:55:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d7/live/ecab29e0-acaf-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's going to break my heart' - woman faces eviction from Ghosts estate]]></title>
+            <description><![CDATA[Baschea Walsh says she feels "absolutely sick" to leave the cottage on the estate where the hit sitcom was filmed. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy049301x36o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy049301x36o#2</guid>
+            <pubDate>Sun, 19 Oct 2025 04:10:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9f/live/595ccd40-a04f-11f0-b687-23a5afa8b42e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Villa told stewards they could miss Maccabi Tel Aviv game]]></title>
+            <description><![CDATA[Aston Villa told matchday stewards they did not have to work at the club's fixture against Maccabi Tel Aviv next month, saying they understood some "may have concerns".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cjw9l644delo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw9l644delo#2</guid>
+            <pubDate>Sat, 18 Oct 2025 17:51:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5926/live/c395e8a0-ac2e-11f0-969d-e546dac1b2a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Footage shows moment officers are stabbed in ambush]]></title>
+            <description><![CDATA[Sgt Tim Ansell has been awarded a King's Commendation for tackling the knifeman with his bare hands.]]></description>
+            <link>https://www.bbc.com/news/articles/cjek0g5klkyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjek0g5klkyo#2</guid>
+            <pubDate>Sun, 19 Oct 2025 06:11:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b14b/live/aaf77390-ab5c-11f0-b03c-d3cc69fd9896.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Katy Perry serenades superfan with song about… Derbyshire]]></title>
+            <description><![CDATA[Ben Hatcher is pulled on to the stage by his childhood idol during her concert in Sheffield.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0krww24vxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0krww24vxo#3</guid>
+            <pubDate>Tue, 14 Oct 2025 05:16:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b8/live/b2193830-a82c-11f0-9f09-57500e5dbf06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Housing designed to combat loneliness wins top architecture award]]></title>
+            <description><![CDATA[Appleby Blue Almshouse in London wins the Royal Institute of British Architects' Stirling Prize.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gwlz6k96no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gwlz6k96no#3</guid>
+            <pubDate>Thu, 16 Oct 2025 22:13:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be8/live/748d3c60-ab28-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our daughter's sweet tooth led me to me buying winning lottery ticket]]></title>
+            <description><![CDATA[Valdet Bujupi says giving in to his daughter's sweet tooth led to him buying a winning ticket.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6nke87kg8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6nke87kg8o#3</guid>
+            <pubDate>Thu, 16 Oct 2025 08:20:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8698/live/64e58b40-aa61-11f0-bb1a-bf07c7ad3691.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment giraffe is born at UK safari park]]></title>
+            <description><![CDATA[The youngster's birth is caught on CCTV and she takes her first steps less than an hour later.]]></description>
+            <link>https://www.bbc.com/news/videos/cqx3w4w4vw3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cqx3w4w4vw3o#3</guid>
+            <pubDate>Fri, 17 Oct 2025 06:22:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0057/live/edc3f130-ab20-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[McLaren's 'brutal' reality of 'that Max guy getting in middle of our fun']]></title>
+            <description><![CDATA[On Saturday, McLaren F1 boss Zak Brown said he expected the climax to the world championship to be "brutal". His words quickly proved prophetic.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c4gpl7e8jqro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c4gpl7e8jqro#6</guid>
+            <pubDate>Sun, 19 Oct 2025 01:48:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/0747fe50-ac82-11f0-a039-5f821efe7af7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Liverpool are feeling effects of Trent-shaped gap]]></title>
+            <description><![CDATA[BBC Sport analyses what Liverpool are missing since Trent Alexander-Arnold's departure.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c07mgm834z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07mgm834z7o#6</guid>
+            <pubDate>Sun, 19 Oct 2025 05:41:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afbc/live/b3dffc40-ac4f-11f0-80da-bb3137bb460a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Postecoglou's 39 days to forget at Forest]]></title>
+            <description><![CDATA[Ange Postecoglou had only just moved into his new flat when he was sacked by Nottingham Forest, ending one of the shortest reigns in Premier League history.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz08z92r3g8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz08z92r3g8o#6</guid>
+            <pubDate>Sat, 18 Oct 2025 14:41:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/631b8570-ac29-11f0-a20e-778f714a31ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haaland's football intelligence makes him 'unplayable' - Richards]]></title>
+            <description><![CDATA[Match of the Day pundits Micah Richards and Alan Shearer look at how Erling Haaland is currently "unplayable" after the striker scored two goals for Manchester City in their win over Everton.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cd9kxz51v5go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cd9kxz51v5go#6</guid>
+            <pubDate>Sat, 18 Oct 2025 22:59:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/046c/live/118184d0-ac74-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Different coach but same Rangers? - Smith questions mentality]]></title>
+            <description><![CDATA[Interim head coach Steven Smith questions Rangers' mentality and habits after the Ibrox side's draw with Dundee United.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0qp07ypzzpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0qp07ypzzpo#6</guid>
+            <pubDate>Sat, 18 Oct 2025 19:36:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/e9f24d10-ac4f-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinner dominates Alcaraz at lucrative Six Kings Slam]]></title>
+            <description><![CDATA[Jannik Sinner claims a commanding victory over rival Carlos Alcaraz to win a reported $6m prize pot at the Six Kings Slam in Riyadh, Saudi Arabia.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cvg760pgmmmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg760pgmmmo#6</guid>
+            <pubDate>Sat, 18 Oct 2025 21:37:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2d/live/8bc8e320-ac68-11f0-9ed4-59fe85238c20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Andrew & the Epstein Scandal: The Newsnight Interview]]></title>
+            <description><![CDATA[The Duke of York speaks about his relationship with convicted paedophile Jeffrey Epstein.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m000c1j4/newsnight-prince-andrew-the-epstein-scandal-the-newsnight-interview?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m000c1j4/newsnight-prince-andrew-the-epstein-scandal-the-newsnight-interview#7</guid>
+            <pubDate>Fri, 17 Oct 2025 18:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p09rxk1n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q&A: Tomahawk missiles, the drone race, and Ukrainian Halloween]]></title>
+            <description><![CDATA[Volodymyr Zelensky is due to meet Donald Trump at the White House on Friday]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0m91pv4?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0m91pv4#7</guid>
+            <pubDate>Thu, 16 Oct 2025 17:10:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kwvwyl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#9</guid>
+            <pubDate>Sun, 19 Oct 2025 04:43:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+    </channel>
+</rss>
