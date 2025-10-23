@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 23 Oct 2025 16:05:07 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Met Police officers sacked for gross misconduct after BBC Panorama investigation]]></title>
+            <description><![CDATA[PC Philip Neilson and PC Martin Borg were dismissed following accelerated misconduct hearings after the BBC investigation.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0kynx59v0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kynx59v0o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 15:50:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf36/live/72bdf240-b018-11f0-a6e4-031e2de4ddc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former paratrooper found not guilty of all charges in Bloody Sunday murder trial]]></title>
+            <description><![CDATA[Thirteen people were shot dead and at least 15 others injured on Bloody Sunday in January 1972 at a civil rights demonstration in the Bogside area of Derry.]]></description>
+            <link>https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c993nlken18o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 15:19:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/10b69000-b01f-11f0-8261-4d7901038185.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five grooming gang survivors back Jess Phillips to keep her job]]></title>
+            <description><![CDATA[Another group of survivors have said they would only consider re-joining the panel if Phillips resigned.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgwnqeq5z0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgwnqeq5z0o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 15:37:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca07/live/321d61b0-b01a-11f0-a6e4-031e2de4ddc5.png"/>
+        </item>
+        <item>
+            <title><![CDATA['It's been an absolute dream': Tess Daly and Claudia Winkleman to leave Strictly]]></title>
+            <description><![CDATA[The pair have presented the show together since 2014 and said hosting the show had been "an absolute dream."]]></description>
+            <link>https://www.bbc.com/news/articles/cz0x1lr7j92o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0x1lr7j92o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 08:57:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9b/live/1b3db160-affd-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New images show Israeli control line deeper into Gaza than expected]]></title>
+            <description><![CDATA[Israel has placed boundary markers up to 520m deeper inside Gaza than expected under the ceasefire deal with Hamas.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2y00g4x29o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2y00g4x29o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 13:35:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eea/live/594d9c40-b00c-11f0-8cb3-d5e6ece26dfa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosenberg: Trump abandons carrot and wields stick over Putin in Ukraine talks]]></title>
+            <description><![CDATA[The BBC's Russia editor says Trump's decision to call off his Putin talks and impose oil sanctions will not go down well in Moscow.]]></description>
+            <link>https://www.bbc.com/news/articles/cnve5532v7yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnve5532v7yo#0</guid>
+            <pubDate>Thu, 23 Oct 2025 14:18:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/becc/live/20d276e0-b00e-11f0-8317-a7963fdcfd4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Water companies told to refund £260m to customers for poor performance]]></title>
+            <description><![CDATA[But bills are still due to rise to fund improvements to water infrastructure.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjrymnx1e8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjrymnx1e8o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 15:24:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f583/live/6f3e0c60-afee-11f0-a143-2b4ebe719445.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autistic man ousted from Waitrose voluntary role gets job offer from Asda]]></title>
+            <description><![CDATA[Tom Boyd's mum says she is "overwhelmed" after he is offered a job by rival supermarket chain Asda.]]></description>
+            <link>https://www.bbc.com/news/articles/c98n53dpzx6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98n53dpzx6o#0</guid>
+            <pubDate>Thu, 23 Oct 2025 10:34:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/cf9ae970-af17-11f0-904a-f9028cea88d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Voters go to the polls in key Caerphilly by-election]]></title>
+            <description><![CDATA[Voters head to the polls in a by-election to choose a member of the Senedd.]]></description>
+            <link>https://www.bbc.com/news/articles/c993nlyrdglo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c993nlyrdglo#0</guid>
+            <pubDate>Thu, 23 Oct 2025 06:02:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be9/live/1a6b5720-b006-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I thought my insides were falling out: The condition affecting one in 12 mums]]></title>
+            <description><![CDATA[Pelvic organ prolapse affects around one in 12 mothers, but many people have never even heard of it.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgk0y18mrvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgk0y18mrvo#1</guid>
+            <pubDate>Wed, 22 Oct 2025 23:43:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc0/live/9f5e02e0-af23-11f0-b9f9-e5c1839c872f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 50-year-road to a British soldier standing trial for murder]]></title>
+            <description><![CDATA[After 53 years of controversy and campaigning, the criminal process has ended with no conviction.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0kgnlk7rpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kgnlk7rpo#1</guid>
+            <pubDate>Thu, 23 Oct 2025 13:17:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c4/live/7528b3e0-b01c-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is there a row over the grooming gangs inquiry?]]></title>
+            <description><![CDATA[A national inquiry into grooming gangs in England and Wales is in turmoil - how did we get here?]]></description>
+            <link>https://www.bbc.com/news/articles/c201x4d7z5no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c201x4d7z5no#1</guid>
+            <pubDate>Thu, 23 Oct 2025 13:41:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc58/live/3f9a0ed0-b018-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metal detectorist digs up massive haul of Roman coins in 'virtually untouched' area of Wales]]></title>
+            <description><![CDATA[David Moss discovered 15,000 coins at a "virtually untouched" secret location in north Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/cd67vv66wxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd67vv66wxxo#1</guid>
+            <pubDate>Thu, 23 Oct 2025 05:23:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430d/live/5c91c660-afee-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Having autism should not mean having to fight for our education]]></title>
+            <description><![CDATA[The Institute for Public Policy Research says there should be more comprehensive support for Send students in mainstream schools. ]]></description>
+            <link>https://www.bbc.com/news/articles/c891y5n2de8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c891y5n2de8o#1</guid>
+            <pubDate>Wed, 22 Oct 2025 23:33:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946d/live/330f6810-af44-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My teenage daughter fell victim to a satanic online group – and I felt powerless to help']]></title>
+            <description><![CDATA[A 14-year-old girl had fallen victim to the extreme online right-wing 764 group, her mother says.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dn91z3e2ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dn91z3e2ko#1</guid>
+            <pubDate>Thu, 23 Oct 2025 00:30:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/1a3de4e0-b00e-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Ryder: I lost my self-esteem, my positivity and my optimism]]></title>
+            <description><![CDATA[After leaving his record label, Sam Ryder almost quit music. Here's how he picked himself back up.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0e2n69gv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0e2n69gv9o#1</guid>
+            <pubDate>Wed, 22 Oct 2025 23:59:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dda/live/537444f0-b001-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Resident doctors announce five-day strike in November]]></title>
+            <description><![CDATA[Walkout will be the 13th of long-running dispute between government and British Medical Association.]]></description>
+            <link>https://www.bbc.com/news/articles/clyk5zr7p71o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyk5zr7p71o#3</guid>
+            <pubDate>Thu, 23 Oct 2025 13:26:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5777/live/4b798ae0-b00f-11f0-8317-a7963fdcfd4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southport killer's teacher 'dreaded' what he might do]]></title>
+            <description><![CDATA[Joanne Hodson said Axel Rudakubana was the most "unusual" pupil she had ever encountered. ]]></description>
+            <link>https://www.bbc.com/news/articles/cz6ndl2z9v4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6ndl2z9v4o#3</guid>
+            <pubDate>Thu, 23 Oct 2025 14:57:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ff/live/b7167400-b011-11f0-8317-a7963fdcfd4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government rejects calls for debate on Prince Andrew]]></title>
+            <description><![CDATA[Downing Street says Parliamentary time should be used for "other important issues".]]></description>
+            <link>https://www.bbc.com/news/articles/cpv1rr1znveo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv1rr1znveo#3</guid>
+            <pubDate>Thu, 23 Oct 2025 15:31:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f02/live/3bf3d840-b01a-11f0-a6e4-031e2de4ddc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three held on suspicion of helping Russian intelligence]]></title>
+            <description><![CDATA[The three men, aged 48, 45, and 44, were arrested at addresses in west and central London.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lpzjvgrp8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lpzjvgrp8o#3</guid>
+            <pubDate>Thu, 23 Oct 2025 12:49:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d76/live/25831cc0-b005-11f0-82b9-4927130e421a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon apologises to customers impacted by huge AWS outage]]></title>
+            <description><![CDATA[A "faulty automation" was at the core of the issues that caused knock-on effects for more than one thousand sites on Monday, an expert told the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvnp77dy9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvnp77dy9o#3</guid>
+            <pubDate>Thu, 23 Oct 2025 12:08:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a36/live/2846df60-afff-11f0-af36-791af27228b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CQC chief resigns over maternity failings]]></title>
+            <description><![CDATA[Families had been calling for Sir Julian's resignation over poor maternity care at Leeds Teaching Hospitals NHS Trust.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gp2wgzpp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp2wgzpp1o#3</guid>
+            <pubDate>Thu, 23 Oct 2025 10:46:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cc/live/f08e9f60-b001-11f0-af36-791af27228b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soft Cell's musical force Dave Ball dies, aged 66]]></title>
+            <description><![CDATA[The musician, best known for Tainted Love and Say Hello, Wave Goodbye, died in his sleep at home.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg1rrzn1kwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1rrzn1kwo#3</guid>
+            <pubDate>Thu, 23 Oct 2025 13:16:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9d/live/8b34bc20-b01b-11f0-8261-4d7901038185.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The cost of US aid cuts to women in Afghanistan]]></title>
+            <description><![CDATA[Over 400 health clinics have shut. The impact on pregnant women has been devastating.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct719b?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct719b#5</guid>
+            <pubDate>Thu, 23 Oct 2025 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a18a/live/b59ad9e0-aff8-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Are Survivors Quitting The Grooming Gangs Inquiry?]]></title>
+            <description><![CDATA[The government is facing questions over it’s handing of an inquiry into grooming gangs.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mb5t6y?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mb5t6y#5</guid>
+            <pubDate>Wed, 22 Oct 2025 19:27:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The full story behind Queen's iconic song]]></title>
+            <description><![CDATA[The full story behind Queen's iconic song.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/b0074d94/the-story-of-bohemian-rhapsody?at_mid=QE5Mk3MeWg&amp;at_campaign=The_Story_of_Bohemian_Rhapsody&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=b0074d94&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Story_of_Bohemian_Rhapsody&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/b0074d94/the-story-of-bohemian-rhapsody?at_mid=QE5Mk3MeWg&amp;at_campaign=The_Story_of_Bohemian_Rhapsody&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=b0074d94&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Story_of_Bohemian_Rhapsody&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Sat, 18 Oct 2025 22:47:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39d1/live/e9fad600-ae67-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Swash meets young dads breaking stigmas]]></title>
+            <description><![CDATA[Joe Swash meets young dads who are navigating the highs and lows of fatherhood.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002l5hr?at_mid=IS4oPuz1uw&amp;at_campaign=Joe_Swash_Forgotten_Young_Dads&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002l5hr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Joe_Swash_Forgotten_Young_Dads&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002l5hr?at_mid=IS4oPuz1uw&amp;at_campaign=Joe_Swash_Forgotten_Young_Dads&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002l5hr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Joe_Swash_Forgotten_Young_Dads&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Mon, 20 Oct 2025 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a0/live/2b777520-ab39-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marathon record holder Chepngetich given three-year ban]]></title>
+            <description><![CDATA[Women's marathon world record holder Ruth Chepngetich is banned for three years after the Kenyan admits to anti-doping rule violations.]]></description>
+            <link>https://www.bbc.com/sport/athletics/articles/cx2l8890k78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/athletics/articles/cx2l8890k78o#7</guid>
+            <pubDate>Thu, 23 Oct 2025 15:15:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e80/live/c2f75f90-b01c-11f0-8261-4d7901038185.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Week of the wonderkids - who shone in Champions League?]]></title>
+            <description><![CDATA[BBC Sport looks at the emerging wonderkids that announced themselves as Europe's brightest stars in the Champions League this week.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0jdznn48q3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0jdznn48q3o#7</guid>
+            <pubDate>Thu, 23 Oct 2025 12:03:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e27/live/443b1030-b002-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool thrash Frankfurt to end losing run]]></title>
+            <description><![CDATA[Hugo Ekitike scores against his old club as Liverpool come from behind to hammer Eintracht Frankfurt 5-1 in the Champions League and end their four-match losing run.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/ckg18038xw2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg18038xw2o#7</guid>
+            <pubDate>Wed, 22 Oct 2025 21:00:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5233/live/a63cd3f0-af89-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[T20 series 'worthwhile' despite washouts - Brook]]></title>
+            <description><![CDATA[England's third T20 against New Zealand is washed out in Auckland, as was the first match, but captain Harry Brook says the 1-0 series win has been beneficial.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c993prjzp1no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c993prjzp1no#7</guid>
+            <pubDate>Thu, 23 Oct 2025 14:05:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af9b/live/9b48f950-aff3-11f0-af36-791af27228b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#8</guid>
+            <pubDate>Thu, 23 Oct 2025 07:46:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+    </channel>
+</rss>
