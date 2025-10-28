@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 28 Oct 2025 16:05:19 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Why Hurricane Melissa is so dangerous]]></title>
+            <description><![CDATA[If it strikes Jamaica at close to full strength, it could eclipse all storms the island has experienced before. ]]></description>
+            <link>https://www.bbc.com/news/articles/cp3d71q32w5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3d71q32w5o#0</guid>
+            <pubDate>Tue, 28 Oct 2025 15:38:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e3/live/8513ecb0-b40f-11f0-8984-f9077abd0669.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fawlty Towers star Prunella Scales dies aged 93]]></title>
+            <description><![CDATA[Scales played hotel manager Sybil Fawlty, the bossy wife of Basil, in the classic British sitcom.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd0yn5gyndo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd0yn5gyndo#0</guid>
+            <pubDate>Tue, 28 Oct 2025 15:38:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2d/live/1f50d440-b411-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Councils paying school transport costs for 470,000 pupils in England]]></title>
+            <description><![CDATA[Local authorities say the cost of providing school transport is becoming "financially unsustainable".]]></description>
+            <link>https://www.bbc.com/news/articles/c14pg0xj7mzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14pg0xj7mzo#0</guid>
+            <pubDate>Tue, 28 Oct 2025 15:29:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3d/live/7c5f7d30-b3e9-11f0-9fd1-ab405da544ae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two military sites earmarked as asylum seeker accommodation]]></title>
+            <description><![CDATA[Housing asylum seekers in hotels has cost billions, while they have also become a focal point for protests.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr0lx7n0y3o#0</guid>
+            <pubDate>Tue, 28 Oct 2025 15:34:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3be/live/f41732c0-b397-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kate McCann cried during encounter outside family home, alleged stalker tells trial]]></title>
+            <description><![CDATA[Julia Wandelt, charged with stalking the McCanns, tried to present the pair with a DNA report, a court is told.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjr2d8jdrlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjr2d8jdrlo#0</guid>
+            <pubDate>Tue, 28 Oct 2025 15:34:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad35/live/89b24a70-b403-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why one small town with very little immigration turned to Reform UK]]></title>
+            <description><![CDATA[How national concerns affected a local election in the heart of the Peak District.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgkpjdzv74o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkpjdzv74o#0</guid>
+            <pubDate>Tue, 28 Oct 2025 06:02:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c12/live/dbf87250-b3f4-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon confirms 14,000 corporate job losses as it focuses on AI]]></title>
+            <description><![CDATA[The company says the opportunities provided by AI means it  needs to be "organised more leanly."]]></description>
+            <link>https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m3zm9jnl1o#0</guid>
+            <pubDate>Tue, 28 Oct 2025 12:37:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130f/live/2698a920-b3ef-11f0-be05-3928a0e0f928.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dies in triple stabbing as suspect arrested]]></title>
+            <description><![CDATA[A 22-year-old man was arrested at the scene and remains in police custody, the Met Police said.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypkd57n97o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypkd57n97o#0</guid>
+            <pubDate>Tue, 28 Oct 2025 16:00:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e94/live/c3b15910-b3f3-11f0-be05-3928a0e0f928.png"/>
+        </item>
+        <item>
+            <title><![CDATA[US kills 14 in strikes on four alleged drug boats in Pacific]]></title>
+            <description><![CDATA[It is the latest in a series of attacks on boats the US says have been carrying drugs in both the Pacific and Caribbean.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ex94eeljeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ex94eeljeo#0</guid>
+            <pubDate>Tue, 28 Oct 2025 14:55:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df88/live/3e9888c0-b407-11f0-a6f4-9daf525f5af5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch Prunella Scales's memorable moments in Fawlty Towers]]></title>
+            <description><![CDATA[Fawlty Towers actress Prunella Scales, best known for playing hotel manager Sybil Fawlty, has died aged 93.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgwv8jjjyno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgwv8jjjyno#1</guid>
+            <pubDate>Tue, 28 Oct 2025 14:27:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96a/live/f4aa2480-b406-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[These robots can clean, exercise - and care for you in old age. Would you trust them to?]]></title>
+            <description><![CDATA[It sounds like something from a sci-fi film - but some scientists believe this clever new tech could help alleviate strains on the UK care system]]></description>
+            <link>https://www.bbc.com/news/articles/c9wdzyyglq5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wdzyyglq5o#1</guid>
+            <pubDate>Tue, 28 Oct 2025 00:04:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a537/live/4b2a2360-b0b4-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My wife died in childbirth but wasn't told she'd been given labour drug overdose]]></title>
+            <description><![CDATA[Jacqui Hunter died less than 24 hours after being told that her daughter had died in the womb.]]></description>
+            <link>https://www.bbc.com/news/articles/cx24gk2x51xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24gk2x51xo#1</guid>
+            <pubDate>Tue, 28 Oct 2025 06:08:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b46/live/72918f00-b321-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boyband Five on their reunion: We are spectacularly lucky to get a second chance]]></title>
+            <description><![CDATA[The band are back together but say their early success was like being "in fight or flight mode."]]></description>
+            <link>https://www.bbc.com/news/articles/cx2l0525801o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2l0525801o#1</guid>
+            <pubDate>Tue, 28 Oct 2025 01:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/72d1e790-b3ca-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the 5G symbol on your phone doesn't mean you have 5G]]></title>
+            <description><![CDATA[New research shows that 40% of the time a phone displays the 5G symbol, it is actually using a 4G connection.]]></description>
+            <link>https://www.bbc.com/news/articles/crexqyj7n5lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crexqyj7n5lo#1</guid>
+            <pubDate>Tue, 28 Oct 2025 02:01:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a3/live/e92037d0-b325-11f0-9c26-756530926d22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare earths, Nobel nomination and cheers: Trump ends Japan leg of Asia tour]]></title>
+            <description><![CDATA[The red carpet was rolled out for Trump by Japan's Sanae Takaichi, who has only been prime minister since last week.]]></description>
+            <link>https://www.bbc.com/news/articles/c8drem8518do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8drem8518do#1</guid>
+            <pubDate>Tue, 28 Oct 2025 10:08:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b2/live/6b1ecec0-b3e1-11f0-a1d0-d5a6c9e4c42e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martin Freeman and Jack Lowden on incels, addiction and fatherhood]]></title>
+            <description><![CDATA[The Fifth Step focuses on the relationship between a recovering alcoholic and his sponsor.]]></description>
+            <link>https://www.bbc.com/news/articles/cdegz4k702eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdegz4k702eo#1</guid>
+            <pubDate>Tue, 28 Oct 2025 00:05:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f3/live/a83bc1a0-b341-11f0-9ae5-dfa34b074568.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Headlights to be reviewed after drivers complain of being 'blinded' at night]]></title>
+            <description><![CDATA[Concern over the glare from brighter headlamps is prompting the government to review vehicle design. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn971jlpvvro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn971jlpvvro#3</guid>
+            <pubDate>Tue, 28 Oct 2025 14:00:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f980/live/c7cb3340-b394-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bella Culley's sentence reduced to two years]]></title>
+            <description><![CDATA[The pregnant 19-year-old faces drugs charges in Georgia and is back in court on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwypqwn4epyo#3</guid>
+            <pubDate>Tue, 28 Oct 2025 14:21:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/30989320-b40f-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel says coffin from Hamas did not contain another hostage's body]]></title>
+            <description><![CDATA[Israel accuses Hamas of a "clear violation" of the ceasefire deal after tests showed the remains belonged to a person whose body was previously returned.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9z0mvzyko#3</guid>
+            <pubDate>Tue, 28 Oct 2025 12:43:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/6a4f70d0-b3e1-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Most countries fail to submit new climate pledges ahead of summit]]></title>
+            <description><![CDATA[The UN's review of national climate plans shows the world is well off track to limit warming]]></description>
+            <link>https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdrv8m5v4lo#3</guid>
+            <pubDate>Tue, 28 Oct 2025 11:08:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e5a/live/0b4506b0-b33f-11f0-8c7d-e3b2a8158887.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts]]></title>
+            <description><![CDATA[The figure could mean potentially hundreds of thousands of users show signs of mental health distress weekly. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yd90g0q43o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yd90g0q43o#3</guid>
+            <pubDate>Mon, 27 Oct 2025 23:53:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/778c7c50-b370-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Corbyn to make cameo in drag pantomime]]></title>
+            <description><![CDATA[He will play the Wizard of Oz-lington this Christmas at the Pleasance Theatre in home constituency.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv8j231yv7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv8j231yv7o#3</guid>
+            <pubDate>Tue, 28 Oct 2025 06:09:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e10/live/8de557b0-b401-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia deports first foreign detainees to Nauru in controversial deal]]></title>
+            <description><![CDATA[The first transfer of the so-called NZYQ cohort to the tiny Pacific island marks the start of a A$2.5bn agreement between Australia and Nauru.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgdp58vkkpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgdp58vkkpo#3</guid>
+            <pubDate>Tue, 28 Oct 2025 12:56:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af48/live/f997fb70-b3f2-11f0-be05-3928a0e0f928.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How was the migrant sex offender mistakenly released?]]></title>
+            <description><![CDATA[Justice Secretary says human error led to migrant sex offender release.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mc4czy?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mc4czy#5</guid>
+            <pubDate>Mon, 27 Oct 2025 20:24:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Americanswers…on 5 Live! Will Kamala Harris (and Donald Trump) run for president again?]]></title>
+            <description><![CDATA[Harris and Trump have both said they’d be open to assuming the presidency after 2028.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mc3v1g?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mc3v1g#5</guid>
+            <pubDate>Mon, 27 Oct 2025 18:35:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ce/live/f9c81150-b3e0-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Swash meets young dads breaking stigmas]]></title>
+            <description><![CDATA[Joe Swash meets young dads who are navigating the highs and lows of fatherhood.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002l5hr?at_mid=IS4oPuz1uw&amp;at_campaign=Joe_Swash_Forgotten_Young_Dads&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002l5hr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Joe_Swash_Forgotten_Young_Dads&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002l5hr?at_mid=IS4oPuz1uw&amp;at_campaign=Joe_Swash_Forgotten_Young_Dads&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002l5hr&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Joe_Swash_Forgotten_Young_Dads&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Mon, 20 Oct 2025 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a0/live/2b777520-ab39-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England pick Ford at fly-half & Freeman at centre]]></title>
+            <description><![CDATA[George Ford starts at fly-half and Tommy Freeman at centre for England's opening autumn Test against Australia on Saturday.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cn7e2m7ey7ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cn7e2m7ey7ro#7</guid>
+            <pubDate>Tue, 28 Oct 2025 14:06:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5665/live/c2329430-b3e6-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['They got at me all day' - when Vaughan single-handedly rattled Australia]]></title>
+            <description><![CDATA[How a run-filled tour of Australia in 2002-03 put Michael Vaughan on the road to Ashes glory in 2005.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c5yl7g12jr8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c5yl7g12jr8o#7</guid>
+            <pubDate>Mon, 27 Oct 2025 22:13:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8904/live/f379a8f0-b344-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm just keeping Celtic seat warm - O'Neill]]></title>
+            <description><![CDATA[Martin O'Neill says he had to "pull myself off the floor" when he was asked to take interim charge of Celtic following Brendan Rodgers' exit.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpwvy22gp5yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwvy22gp5yo#7</guid>
+            <pubDate>Tue, 28 Oct 2025 10:31:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e05/live/d126b430-b3e6-11f0-a1d0-d5a6c9e4c42e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Season of the set-piece - how open-play goals are falling out of fashion]]></title>
+            <description><![CDATA[Set-piece goals have been the story of the Premier League this season. BBC Sport examines their increasing importance.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c781zwgx419o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781zwgx419o#7</guid>
+            <pubDate>Tue, 28 Oct 2025 15:21:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9b/live/673da050-b40a-11f0-82d7-192373518099.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Edwards and Sciver-Brunt put England back on track]]></title>
+            <description><![CDATA[From Ashes humiliation to a World Cup semi-final in eight months - how have Nat Sciver-Brunt and Charlotte Edwards revived England? ]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/ckg4lz2q4d7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/ckg4lz2q4d7o#7</guid>
+            <pubDate>Tue, 28 Oct 2025 13:38:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2827/live/836bb7c0-b40b-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#8</guid>
+            <pubDate>Tue, 28 Oct 2025 06:00:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+    </channel>
+</rss>
