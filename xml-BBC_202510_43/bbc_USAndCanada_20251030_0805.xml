@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - US & Canada]]></description>
+        <link>https://www.bbc.co.uk/news/world/us_and_canada</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/us_and_canada</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 30 Oct 2025 08:06:01 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fed cuts US interest rates again despite 'flying blind']]></title>
+            <description><![CDATA[Central bank votes to lower cost of borrowing even as US government shutdown limits data for decision]]></description>
+            <link>https://www.bbc.com/news/articles/c5y0p7g7560o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0p7g7560o#0</guid>
+            <pubDate>Wed, 29 Oct 2025 20:35:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd8/live/f3bf8cd0-b50b-11f0-995b-49549025ae43.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Websites disabled in Microsoft global outage come back online]]></title>
+            <description><![CDATA[Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rj45n4x5eo#0</guid>
+            <pubDate>Wed, 29 Oct 2025 22:44:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc2/live/753a2160-b4f0-11f0-ab86-b5f654e70621.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-officer guilty of murder of Illinois woman who reported suspected intruder]]></title>
+            <description><![CDATA[Sean Grayson was charged with opening fire on Sonya Massey, who had been calling police to report a suspected intruder at her home.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr01eepvrqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr01eepvrqo#0</guid>
+            <pubDate>Wed, 29 Oct 2025 21:09:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2579/live/eae99a80-b504-11f0-bdc8-ad664e44ab23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about US strikes targeting alleged drug boats]]></title>
+            <description><![CDATA[The BBC's Bernd Debusmann looks at video clips of the strikes that have killed at least 57 people in the Caribbean and Pacific.]]></description>
+            <link>https://www.bbc.com/news/videos/c803dgxpd91o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c803dgxpd91o#0</guid>
+            <pubDate>Wed, 29 Oct 2025 14:59:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e4/live/9d2569a0-b455-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three monkeys at large after primates escape from crashed truck in US]]></title>
+            <description><![CDATA[Officials in Mississippi initially warned the monkeys were carrying diseases, but Tulane University later denied this.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxr0d91znno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxr0d91znno#0</guid>
+            <pubDate>Wed, 29 Oct 2025 19:58:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6db4/live/9f360210-b4c1-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia hits new milestone as world's first $5tn company]]></title>
+            <description><![CDATA[The US chip-maker has rapidly climbed from a niche graphics-chip manufacturer to an AI titan.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8e970vn5vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8e970vn5vo#0</guid>
+            <pubDate>Wed, 29 Oct 2025 16:49:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e61/live/a7fb7040-b4e1-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three things you need to know about the Trump-Xi meeting]]></title>
+            <description><![CDATA[The two world leaders are set to hold talks in South Korea, after months of escalating trade tension between the US and China.]]></description>
+            <link>https://www.bbc.com/news/videos/ckg1y3pxk7go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckg1y3pxk7go#0</guid>
+            <pubDate>Wed, 29 Oct 2025 12:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95d0/live/70494730-b496-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘I have to get what I need right now’: Americans brace for expiry of critical food benefits]]></title>
+            <description><![CDATA[Essential food assistance for millions may run out this weekend due to the government shutdown.]]></description>
+            <link>https://www.bbc.com/news/articles/cy40n2gxpw0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy40n2gxpw0o#1</guid>
+            <pubDate>Wed, 29 Oct 2025 11:10:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e974/live/cbb85c30-b4b6-11f0-ba75-093eca1ac29b.png"/>
+        </item>
+        <item>
+            <title><![CDATA['No Trump! No China!': Caught in the middle, South Korea hosts rival superpowers]]></title>
+            <description><![CDATA[South Korea's President Lee is in for a diplomatic dance as he hosts the leaders of US and China.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7eyg0808xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7eyg0808xo#1</guid>
+            <pubDate>Tue, 28 Oct 2025 23:10:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/574a/live/9be5a600-b3fa-11f0-be05-3928a0e0f928.png"/>
+        </item>
+        <item>
+            <title><![CDATA['My hopes are dashed': Illegal Indian migrants deported by US speak to BBC]]></title>
+            <description><![CDATA[The men had entered the US through the "donkey route", often used by traffickers to facilitate illegal crossings.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgkj2yw122o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgkj2yw122o#1</guid>
+            <pubDate>Wed, 29 Oct 2025 06:22:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4100/live/e5d57300-b3bc-11f0-a45e-a37974ae60ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Jays see off Ohtani to level World Series]]></title>
+            <description><![CDATA[The Toronto Blue Jays tie the best-of-seven World Series at 2-2 after a thumping 6-2 victory over the Los Angeles Dodgers in game four.]]></description>
+            <link>https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/baseball/articles/cdeg3rp2712o#1</guid>
+            <pubDate>Wed, 29 Oct 2025 03:17:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d886/live/27036020-b463-11f0-8261-6de77b577ee4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US kills 14 in strikes on four alleged drug boats in Pacific]]></title>
+            <description><![CDATA[Mexico's navy is searching for the sole survivor of the latest attack on boats the US says were carrying drugs in both the Pacific and Caribbean.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ex94eeljeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ex94eeljeo#1</guid>
+            <pubDate>Tue, 28 Oct 2025 20:01:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13c4/live/4bae2d40-b4e2-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The AI job cuts are here - or are they?]]></title>
+            <description><![CDATA[Amazon's latest cuts fed into anxiety about AI replacing workers. But some are sceptical that recent layoffs are a telling sign of how AI is affecting employment.]]></description>
+            <link>https://www.bbc.com/news/articles/clyk7zg0gzvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyk7zg0gzvo#1</guid>
+            <pubDate>Wed, 29 Oct 2025 00:09:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3343/live/bc6a8f70-b432-11f0-8f20-cf9ca6428886.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Trump's 'peace deal' solved the Thailand-Cambodia dispute?]]></title>
+            <description><![CDATA[Donald Trump has claimed to have ended another war, this time between Thailand and Cambodia. But what does this latest agreement actually amount to?]]></description>
+            <link>https://www.bbc.com/news/videos/cy40n3ykx93o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy40n3ykx93o#2</guid>
+            <pubDate>Sun, 26 Oct 2025 13:39:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/f823d880-b272-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Resignation, shock, approval: A mix of emotions as East Wing demolished]]></title>
+            <description><![CDATA[The BBC asked people near the White House how they feel about the East Wing coming down to make room for a ballroom.]]></description>
+            <link>https://www.bbc.com/news/videos/cvg4p4xq00vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvg4p4xq00vo#2</guid>
+            <pubDate>Fri, 24 Oct 2025 12:16:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ab/live/ff543080-b05d-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm not done', Kamala Harris tells the BBC's Laura Kuenssberg]]></title>
+            <description><![CDATA[The former vice president made her strongest suggestion to date that she will make another presidential bid in 2028 - after losing to Donald Trump last year.]]></description>
+            <link>https://www.bbc.com/news/videos/cj0e9d5126eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj0e9d5126eo#2</guid>
+            <pubDate>Sat, 25 Oct 2025 21:22:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f615/live/26e2c450-b1e8-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite images show extent of demolition at the White House]]></title>
+            <description><![CDATA[New satellite images show the White House East Wing has been completely demolished in order to make way for President Trump's ballroom. ]]></description>
+            <link>https://www.bbc.com/news/videos/c4gkrnn4892o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gkrnn4892o#2</guid>
+            <pubDate>Fri, 24 Oct 2025 18:39:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c07/live/9d74da50-b101-11f0-aa13-0b0479f6f42a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How Trump's comments on East Wing demolition evolved]]></title>
+            <description><![CDATA[The building has been torn down to make way for the construction a new $250m (£186m) ballroom at the White House.]]></description>
+            <link>https://www.bbc.com/news/videos/c740nz5l54qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c740nz5l54qo#2</guid>
+            <pubDate>Thu, 23 Oct 2025 20:39:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6f/live/7d212fc0-b029-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China controls the rare earths the world buys - can Trump's new deals change that?]]></title>
+            <description><![CDATA[The agreements are a clear bid to reduce dependence on China, ahead of a key meeting with Xi Jinping.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6ny24j0r3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6ny24j0r3o#3</guid>
+            <pubDate>Tue, 28 Oct 2025 07:06:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df1e/live/b91328e0-b3f7-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Viktor Orban's dilemma - Russian oil or Trump's favour]]></title>
+            <description><![CDATA[Trump's closest ally in Europe will head to Washington in the midst of a disagreement over Russian oil.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypl16pp81o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypl16pp81o#3</guid>
+            <pubDate>Tue, 28 Oct 2025 12:55:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ec/live/68c47af0-b3a8-11f0-85d0-0792c41550d9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A humming annoyance or jobs boom? Life next to 199 data centres]]></title>
+            <description><![CDATA[Data centres were billed as a boon to Virginia’s economy. Now, residents are concerned about their impact on real estate and electricity costs.]]></description>
+            <link>https://www.bbc.com/news/articles/c93dnnxewdvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93dnnxewdvo#3</guid>
+            <pubDate>Sun, 26 Oct 2025 00:54:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74c/live/b9380ce0-b100-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's in Reagan advert that's caused US-Canada trade talks collapse?]]></title>
+            <description><![CDATA[Comparing the controversial advert quoting Ronald Reagan on tariffs with his original address.]]></description>
+            <link>https://www.bbc.com/news/articles/clyz1e201r8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyz1e201r8o#3</guid>
+            <pubDate>Fri, 24 Oct 2025 20:21:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a92/live/32b42990-b0c1-11f0-b0fc-6571ce384f7a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the US government has shut down and what happens now]]></title>
+            <description><![CDATA[The US government shutdown continues, with Republicans and Democrats no closer to ending their budget standoff.]]></description>
+            <link>https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrj1znp0pyo#3</guid>
+            <pubDate>Wed, 29 Oct 2025 13:17:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe3/live/f3c86610-b4c1-11f0-9ba4-690ca23769a4.jpg"/>
+        </item>
+    </channel>
+</rss>
