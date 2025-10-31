@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 31 Oct 2025 08:05:07 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hurricane Melissa death toll rises as aid struggles to reach parts of Jamaica]]></title>
+            <description><![CDATA[Authorities report at least 30 people have been killed in Haiti and 19 in Jamaica as a result of the devastating storm.]]></description>
+            <link>https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clylqpyg8pjo#0</guid>
+            <pubDate>Fri, 31 Oct 2025 07:56:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ff/live/3a485a60-b629-11f0-8c22-1dd3bd1762ee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump caps refugee admissions at record low - with most to be white South Africans]]></title>
+            <description><![CDATA[The president sets the limit at 7,500 for the coming year, a dramatic cut from 125,000.]]></description>
+            <link>https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy40jj71243o#0</guid>
+            <pubDate>Fri, 31 Oct 2025 01:57:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398b/live/524dfa10-b5b7-11f0-962a-97c89857c780.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How teenager gave a street concert and was caught up in Russia's repressive past]]></title>
+            <description><![CDATA[Diana Loginova sang songs critical of the Kremlin. The 18-year-old and her bandmate are now in court.]]></description>
+            <link>https://www.bbc.com/news/articles/cz91jyxj88ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz91jyxj88ko#0</guid>
+            <pubDate>Fri, 31 Oct 2025 00:19:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebe/live/5a7abe70-b59a-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia's new nuclear weapons - real threat or Putin bluster?]]></title>
+            <description><![CDATA[This week alone, the Russian president unveiled two nuclear-capable weapons - but their value may be more symbolic than military.]]></description>
+            <link>https://www.bbc.com/news/articles/cn40w7g2d2zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn40w7g2d2zo#0</guid>
+            <pubDate>Fri, 31 Oct 2025 08:00:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b70/live/7cdec6f0-b5b8-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We saw people murdered in front of us' - Sudan siege survivors speak to the BBC]]></title>
+            <description><![CDATA[Harrowing accounts from people who have escaped an RSF assault on the besieged city of el-Fasher.]]></description>
+            <link>https://www.bbc.com/news/articles/cgr4qqgdlkjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgr4qqgdlkjo#0</guid>
+            <pubDate>Thu, 30 Oct 2025 22:01:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1229/live/3f8e3070-b5d5-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaica's 'ground zero' - Assessing hurricane damage in Black River]]></title>
+            <description><![CDATA[The southwest of the island bore the full force Hurricane Melissa's 185 mph (295km/h) winds on Tuesday.]]></description>
+            <link>https://www.bbc.com/news/videos/c993gkjk1plo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c993gkjk1plo#0</guid>
+            <pubDate>Thu, 30 Oct 2025 23:43:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f0/live/67254bb0-b5de-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barcelona's Sagrada Família becomes world's tallest church]]></title>
+            <description><![CDATA[The Gaudí-designed architectural marvel now stands at an impressive 162.91 metres.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9dr45g49yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9dr45g49yo#0</guid>
+            <pubDate>Fri, 31 Oct 2025 02:40:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/314e/live/e88bd5e0-b62c-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nasa hits back at Kim Kardashian's moon landing conspiracy]]></title>
+            <description><![CDATA[In a recent episode of her TV series, the reality star said she believed the moon landing was fake.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg1epp73ppo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1epp73ppo#1</guid>
+            <pubDate>Fri, 31 Oct 2025 06:25:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef9/live/f28e0770-b618-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five charged in overdose death of Robert De Niro's grandson]]></title>
+            <description><![CDATA[The men are accused of running a drug ring in New York City that sold counterfeit prescription opioid pills through social media. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx24nwz9pd4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24nwz9pd4o#1</guid>
+            <pubDate>Fri, 31 Oct 2025 00:35:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d741/live/41802bb0-b5f1-11f0-9cfb-89ca507f0b50.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apartheid police assault killed Nobel laureate Luthuli, South Africa court rules]]></title>
+            <description><![CDATA[The court sets aside the 1967 inquest that found that the anti-apartheid hero was hit by a goods train. ]]></description>
+            <link>https://www.bbc.com/news/articles/c874yqvdr13o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c874yqvdr13o#1</guid>
+            <pubDate>Fri, 31 Oct 2025 07:24:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b67/live/8ca5be50-b61b-11f0-a3e5-638b66f48b0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian activity increasing around key Ukrainian town, army chief says]]></title>
+            <description><![CDATA[The capture of Pokrovsk could unlock Russian efforts to seize the rest of the Donetsk region.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyprrp1d50o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyprrp1d50o#1</guid>
+            <pubDate>Thu, 30 Oct 2025 17:25:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd9/live/97812ef0-b5b1-11f0-838f-af908296e21f.png"/>
+        </item>
+        <item>
+            <title><![CDATA['The bodies just kept coming' - photographer at deadly Rio police raid]]></title>
+            <description><![CDATA[A witness says residents brought down body after body - some mutilated - after the massive police raid which has left at least 120 dead.]]></description>
+            <link>https://www.bbc.com/news/articles/c364k5e9g58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c364k5e9g58o#1</guid>
+            <pubDate>Thu, 30 Oct 2025 17:06:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f98/live/a8ae25c0-b5a2-11f0-8d0f-29cad3ef1e0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel confirms identities of hostages' bodies returned by Hamas]]></title>
+            <description><![CDATA[The bodies were identified as those of Amiram Cooper and Sahar Baruch, the Israeli prime minister's office said.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gj90j2g8jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gj90j2g8jo#1</guid>
+            <pubDate>Thu, 30 Oct 2025 21:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b47/live/d064ef70-b5d6-11f0-a1db-4f031c68b92a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple claims 'tremendous' global uptake of latest iPhones]]></title>
+            <description><![CDATA[Apple's thinnest iPhone, the Air, plus the latest 17 models helped boost sales in September.]]></description>
+            <link>https://www.bbc.com/news/articles/cz6n98exv9zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6n98exv9zo#1</guid>
+            <pubDate>Thu, 30 Oct 2025 22:31:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d89/live/7c62afc0-b5d1-11f0-945e-450bc8d0aabc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The American adoptees who fear deportation to a country they can't remember]]></title>
+            <description><![CDATA[Thousands of US adoptees do not have citizenship despite being brought to the country as babies decades ago. Now many fear deportation.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy1n438dk4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy1n438dk4o#2</guid>
+            <pubDate>Fri, 31 Oct 2025 00:33:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fec7/live/30c4f640-b01d-11f0-b2a1-6f537f66f9aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Can't go back' - families in violence-hit Indian state fear resettlement deadline]]></title>
+            <description><![CDATA[Families displaced by the ongoing ethnic conflict are anxious as a government deadline to shut down relief camps nears.]]></description>
+            <link>https://www.bbc.com/news/articles/c364j8r7xjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c364j8r7xjgo#2</guid>
+            <pubDate>Fri, 31 Oct 2025 00:29:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6791/live/15fe0730-b4c2-11f0-9ba4-690ca23769a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does Trump's nuclear testing raise the stakes - or are we already in an arms race?]]></title>
+            <description><![CDATA[Experts tell the BBC a US resumption of nuclear weapons testing would be a radical shift and spark a nuclear arms race.]]></description>
+            <link>https://www.bbc.com/news/articles/czxn00l00r6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxn00l00r6o#2</guid>
+            <pubDate>Thu, 30 Oct 2025 20:45:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b75/live/5bfcc460-b5b7-11f0-962a-97c89857c780.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is COP30 and why does it matter?]]></title>
+            <description><![CDATA[World leaders will soon gather for the annual UN meeting on how to tackle climate change.]]></description>
+            <link>https://www.bbc.com/news/articles/c04gqez4lkyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04gqez4lkyo#2</guid>
+            <pubDate>Thu, 30 Oct 2025 16:19:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/405d/live/55ac28f0-b5a6-11f0-8833-43b4d09dd0bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five ways US government shutdown is hurting - and why it's about to get worse]]></title>
+            <description><![CDATA[The fiscal fight means US troops could go without pay, while millions may lose heat and food aid.]]></description>
+            <link>https://www.bbc.com/news/articles/c74jden8ddxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74jden8ddxo#2</guid>
+            <pubDate>Thu, 30 Oct 2025 15:29:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd4f/live/6feda3f0-b4e9-11f0-ab86-b5f654e70621.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Asia tour sees deals, knee-bending and a revealing final meeting]]></title>
+            <description><![CDATA[His five-day tour displayed the power of his presidency - but also, at times, that power's limitations.]]></description>
+            <link>https://www.bbc.com/news/articles/c1j8zn0ex9ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1j8zn0ex9ro#2</guid>
+            <pubDate>Thu, 30 Oct 2025 18:06:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1752/live/bc44ad40-b5b9-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: US and China's different reports of their trade meeting]]></title>
+            <description><![CDATA[The BBC's Laura Bicker explains how the two nation's have reported on the trade negotiations.]]></description>
+            <link>https://www.bbc.com/news/videos/cz0x8l52ey9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz0x8l52ey9o#3</guid>
+            <pubDate>Thu, 30 Oct 2025 09:26:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff1/live/1abca4a0-b55a-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Handshakes and whispers: Trump and Xi's meeting…in 73 seconds]]></title>
+            <description><![CDATA[Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a "great success".]]></description>
+            <link>https://www.bbc.com/news/videos/cq83eked32go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cq83eked32go#3</guid>
+            <pubDate>Thu, 30 Oct 2025 06:07:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e61/live/d756c7a0-b55d-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strong winds and flying debris as Hurricane Melissa makes landfall]]></title>
+            <description><![CDATA[Storm surges of 13 feet (3.9m) above ground level and destructive waves are expected as the storm hits Jamaica.]]></description>
+            <link>https://www.bbc.com/news/videos/cp8yz2jgk0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp8yz2jgk0go#3</guid>
+            <pubDate>Tue, 28 Oct 2025 20:18:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ed/live/af2be6a0-b43d-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Trump's 'peace deal' solved the Thailand-Cambodia dispute?]]></title>
+            <description><![CDATA[Donald Trump has claimed to have ended another war, this time between Thailand and Cambodia. But what does this latest agreement actually amount to?]]></description>
+            <link>https://www.bbc.com/news/videos/cy40n3ykx93o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy40n3ykx93o#3</guid>
+            <pubDate>Sun, 26 Oct 2025 13:39:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/f823d880-b272-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump in Malaysia: Dancing and a 'peace deal']]></title>
+            <description><![CDATA[US President Donald Trump in Malaysia: Dancing and a 'peace deal']]></description>
+            <link>https://www.bbc.com/news/videos/cly9g3j9e84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cly9g3j9e84o#3</guid>
+            <pubDate>Sun, 26 Oct 2025 07:55:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d188/live/46874d50-b277-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment nuclear plant towers collapse during demolition]]></title>
+            <description><![CDATA[Two nuclear cooling towers in the town of Gundremmingen, Germany, collapse into large swirls of thick, white dust during demolition.]]></description>
+            <link>https://www.bbc.com/news/videos/cd7rgp2zlwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd7rgp2zlwgo#3</guid>
+            <pubDate>Sun, 26 Oct 2025 00:13:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6825/live/6d513220-b1ff-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm not done', Kamala Harris tells the BBC's Laura Kuenssberg]]></title>
+            <description><![CDATA[The former vice president made her strongest suggestion to date that she will make another presidential bid in 2028 - after losing to Donald Trump last year.]]></description>
+            <link>https://www.bbc.com/news/videos/cj0e9d5126eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj0e9d5126eo#3</guid>
+            <pubDate>Sat, 25 Oct 2025 21:22:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f615/live/26e2c450-b1e8-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite images show extent of demolition at the White House]]></title>
+            <description><![CDATA[New satellite images show the White House East Wing has been completely demolished in order to make way for President Trump's ballroom. ]]></description>
+            <link>https://www.bbc.com/news/videos/c4gkrnn4892o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gkrnn4892o#3</guid>
+            <pubDate>Fri, 24 Oct 2025 18:39:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c07/live/9d74da50-b101-11f0-aa13-0b0479f6f42a.png"/>
+        </item>
+    </channel>
+</rss>
