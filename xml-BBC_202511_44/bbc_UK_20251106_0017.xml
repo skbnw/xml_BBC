@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 06 Nov 2025 00:17:23 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Crime fixer caught by BBC offering to erase £60K fines on migrant workers]]></title>
+            <description><![CDATA[Calling himself "the accountant", the fixer told undercover reporters how he could “confuse” immigration enforcement.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3kevkl3pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3kevkl3pdo#0</guid>
+            <pubDate>Wed, 05 Nov 2025 22:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2539/live/9bf92d10-ba94-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC reporter confronts man at centre of illegal worker network]]></title>
+            <description><![CDATA[The BBC's Ed Thomas confronted Kardos Mateen, who is at the centre of an illegal worker network.]]></description>
+            <link>https://www.bbc.com/news/videos/cgr4dr4rp74o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgr4dr4rp74o#0</guid>
+            <pubDate>Wed, 05 Nov 2025 22:00:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7c1/live/15ed7dd0-ba93-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police hunt for two men mistakenly released from prison]]></title>
+            <description><![CDATA[It comes just weeks after migrant sex offender Hadush Kebatu was also released from prison by mistake.]]></description>
+            <link>https://www.bbc.com/news/articles/c1d0kll2vn4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1d0kll2vn4o#0</guid>
+            <pubDate>Wed, 05 Nov 2025 23:29:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2de/live/0def4580-ba9a-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Patients left in limbo - how the NHS is closing the door on ADHD cases]]></title>
+            <description><![CDATA[A BBC investigation finds that a host of areas in England are closing waiting lists and others are rationing care.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gpl150ze4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gpl150ze4o#0</guid>
+            <pubDate>Thu, 06 Nov 2025 00:04:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad28/live/b4ad7d60-b9a0-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates expected to be held as Budget looms]]></title>
+            <description><![CDATA[Most analysts believe the Bank rate will remain at 4% for now, although there could be a cut in December.]]></description>
+            <link>https://www.bbc.com/news/articles/c77zkg5504eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77zkg5504eo#0</guid>
+            <pubDate>Thu, 06 Nov 2025 00:10:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f74/live/7e246920-ba54-11f0-aac3-4f1fdbb3aa71.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man drove at stabbings suspect after train attack]]></title>
+            <description><![CDATA[Dave Scott says he used his car to hit the alleged attacker before police made an arrest.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jdvzdww35o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jdvzdww35o#0</guid>
+            <pubDate>Wed, 05 Nov 2025 21:09:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a88/live/b11fd800-ba8b-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Parliament passes land reform bill which could force break up of huge estates]]></title>
+            <description><![CDATA[The legislation is designed to help reduce the concentration of rural land ownership among a small number of people.]]></description>
+            <link>https://www.bbc.com/news/articles/cgr4d770znpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgr4d770znpo#0</guid>
+            <pubDate>Wed, 05 Nov 2025 19:15:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a7/live/67783700-ba5a-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joey Barton X posts 'devastated' Jeremy Vine]]></title>
+            <description><![CDATA[Jeremy Vine tells a court he found Joey Barton's posts on X about Lucy Ward and Eni Aluko "vicious".]]></description>
+            <link>https://www.bbc.com/news/articles/cd04y81re4jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd04y81re4jo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 20:01:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b77/live/23343100-ba48-11f0-97e7-15dab51377c0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southport killer 'may have wanted to hurt society', his brother says]]></title>
+            <description><![CDATA[The killer's brother and father have been speaking to the public inquiry into the dance class murders.]]></description>
+            <link>https://www.bbc.com/news/articles/cly91mryzlko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly91mryzlko#1</guid>
+            <pubDate>Wed, 05 Nov 2025 17:00:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a2/live/ec73ee70-af3a-11f0-a743-017a38be2260.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michelle Mone-linked firm PPE Medpro owes £39m in taxes]]></title>
+            <description><![CDATA[Administrator's report shows firm owes £39m to HMRC on top of £148m owed to Department of Health]]></description>
+            <link>https://www.bbc.com/news/articles/c5y95p045g9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y95p045g9o#1</guid>
+            <pubDate>Wed, 05 Nov 2025 19:21:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891e/live/d3c9a440-ba76-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry says 'banter' is what he loves about Britishness]]></title>
+            <description><![CDATA[The Duke of Sussex says humour and self-deprecation are what he loves about Britain, in an essay for Remembrance.]]></description>
+            <link>https://www.bbc.com/news/articles/c0l7x5r1274o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l7x5r1274o#1</guid>
+            <pubDate>Wed, 05 Nov 2025 12:24:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b77/live/a2e71530-ba3d-11f0-a0d5-273175887cd7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder arrests after child killer found dead in cell]]></title>
+            <description><![CDATA[Kyle Bevan, 33, was found dead at HMP Wakefield in West Yorkshire on Wednesday, prompting a police inquiry.]]></description>
+            <link>https://www.bbc.com/news/articles/cdegx13ny6ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdegx13ny6ro#1</guid>
+            <pubDate>Wed, 05 Nov 2025 21:38:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df22/live/744e0080-ba7e-11f0-98a7-ed301ba6f979.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrant who returned to UK after removal sent back to France]]></title>
+            <description><![CDATA[Home Office sources say Wednesday's return flight included the man who returned to the UK last month.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7emznr0nro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7emznr0nro#1</guid>
+            <pubDate>Wed, 05 Nov 2025 13:08:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a4/live/a32332d0-ba48-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sheeran praises curriculum changes which mean more kids will study music]]></title>
+            <description><![CDATA[Ministers are making changes to the curriculum in England after a review of what is taught in schools.]]></description>
+            <link>https://www.bbc.com/news/articles/cddr3v6j9mmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cddr3v6j9mmo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 18:31:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9706/live/ba4f9b00-ba4e-11f0-b333-073787fb182f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper publisher to pay damages to Christopher Jefferies]]></title>
+            <description><![CDATA[News Group Newspapers settled a claim at the High Court in November 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6nw40zd20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6nw40zd20o#1</guid>
+            <pubDate>Wed, 05 Nov 2025 13:14:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4f/live/656be3b0-ba43-11f0-a0d5-273175887cd7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham star punches rival fan in car park]]></title>
+            <description><![CDATA[The player says he acted in self-defence when Cardiff City fans confronted before the clubs faced each other in the fourth round of the Carabao Cup.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzmx5k1zzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzmx5k1zzo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 14:59:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5d/live/56f3d080-ba4e-11f0-b333-073787fb182f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oldest victim of Post Office scandal, 92, receives final payout]]></title>
+            <description><![CDATA["I can settle up my affairs. I can turn the heating up full blast, and that will be wonderful," 92-year-old Betty Brown told the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/c74jvd0drvvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74jvd0drvvo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 00:05:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/4f5f9150-ba18-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs]]></title>
+            <description><![CDATA[SNP MP Pete Wishart says he is seeking legal advice over the "disturbing" AI-generated social media post.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6vwg80qyo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 17:14:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ee/live/11568c00-ba50-11f0-aac3-4f1fdbb3aa71.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge 20ft bonfire in housing estate sparks safety fears]]></title>
+            <description><![CDATA[The construction on a grassy area within an estate is about 80ft (24.3m) wide.]]></description>
+            <link>https://www.bbc.com/news/articles/cgkz8ly7v8zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkz8ly7v8zo#1</guid>
+            <pubDate>Wed, 05 Nov 2025 16:44:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6834/live/952bd140-ba67-11f0-816b-0d9abffc79a0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flooding traps 28 dogs in loft as rain swells Welsh rivers]]></title>
+            <description><![CDATA[Twenty-eight dogs have been trapped in a sanctuary as intense rain leads to flooding in Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/c07mxkpyv97o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07mxkpyv97o#1</guid>
+            <pubDate>Wed, 05 Nov 2025 22:43:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/573c/live/c451e410-ba70-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LED mask ads banned over acne and rosacea claims]]></title>
+            <description><![CDATA[Adverts for cosmetic devices not registered with the medicines regulator must not make medical claims.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2l8jldvjno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2l8jldvjno#1</guid>
+            <pubDate>Wed, 05 Nov 2025 16:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9d/live/2dc97d40-b9a4-11f0-91b3-9fadee0808a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['She was always apologising', John Cleese pays tribute to co-star Prunella Scales]]></title>
+            <description><![CDATA[The actor was on the BBC Breakfast sofa where he spoke about his on-screen wife, Prunella Scales, who died last week.]]></description>
+            <link>https://www.bbc.com/news/videos/cj97rdep4yyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj97rdep4yyo#2</guid>
+            <pubDate>Wed, 05 Nov 2025 12:10:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a8/live/74b31bd0-ba3a-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catching the American fugitive who faked his own death]]></title>
+            <description><![CDATA[Convicted sex offender Nicholas Rossi assumed a new identity and fled to Scotland to escape justice.]]></description>
+            <link>https://www.bbc.com/news/videos/c1d0kxk7kvxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1d0kxk7kvxo#2</guid>
+            <pubDate>Tue, 04 Nov 2025 20:22:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f4/live/9de76960-b9a0-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Do you want to die?' - Train attack victim describes confrontation with alleged attacker]]></title>
+            <description><![CDATA[Stephen Crean was among those injured in a knife attack on a train in Cambridgeshire on Saturday evening.]]></description>
+            <link>https://www.bbc.com/news/videos/c5ypj4v04xzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5ypj4v04xzo#2</guid>
+            <pubDate>Mon, 03 Nov 2025 19:31:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9924/live/38483640-b8ea-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['There's a weather photograph anywhere you can be proud of']]></title>
+            <description><![CDATA[Damien Walmsley has been a BBC Weather Watcher for a decade.]]></description>
+            <link>https://www.bbc.com/news/videos/cx27pgdype7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx27pgdype7o#2</guid>
+            <pubDate>Mon, 03 Nov 2025 06:17:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64e/live/10cce5d0-9d55-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the two mistakenly released prisoners?]]></title>
+            <description><![CDATA[Two men were released from HMP Wandsworth in error in the past week, with police hunts under way.]]></description>
+            <link>https://www.bbc.com/news/articles/czxn397y0gxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czxn397y0gxo#3</guid>
+            <pubDate>Wed, 05 Nov 2025 22:52:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edff/live/1b2cd680-ba87-11f0-930d-3718a7e31379.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The justice system is failing - the buck stops with Lammy]]></title>
+            <description><![CDATA[Problems in the prisons and the courts are not new but they are growing and the government doesn't have a grip on them.]]></description>
+            <link>https://www.bbc.com/news/articles/crmx82ng9gyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmx82ng9gyo#3</guid>
+            <pubDate>Wed, 05 Nov 2025 20:49:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a87/live/92ac6bd0-ba87-11f0-930d-3718a7e31379.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK facing sickness bill 'crisis' - what needs to change to get more people working?]]></title>
+            <description><![CDATA[Plans to get more people working pose some challenges for employers, employees and health services.]]></description>
+            <link>https://www.bbc.com/news/articles/c0qp4yk0xdxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qp4yk0xdxo#3</guid>
+            <pubDate>Wed, 05 Nov 2025 17:16:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4c/live/1eebeb10-ba6b-11f0-ba8c-5f7067df6bdc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What a UK government led by Reform would really look like]]></title>
+            <description><![CDATA[What the party's first six months at the helm at local level shows about how they govern - and whether they can keep their promises]]></description>
+            <link>https://www.bbc.com/news/articles/cm2kyjrg77eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2kyjrg77eo#3</guid>
+            <pubDate>Wed, 05 Nov 2025 00:02:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b636/live/a04c8060-b8cd-11f0-aa13-0b0479f6f42a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Criminal network behind UK mini-marts enables migrants to work illegally - BBC investigation]]></title>
+            <description><![CDATA[Undercover reporters were told how easy it was to make big profits selling illegal vapes and cigarettes.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mx99ple17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mx99ple17o#3</guid>
+            <pubDate>Wed, 05 Nov 2025 06:00:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8f/live/77c37920-b8c6-11f0-b2a1-6f537f66f9aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder arrests after child killer found dead in cell]]></title>
+            <description><![CDATA[Kyle Bevan, 33, was found dead at HMP Wakefield in West Yorkshire on Wednesday, prompting a police inquiry.]]></description>
+            <link>https://www.bbc.com/news/articles/cdegx13ny6ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdegx13ny6ro#4</guid>
+            <pubDate>Wed, 05 Nov 2025 21:38:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df22/live/744e0080-ba7e-11f0-98a7-ed301ba6f979.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murder over Portavogie death ]]></title>
+            <description><![CDATA[Jordan Webb, 28, was pronounced dead at the scene in Portavogie on Monday morning.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8vg9d5y20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8vg9d5y20o#4</guid>
+            <pubDate>Wed, 05 Nov 2025 21:44:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7680/live/f277e390-b8da-11f0-89d1-45c87cba6607.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MSPs pass land reform which could force break up of huge estates]]></title>
+            <description><![CDATA[The legislation is designed to help reduce the concentration of rural land ownership among a small number of people.]]></description>
+            <link>https://www.bbc.com/news/articles/cgr4d770znpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgr4d770znpo#4</guid>
+            <pubDate>Wed, 05 Nov 2025 19:15:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a7/live/67783700-ba5a-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Water under capital city's streets could heat every home]]></title>
+            <description><![CDATA[Traffic and people on Cardiff's streets causes what has been called "thermal pollution".]]></description>
+            <link>https://www.bbc.com/news/articles/cy5q9e1e4zpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5q9e1e4zpo#4</guid>
+            <pubDate>Wed, 05 Nov 2025 22:51:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b77/live/bfbb2210-ba69-11f0-ba8c-5f7067df6bdc.jpg"/>
+        </item>
+    </channel>
+</rss>
