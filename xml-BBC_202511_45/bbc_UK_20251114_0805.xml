@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Nov 2025 08:05:31 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[BBC apologises to Trump over Panorama edit but refuses to pay compensation]]></title>
+            <description><![CDATA[Lawyers for the US president have threatened to sue the corporation for $1bn (£759m).]]></description>
+            <link>https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c874nw4g2zzo#0</guid>
+            <pubDate>Fri, 14 Nov 2025 07:55:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e0/live/b162e9a0-c11c-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No-fault evictions to be banned in England from May]]></title>
+            <description><![CDATA[The government confirms timeline for reforms to England’s rental market, including ending bidding wars.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x1n9rv809o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x1n9rv809o#0</guid>
+            <pubDate>Thu, 13 Nov 2025 22:31:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d8/live/9ed13120-c0c7-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doctors begin five-day walkout in England]]></title>
+            <description><![CDATA[NHS bosses say they are aiming to keep nearly all services running during the strike.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2lg8pgjymo#0</guid>
+            <pubDate>Fri, 14 Nov 2025 08:00:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/264f/live/144791e0-c129-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Councils warn of 'total collapse' in special needs system ]]></title>
+            <description><![CDATA[The government is facing political pressure as it tries to reform the "broken" system of support for children with special educational needs.]]></description>
+            <link>https://www.bbc.com/news/articles/c9v127xp2r4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v127xp2r4o#0</guid>
+            <pubDate>Fri, 14 Nov 2025 00:58:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e938/live/7dff9ec0-c0c5-11f0-8669-5560f5c90fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amber warnings issued as heavy rain from Storm Claudia continues]]></title>
+            <description><![CDATA[Storm Claudia will bring heavy and persistent rain to parts of the UK on Friday. Amber warnings have been issued with risk of flooding and disruption as Simon King explains.]]></description>
+            <link>https://www.bbc.com/weather/articles/cj0e3y6yy99o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cj0e3y6yy99o#0</guid>
+            <pubDate>Fri, 14 Nov 2025 07:56:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f8a/live/d90b89b0-c128-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man suspected of being fake high-ranking admiral at Remembrance event investigated]]></title>
+            <description><![CDATA[Members of the Royal Naval Association in Llandudno spotted a man wearing an unusual uniform.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgy42yjn1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgy42yjn1xo#0</guid>
+            <pubDate>Fri, 14 Nov 2025 07:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61c/live/fbd072f0-c0ae-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met investigating 'tens of grooming gang cases']]></title>
+            <description><![CDATA[Sir Mark warned against using "grooming gangs" as a catch-all term as it covers different offences.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gpj4ld5yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gpj4ld5yqo#1</guid>
+            <pubDate>Thu, 13 Nov 2025 21:51:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0e/live/a9982890-c0cf-11f0-a532-d129af550177.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pat Butcher to return to EastEnders in episode focused on dementia]]></title>
+            <description><![CDATA[The beloved character, played by Pam St Clement, returns next month in Nigel's  memories from the 90s.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvwx7qwnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvwx7qwnvo#1</guid>
+            <pubDate>Thu, 13 Nov 2025 21:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6c/live/1367e810-c0ac-11f0-a18a-95a39ab23d99.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peers suggest over 900 changes to assisted dying bill]]></title>
+            <description><![CDATA[Experts say the volume is a record, and backers of the bill fear opponents are using delaying tactics.]]></description>
+            <link>https://www.bbc.com/news/articles/c2drk17p942o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2drk17p942o#1</guid>
+            <pubDate>Thu, 13 Nov 2025 19:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/345e/live/a4721120-c0c3-11f0-9de8-edd64aee3552.png"/>
+        </item>
+        <item>
+            <title><![CDATA[TikTok award winner Max: 'It takes me hours to make the content you scroll on the toilet']]></title>
+            <description><![CDATA[Max Klymenko won creator of the year while Bemi Orojuogun, better known as bus aunty, won video of the year.]]></description>
+            <link>https://www.bbc.com/news/articles/c17p1z5ppq8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17p1z5ppq8o#1</guid>
+            <pubDate>Fri, 14 Nov 2025 01:11:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/3fdf6b50-c126-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer's chief of staff McSweeney not leaving role over briefing war, BBC told]]></title>
+            <description><![CDATA[The PM's top aide was not involved "directly or indirectly" in briefings against cabinet ministers, sources tell the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8vn4vv87xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8vn4vv87xo#1</guid>
+            <pubDate>Thu, 13 Nov 2025 17:20:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19e/live/9ac8f050-c0bc-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two-thirds of military women experienced sexualised behaviour, survey says]]></title>
+            <description><![CDATA[The behaviours include comments about their appearance, harassment, leering and groping, according to a survey.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgkx1nenlpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkx1nenlpo#1</guid>
+            <pubDate>Thu, 13 Nov 2025 19:57:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5cd/live/340f0ae0-c0b5-11f0-8a6c-bdcd4bb2f081.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police and crime commissioners to be scrapped in England and Wales]]></title>
+            <description><![CDATA[The government says it will save £100m over this Parliament and less than 20% of voters can name their PCC. ]]></description>
+            <link>https://www.bbc.com/news/articles/c93d4dd3l3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93d4dd3l3lo#1</guid>
+            <pubDate>Thu, 13 Nov 2025 18:31:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f7/live/b4147bb0-c085-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aberdeen to trial alcohol sales at Scottish Premiership match]]></title>
+            <description><![CDATA[Supporters will be able to buy alcoholic drinks at the game against Kilmarnock next month.]]></description>
+            <link>https://www.bbc.com/news/articles/cjekj4gn7zeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjekj4gn7zeo#1</guid>
+            <pubDate>Fri, 14 Nov 2025 06:20:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec5/live/9382d280-c0c5-11f0-9de8-edd64aee3552.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How the BBC works... in under two minutes]]></title>
+            <description><![CDATA[Culture reporter Noor Nanji explains how the BBC is funded and governed, amid controversy that has lead to the departures of two senior bosses.]]></description>
+            <link>https://www.bbc.com/news/videos/ceq0ewgenweo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ceq0ewgenweo#2</guid>
+            <pubDate>Thu, 13 Nov 2025 19:08:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/897d/live/b85649a0-c0bd-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We should have acted earlier', says BBC chair Samir Shah]]></title>
+            <description><![CDATA[Shah was asked why the corporation did not investigate concerns around the editing of a BBC documentary earlier.]]></description>
+            <link>https://www.bbc.com/news/videos/c1m321yd4l1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1m321yd4l1o#2</guid>
+            <pubDate>Mon, 10 Nov 2025 14:27:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ba/live/c1e71790-be3f-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... how the BBC is run]]></title>
+            <description><![CDATA[The BBC's analysis editor looks at how the organisation works - to understand why two bosses quit over the weekend.]]></description>
+            <link>https://www.bbc.com/news/videos/cgkz6epkmy8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgkz6epkmy8o#2</guid>
+            <pubDate>Tue, 11 Nov 2025 20:53:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4356/live/3200dbc0-bf3e-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Charles leads Remembrance Sunday service silence at Cenotaph]]></title>
+            <description><![CDATA[King Charles III laid a wreath at the monument in central London as the nation remembered its war dead.]]></description>
+            <link>https://www.bbc.com/news/videos/cj6np5zdw6go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj6np5zdw6go#2</guid>
+            <pubDate>Sun, 09 Nov 2025 12:22:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/cfdf9100-bd64-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I could hardly walk' - the issue that affects one in five mums]]></title>
+            <description><![CDATA[Two mothers who experienced pelvic girdle pain say being aware of the risk will help people seek treatment.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mxk3w9277o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mxk3w9277o#3</guid>
+            <pubDate>Fri, 14 Nov 2025 01:21:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3db/live/126fd750-ba68-11f0-ba8c-5f7067df6bdc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The TikTok mum helping others from her son's hospital bedside]]></title>
+            <description><![CDATA[Kirsty Grandison is using social media to share her experience of caring for her severely brain damaged son.]]></description>
+            <link>https://www.bbc.com/news/articles/crmx0kek9w3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmx0kek9w3o#3</guid>
+            <pubDate>Fri, 14 Nov 2025 06:48:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0175/live/61f8fc80-bf03-11f0-90b3-b57c162d3edc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'BBC's apology to Trump' and '84 in, 113 out' on migrants deal]]></title>
+            <description><![CDATA[The BBC's apology to Donald Trump and stricter asylum reforms dominate Friday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mx7ywg898o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mx7ywg898o#3</guid>
+            <pubDate>Fri, 14 Nov 2025 05:42:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e9/live/37fb8050-c102-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will AI mean better adverts or 'creepy slop'?]]></title>
+            <description><![CDATA[Advertisers are using AI to personalise adverts but not everyone agrees that's a good idea. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg4y4z169go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg4y4z169go#3</guid>
+            <pubDate>Fri, 14 Nov 2025 00:07:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/076c/live/3b639860-b34a-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teens still being exposed to harmful social media posts]]></title>
+            <description><![CDATA[A BBC investigation shows teens being shown content about weapons and suicide despite Ofcom ruling.]]></description>
+            <link>https://www.bbc.com/news/articles/cew4ne5rx07o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cew4ne5rx07o#4</guid>
+            <pubDate>Fri, 14 Nov 2025 06:04:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e46a/live/5069da20-2f57-11f0-8085-f791f39b20d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man admits causing 70-year-old pedestrian's death]]></title>
+            <description><![CDATA[John Taggart, 36, was driving in the Millfield junction area of the city when he hit Paul Marshall last September.  ]]></description>
+            <link>https://www.bbc.com/news/articles/cvgkxjpdkn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkxjpdkn3o#4</guid>
+            <pubDate>Thu, 13 Nov 2025 17:51:01 GMT</pubDate>
+            <media:thumbnail width="240" height="125" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1439/live/a614cf00-c09f-11f0-8669-5560f5c90fbe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bosses of smallest councils to get huge pay rises]]></title>
+            <description><![CDATA[The chief executive of Scotland's smallest council will get £32,000 extra next year, a 24% rise.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3xrdxelpno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3xrdxelpno#4</guid>
+            <pubDate>Fri, 14 Nov 2025 07:47:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5839/live/bb37ce40-c087-11f0-924c-87dcfe4462ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man suspected of being fake high-ranking admiral at Remembrance event investigated]]></title>
+            <description><![CDATA[Members of the Royal Naval Association in Llandudno spotted a man wearing an unusual uniform.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgy42yjn1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgy42yjn1xo#4</guid>
+            <pubDate>Fri, 14 Nov 2025 07:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61c/live/fbd072f0-c0ae-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+    </channel>
+</rss>
