@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 16 Nov 2025 16:04:12 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Illegal migration tearing UK apart, Mahmood says]]></title>
+            <description><![CDATA[The home secretary is set to announce major policy reforms, including a 20-year wait before people granted asylum can apply to settle permanently.]]></description>
+            <link>https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7970p2wx7ro#0</guid>
+            <pubDate>Sun, 16 Nov 2025 15:20:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ad/live/3dbd84b0-c2f2-11f0-8669-5560f5c90fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote]]></title>
+            <description><![CDATA[The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. ]]></description>
+            <link>https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wv4dx05q5o#0</guid>
+            <pubDate>Sun, 16 Nov 2025 08:12:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c8/live/fce94120-c2cb-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arctic blast to move across UK as flood clean-up continues]]></title>
+            <description><![CDATA[Storm Claudia moved away on Sunday after delivering over a month's worth of rain to parts of England and Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0el2g5448o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0el2g5448o#0</guid>
+            <pubDate>Sun, 16 Nov 2025 12:19:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f3/live/c7d19540-c2d1-11f0-8de9-1382f9537c23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My mum was a 17-year-old free spirit, so she was locked up and put in a coma]]></title>
+            <description><![CDATA[Marina's mother was held against her will in a convent in 1960s Spain under Franco's regime.]]></description>
+            <link>https://www.bbc.com/news/articles/cr43vx0rrwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr43vx0rrwvo#0</guid>
+            <pubDate>Sun, 16 Nov 2025 00:29:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a8/live/3a7adaf0-c180-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five young people dead following two-car crash]]></title>
+            <description><![CDATA[Gardaí say the three men and two women who died, were all under the age of 25 and were travelling in the same car.]]></description>
+            <link>https://www.bbc.com/news/articles/cd7rqd33dn1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd7rqd33dn1o#0</guid>
+            <pubDate>Sun, 16 Nov 2025 13:47:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6736/live/69f9ff60-c2eb-11f0-a24d-474f58ed5b5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sky Sports axes 'sexist' TikTok channel Halo after three days]]></title>
+            <description><![CDATA[The female-focused TikTok channel was dubbed "patronising" and "sexist" by social media users.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrz8g7evyxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrz8g7evyxo#0</guid>
+            <pubDate>Sun, 16 Nov 2025 14:53:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cf/live/9807e840-c2f0-11f0-a24d-474f58ed5b5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I vape cannabis everyday before work but was too afraid to tell my boss]]></title>
+            <description><![CDATA[About 50,000 people in the UK have a medical cannabis prescription, but some still feel a stigma attached to it.]]></description>
+            <link>https://www.bbc.com/news/articles/c89d2lyw85wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89d2lyw85wo#0</guid>
+            <pubDate>Sun, 16 Nov 2025 07:37:58 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4456/live/01ef7d60-bf1b-11f0-8669-5560f5c90fbe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Yungblud to break from tour over health concerns]]></title>
+            <description><![CDATA[The rock star says it is "in my nature to run and run until l run myself to the ground".]]></description>
+            <link>https://www.bbc.com/news/articles/cpq1g7n08ero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq1g7n08ero#0</guid>
+            <pubDate>Sun, 16 Nov 2025 13:13:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a91/live/2f937700-c2e8-11f0-a24d-474f58ed5b5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Search for missing Royal Navy crew member stood down]]></title>
+            <description><![CDATA[The Royal Fleet Auxiliary (RFA) Tidesurge crew member was last seen at about 22:30 (local time) on Friday.]]></description>
+            <link>https://www.bbc.com/news/articles/c740pqpw475o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c740pqpw475o#0</guid>
+            <pubDate>Sun, 16 Nov 2025 15:39:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e846/live/579d6ff0-c2ff-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YouTuber Jack Doherty arrested in Miami on drug possession charges]]></title>
+            <description><![CDATA[The influencer, who has over 15 million subscribers on YouTube, is known for filming provocative videos involving pranks and stunts.]]></description>
+            <link>https://www.bbc.com/news/articles/c620yzjpxlvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620yzjpxlvo#0</guid>
+            <pubDate>Sun, 16 Nov 2025 10:48:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6848/live/411d3900-c2c7-11f0-a94f-9d723e4e4e44.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body found after five-week search for missing German walker]]></title>
+            <description><![CDATA[Police say the body of Matthias Beutin, 57, was discovered near Coire Dubh on the Isle of Skye.]]></description>
+            <link>https://www.bbc.com/news/articles/c803z50472do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c803z50472do#0</guid>
+            <pubDate>Sun, 16 Nov 2025 10:35:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea7/live/d8953370-a759-11f0-a302-6bcd0f505684.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Move over açaí - the Amazon has more 'superfoods' to offer]]></title>
+            <description><![CDATA[Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world.]]></description>
+            <link>https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx27z4pvlz1o#1</guid>
+            <pubDate>Sun, 16 Nov 2025 08:31:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9241/live/ca9b9180-c25f-11f0-8507-fd6003eaa302.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We're first in the UK to trial a data centre in our shed - our energy bills are now £40 a month]]></title>
+            <description><![CDATA["It's fantastic because it's eco-friendly...We're not burning any gases," says Terrence Bridges. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0rpy7envr5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rpy7envr5o#1</guid>
+            <pubDate>Sun, 16 Nov 2025 06:29:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/47f46990-c2d8-11f0-ae46-bd64331f0fd4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bin bags are piling up on this street and residents have had enough]]></title>
+            <description><![CDATA[Bin bags put on the pavement for collection leave neighbourhoods worse places to live and work.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydre9643jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydre9643jo#1</guid>
+            <pubDate>Sun, 16 Nov 2025 01:02:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128a/live/5e12d710-bb31-11f0-a9c7-018c8fe15fae.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why India caps pollution reading at 500 when the air is far more toxic]]></title>
+            <description><![CDATA[India's air quality framework hasn't been comprehensively revised since 2009 and needs an update, say experts.]]></description>
+            <link>https://www.bbc.com/news/articles/ced6jgg0180o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced6jgg0180o#1</guid>
+            <pubDate>Sun, 16 Nov 2025 00:00:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f3/live/cc041760-c2fd-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuelled by fear, Benn ends 35-year wait for revenge by beating Eubank]]></title>
+            <description><![CDATA[Conor Benn achieves something his father Nigel was unable to do by beating a Eubank in a dominant rematch.]]></description>
+            <link>https://www.bbc.com/sport/boxing/articles/cm2e3n57d6mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cm2e3n57d6mo#1</guid>
+            <pubDate>Sun, 16 Nov 2025 06:37:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f9/live/802ab690-c2fe-11f0-8669-5560f5c90fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm a Celebrity 2025 kicks off tonight - here's everything you need to know]]></title>
+            <description><![CDATA[Alex Scott, Jack Osbourne and Ruby Wax are among those being dumped in the middle of the Australian outback.]]></description>
+            <link>https://www.bbc.com/news/articles/cz6nvqjwjn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6nvqjwjn7o#3</guid>
+            <pubDate>Sun, 16 Nov 2025 00:04:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be3/live/63aef120-c2f9-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands protest against government in Mexico as clashes leave 120 injured]]></title>
+            <description><![CDATA[The protests came weeks after Carlos Manzo, mayor of Uruapan, was killed.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8vm30rr78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8vm30rr78o#3</guid>
+            <pubDate>Sun, 16 Nov 2025 03:14:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17cb/live/5d3ccef0-c26f-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nature is not a blocker to housing growth, MPs find]]></title>
+            <description><![CDATA[The Environmental Audit Committee found the government's measures are not enough to meet targets.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0941r9d49o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0941r9d49o#3</guid>
+            <pubDate>Sun, 16 Nov 2025 14:15:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958a/live/8752a530-c2cd-11f0-9d55-433111332088.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 70 schools to close in Australia over fears of asbestos in play sand]]></title>
+            <description><![CDATA[Kmart and Target issued a recall for the products, which were found to have traces of asbestos in some samples.]]></description>
+            <link>https://www.bbc.com/news/articles/cnve03m0d94o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnve03m0d94o#3</guid>
+            <pubDate>Sun, 16 Nov 2025 10:22:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6627/live/34b46580-c2cc-11f0-9d55-433111332088.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal agents launch immigration crackdown in city of Charlotte]]></title>
+            <description><![CDATA[Operation "Charlotte's Web" is part of Donald Trump’s attempt to deliver "the largest deportation programme" in US history.]]></description>
+            <link>https://www.bbc.com/news/articles/cqx3n4r2g04o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx3n4r2g04o#3</guid>
+            <pubDate>Sun, 16 Nov 2025 14:58:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a175/live/e195dd00-c2f0-11f0-a24d-474f58ed5b5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to limit the power of big tech]]></title>
+            <description><![CDATA[The deputy PM turned Meta executive on the influence of tech bosses like Mark Zuckerberg.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002m0fz?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002m0fz#5</guid>
+            <pubDate>Thu, 13 Nov 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lgrqgm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are cracks showing inside Trump’s MAGA movement?]]></title>
+            <description><![CDATA[The growing questions from Republicans on how Trump is running the country]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8byq?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8byq#5</guid>
+            <pubDate>Fri, 14 Nov 2025 13:06:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The engrossing biopic of a Hollywood icon's early years]]></title>
+            <description><![CDATA[Based on a true story, starring Toby Jones, Lesley Manville and Harry Lawtey]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002m3tl/mr-burton?at_mid=FCqiGdjR3M&amp;at_campaign=Mr_Burton&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=WLS&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002m3tl&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Mr_Burton&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002m3tl/mr-burton?at_mid=FCqiGdjR3M&amp;at_campaign=Mr_Burton&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=WLS&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002m3tl&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Mr_Burton&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Mon, 10 Nov 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/25cfa4d0-b976-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Explore the manosphere with three young men's stories]]></title>
+            <description><![CDATA[James Blake enters the manosphere, joining men seeking status, wealth and relationships.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&amp;at_campaign=Men_of_the_Manosphere&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002m7j5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Men_of_the_Manosphere&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&amp;at_campaign=Men_of_the_Manosphere&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002m7j5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Men_of_the_Manosphere&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Wed, 12 Nov 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e041/live/0fdb2d00-bfea-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland’s trailblazing girl bands ignored by the industry]]></title>
+            <description><![CDATA[The story of the Scottish girl bands who challenged a male-dominated industry.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m00265qy/since-yesterday-the-untold-story-of-scotlands-girl-bands?at_mid=XtXu9G8H4S&amp;at_campaign=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m00265qy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m00265qy/since-yesterday-the-untold-story-of-scotlands-girl-bands?at_mid=XtXu9G8H4S&amp;at_campaign=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m00265qy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Since_Yesterday_The_Untold_Story_of_Scotlands_Girl_Bands&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Tue, 17 Dec 2024 23:30:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e0/live/d9be9870-bfe8-11f0-8669-5560f5c90fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McIlroy clinches seventh overall title, as Fitzpatrick wins in Dubai]]></title>
+            <description><![CDATA[An emotional Rory McIlroy pays tribute to Seve Ballesteros after eclipsing the Spaniard by clinching his seventh Race to Dubai title, despite being beaten to the DP World Tour Championship by Matt Fitzpatrick.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cgkzvm3x8nro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cgkzvm3x8nro#7</guid>
+            <pubDate>Sun, 16 Nov 2025 13:01:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f0/live/87a89c50-c2ec-11f0-a24d-474f58ed5b5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I have never seen England on a charge like this']]></title>
+            <description><![CDATA[In his latest BBC Sport column, World Cup winner Matt Dawson discusses England's comeback against New Zealand, Ollie Lawrence's skillset and Henry Pollock's energy.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cy0ke8vl4reo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cy0ke8vl4reo#7</guid>
+            <pubDate>Sun, 16 Nov 2025 13:02:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png"/>
+        </item>
+    </channel>
+</rss>
