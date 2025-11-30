@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Family & Education]]></description>
+        <link>https://www.bbc.co.uk/news/education</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/education</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 30 Nov 2025 16:04:43 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/education/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Parents threatened and blamed by authorities as 1,000 adopted children returned to care]]></title>
+            <description><![CDATA[Families seeking help for their children’s complex needs describe threats of police action against them.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kdv1x83gko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kdv1x83gko#0</guid>
+            <pubDate>Fri, 28 Nov 2025 05:54:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e8/live/02f75300-cba9-11f0-9b12-8751a987e19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ministers insist plans to absorb council Send debts won't hit school budgets]]></title>
+            <description><![CDATA[The government says the Office for Budget Responsibility's projections do not take into account upcoming reforms.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0792n8673o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0792n8673o#0</guid>
+            <pubDate>Thu, 27 Nov 2025 14:40:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b01c/live/a2db56c0-cb93-11f0-8b24-8191145688b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I earn £20,000 and live with my son. The Budget means we will pay more tax']]></title>
+            <description><![CDATA[BBC News hears from people with a range of incomes about what they think of the Budget.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d6zwppjvjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6zwppjvjo#0</guid>
+            <pubDate>Thu, 27 Nov 2025 11:38:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9c/live/d88a1ce0-cb69-11f0-9fb5-5f3a3703a365.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban harmful content from social media instead of us, say Australian teens]]></title>
+            <description><![CDATA[From 10 December, social media firms must ensure Australians aged under 16 cannot have accounts.]]></description>
+            <link>https://www.bbc.com/news/articles/crrkw1p14eqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrkw1p14eqo#0</guid>
+            <pubDate>Thu, 27 Nov 2025 21:53:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c30/live/8bdd6030-ca9e-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum travels 80 miles to take her son to 'priceless' cerebral palsy school]]></title>
+            <description><![CDATA[The Buddy Bear School in Dungannon, County Tyrone, opened in 1993 and is the only school of its kind in Northern Ireland.]]></description>
+            <link>https://www.bbc.com/news/articles/czj0d3wyeyjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj0d3wyeyjo#0</guid>
+            <pubDate>Thu, 27 Nov 2025 11:29:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b1/live/4701fe80-cb84-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School shuts for deep clean after pupil sickness]]></title>
+            <description><![CDATA[Congleton High School wrote to staff and parents to inform them of the closure. ]]></description>
+            <link>https://www.bbc.com/news/articles/c39p0krjvego?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39p0krjvego#0</guid>
+            <pubDate>Wed, 26 Nov 2025 12:29:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8372/live/27e1c6e0-cad8-11f0-995e-fb191683181c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer says sorry for leading pupils in 6-7 dance]]></title>
+            <description><![CDATA[The prime minister performed a version of the viral dance with primary school children, before being told it was not allowed.]]></description>
+            <link>https://www.bbc.com/news/articles/cgexj5271l1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgexj5271l1o#0</guid>
+            <pubDate>Tue, 25 Nov 2025 12:04:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cf2/live/f8277750-c9f2-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does Neet stand for and how many are there in the UK?]]></title>
+            <description><![CDATA[Ministers want to tackle the high number of young people not in education, employment or training.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9rq35de8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9rq35de8o#1</guid>
+            <pubDate>Fri, 28 Nov 2025 11:30:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679e/live/74700250-c601-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the shake-up of school inspections risks causing new problems]]></title>
+            <description><![CDATA[Ofsted's new 'traffic light' rating system comes into force this week - does this mark meaningful change or, as one expert puts it, 'high level tinkering'?]]></description>
+            <link>https://www.bbc.com/news/articles/cg7nelkjp87o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7nelkjp87o#1</guid>
+            <pubDate>Wed, 12 Nov 2025 04:11:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd13/live/d929ab60-bbca-11f0-8669-5560f5c90fbe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Ofsted and how will the new school ratings work?]]></title>
+            <description><![CDATA[The system is changing after the death of head Ruth Perry highlighted the pressure of inspections.]]></description>
+            <link>https://www.bbc.com/news/articles/cz0xe4zmpeyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0xe4zmpeyo#1</guid>
+            <pubDate>Mon, 10 Nov 2025 17:20:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e11/live/5fd90e80-bbe9-11f0-8456-eff94716b162.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tutoring a baby to make him an 'English gentleman' - Is it worth the money?]]></title>
+            <description><![CDATA[The advert seeks "an extraordinary tutor" required "to support child on his first steps to becoming an English gentleman."]]></description>
+            <link>https://www.bbc.com/news/articles/cd9kljww1zdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9kljww1zdo#1</guid>
+            <pubDate>Mon, 10 Nov 2025 08:38:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a6/live/f9d03c00-b5bf-11f0-8cc1-bdf8bb678f1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can teacher shortages be solved by attracting career changers?]]></title>
+            <description><![CDATA[The North East has seen the biggest fall in trainee teachers in England, down by 56% since 2019-20.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydez7dg0lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydez7dg0lo#1</guid>
+            <pubDate>Sun, 02 Nov 2025 07:24:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94af/live/74948800-b760-11f0-9e09-6bd57f58add2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Not having the time of your life at uni? You're not alone]]></title>
+            <description><![CDATA[Many freshers come with high expectations of what they imagine will be the best years of their lives.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4jw1xxz7lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4jw1xxz7lo#1</guid>
+            <pubDate>Sun, 02 Nov 2025 03:16:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40c/live/a82d4070-b667-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Being autistic should not mean having to fight for our education]]></title>
+            <description><![CDATA[The Institute for Public Policy Research says there should be more comprehensive support for Send students in mainstream schools. ]]></description>
+            <link>https://www.bbc.com/news/articles/c891y5n2de8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c891y5n2de8o#1</guid>
+            <pubDate>Wed, 22 Oct 2025 23:33:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946d/live/330f6810-af44-11f0-aa13-0b0479f6f42a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will my uni fees rise next year? What is a V-level? Your questions answered]]></title>
+            <description><![CDATA[The DfE has announced it will raise tuition fees every year, and will bring in new V-levels after GCSEs.]]></description>
+            <link>https://www.bbc.com/news/articles/crred9ljqz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crred9ljqz7o#1</guid>
+            <pubDate>Tue, 21 Oct 2025 17:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa3/live/d80a9160-ae85-11f0-b0ec-2949909959e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does university cost, and is it worth it?]]></title>
+            <description><![CDATA[With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?]]></description>
+            <link>https://www.bbc.com/news/articles/cwyegp0dnq9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyegp0dnq9o#1</guid>
+            <pubDate>Thu, 27 Nov 2025 12:27:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134e/live/f9445710-51a3-11f0-b4be-8f7caf53b80c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How working parents can get 30 hours of free childcare]]></title>
+            <description><![CDATA[Free childcare support for working parents varies across the UK, depending on the child's age. ]]></description>
+            <link>https://www.bbc.com/news/articles/cql26knn4kzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql26knn4kzo#1</guid>
+            <pubDate>Thu, 25 Sep 2025 08:23:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5251/live/774e7f10-83f3-11f0-a3f8-9b56bf5c3841.jpg"/>
+        </item>
+    </channel>
+</rss>
