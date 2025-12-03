@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 Dec 2025 00:17:38 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ukrainians in war-ravaged Donbas weigh prospects of peace deal]]></title>
+            <description><![CDATA[While many Ukrainians believe they have sacrificed too much for their country to lose territory to Russia, others are desperate for the war to end.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq47derx2vo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 17:00:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca2/live/3919b6d0-cf82-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We will never get justice,' say Hillsborough families as report finds fundamental police failures]]></title>
+            <description><![CDATA[A report finds 12 ex-police officers would have faced gross misconduct cases over the disaster under today's laws.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9r863k4eo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 18:47:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c503/live/8c622b50-cfa6-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jury trials scrapped for crimes with sentences of less than three years]]></title>
+            <description><![CDATA[The reforms are being brought in to tackle unprecedented delays in the Crown Court. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn5lxg2l0lqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5lxg2l0lqo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 21:19:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/856d1d10-cf96-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quarter of police forces lack basic policies on sexual offences, Sarah Everard inquiry finds]]></title>
+            <description><![CDATA[The report, four years after the 33-year-old's murder, says urgent action is needed to prevent violent, sexual attacks against women.]]></description>
+            <link>https://www.bbc.com/news/articles/c3r787grqp0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r787grqp0o#0</guid>
+            <pubDate>Tue, 02 Dec 2025 18:38:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f85/live/a2309150-cf84-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catherine sends Christmas message of love in 'uncertain times']]></title>
+            <description><![CDATA[The Princess of Wales hails the importance of "time, care and compassion" given to others, ahead of her carol concert.]]></description>
+            <link>https://www.bbc.com/news/articles/cly359r7vkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly359r7vkvo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 22:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d7/live/4a9cd430-cf84-11f0-91bb-6fe5246021ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trans girls can no longer join Girlguiding, organisation says]]></title>
+            <description><![CDATA[Girlguiding says the move is in response to the Supreme Court ruling that said sex meant biological sex in equality law. ]]></description>
+            <link>https://www.bbc.com/news/articles/cz7n921wyzvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7n921wyzvo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 19:07:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e940/live/5f3af090-cfaf-11f0-b476-4d01662cfb69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holly Willoughby fined £1,600 for careless driving]]></title>
+            <description><![CDATA[The TV presenter drove her Mini Cooper without due care and attention near her home in Richmond.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5qw1dve46o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5qw1dve46o#0</guid>
+            <pubDate>Tue, 02 Dec 2025 18:13:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea2/live/3b5089a0-cfa6-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[National Guard shooting suspect charged with murder]]></title>
+            <description><![CDATA[According to a criminal complaint, Rahmanullah Lakanwal shouted "Allahu Akbar" as he fired and was reloading when a Guard member shot him. ]]></description>
+            <link>https://www.bbc.com/news/articles/cwyl70z3940o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyl70z3940o#0</guid>
+            <pubDate>Tue, 02 Dec 2025 21:30:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a67/live/a6ef8f70-cfc5-11f0-9fb5-5f3a3703a365.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cost of unregistered children's care homes a national scandal, says Ofsted]]></title>
+            <description><![CDATA[The Children's Homes Association says there is no clear national plan and government must 'fix the system'.]]></description>
+            <link>https://www.bbc.com/news/articles/cqjg42zwx99o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjg42zwx99o#0</guid>
+            <pubDate>Tue, 02 Dec 2025 17:09:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd6/live/40f82af0-cfa3-11f0-a7ae-216dd0212f3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese mega embassy could bring security advantages, says No 10]]></title>
+            <description><![CDATA[Some believe China's mega-embassy could be a hub for espionage in the heart of London.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yj59n0veqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yj59n0veqo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 21:59:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ec/live/728f5710-cfa7-11f0-932c-9d1f4bca4809.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew won't get any money back after Royal Lodge move]]></title>
+            <description><![CDATA[MPs announce an inquiry into the Crown Estate and its properties after Andrew's departure from Windsor.]]></description>
+            <link>https://www.bbc.com/news/articles/c75vdxd517eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75vdxd517eo#0</guid>
+            <pubDate>Tue, 02 Dec 2025 16:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/005d8440-cf99-11f0-8c06-f5d460985095.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Trump threatening Venezuela's Maduro?]]></title>
+            <description><![CDATA[We look at what is behind the deployment of a large US military force to within striking distance of Venezuela.]]></description>
+            <link>https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93n4nx5yqro#1</guid>
+            <pubDate>Tue, 02 Dec 2025 17:06:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30f6/live/6751aa00-cf94-11f0-b259-a9faa8642480.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cyclone catastrophe in Sri Lanka awakens volunteer spirit]]></title>
+            <description><![CDATA[Fishing boats deliver relief supplies to flooded suburbs as community kitchens churn out food aid.]]></description>
+            <link>https://www.bbc.com/news/articles/c058n10727po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c058n10727po#1</guid>
+            <pubDate>Tue, 02 Dec 2025 23:11:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e98/live/a328d3d0-cf5f-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland qualifying for the World Cup put me in hospital]]></title>
+            <description><![CDATA[The BBC's entertainment correspondent Colin Paterson needed surgery after a mishap ahead of Scotland's World Cup qualifying game.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yqpq7d844o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqpq7d844o#1</guid>
+            <pubDate>Tue, 02 Dec 2025 11:24:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c456/live/c0c324a0-cf90-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our teen daughter died from meningitis - we didn't know a booster jab would have saved her]]></title>
+            <description><![CDATA[Meg Draper was enjoying the social side of student life - within weeks she had died from meningitis.]]></description>
+            <link>https://www.bbc.com/news/articles/crrerl0pw9do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrerl0pw9do#1</guid>
+            <pubDate>Tue, 02 Dec 2025 06:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2970/live/a0a8c960-cf43-11f0-8564-7b16d0b8c391.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A fearless hero for hapless England' - Former batter Robin Smith dies aged 62]]></title>
+            <description><![CDATA[Robin Smith, who has died at the age of 62, was a fearless hero in a struggling England team, but had to battle his own demons after retiring from cricket.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/ce9zdnrdyevo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/ce9zdnrdyevo#1</guid>
+            <pubDate>Tue, 02 Dec 2025 11:28:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4750/live/9bcc30b0-cf7c-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Hung by my wrists and beaten': Israeli-Russian woman says Iraqi militants tortured her in captivity]]></title>
+            <description><![CDATA[Elizabeth Tsurkov, who was freed in September, tells the BBC that her two years in captivity left her physically and mentally scarred.]]></description>
+            <link>https://www.bbc.com/news/articles/cj69588eewyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj69588eewyo#1</guid>
+            <pubDate>Tue, 02 Dec 2025 09:53:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a1/live/dc5d0c10-cc54-11f0-afd9-dfd0234147a3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to decorate your Christmas tree to create joy]]></title>
+            <description><![CDATA[When you should put the tree up and how whether it's real or fake should change how you decorate it.]]></description>
+            <link>https://www.bbc.com/news/articles/cm28y24l9dvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm28y24l9dvo#1</guid>
+            <pubDate>Tue, 02 Dec 2025 02:05:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dadf/live/b3421a70-cf81-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reeves speech did not mislead on challenges facing UK ahead of Budget, says OBR official]]></title>
+            <description><![CDATA[Prof David Miles tells MPs the messaging given by the chancellor was "not inconsistent" with the situation she faced.]]></description>
+            <link>https://www.bbc.com/news/articles/czj0ngnkl2vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj0ngnkl2vo#3</guid>
+            <pubDate>Tue, 02 Dec 2025 16:37:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb3/live/6a0d8290-cf7c-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Franklin the Turtle and Sabrina Carpenter in tiff with Trump administration]]></title>
+            <description><![CDATA[Trump administration officials used Carpenter's song and Franklin the Turtle's image in social media posts about deportation and killing drug traffickers.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7v022n5kyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7v022n5kyo#3</guid>
+            <pubDate>Tue, 02 Dec 2025 18:25:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be64/live/2ef60b00-cfcc-11f0-b5fb-03fb61693eba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Presenter Woods 'OK' after collapsing on TV]]></title>
+            <description><![CDATA[Presenter Laura Woods says she is "OK" after collapsing while leading television coverage of England's friendly against Ghana on Tuesday.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cd9zl5vxkxko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9zl5vxkxko#3</guid>
+            <pubDate>Tue, 02 Dec 2025 22:37:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320f/live/24f44f70-cfb0-11f0-b476-4d01662cfb69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare Fabergé egg fetches record £22.9m at London auction]]></title>
+            <description><![CDATA[The Imperial Winter Egg with 4,500 diamonds was commissioned by Russia's Tsar Nicholas II in 1913.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7v24m1leyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7v24m1leyo#3</guid>
+            <pubDate>Tue, 02 Dec 2025 20:16:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abaa/live/5cc8b3e0-cfb6-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: James Bond-style Aston Martin now worth £1m after being left to rust on drive]]></title>
+            <description><![CDATA[The car - made famous by James Bond became so dilapidated local children played on it - has been restored and is now worth £1m.]]></description>
+            <link>https://www.bbc.com/news/videos/cz68d210y6go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz68d210y6go#3</guid>
+            <pubDate>Tue, 02 Dec 2025 16:32:04 GMT</pubDate>
+            <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b951/live/67de71f0-cf9a-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Army fixing 6,000 support trucks grounded over safety issues]]></title>
+            <description><![CDATA[Defence Minister Luke Pollard tells MPs fixing safety issues when they are reported is standard practice.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yqg7g1r4qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqg7g1r4qo#3</guid>
+            <pubDate>Tue, 02 Dec 2025 19:35:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba2/live/1fc4dea0-cfa3-11f0-b1d5-6974791ff876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Jury’s (Kind Of) Out]]></title>
+            <description><![CDATA[Jury trials scrapped for crimes with sentences of less than three years.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0ml4rh7?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ml4rh7#5</guid>
+            <pubDate>Tue, 02 Dec 2025 19:52:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Americanswers… On 5 Live! Why has the US been accused of war crimes off the Venezuelan coast?]]></title>
+            <description><![CDATA[Secretary of War Pete Hegseth has called the claims “fake news”]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mkwyjd?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mkwyjd#5</guid>
+            <pubDate>Mon, 01 Dec 2025 19:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Preview Julia Donaldson's joyful tale of love]]></title>
+            <description><![CDATA[Two devoted scarecrows plan the perfect wedding – until a rival threatens everything]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episodes/m002hzg2/watch/p0mkf49j?at_mid=zRri5VsCrE&amp;at_campaign=BBC_Trailers_The_Scarecrows_Wedding&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002hzg2&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=BBC_Trailers_The_Scarecrows_Wedding&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episodes/m002hzg2/watch/p0mkf49j?at_mid=zRri5VsCrE&amp;at_campaign=BBC_Trailers_The_Scarecrows_Wedding&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002hzg2&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=BBC_Trailers_The_Scarecrows_Wedding&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Thu, 25 Dec 2025 15:35:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604a/live/41504f60-cc69-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ridley Scott's masterful epic of betrayal and vengeance]]></title>
+            <description><![CDATA[Maximus Decimus Meridius, favoured general of the Roman emperor, is betrayed and enslaved.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0026dmm?at_mid=AZxlY52ATJ&amp;at_campaign=Gladiator&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0026dmm&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Gladiator&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0026dmm?at_mid=AZxlY52ATJ&amp;at_campaign=Gladiator&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0026dmm&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Gladiator&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Mon, 01 Dec 2025 00:27:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ee/live/dba11880-7393-11f0-8071-1788c7e8ae0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your first look at Guz Khan's new comedy, landing this Christmas]]></title>
+            <description><![CDATA[The Farooqi family have a chaotic Christmas in Lapland after a surprise bonus for Dad.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episodes/m002mh8j/watch/p0mkdw8p?at_mid=AJpdwuqIxT&amp;at_campaign=Stuffed_Trailer&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002mh8j&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Stuffed_Trailer&amp;at_bbc_team=BBC&amp;at_creation=Trailer</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episodes/m002mh8j/watch/p0mkdw8p?at_mid=AJpdwuqIxT&amp;at_campaign=Stuffed_Trailer&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002mh8j&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Stuffed_Trailer&amp;at_bbc_team=BBC&amp;at_creation=Trailer#6</guid>
+            <pubDate>Tue, 23 Dec 2025 22:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fa/live/34a007b0-ce94-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chaos at the Cottage - do Man City have defensive issues?]]></title>
+            <description><![CDATA[Manchester City just about hold on as Fulham fight back from 5-1 down to 5-4 - no wonder Pep Guardiola is concerned by his team's leaky defence.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cq5qwxq7eq1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5qwxq7eq1o#7</guid>
+            <pubDate>Tue, 02 Dec 2025 23:54:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0155/live/06d1e240-cfd4-11f0-b6f7-7bf5baf36646.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['As if she won Champions League' - Kendall's special night for England]]></title>
+            <description><![CDATA[Lucia Kendall's night could not have felt more special and England boss Sarina Wiegman said her goal celebration was "like winning the Champions League".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cr7l8xygnm8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7l8xygnm8o#7</guid>
+            <pubDate>Tue, 02 Dec 2025 23:04:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f045/live/addc8760-cfd5-11f0-b6f7-7bf5baf36646.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle penalty 'absolute VAR mistake' - Frank]]></title>
+            <description><![CDATA[Thomas Frank says awarding Newcastle a penalty after a holding incident between Dan Burn and Rodrigo Bentancur was an "absolute mistake" by VAR.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckg9rk7el99o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg9rk7el99o#7</guid>
+            <pubDate>Wed, 03 Dec 2025 00:15:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75a/live/2a3e31d0-cfd8-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serena Williams says no comeback, despite filing paperwork]]></title>
+            <description><![CDATA[Serena Williams files the necessary paperwork for a return to tennis - but then denies she is returning to the sport.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c0758y1pprro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0758y1pprro#7</guid>
+            <pubDate>Tue, 02 Dec 2025 21:18:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1a7/live/b2e79a60-cfad-11f0-932c-9d1f4bca4809.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hadjar promoted and British teenager Lindblad gets F1 drive]]></title>
+            <description><![CDATA[Red Bull will promote Isack Hadjar to their senior team and hand Briton Arvid Lindblad, 18, a debut Formula 1 season in 2026.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c5y0rlx05l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c5y0rlx05l4o#7</guid>
+            <pubDate>Tue, 02 Dec 2025 15:21:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331f/live/3c17ef00-cefb-11f0-acef-37e8fda5637e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City hold off incredible Fulham fightback as Haaland passes milestone]]></title>
+            <description><![CDATA[Erling Haaland becomes the quickest player to reach 100 goals in Premier League history as Manchester City ramp up pressure on leaders Arsenal by fending off Fulham's impressive fightback in a nine-goal thriller.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c5yjgvd8gemo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yjgvd8gemo#7</guid>
+            <pubDate>Tue, 02 Dec 2025 22:34:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/c82b5550-cfc7-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+    </channel>
+</rss>
