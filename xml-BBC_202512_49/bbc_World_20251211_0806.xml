@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 11 Dec 2025 08:06:14 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding]]></title>
+            <description><![CDATA[María Corina Machado, who has been in hiding since January, speaks to the BBC in Oslo after her secret journey from her home country.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q5p43qgl1o#0</guid>
+            <pubDate>Thu, 11 Dec 2025 03:36:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy']]></title>
+            <description><![CDATA[Footage shows a military helicopter hovering over a large ship, and troops descending on to the deck using ropes.]]></description>
+            <link>https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w9lg11jw0o#0</guid>
+            <pubDate>Thu, 11 Dec 2025 07:08:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/5b26b3d0-d631-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indigenous deaths in custody in Australia hit highest level since 1980]]></title>
+            <description><![CDATA[New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous]]></description>
+            <link>https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgkykywp58o#0</guid>
+            <pubDate>Thu, 11 Dec 2025 01:28:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2f/live/648a4bb0-d62e-11f0-9fec-27e01454e9c2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goa nightclub owners held in Thailand over deadly fire ]]></title>
+            <description><![CDATA[Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week.]]></description>
+            <link>https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vgxk0613o#0</guid>
+            <pubDate>Thu, 11 Dec 2025 06:45:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06c/live/d39b0dc0-d64f-11f0-913a-f5408f7a593b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump launches $1m 'gold card' immigration visas]]></title>
+            <description><![CDATA[The special visas will be awarded to those who can show they can make a "substantial benefit" to the US.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4q1lddj8go#0</guid>
+            <pubDate>Thu, 11 Dec 2025 01:10:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/818d/live/fca61940-d635-11f0-b19d-7bafaea622dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Portugal braced for mass disruption in first general strike for 12 years]]></title>
+            <description><![CDATA[PM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxwrvl1734o#0</guid>
+            <pubDate>Thu, 11 Dec 2025 00:24:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ac7c48b0-d5f7-11f0-bffa-33f15bc19d02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese chess player calls out association's pregnancy bias]]></title>
+            <description><![CDATA[A prominent shogi player says current rules force players to choose between their children and careers.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8mkz227zo#0</guid>
+            <pubDate>Thu, 11 Dec 2025 04:33:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/084f/live/95dc5350-d644-11f0-9bec-31b548132ab1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[String of celebrity scandals renews debate on South Korea's 'cancel culture']]></title>
+            <description><![CDATA[In a matter of days, three big entertainers in South Korea have made headlines in separate scandals.]]></description>
+            <link>https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c989e9xxn5po#1</guid>
+            <pubDate>Thu, 11 Dec 2025 00:05:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ea/live/4c11b090-d4cc-11f0-8932-c7b981591a81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iceland becomes fifth country to boycott Eurovision]]></title>
+            <description><![CDATA[Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest.]]></description>
+            <link>https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwy9n786n0o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 19:02:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58e/live/cf008100-d5e1-11f0-b1c1-a1fc4155147e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico approves up to 50% tariffs on China and other countries]]></title>
+            <description><![CDATA[The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.]]></description>
+            <link>https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36z43ll06zo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 05:44:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc3/live/b3355300-d641-11f0-b082-afabb5dc1c21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian cooking awarded Unesco cultural heritage status]]></title>
+            <description><![CDATA[An Egyptian snack, Icelandic pool culture, Cuban music and Albanian lahuta music also get recognition.]]></description>
+            <link>https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80x3p331lxo#1</guid>
+            <pubDate>Wed, 10 Dec 2025 19:54:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfc/live/7977f1a0-d5eb-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shares in AI giant Oracle fall after revenue results ramp up bubble fears]]></title>
+            <description><![CDATA[The cloud computing giant's revenue miss renews questions about its financial health.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qe1e374l1o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 07:08:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Intensive work continuing on Ukraine plan, European leaders say after Trump call]]></title>
+            <description><![CDATA[Ukraine is at a "critical moment", the leaders of Britain, France and Germany say after a joint call with Donald Trump.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y20p7xweko#1</guid>
+            <pubDate>Wed, 10 Dec 2025 21:49:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/babc/live/6b869110-d5ea-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge rules Epstein grand jury records from 2019 case can be released]]></title>
+            <description><![CDATA[A federal judge says materials from the investigation can be unsealed because of a new law passed by Congress last month.]]></description>
+            <link>https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyz2vyzek9o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 17:18:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a4d/live/f91e4f80-d5dc-11f0-9712-5f1572eb598c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US could ask foreign tourists for five-year social media history before entry]]></title>
+            <description><![CDATA[The plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dz0g2ykpeo#1</guid>
+            <pubDate>Wed, 10 Dec 2025 23:39:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db84/live/472b9460-d5e9-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits]]></title>
+            <description><![CDATA[The friends were warned their clothing was "in conflict with Afghan and Islamic values", a Taliban spokesman told the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedx6lqy967o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 13:31:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4394/live/69787590-d5be-11f0-b834-9fc74eefc7d3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Benin coup plot leader hiding in Togo, official tells BBC]]></title>
+            <description><![CDATA[The coup was thwarted after Nigeria sent warplanes to dislodge the mutineers from the offices of state TV.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyln60219qo#1</guid>
+            <pubDate>Wed, 10 Dec 2025 17:09:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8338/live/a1de4f10-d418-11f0-aae0-a150da5fcfef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rebels reportedly enter key DR Congo city despite Trump peace deal]]></title>
+            <description><![CDATA[Terrified residents say heavy artillery and gunfire has hit Uvira, the gateway to Burundi.]]></description>
+            <link>https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly59283d7ko#1</guid>
+            <pubDate>Wed, 10 Dec 2025 17:04:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f879/live/9fbd2730-d5a1-11f0-bb2f-35f722db3215.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 22 killed in building collapse in Morocco]]></title>
+            <description><![CDATA[The two four-storey buildings that came down in Fez contained eight families, state media report.]]></description>
+            <link>https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74x03zy19wo#1</guid>
+            <pubDate>Wed, 10 Dec 2025 13:15:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7de/live/b5cb5180-d5d0-11f0-ae19-ef278771bbc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US jets tracked circling Gulf of Venezuela as tensions mount]]></title>
+            <description><![CDATA[The F/A-18 Super Hornets appear on flight tracking sites near Maracaibo, Venezuela's second-largest city.]]></description>
+            <link>https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0edxgx31zdo#1</guid>
+            <pubDate>Wed, 10 Dec 2025 12:34:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a992/live/3e2bcc60-d5b5-11f0-9fb5-5f3a3703a365.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sperm from donor with cancer-causing gene was used to conceive almost 200 children]]></title>
+            <description><![CDATA[Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgmy90z991o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 05:06:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US judge blocks Trump's National Guard deployment in Los Angeles]]></title>
+            <description><![CDATA[The judge has ordered control of the the troops, which were deployed in June, to be returned to California's governor.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r9p1yr1y7o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 16:35:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/888d4fe0-d5d8-11f0-b33e-1f14457e259b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panic in France as children fall victim to lethal violence of Marseille drug gangs]]></title>
+            <description><![CDATA[The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.]]></description>
+            <link>https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7l0nyxxygo#2</guid>
+            <pubDate>Thu, 11 Dec 2025 06:03:16 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/764d/live/64500af0-d443-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Swiss city that lets you pay for most things with bitcoin]]></title>
+            <description><![CDATA[Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r959n91p4o#2</guid>
+            <pubDate>Thu, 11 Dec 2025 00:22:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d0/live/73a6a430-cf8b-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Thailand and Cambodia are fighting again after Trump ceasefire]]></title>
+            <description><![CDATA[Between the neighbours is a gulf of mistrust that has proven near impossible to bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39p7jkp27lo#2</guid>
+            <pubDate>Wed, 10 Dec 2025 23:03:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e4/live/c00fffc0-d5bb-11f0-b834-9fc74eefc7d3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big tech bets big on AI - but can India keep pace in the global race?]]></title>
+            <description><![CDATA[Experts have called India a hedge against AI - reflecting the absence of Indian companies in the global boom.]]></description>
+            <link>https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd74gjw1j11o#2</guid>
+            <pubDate>Thu, 11 Dec 2025 02:46:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0f/live/54434780-d0ec-11f0-b0cc-cf4d0e5d41e2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarkozy releases prison diaries about his 20 days behind bars]]></title>
+            <description><![CDATA[The former French president was jailed for taking part in an election campaign funding conspiracy.]]></description>
+            <link>https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r30py751mo#2</guid>
+            <pubDate>Wed, 10 Dec 2025 18:43:10 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4a/live/9e7c17e0-d5f2-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How long Britain could really fight for if war broke out tomorrow]]></title>
+            <description><![CDATA[In the event of a war, one expert suggests the British Army could be incapable of fighting effectively on land within weeks, once committed - though  'much depends on the form of the conflict'.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yq5zdv907o#2</guid>
+            <pubDate>Wed, 10 Dec 2025 00:11:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c6e/live/a2da18a0-d101-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's insulting they think we can't handle it': The Australian teens banned from social media]]></title>
+            <description><![CDATA[Millions of Australian teens will no longer be allowed to use social media. Who wins and who loses out?]]></description>
+            <link>https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg9e1nl40wo#2</guid>
+            <pubDate>Wed, 10 Dec 2025 05:45:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867a/live/f8750b20-d4b3-11f0-9dff-8bb6cd9784b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian couple trolled over skin colour after wedding video goes viral]]></title>
+            <description><![CDATA[Rishabh Rajput and Sonali Chouksey received congratulatory messages peppered with "jokes and memes".]]></description>
+            <link>https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62vnlg6v6wo#2</guid>
+            <pubDate>Wed, 10 Dec 2025 00:14:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e82/live/175e7530-d4b9-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two teenagers went to seek gold. They were buried alive in a mine collapse]]></title>
+            <description><![CDATA[Poverty in Sierra Leone is pushing more students into risky work, which proved deadly for two boys. ]]></description>
+            <link>https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvgq5nr05yo#2</guid>
+            <pubDate>Wed, 10 Dec 2025 00:24:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4401/live/ac4577d0-cf81-11f0-8390-cf8c18f355e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia]]></title>
+            <description><![CDATA[Ukraine barely has a hold on Pokrovsk, but its forces are keen to show they are still resisting Russia's advance.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6x3vv7y60o#2</guid>
+            <pubDate>Tue, 09 Dec 2025 09:13:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b24/live/054f1630-d4df-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are Thailand and Cambodia fighting at the border?]]></title>
+            <description><![CDATA[The roots of the South East Asian neighbours' dispute go back more than a century.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjxje2pje1o#2</guid>
+            <pubDate>Tue, 09 Dec 2025 10:20:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ba/live/8c43e490-d4ee-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded]]></title>
+            <description><![CDATA[Plotters misjudged the national mood and Benin's neighbours learnt from past errors, says analyst Paul Melly.]]></description>
+            <link>https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9vj7xjxwypo#2</guid>
+            <pubDate>Tue, 09 Dec 2025 14:20:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/a4a4a5b0-d502-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does Japan's megaquake warning mean the 'big one' is coming?]]></title>
+            <description><![CDATA[An alert issued this week has caught the attention of a country used to earthquake warnings.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2en927054o#2</guid>
+            <pubDate>Tue, 09 Dec 2025 11:51:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624b/live/e630ea00-565c-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[European leaders walk tightrope between backing Ukraine and keeping US on board]]></title>
+            <description><![CDATA[Europe's leaders are trying to avoid alienating Donald Trump while fighting for Ukrainian sovereignty and future continental stability.]]></description>
+            <link>https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r3v5mmyp8o#2</guid>
+            <pubDate>Mon, 08 Dec 2025 17:01:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec7/live/b70a9eb0-d464-11f0-b331-5f24a4a7069f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Video shows US military seizing oil tanker off Venezuela coast]]></title>
+            <description><![CDATA[According to US Attorney General Pam Bondi, who shared the footage, the tanker was used to transport sanctioned oil from Venezuela and Iran.]]></description>
+            <link>https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9vj1jnmekko#3</guid>
+            <pubDate>Wed, 10 Dec 2025 22:35:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34b/live/281bea90-d619-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['What's your name?' - Moment police confront Luigi Mangione at McDonald's]]></title>
+            <description><![CDATA[Prosecutors have released bodycam footage showing the initial interaction between officers and the suspected CEO killer.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2px9x20exo#3</guid>
+            <pubDate>Tue, 09 Dec 2025 22:18:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f3/live/a127ed50-d54a-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch Australian teens test out social media on first day of ban]]></title>
+            <description><![CDATA[Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.]]></description>
+            <link>https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3e0p8jj84lo#3</guid>
+            <pubDate>Wed, 10 Dec 2025 04:38:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5bf/live/a7d6d590-d580-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Ozzy the dog sets Guinness World record for longest canine tongue]]></title>
+            <description><![CDATA[The mastiff mix from Oklahoma City broke the previous record with his tongue measuring in at 7.83in (19.89cm).]]></description>
+            <link>https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0q57j99zpno#3</guid>
+            <pubDate>Tue, 09 Dec 2025 23:42:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4910/live/3a6570d0-d54d-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nasa astronaut and cosmonauts return to Earth after 245 days in space]]></title>
+            <description><![CDATA[Nasa's Jonny Kim and cosmonauts Sergey Ryzhikov and Alexey Zubritsky have touched down in Earth after 245 days on the ISS.]]></description>
+            <link>https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c93n0939q5yo#3</guid>
+            <pubDate>Tue, 09 Dec 2025 11:02:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3aa/live/c8783b00-d4e4-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV shows suspects make off on foot with stolen artworks]]></title>
+            <description><![CDATA[Brazilian officials say thieves held up a security guard and an elderly couple before making off with the artworks, including some by the famed French artist Henri Matisse.]]></description>
+            <link>https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0jeq519222o#3</guid>
+            <pubDate>Tue, 09 Dec 2025 14:10:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b6/live/ba19e800-d508-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrians share their thoughts one year on from the fall of Assad]]></title>
+            <description><![CDATA[The BBC's Middle East correspondent Hugo Bachega speaks to Syrians about how life has changed since the revolution. ]]></description>
+            <link>https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3v132eq3vgo#3</guid>
+            <pubDate>Mon, 08 Dec 2025 08:38:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44f/live/940d6210-d407-11f0-a892-01d657345866.jpg"/>
+        </item>
+    </channel>
+</rss>
