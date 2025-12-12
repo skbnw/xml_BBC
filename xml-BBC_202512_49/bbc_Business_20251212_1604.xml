@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>https://www.bbc.co.uk/news/business</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/business</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 12 Dec 2025 16:04:42 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK economy shrank unexpectedly by 0.1% in October]]></title>
+            <description><![CDATA[The impact of the JLR cyber-attack continued to affect output, while analysts say spending was hit by Budget uncertainty.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyp7v7r28yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp7v7r28yo#0</guid>
+            <pubDate>Fri, 12 Dec 2025 12:00:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c8/live/cd5b88a0-d757-11f0-845f-035d2c9c25f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nationwide fined £44m for 'ineffective' crime controls]]></title>
+            <description><![CDATA[The building society failed to monitor its customers' activity effectively between 2016 and 2021, the regulator says.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e440e49q6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e440e49q6o#0</guid>
+            <pubDate>Fri, 12 Dec 2025 11:47:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d4/live/b205d830-d748-11f0-a0e7-5f6021480149.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lululemon boss to step down early next year]]></title>
+            <description><![CDATA[Calvin McDonald's decision to leave at the end of January comes amid a run of poor sales for the firm in the US.]]></description>
+            <link>https://www.bbc.com/news/articles/cj388r2dl4ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj388r2dl4ro#0</guid>
+            <pubDate>Fri, 12 Dec 2025 11:19:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8289/live/8657fb30-d74a-11f0-8a07-c3f29e3145bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela says Trump wants its oil. But is that the case?]]></title>
+            <description><![CDATA[The South American nation's output has plummeted and restoring its former glory would be a heavy lift.]]></description>
+            <link>https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy95pr790pro#0</guid>
+            <pubDate>Fri, 12 Dec 2025 05:42:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf23/live/d3e0f120-d6e3-11f0-82d0-d351f2064618.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creative industries 'incredibly worried' about OpenAI-Disney deal ]]></title>
+            <description><![CDATA[The $1bn deal will let fans generate videos and images of more than 200 Disney characters on ChatGPT and Sora.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydp1gdqwqo#0</guid>
+            <pubDate>Fri, 12 Dec 2025 11:46:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fe/live/5fb02cb0-d767-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's amazing' – the wonder material very few can make]]></title>
+            <description><![CDATA[Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.]]></description>
+            <link>https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24l223d9n7o#0</guid>
+            <pubDate>Fri, 12 Dec 2025 00:03:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec4/live/9e2d0b10-be18-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Honesty box 'helps us thank our generous community']]></title>
+            <description><![CDATA[A family raising money to fund a suitable home for their son is among those driving a revival in honesty boxes.]]></description>
+            <link>https://www.bbc.com/news/articles/cjwyy76xd1qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwyy76xd1qo#0</guid>
+            <pubDate>Fri, 12 Dec 2025 14:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49f8/live/298b1f90-d759-11f0-845f-035d2c9c25f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump signs order to block states from enforcing own AI rules]]></title>
+            <description><![CDATA[California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.]]></description>
+            <link>https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crmddnge9yro#1</guid>
+            <pubDate>Fri, 12 Dec 2025 15:02:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gatwick Airport drop-off charge rises to £10]]></title>
+            <description><![CDATA[Drop-off fees will rise from £7 to £10 at the West Sussex airport from 6 January.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kdd71lxnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kdd71lxnvo#1</guid>
+            <pubDate>Fri, 12 Dec 2025 13:03:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ddd/live/2acb6690-d73f-11f0-93d2-8fe41819f724.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's ruined my life': Flat-owner says building work by freeholder has left her homeless]]></title>
+            <description><![CDATA[A botched roof extension caused the ceiling to collapse at Kate Morris’s top-floor flat.]]></description>
+            <link>https://www.bbc.com/news/articles/c17xp1dprn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17xp1dprn7o#1</guid>
+            <pubDate>Fri, 12 Dec 2025 05:54:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d0/live/2cab6370-d73a-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inquiry into role of Budget watchdog launched by MPs]]></title>
+            <description><![CDATA[It comes after intense scrutiny of the Office for Budget Responsibility in the run-up to the Budget.]]></description>
+            <link>https://www.bbc.com/news/articles/crrkeyvdkxwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrkeyvdkxwo#1</guid>
+            <pubDate>Fri, 12 Dec 2025 00:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bce/live/998bc1f0-d6a0-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No empty shelves at Christmas' as Guinness workers strike]]></title>
+            <description><![CDATA[About 90 workers at a Guinness canning factory in Belfast have walked out in protest over pay.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrnzrg6np0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrnzrg6np0o#1</guid>
+            <pubDate>Fri, 12 Dec 2025 08:39:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc52/live/b5bbaee0-d735-11f0-acc0-7ff37d21a9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google asks UK experts to find uses for its powerful quantum tech]]></title>
+            <description><![CDATA[UK researchers will get a chance to develop applications for the tech giant's quantum processor.]]></description>
+            <link>https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2epm0w0zggo#1</guid>
+            <pubDate>Fri, 12 Dec 2025 00:34:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto fraudster sentenced for 'epic' $40bn stablecoin crash]]></title>
+            <description><![CDATA[In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgmm92d213o#1</guid>
+            <pubDate>Fri, 12 Dec 2025 00:21:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a5/live/9ca8a4a0-d6e8-11f0-881e-636ad31d0b05.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banks to tell you where you might invest your money]]></title>
+            <description><![CDATA[Targeted support will allow banks and financial firms to make suggestions on how to handle savings.]]></description>
+            <link>https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clydzglm5e1o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 10:05:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3063/live/aff16450-d5cd-11f0-ae19-ef278771bbc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK pharma boss says US is the best country to invest in]]></title>
+            <description><![CDATA[In an interview with the BBC, Dame Emma Walmsley says she will not "shy away" from GSK's US expansion.]]></description>
+            <link>https://www.bbc.com/news/articles/cwywp3y35ryo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwywp3y35ryo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 10:53:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e824/live/7003a860-d624-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Workers' rights bill standoff continues after Lords defeat]]></title>
+            <description><![CDATA[It comes after ministers struck a deal between businesses and unions aimed at allowing the bill to progress.]]></description>
+            <link>https://www.bbc.com/news/articles/c9w7v0w74qjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9w7v0w74qjo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 13:33:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc33/live/df0915a0-d68e-11f0-9184-a796dfacc4c9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shares in AI giant Oracle fall after revenue results ramp up bubble fears]]></title>
+            <description><![CDATA[The cloud computing giant's revenue miss renews questions about its financial health.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qe1e374l1o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 16:24:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Abercrombie & Fitch CEO fit to stand trial, prison officials say]]></title>
+            <description><![CDATA[Mike Jeffries, who was ruled "mentally incompetent" by a court, is now  competent to stand trial, medical experts declare after a forensic evaluation.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2gg9gzqxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gg9gzqxxo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 19:40:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f87/live/f78b1a90-d6c7-11f0-a192-19d7b6119976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Swiss city that lets you pay for most things with bitcoin]]></title>
+            <description><![CDATA[Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r959n91p4o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 00:22:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d0/live/73a6a430-cf8b-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Architects of AI' named Time Magazine's Person of the Year]]></title>
+            <description><![CDATA[Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.]]></description>
+            <link>https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly01mdm577o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 13:52:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dfe/live/91345900-d69a-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico approves up to 50% tariffs on China and other countries]]></title>
+            <description><![CDATA[The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.]]></description>
+            <link>https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36z43ll06zo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 05:44:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc3/live/b3355300-d641-11f0-b082-afabb5dc1c21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drax unveils plan for data centre at power station]]></title>
+            <description><![CDATA[The firm aims to expand its power station near Selby with a 100MW data centre by 2027.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0k48n1999o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0k48n1999o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 12:46:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc7d/live/35718410-d68d-11f0-9184-a796dfacc4c9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed lowers interest rates but future cuts uncertain]]></title>
+            <description><![CDATA[The US central bank lowered interest rates for the third time this year, but the outlook for further cuts remains murky.]]></description>
+            <link>https://www.bbc.com/news/articles/cx257k3n2g1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx257k3n2g1o#1</guid>
+            <pubDate>Thu, 11 Dec 2025 06:58:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6df/live/3e6e7a10-d60a-11f0-a170-530c17232108.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump launches $1m 'gold card' immigration visas]]></title>
+            <description><![CDATA[The special visas will be awarded to those who can show they can make a "substantial benefit" to the US.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4q1lddj8go#1</guid>
+            <pubDate>Thu, 11 Dec 2025 01:10:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/818d/live/fca61940-d635-11f0-b19d-7bafaea622dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leon to close 20 stores and cut jobs in restructure]]></title>
+            <description><![CDATA[The "healthier" fast food chain confirmed there would be job losses, as it appointed administrators.]]></description>
+            <link>https://www.bbc.com/news/articles/c33mp5rem05o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c33mp5rem05o#1</guid>
+            <pubDate>Wed, 10 Dec 2025 19:34:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c11/live/10030ae0-d5e4-11f0-ab62-eb598af64ced.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shell facing first UK legal claim over climate impacts of fossil fuels]]></title>
+            <description><![CDATA[Survivors of a deadly typhoon in the Philippines have filed a claim against the UK's largest oil company.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r9p1ypyjyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r9p1ypyjyo#1</guid>
+            <pubDate>Thu, 11 Dec 2025 00:20:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8b4/live/5a312db0-d5d8-11f0-b33e-1f14457e259b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan is facing a dementia crisis – can technology help?]]></title>
+            <description><![CDATA[Elderly people aged 65 and over now make up nearly 30% of Japan's population.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9e34yzvgo#2</guid>
+            <pubDate>Mon, 08 Dec 2025 00:49:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea2/live/c1577710-d0dd-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Japan get more female business leaders?]]></title>
+            <description><![CDATA[The country lags behind when it comes to women in leadership positions.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8e5ke4v70o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8e5ke4v70o#2</guid>
+            <pubDate>Mon, 08 Dec 2025 00:04:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f64/live/9f55bb00-cbaa-11f0-9b12-8751a987e19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sold 30 items on Vinted? Don't panic if you get a message about tax]]></title>
+            <description><![CDATA[Here's what you need to know about tax rules if you're selling items online.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mxe7l7wp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mxe7l7wp1o#2</guid>
+            <pubDate>Sun, 07 Dec 2025 00:14:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c5/live/be1f3d90-d12c-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are freeze-dried sweets and why are they popular?]]></title>
+            <description><![CDATA[Big confectionery makers are rolling out freeze-dried sweets after they become an online sensation.]]></description>
+            <link>https://www.bbc.com/news/articles/czdr8r7d7vmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdr8r7d7vmo#2</guid>
+            <pubDate>Tue, 09 Dec 2025 16:08:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da7/live/bcf2fce0-be44-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How family firms can best plan for succession]]></title>
+            <description><![CDATA[The Murdochs had a much-reported inheritance battle, but smoother transitions are possible.]]></description>
+            <link>https://www.bbc.com/news/articles/cjekjkx2gpno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjekjkx2gpno#2</guid>
+            <pubDate>Thu, 04 Dec 2025 00:12:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/143f/live/c1f18330-c081-11f0-a100-35c69f09f734.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Carspreading' is on the rise - and not everyone is happy about it]]></title>
+            <description><![CDATA[In the UK and across Europe, cars are becoming longer, wider and heavier.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7vdvl2531o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7vdvl2531o#2</guid>
+            <pubDate>Wed, 03 Dec 2025 08:37:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c28e/live/e45ae640-cf6e-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why time is running out for Germany's green hydrogen industry]]></title>
+            <description><![CDATA[Firms are ready to make the equipment needed for green hydrogen, but demand has not picked up yet.]]></description>
+            <link>https://www.bbc.com/news/articles/cze60epnde0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze60epnde0o#2</guid>
+            <pubDate>Tue, 02 Dec 2025 00:18:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63d1/live/54719ab0-bbc8-11f0-ae46-bd64331f0fd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OBR head's resignation leaves potential landmines for Reeves]]></title>
+            <description><![CDATA[Chancellor's next mission to find a respected and credible economist to run the OBR will require careful balance]]></description>
+            <link>https://www.bbc.com/news/articles/cwyvnnz5842o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvnnz5842o#2</guid>
+            <pubDate>Tue, 02 Dec 2025 00:29:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6724/live/0c29a230-cf4a-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greek sheep and goat cull raises fears of feta cheese shortage]]></title>
+            <description><![CDATA[Livestock is being culled across the country due to an infectious disease outbreak.]]></description>
+            <link>https://www.bbc.com/news/articles/cgex9d0212xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgex9d0212xo#2</guid>
+            <pubDate>Mon, 01 Dec 2025 00:10:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fd/live/3cec9600-ceac-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fracking has transformed an Argentine town but what about the nation?]]></title>
+            <description><![CDATA[Argentina hopes that an oil and gas boom can benefit the whole country.]]></description>
+            <link>https://www.bbc.com/news/articles/cewj1e1yk2vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewj1e1yk2vo#2</guid>
+            <pubDate>Thu, 27 Nov 2025 00:02:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d5/live/3c3d5df0-c940-11f0-a414-099360380435.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The entrepreneur connecting tourists to African hospitality]]></title>
+            <description><![CDATA[TripZapp founder Rory Okoli wants to make it simple for tourists to book and pay for African travel.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgkerq52p4o#2</guid>
+            <pubDate>Tue, 25 Nov 2025 00:02:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/3de65d50-c9e0-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Machu Picchu hit by a row over tourist buses]]></title>
+            <description><![CDATA[Protests have taken place over the coaches that take visitors up to the world heritage site in Peru.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8g8wrd61zo#2</guid>
+            <pubDate>Mon, 24 Nov 2025 00:06:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed66/live/70165840-c619-11f0-934b-cf5196b3cbea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'toughest crop': Can tech help cardamom farmers?]]></title>
+            <description><![CDATA[Sensitive to the weather and soil cardamom is difficult to cultivate - can tech help?]]></description>
+            <link>https://www.bbc.com/news/articles/cn0g2xxnrj3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0g2xxnrj3o#2</guid>
+            <pubDate>Fri, 21 Nov 2025 00:01:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/829b/live/07465720-b4c6-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From florist to drone maker: How the weapon became so mainstream]]></title>
+            <description><![CDATA[With drones centre stage in Ukraine, military firms around the globe are ramping up their production.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g3ydv2ygro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g3ydv2ygro#2</guid>
+            <pubDate>Fri, 14 Nov 2025 22:24:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19c/live/c7adf940-bf03-11f0-ae79-17128ffcf575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will AI mean better adverts or 'creepy slop'?]]></title>
+            <description><![CDATA[Advertisers are using AI to personalise adverts but not everyone agrees that's a good idea. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg4y4z169go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg4y4z169go#2</guid>
+            <pubDate>Tue, 18 Nov 2025 14:48:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/076c/live/3b639860-b34a-11f0-b2a1-6f537f66f9aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crafters warn of imported 'tat' at festive fairs]]></title>
+            <description><![CDATA[Some stallholders and event organisers are angry about cheap goods being sold as 'handmade' items.]]></description>
+            <link>https://www.bbc.com/news/articles/c8654eylg3vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8654eylg3vo#4</guid>
+            <pubDate>Fri, 12 Dec 2025 15:15:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3be/live/88d3b0f0-d747-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Honesty box 'helps us thank our generous community']]></title>
+            <description><![CDATA[A family raising money to fund a suitable home for their son is among those driving a revival in honesty boxes.]]></description>
+            <link>https://www.bbc.com/news/articles/cjwyy76xd1qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwyy76xd1qo#4</guid>
+            <pubDate>Fri, 12 Dec 2025 14:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49f8/live/298b1f90-d759-11f0-845f-035d2c9c25f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We fundraised all year so our kids could experience a panto']]></title>
+            <description><![CDATA[Some theatres tell the BBC panto season can make up almost half of their annual income.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5me7r05q8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5me7r05q8o#4</guid>
+            <pubDate>Fri, 12 Dec 2025 07:12:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37dd/live/df014f60-d73c-11f0-93d2-8fe41819f724.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Food parcels help thousands at Christmas]]></title>
+            <description><![CDATA[A charity is ramping up its operation in the run up to Christmas to help tackle food poverty.]]></description>
+            <link>https://www.bbc.com/news/articles/c39p7gykwx4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39p7gykwx4o#4</guid>
+            <pubDate>Fri, 12 Dec 2025 06:07:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5936/live/dc904740-d6ab-11f0-9566-091746611f5e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How unwanted coats are changing lives this winter]]></title>
+            <description><![CDATA[Some 20,000 unwanted coats will be collected, distributed and gifted to those in need.]]></description>
+            <link>https://www.bbc.com/news/articles/cwywr2ew9pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwywr2ew9pdo#4</guid>
+            <pubDate>Fri, 12 Dec 2025 06:03:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b6a/live/e74218e0-d51a-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2025: What's the best and worst that could happen for Labour?]]></title>
+            <description><![CDATA[Three days in, after a tax U-turn and partial climbdown on workers' rights, Laura Kuenssberg looks at what impact Budget week might have.]]></description>
+            <link>https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlk5gd3kv9o#5</guid>
+            <pubDate>Sat, 29 Nov 2025 15:14:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f8/live/69cf48b0-cc69-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Britain's budget watchdog become too all-powerful?]]></title>
+            <description><![CDATA[Ahead of this week's Budget, some have accused the Office for Budget Responsibility of being a "straitjacket on growth"]]></description>
+            <link>https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx9n5p7v7o#5</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/c2f81410-c950-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The curious case of why Poundland is struggling during a cost-of-living crisis]]></title>
+            <description><![CDATA[Why - in an age where so many of us are feeling the financial pinch - are some budget shops on UK high streets having such a tough time?]]></description>
+            <link>https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gkgxeeyzno#5</guid>
+            <pubDate>Fri, 21 Nov 2025 08:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424a/live/63c58a80-c627-11f0-a892-01d657345866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The £5.30 orange juice that tells the story of why supermarket prices are sky high]]></title>
+            <description><![CDATA[Butter, chocolate, coffee and milk have all seen prices rocket. Tracing back through the story of one particular supermarket staple begins to explain why]]></description>
+            <link>https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c397n3jl3z8o#5</guid>
+            <pubDate>Wed, 22 Oct 2025 06:58:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c624/live/674f7590-ab41-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Milei's 'Thatcherite' economics divided his nation - but won over Trump]]></title>
+            <description><![CDATA[Ahead of Milei's visit to the White House - amid protests and anger on the streets back at home - Ione Wells unravels the paradox that Argentina's president has created]]></description>
+            <link>https://www.bbc.com/news/articles/c9865l8540eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9865l8540eo#5</guid>
+            <pubDate>Tue, 14 Oct 2025 12:26:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a6/live/955aae40-a8f4-11f0-b741-177e3e2c2fc7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamie Oliver on the return of his restaurant chain]]></title>
+            <description><![CDATA[Speaking to Amol Rajan on the BBC's Radical podcast, chef and campaigner Jamie Oliver reveals all about his experiences of failure and learning from it.]]></description>
+            <link>https://www.bbc.com/news/videos/cn8evm3d8r3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn8evm3d8r3o#6</guid>
+            <pubDate>Thu, 11 Dec 2025 12:56:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be8/live/7061b630-d68d-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martin Lewis on what people misunderstand about credit scores]]></title>
+            <description><![CDATA[Martin Lewis explains the things people misunderstand about credit scores.]]></description>
+            <link>https://www.bbc.com/news/videos/cd9z7dnz21do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd9z7dnz21do#6</guid>
+            <pubDate>Fri, 05 Dec 2025 14:00:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f2/live/f2c77da0-d159-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neighbourhood businesses hit by series of break-ins]]></title>
+            <description><![CDATA[Businesses in Canton tell BBC Wales about how a recent spate of break-ins has affected them.]]></description>
+            <link>https://www.bbc.com/news/videos/ceq197j5q3jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ceq197j5q3jo#6</guid>
+            <pubDate>Sat, 29 Nov 2025 07:10:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d917/live/e73be130-cc70-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vintage market trader retires after 60 years]]></title>
+            <description><![CDATA[Birmingham vintage market trader retires after 60 years]]></description>
+            <link>https://www.bbc.com/news/videos/cr5z3dnpm1po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cr5z3dnpm1po#6</guid>
+            <pubDate>Fri, 28 Nov 2025 11:49:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985a/live/fbe79920-cc4e-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are you a HENRY? Here's how the budget affects you]]></title>
+            <description><![CDATA[HENRY stands for High Earners who are Not Rich Yet. Most are young and work in tech or finance.]]></description>
+            <link>https://www.bbc.com/news/videos/cp8zqq53zn8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp8zqq53zn8o#6</guid>
+            <pubDate>Fri, 28 Nov 2025 09:40:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e192/live/bb90e4d0-cc3a-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+    </channel>
+</rss>
