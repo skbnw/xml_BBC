@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 15 Dec 2025 00:20:17 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Hero' who wrestled gun from Bondi shooter named as Ahmed al Ahmed]]></title>
+            <description><![CDATA[Eleven people were killed in the shooting at Australia's Bondi Beach, as crowds attended an event to celebrate Hanukkah. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce3wkey5p33o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3wkey5p33o#1</guid>
+            <pubDate>Sun, 14 Dec 2025 23:12:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe3/live/84e68690-d91b-11f0-9ed5-012fa69819f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Bondi Beach shooting unfolded minute by minute]]></title>
+            <description><![CDATA[Correspondent Joe Inwood pieces together what verified footage reveals about how Australia's worst mass shooting in nearly three decades unfolded.]]></description>
+            <link>https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy8jpzdg1y3o#1</guid>
+            <pubDate>Mon, 15 Dec 2025 00:02:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd0/live/0e22eb40-d93c-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about Bondi Beach Hanukkah shooting]]></title>
+            <description><![CDATA[Sixteen people have died after an attack targeting a Hanukkah event on the beach.]]></description>
+            <link>https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjg22rey0lo#1</guid>
+            <pubDate>Sun, 14 Dec 2025 21:41:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/f2068480-d8e1-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK events remember Bondi victims as police step up security in Jewish communities]]></title>
+            <description><![CDATA[At least 15 people have been killed and at least a further 42 injured in a shooting during Hanukkah celebrations.]]></description>
+            <link>https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e95gkl5r3o#1</guid>
+            <pubDate>Sun, 14 Dec 2025 20:55:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It was pandemonium': Jewish community in shock after deadly Bondi Beach attack ]]></title>
+            <description><![CDATA[Fifteen people were killed and dozens injured in the attack, which targeted a Hanukkah celebration on Bondi Beach. ]]></description>
+            <link>https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r711lnr8zo#1</guid>
+            <pubDate>Sun, 14 Dec 2025 21:56:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/e340c250-d8f3-11f0-9fa0-335f4e960573.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Violence against women is a national emergency, Mahmood says]]></title>
+            <description><![CDATA[Specialist rape and sexual offence investigation teams will be introduced to every police force in England and Wales by 2029.]]></description>
+            <link>https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj69w7kezdzo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 11:37:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf1/live/3afa8760-d8db-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Everyone says it'll never be me' - Brown University student on surviving two mass shootings]]></title>
+            <description><![CDATA[Mia Tretta was shot in the 2019 mass shooting at Saugus High School in California. ]]></description>
+            <link>https://www.bbc.com/news/articles/crrknvqn97no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrknvqn97no#2</guid>
+            <pubDate>Sun, 14 Dec 2025 21:13:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eba/live/fc2594d0-d939-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Person of interest' detained over Brown University shooting, police say]]></title>
+            <description><![CDATA[Two people died and nine others were injured in the incident in Rhode Island on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg9ll6jpl0o#2</guid>
+            <pubDate>Mon, 15 Dec 2025 00:14:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7068/live/6f034760-d8ed-11f0-bca5-bd7a5fe210a1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Historic rail bridge collapses into River Spey]]></title>
+            <description><![CDATA[The Spey Viaduct forms part of the Speyside Way trail and is popular with both walkers and cyclists.]]></description>
+            <link>https://www.bbc.com/news/articles/c1m87jlv97ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m87jlv97ro#2</guid>
+            <pubDate>Sun, 14 Dec 2025 17:35:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af3b/live/aef9e6e0-d8ec-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly finalists confirmed after dance-off decider]]></title>
+            <description><![CDATA[The three remaining couples will compete for the glitterball trophy in the final next weekend.]]></description>
+            <link>https://www.bbc.com/news/articles/ckglkklj03zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckglkklj03zo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 20:27:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd71/live/44ed0d40-d8e2-11f0-b984-9fd1b9193e69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 15, charged with murder after alley death]]></title>
+            <description><![CDATA[Surrey Police received reports of a stabbing near the Wheatsheaf pub, on Kingston Road.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzeqnd7wvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzeqnd7wvo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 21:41:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2d/live/49c27460-d935-11f0-af3d-19ede5bf5871.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Train timetable revamp takes effect with more services promised]]></title>
+            <description><![CDATA[Rail operators promise more services across the network and faster journeys on some routes.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9zek4e493o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9zek4e493o#2</guid>
+            <pubDate>Sun, 14 Dec 2025 10:54:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ac/live/7f53c610-d8cc-11f0-a823-6f1bb16f0252.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red post box sent to Antarctica - on King's orders]]></title>
+            <description><![CDATA[The King sends a Royal Mail post box to the remote station, where letters are seen as a "real lift".]]></description>
+            <link>https://www.bbc.com/news/articles/cdrnnze3mepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrnnze3mepo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 08:56:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fdc/live/4f6cbe70-d769-11f0-9458-21e2709cd626.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First it was K-pop, now it's K-food. Here's how to bring Korean cooking into your kitchen]]></title>
+            <description><![CDATA[Why jars of kimchi and bottles of gochujang are turning Korean food into a UK staple.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2vx07lj08o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2vx07lj08o#2</guid>
+            <pubDate>Sun, 14 Dec 2025 00:51:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de3c/live/168958e0-d690-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Never give up': Belarusian prisoners celebrate release after US lifts sanctions]]></title>
+            <description><![CDATA["It's a feeling of incredible happiness," says political prisoner Maria Kolesnikova, freed after more than five years.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1r89m6g7o#2</guid>
+            <pubDate>Sun, 14 Dec 2025 18:18:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b968/live/90df80e0-d8cc-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Binge-watching 2025's Christmas films: The good, the bad and the so-bad-it's-good]]></title>
+            <description><![CDATA[Kiefer Sutherland, Michelle Pfeiffer and Kate Winslet all star in new festive films this Christmas.]]></description>
+            <link>https://www.bbc.com/news/articles/c709j87l6geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c709j87l6geo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 00:34:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d19/live/234aa420-d5b0-11f0-a80f-4194a66f2469.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five arrested over plot to attack German Christmas market]]></title>
+            <description><![CDATA[Local media says one of the suspects is an imam at a mosque, and police allege he "called for a vehicle attack".]]></description>
+            <link>https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dz7r708dxo#2</guid>
+            <pubDate>Sun, 14 Dec 2025 08:46:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc21/live/a753ba70-d8c3-11f0-bcc5-99954b034d81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Supermarket skincare dupes could save you hundreds. But do budget beauty products work?]]></title>
+            <description><![CDATA[Budget-friendly alternatives to high-end products often have similar names and packaging, but the ingredients can vary significantly.]]></description>
+            <link>https://www.bbc.com/news/articles/c246le4p7rgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c246le4p7rgo#3</guid>
+            <pubDate>Sun, 14 Dec 2025 01:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825b/live/7b20e260-d77a-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We asked Mormons what they really think about The Secret Lives of Mormon Wives]]></title>
+            <description><![CDATA[Those in the Church of Jesus Christ of Latter-day Saints in Britain tell BBC News about their lives, after the Disney+ show was laced with scandal.]]></description>
+            <link>https://www.bbc.com/news/articles/c6230p2l88vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6230p2l88vo#3</guid>
+            <pubDate>Sun, 14 Dec 2025 04:13:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/31aca840-d75b-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far about the Brown University shooting]]></title>
+            <description><![CDATA[The identities of those killed or injured have not yet been released, but the university said all the victims were students.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg9l1j9wxno#3</guid>
+            <pubDate>Sun, 14 Dec 2025 18:41:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f7/live/22331630-d8bc-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t let your device tell you what to think, Grand Theft Auto mastermind warns]]></title>
+            <description><![CDATA[A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.]]></description>
+            <link>https://www.bbc.com/news/articles/c2epm9z9kkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2epm9z9kkvo#3</guid>
+            <pubDate>Sun, 14 Dec 2025 00:58:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf0/live/e4840b20-d75b-11f0-9fb5-5f3a3703a365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everyone is invited to be the fourth Haim sister]]></title>
+            <description><![CDATA[As they celebrate an historic Grammy nomination, Haim say everyone is welcome to join their band.]]></description>
+            <link>https://www.bbc.com/news/articles/cp899w5xynzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp899w5xynzo#3</guid>
+            <pubDate>Sun, 14 Dec 2025 00:55:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c4/live/8c3bf9a0-d841-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 700 migrants crossed Channel on Saturday]]></title>
+            <description><![CDATA[Home Office figures show 737 people arrived in Dover on 11 boats after a four-week gap in crossings.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2dygxwj12o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dygxwj12o#5</guid>
+            <pubDate>Sun, 14 Dec 2025 14:23:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba0c/live/eb3468c0-d8eb-11f0-bca5-bd7a5fe210a1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A nightmare' - The battle over Warner Bros is turning Hollywood upside down ]]></title>
+            <description><![CDATA[Interviews with dozens of actors, producers and camera crews reveal an industry attempting to weigh the lesser of two horrible choices. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8dyy47qy82o#5</guid>
+            <pubDate>Sun, 14 Dec 2025 00:37:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f56/live/d7f903a0-d7a2-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cars stuck in hospital multi-storey after fire]]></title>
+            <description><![CDATA[Structural engineers are assessing when it will be safe for crews and vehicle owners to go back in.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4ljmzrk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4ljmzrk2o#5</guid>
+            <pubDate>Sun, 14 Dec 2025 14:37:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d32/live/513274e0-d8ca-11f0-83ad-5917cfd6dcb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: John Cena takes his final bow, after last ever WWE fight]]></title>
+            <description><![CDATA[The actor and wrestler brought the curtain down on a 24-year career that saw him become one of wrestling's biggest stars.]]></description>
+            <link>https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy4xgxm2848o#5</guid>
+            <pubDate>Sun, 14 Dec 2025 09:15:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbea/live/a3411430-d8ca-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From bland to bold - how these women are ditching beige to spark joy]]></title>
+            <description><![CDATA[From kitsch mirrors to neon pink walls, a pop of colour could brighten up your winter. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg2j5l4q7wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg2j5l4q7wo#5</guid>
+            <pubDate>Sun, 14 Dec 2025 01:08:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea2/live/758fc0f0-d81a-11f0-aae2-2191c0e48a3b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[​​Starmer Says a Doctor Strike Would be 'Reckless']]></title>
+            <description><![CDATA[​​PM Keir Starmer says its "beyond belief" strikes could take place during flu outbreak.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mnfl33?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mnfl33#7</guid>
+            <pubDate>Sat, 13 Dec 2025 16:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Democrats release photos of Trump from Epstein estate]]></title>
+            <description><![CDATA[Republicans accuse Democrats of playing politics with release of Epstein photos]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mnc4k5?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mnc4k5#7</guid>
+            <pubDate>Sat, 13 Dec 2025 04:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0lqdxrf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The story of Britain’s biggest mass poisoning]]></title>
+            <description><![CDATA[When tap water turns toxic in Cornwall, a public health disaster leads to accusations of a cover-up]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002mshv?at_mid=hccWjMbQd4&amp;at_campaign=Poison_Water&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002mshv&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Poison_Water&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002mshv?at_mid=hccWjMbQd4&amp;at_campaign=Poison_Water&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002mshv&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Poison_Water&amp;at_bbc_team=BBC#8</guid>
+            <pubDate>Wed, 26 Nov 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd7/live/373cf170-caa9-11f0-a892-01d657345866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unseen film footage from the making of 'Do They Know It’s Christmas?']]></title>
+            <description><![CDATA[Rare and unseen moments from the making of the hit single by charity supergroup Band Aid.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0025gmy/the-making-of-do-they-know-its-christmas?at_mid=Ic6fsbnoVI&amp;at_campaign=The_Making_of_Do_They_Know_Its_Christmas&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0025gmy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Making_of_Do_They_Know_Its_Christmas&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0025gmy/the-making-of-do-they-know-its-christmas?at_mid=Ic6fsbnoVI&amp;at_campaign=The_Making_of_Do_They_Know_Its_Christmas&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0025gmy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Making_of_Do_They_Know_Its_Christmas&amp;at_bbc_team=BBC#8</guid>
+            <pubDate>Sat, 06 Dec 2025 01:05:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd57/live/b3f65af0-d060-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Not good enough' - Amorim admits he and Man Utd are 'underachieving']]></title>
+            <description><![CDATA[Manchester United head coach Ruben Amorim says criticism from legendary former players is to be expected because the club is "underachieving".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c5yq2qydly7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yq2qydly7o#9</guid>
+            <pubDate>Sun, 14 Dec 2025 22:40:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cacb/live/915c62f0-d8d5-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palmer & Foden on target - but Rogers 'has to start' at World Cup]]></title>
+            <description><![CDATA[Phil Foden and Cole Palmer both scored this weekend - but Morgan Rogers showed why he remains England's first-choice number 10.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c23erymym9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23erymym9eo#9</guid>
+            <pubDate>Sun, 14 Dec 2025 21:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a33/live/a0d38b70-d91e-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Nancy a symptom of malfunctioning Celtic machine']]></title>
+            <description><![CDATA[Having lost the League Cup final to St Mirren, Celtic are "a diminished team with an uncertain manager, a furious support and a haunted board", writes Tom English.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0mpk7l3zzro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mpk7l3zzro#9</guid>
+            <pubDate>Sun, 14 Dec 2025 20:35:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f09/live/d9dcc990-d928-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chiefs to miss NFL play-offs for first time in 11 years]]></title>
+            <description><![CDATA[Three-time Super Bowl winner Patrick Mahomes will not play in the NFL post-season for the first time in his career as the Kansas City Chiefs are eliminated from play-off contention.]]></description>
+            <link>https://www.bbc.com/sport/american-football/articles/c5yj27zv47zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/american-football/articles/c5yj27zv47zo#9</guid>
+            <pubDate>Sun, 14 Dec 2025 23:07:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d9d/live/f6ea0320-d939-11f0-8329-51f0a21342ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunderland recreate Newcastle team photo after 'special' derby win]]></title>
+            <description><![CDATA[Nick Woltemade's own goal was enough to give Sunderland a win over Newcastle in the first Premier League Tyne-Wear derby since 2016.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c17xzyd28jjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17xzyd28jjo#9</guid>
+            <pubDate>Sun, 14 Dec 2025 18:43:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065c/live/5acad060-d91f-11f0-9008-39e3621ac3fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henderson's Jota tribute after first league goal in four years]]></title>
+            <description><![CDATA[Brentford midfielder Jordan Henderson pays tribute to former Liverpool team-mate Diogo Jota after scoring in Sunday's draw against Leeds - his first Premier League goal since 2021.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cq60v1155dgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq60v1155dgo#9</guid>
+            <pubDate>Sun, 14 Dec 2025 20:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e54/live/16417440-d91e-11f0-903f-874ab32ff2b9.jpg"/>
+        </item>
+    </channel>
+</rss>
