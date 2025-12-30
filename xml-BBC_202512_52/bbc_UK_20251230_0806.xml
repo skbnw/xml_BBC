@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 30 Dec 2025 08:06:17 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours]]></title>
+            <description><![CDATA[Ice skaters Torvill and Dean, and members of the winning Lionesses and Red Roses receive gongs.]]></description>
+            <link>https://www.bbc.com/news/articles/crrkgzy52keo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrkgzy52keo#0</guid>
+            <pubDate>Tue, 30 Dec 2025 03:07:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f453/live/8f5d6d00-e4ba-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How does the UK honours system work?]]></title>
+            <description><![CDATA[How the New Year, King's Birthday, and other honours are decided and awarded.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g64e1e5xyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g64e1e5xyo#0</guid>
+            <pubDate>Mon, 29 Dec 2025 22:30:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a72/live/542f00b0-46ca-11f0-9471-e380f647874e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet Office withdraws Andrew papers after 'error']]></title>
+            <description><![CDATA[Documents mentioning Andrew were briefly released before being withdrawn from the National Archives.]]></description>
+            <link>https://www.bbc.com/news/articles/c20k060zy8eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20k060zy8eo#0</guid>
+            <pubDate>Tue, 30 Dec 2025 01:04:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deea/live/514c3dd0-e554-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government to review 'information failures' in British-Egyptian activist case]]></title>
+            <description><![CDATA[Foreign Secretary Yvette Cooper says she and Sir Keir Starmer were unaware of Alaa Abd El Fattah's "abhorrent" historical tweets.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzyzwxqyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzyzwxqyyo#0</guid>
+            <pubDate>Tue, 30 Dec 2025 06:42:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7188/live/d6c74d30-e552-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Torchlight procession kicks off Edinburgh's Hogmanay celebrations]]></title>
+            <description><![CDATA[Thousands of people carrying flaming torches marched through the streets of the city to kick off the annual Hogmanay festival.]]></description>
+            <link>https://www.bbc.com/news/articles/c3w7wz3x3ego?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w7wz3x3ego#0</guid>
+            <pubDate>Mon, 29 Dec 2025 22:27:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8760/live/e641e670-e4fe-11f0-bbb4-738620fa9ed1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police fired twice during fatal shooting, says IOPC]]></title>
+            <description><![CDATA[The police watchdog is investigating after a man was shot and killed after a two-vehicle crash. 
+]]></description>
+            <link>https://www.bbc.com/news/articles/cz949nglvnlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz949nglvnlo#0</guid>
+            <pubDate>Mon, 29 Dec 2025 19:47:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/bd201050-e4a4-11f0-9890-3187c4f9b06f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[People tut when my son holds his girlfriend's hand]]></title>
+            <description><![CDATA[More support is needed to help people with learning disabilities who want a relationship, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/c989k7pggn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c989k7pggn7o#1</guid>
+            <pubDate>Mon, 29 Dec 2025 07:13:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4131/live/b50433a0-dbf4-11f0-a030-476ae6d8c14a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Claudia Winkleman to host new chat show on BBC One]]></title>
+            <description><![CDATA[It will be produced by So Television, which is also behind Graham Norton's award-winning chat show. ]]></description>
+            <link>https://www.bbc.com/news/articles/c17x75jdj1vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17x75jdj1vo#1</guid>
+            <pubDate>Mon, 29 Dec 2025 20:10:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44e/live/9b02aac0-e4a7-11f0-86bc-7f4eee801597.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pilot cut from plane after crashing in field]]></title>
+            <description><![CDATA[The pilot was cut from the wreckage by firefighters after the aircraft was made stable.]]></description>
+            <link>https://www.bbc.com/news/articles/c1j9jnyjn55o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1j9jnyjn55o#1</guid>
+            <pubDate>Mon, 29 Dec 2025 15:37:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a7/live/da7cee80-e4cb-11f0-8a85-09a10e143343.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother and two children die in Boxing Day blaze]]></title>
+            <description><![CDATA[One man, a serving police officer, escaped the fire but his wife and their two children died in the blaze.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mpmw42jx4o#1</guid>
+            <pubDate>Mon, 29 Dec 2025 18:02:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/396f/live/58cd9580-e4bf-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kate Bush 'heartbroken' over friend missing at sea]]></title>
+            <description><![CDATA[Matthew Upham and another man went missing in the sea in Devon on Christmas Day.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg1gplzzv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1gplzzv3o#1</guid>
+            <pubDate>Mon, 29 Dec 2025 15:11:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68a/live/c38edff0-e4a6-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's amazing' - Torvill and Dean recognised in New Year Honours]]></title>
+            <description><![CDATA[The ice-skatinhg duo are best known for their winning performance at the 1984 winter Olympics.]]></description>
+            <link>https://www.bbc.com/news/videos/c3e0ekgwl92o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3e0ekgwl92o#2</guid>
+            <pubDate>Tue, 30 Dec 2025 07:21:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec9/live/ec541020-e54d-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King urges kindness and resilience in Christmas message]]></title>
+            <description><![CDATA[The King's Christmas message calls for unity in a divided world.]]></description>
+            <link>https://www.bbc.com/news/videos/cjwyel60jw4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjwyel60jw4o#2</guid>
+            <pubDate>Thu, 25 Dec 2025 17:33:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a302/live/29a49460-e1b4-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's the golden age of spreadsheet geekery']]></title>
+            <description><![CDATA[Two co-founders behind the competitive Excel UK chapter explain how the game works.]]></description>
+            <link>https://www.bbc.com/news/videos/cx25z3z12l7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx25z3z12l7o#2</guid>
+            <pubDate>Sun, 28 Dec 2025 11:46:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87f/live/e422fdd0-e0bb-11f0-b67b-690eb873de1b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz musicians recreate 46-year-old pub record]]></title>
+            <description><![CDATA[Joe Trudgeon and Paul Archibald recorded a follow-up to a 1979 album recorded live at the Old Duke.]]></description>
+            <link>https://www.bbc.com/news/videos/ce86p168el7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce86p168el7o#2</guid>
+            <pubDate>Sun, 28 Dec 2025 15:39:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb8/live/d0020370-dc2c-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The internet can't get enough of this Edinburgh cobbler]]></title>
+            <description><![CDATA[The internet can't get enough of this Edinburgh cobbler, who has become a viral sensation with his shoe repairs.]]></description>
+            <link>https://www.bbc.com/news/videos/c9qe825q35zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9qe825q35zo#2</guid>
+            <pubDate>Sun, 28 Dec 2025 13:06:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221e/live/be4a9130-e3e1-11f0-b67b-690eb873de1b.png"/>
+        </item>
+        <item>
+            <title><![CDATA['People think their problems will go away' - is the Australian Dream dead?]]></title>
+            <description><![CDATA[British people are taking the plunge in search of better weather, a superior work-life balance and better pay.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgjyrzz8xeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgjyrzz8xeo#2</guid>
+            <pubDate>Fri, 26 Dec 2025 21:58:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6845/live/f0c15b10-e0c8-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alpacas, buses and pints: Five laws you may have missed in 2025]]></title>
+            <description><![CDATA[More than 30 new laws have been created this year, including these lesser-known bits of legislation.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mpx8wx1vvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mpx8wx1vvo#3</guid>
+            <pubDate>Tue, 30 Dec 2025 01:34:27 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca45/live/d69103c0-dfe8-11f0-a8dc-93c15fe68710.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Photographing the hidden world of slime mould]]></title>
+            <description><![CDATA[Meet Barry Webb and his award-winning images of the tiny world of slime mould.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d9409p76qo#3</guid>
+            <pubDate>Tue, 30 Dec 2025 00:51:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf4/live/ec07a2c0-dc16-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did Edinburgh become the home of Hogmanay?]]></title>
+            <description><![CDATA[The history of New Year's Eve street parties in Edinburgh goes back centuries. ]]></description>
+            <link>https://www.bbc.com/news/articles/cwyvqn85vj7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvqn85vj7o#3</guid>
+            <pubDate>Tue, 30 Dec 2025 06:01:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4153/live/d64abbe0-dffc-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Anthony Joshua in 'horror crash' and honours for 'pride of England']]></title>
+            <description><![CDATA[Anthony Joshua survives fatal Nigeria car crash and the King's New Year Honours lead today's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/c8dyd0n0982o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8dyd0n0982o#3</guid>
+            <pubDate>Tue, 30 Dec 2025 05:43:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c65/live/af3cf310-e510-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2026 will have some of the best TV in years - here are the highlights]]></title>
+            <description><![CDATA[We look ahead to 18 notable shows and events to look out for in 2026, from drama to sport.]]></description>
+            <link>https://www.bbc.com/news/articles/c9qedx5wj45o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qedx5wj45o#3</guid>
+            <pubDate>Mon, 29 Dec 2025 04:27:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/30794f50-e4b7-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours]]></title>
+            <description><![CDATA[Ice skaters Torvill and Dean, and members of the winning Lionesses and Red Roses receive gongs.]]></description>
+            <link>https://www.bbc.com/news/articles/crrkgzy52keo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrkgzy52keo#4</guid>
+            <pubDate>Tue, 30 Dec 2025 03:07:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f453/live/8f5d6d00-e4ba-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rows over flags, football and censoring Christmas cards - inside the first executive]]></title>
+            <description><![CDATA[Files released by the Public Record Office of Northern Ireland show arguments within the first power-sharing executive.]]></description>
+            <link>https://www.bbc.com/news/articles/cm20p8p5jlzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20p8p5jlzo#4</guid>
+            <pubDate>Tue, 30 Dec 2025 06:33:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e455/live/f9ab6c60-dcc3-11f0-adc6-3df3a71ee64f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Honours for football executives who helped save Celtic and Hearts]]></title>
+            <description><![CDATA[Former Celtic chief executive Fergus McCann and ex-Hearts chair Ann Budge have been recognised in the New Year Honours.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2d2rr608mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2d2rr608mo#4</guid>
+            <pubDate>Tue, 30 Dec 2025 06:10:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b20/live/3165cbd0-e4af-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CBE honour for Welsh rugby legend Jonathan Davies ]]></title>
+            <description><![CDATA["It means a lot and I am very privileged and honoured to accept it," says the BBC commentator.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7v751y00ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7v751y00ko#4</guid>
+            <pubDate>Tue, 30 Dec 2025 07:52:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b633/live/abdd1c80-e4df-11f0-809a-c96454d02e67.jpg"/>
+        </item>
+    </channel>
+</rss>
