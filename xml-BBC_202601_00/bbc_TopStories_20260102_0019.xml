@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 02 Jan 2026 00:19:13 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Around 40 dead in Swiss ski resort bar fire, police say]]></title>
+            <description><![CDATA[A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pmyyeg78o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 23:40:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/d292cee0-e74d-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I hid from a wall of heat': Eyewitnesses describe escape from Swiss bar inferno]]></title>
+            <description><![CDATA[One young man told the BBC he went into the bar to look for his little brother, who he thought was inside.]]></description>
+            <link>https://www.bbc.com/news/articles/clyml77ml7jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyml77ml7jo#0</guid>
+            <pubDate>Thu, 01 Jan 2026 16:24:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e4/live/44ed7fe0-e72f-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amber snow and ice warnings issued as Arctic air spreads across the UK]]></title>
+            <description><![CDATA[Colder weather with snow and ice warnings in force will continue over the next few days.]]></description>
+            <link>https://www.bbc.com/weather/articles/ceqzn5rnz74o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/ceqzn5rnz74o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 10:40:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c1/live/171c8ee0-e6fc-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea part company with manager Maresca after 18 months]]></title>
+            <description><![CDATA[Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0n8d913d8o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 18:21:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad2/live/d8535560-e708-11f0-bda7-cd77a7bc9f3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The great debate about whether the NHS should use magic mushrooms to treat mental health]]></title>
+            <description><![CDATA[Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results]]></description>
+            <link>https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg936l88e7o#0</guid>
+            <pubDate>Fri, 02 Jan 2026 00:03:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1863/live/2b37c9a0-da84-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto users forced to share account details with tax officials]]></title>
+            <description><![CDATA[The move is designed to ensure people pay all relevant tax on buying and selling crypto.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgl2je65klo#0</guid>
+            <pubDate>Thu, 01 Jan 2026 09:52:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a79/live/d3e47340-e6ec-11f0-858c-317495da6677.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Traitors returns with new 'secret traitor' in major shake-up]]></title>
+            <description><![CDATA[Not even the viewers know who host Claudia Winkleman has assigned as the fourth "secret traitor".]]></description>
+            <link>https://www.bbc.com/news/articles/cp857g5m3zdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp857g5m3zdo#0</guid>
+            <pubDate>Thu, 01 Jan 2026 23:06:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76ed/live/2cc83090-e75c-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The best pictures from around the world as 2026 begins]]></title>
+            <description><![CDATA[From spectacular firework displays to chilly sea dips, nations celebrate the start of 2026.]]></description>
+            <link>https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c050j896q2do#0</guid>
+            <pubDate>Thu, 01 Jan 2026 05:48:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a6/live/463b9e00-e71f-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dad pays tribute to 'wonderful family' killed in Boxing Day fire]]></title>
+            <description><![CDATA[Tom Shearman pays tribute to his wife and two children after a fire engulfed their home.]]></description>
+            <link>https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14r88ylvl1o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 12:16:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c667/live/abf192b0-e6ff-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stranger Things draws to an epic and emotional close]]></title>
+            <description><![CDATA[Fans gathered at premieres in cities across the US and Canada to watch the finale on the big screen.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgl2je05j0o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 10:13:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7670/live/f2f14b30-e6ee-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two killed in clashes between protesters and security forces in Iran]]></title>
+            <description><![CDATA[Videos on social media showed cars set on fire during running battles as protests entered their fifth day.]]></description>
+            <link>https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c36810pkz96o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 18:18:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4486/live/1b001130-e729-11f0-b497-893ee467f2f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EastEnders actor 'grateful' to avoid driving ban for speeding]]></title>
+            <description><![CDATA[Colin Salmon was shown leniency by the court because he cares for his seriously ill wife and daughter.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0k34yy454o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0k34yy454o#0</guid>
+            <pubDate>Thu, 01 Jan 2026 18:06:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6203/live/f47db190-e730-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disbelief as tragedy hits Swiss ski resort on New Year's Day]]></title>
+            <description><![CDATA[BBC's Silvia Costeloe says the fire happened in the beating heart of lively Crans-Montana.]]></description>
+            <link>https://www.bbc.com/news/articles/c70lwkk4zkro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c70lwkk4zkro#1</guid>
+            <pubDate>Thu, 01 Jan 2026 16:04:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc9/live/bcbd2dd0-e72b-11f0-b497-893ee467f2f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Video shows fire spreading across Swiss bar ceiling]]></title>
+            <description><![CDATA[The moment a Swiss bar was set ablaze appears to have been captured on video.]]></description>
+            <link>https://www.bbc.com/news/videos/cwy1l7jwgjvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwy1l7jwgjvo#1</guid>
+            <pubDate>Thu, 01 Jan 2026 14:49:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5fc/live/62e877d0-e71f-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the Switzerland ski resort fire]]></title>
+            <description><![CDATA[Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana.]]></description>
+            <link>https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9dvyyjyj18o#1</guid>
+            <pubDate>Thu, 01 Jan 2026 21:54:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the 'postcode lottery' of parenting really impacts young children]]></title>
+            <description><![CDATA[BBC Radio 4's Today will follow six parents for five years, chronicling the ups and downs of looking after a young child in modern Britain.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdr42ez3d2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdr42ez3d2o#2</guid>
+            <pubDate>Thu, 01 Jan 2026 00:02:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f9/live/bdccb600-e64f-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Horror on the dancefloor' and 'Traitors twist']]></title>
+            <description><![CDATA[The fire at a Swiss ski resort bar which has killed dozens dominates Friday's front pages. ]]></description>
+            <link>https://www.bbc.com/news/articles/cp3zwlj0220o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3zwlj0220o#2</guid>
+            <pubDate>Thu, 01 Jan 2026 23:32:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd89/live/2b0c27b0-e767-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly's Ellie and Vito still dancing together every week]]></title>
+            <description><![CDATA[From Strictly sequins to presenting dreams, Ellie Goldstein speaks about her future ambitions.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg101k6zplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg101k6zplo#2</guid>
+            <pubDate>Thu, 01 Jan 2026 00:01:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaca/live/9ef08ab0-db7b-11f0-b5d0-e9a8f87cff6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We fought for 33 years to abolish not proven verdict after our daughter's murder]]></title>
+            <description><![CDATA[The centuries-old verdict has been scrapped after decades of controversy about its use in Scottish criminal trials.]]></description>
+            <link>https://www.bbc.com/news/articles/cze8elpzz40o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze8elpzz40o#2</guid>
+            <pubDate>Thu, 01 Jan 2026 08:16:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c2b/live/87b12b70-e4a4-11f0-9890-3187c4f9b06f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosenior leading contender for Chelsea job]]></title>
+            <description><![CDATA[Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0er1wx3v28o#2</guid>
+            <pubDate>Thu, 01 Jan 2026 19:58:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17a/live/085f12a0-e725-11f0-9d59-75d9bc66798b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?]]></title>
+            <description><![CDATA[To succeed in office he will need to keep his supporters engaged with day-to-day governing, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gvg46dy7vo#2</guid>
+            <pubDate>Thu, 01 Jan 2026 20:11:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/a55bf4a0-e712-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who might be on the move in WSL January transfer window?]]></title>
+            <description><![CDATA[With the January transfer window opening in the Women's Super League, which players could be on the move and who is out of contract?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c2dzd789185o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzd789185o#2</guid>
+            <pubDate>Thu, 01 Jan 2026 07:40:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e407/live/d0630400-e644-11f0-8786-db2fc8f3a075.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Some families to be offered immunisations at home in bid to boost vaccine uptake]]></title>
+            <description><![CDATA[The scheme is being tested in some areas of England as part of a government plan to prioritise children's health.]]></description>
+            <link>https://www.bbc.com/news/articles/cn407dyx24go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn407dyx24go#4</guid>
+            <pubDate>Thu, 01 Jan 2026 00:04:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f9/live/d0471cf0-e657-11f0-a8f2-d9e8fba7dc3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthony Joshua discharged from hospital after Nigeria car crash]]></title>
+            <description><![CDATA[Two of the former world champion's closest friends were killed in the accident on Monday. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvdw77j04o#4</guid>
+            <pubDate>Thu, 01 Jan 2026 00:32:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c5/live/775d3eb0-e6a4-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to 'robustly defend' stripping Begum of citizenship in European court, source says]]></title>
+            <description><![CDATA[The ECHR questions whether it was considered if Shamima Begum was a victim of grooming and trafficking.]]></description>
+            <link>https://www.bbc.com/news/articles/c3wzp693nv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wzp693nv3o#4</guid>
+            <pubDate>Thu, 01 Jan 2026 09:01:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/0b0da7c0-e6ec-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US military says five killed in latest strike on alleged drug boats]]></title>
+            <description><![CDATA[The latest strike comes as the US Coast Guard searches for survivors of another that happened a day earlier.]]></description>
+            <link>https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdq1ple2l4o#4</guid>
+            <pubDate>Thu, 01 Jan 2026 10:19:32 GMT</pubDate>
+            <media:thumbnail width="240" height="110" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7a/live/28724790-e6e6-11f0-b67b-690eb873de1b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy prices rise slightly for millions of households as temperatures fall]]></title>
+            <description><![CDATA[Millions of households in England, Wales and Scotland are seeing a slight rise in energy bills in the new year.]]></description>
+            <link>https://www.bbc.com/news/articles/clyzy5488qqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyzy5488qqo#4</guid>
+            <pubDate>Thu, 01 Jan 2026 00:03:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa79/live/5fe54280-e575-11f0-b0d9-0db50843eef2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Newscast Review of the Year 2025]]></title>
+            <description><![CDATA[The biggest events of the year and what it was like on the inside as they happened.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mqch0p?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mqch0p#6</guid>
+            <pubDate>Wed, 24 Dec 2025 12:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Were our 2025 predictions right?]]></title>
+            <description><![CDATA[The Americast team open the annual end-of-year time capsule.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mpqcjw?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mpqcjw#6</guid>
+            <pubDate>Wed, 24 Dec 2025 07:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baz Luhrmann's epic Elvis biopic starring Austin Butler]]></title>
+            <description><![CDATA[An epic, big-screen spectacle that explores the life and music of Elvis Presley]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002nzws?at_mid=mGEMw411dH&amp;at_campaign=Elvis&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002nzws&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Elvis&amp;at_bbc_team=BBC&amp;at_creation=Film</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002nzws?at_mid=mGEMw411dH&amp;at_campaign=Elvis&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002nzws&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Elvis&amp;at_bbc_team=BBC&amp;at_creation=Film#7</guid>
+            <pubDate>Sat, 27 Dec 2025 22:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8c/live/555570e0-da5a-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swashbuckling Puss embarks on a brave quest]]></title>
+            <description><![CDATA[Puss must beat a host of fairy-tale characters to the magical map of the Wishing Star.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002nzvn?at_mid=7iCYilTXXa&amp;at_campaign=Puss_in_Boots_The_Last_Wish&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002nzvn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Puss_in_Boots_The_Last_Wish&amp;at_bbc_team=BBC&amp;at_creation=Film</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002nzvn?at_mid=7iCYilTXXa&amp;at_campaign=Puss_in_Boots_The_Last_Wish&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002nzvn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Puss_in_Boots_The_Last_Wish&amp;at_bbc_team=BBC&amp;at_creation=Film#7</guid>
+            <pubDate>Fri, 26 Dec 2025 16:53:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ce/live/0ee59b80-da9b-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosenior leading contender for Chelsea job]]></title>
+            <description><![CDATA[Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0er1wx3v28o#8</guid>
+            <pubDate>Thu, 01 Jan 2026 19:58:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17a/live/085f12a0-e725-11f0-9d59-75d9bc66798b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Littler races into semis but Humphries knocked out]]></title>
+            <description><![CDATA[Luke Littler beats Krzysztof Ratajski to reach the PDC World Championship semi-finals, before second seed Luke Humphries loses to Gian van Veen.]]></description>
+            <link>https://www.bbc.com/sport/darts/articles/c4g45vznpyro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/darts/articles/c4g45vznpyro#8</guid>
+            <pubDate>Thu, 01 Jan 2026 22:54:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f2/live/af26beb0-e74f-11f0-a1d9-5fe343b7a62f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What went wrong between Chelsea and Maresca?]]></title>
+            <description><![CDATA[Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0n8d913d8o#8</guid>
+            <pubDate>Thu, 01 Jan 2026 18:21:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad2/live/d8535560-e708-11f0-bda7-cd77a7bc9f3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retiring Khawaja criticises 'racial stereotypes']]></title>
+            <description><![CDATA[Australia batter Usman Khawaja says he has been treated unfairly by the media and former players as he announces his retirement from international cricket.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cy5g32l2621o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cy5g32l2621o#8</guid>
+            <pubDate>Thu, 01 Jan 2026 23:52:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5022/live/e9540310-e75c-11f0-a5c6-e7d20e6a699c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We are not happy' - Man City fall behind Arsenal in title race]]></title>
+            <description><![CDATA[Pep Guardiola questioned whether the Premier League title race was only a two-horse, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm248l1j7jno#8</guid>
+            <pubDate>Thu, 01 Jan 2026 23:33:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5e/live/97d159a0-e768-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Johnson agrees to join Palace in £35m move]]></title>
+            <description><![CDATA[Tottenham attacker Brennan Johnson will undergo the first part of his medical on Thursday after agreeing to join Crystal Palace in a deal worth £35m.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0kej88zvplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kej88zvplo#8</guid>
+            <pubDate>Thu, 01 Jan 2026 17:58:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/20a8c950-e739-11f0-b42f-5fc5f4eab07e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Heavy metal? It's not even aluminium foil football']]></title>
+            <description><![CDATA[As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.]]></description>
+            <link>https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o#8</guid>
+            <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
+        </item>
+    </channel>
+</rss>
