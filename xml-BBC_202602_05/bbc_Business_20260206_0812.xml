@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>https://www.bbc.co.uk/news/business</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/business</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 06 Feb 2026 08:12:56 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Average house price tops £300,000 for first time, says Halifax]]></title>
+            <description><![CDATA[Halifax describes the figure as a "milestone", but potentially daunting for first-time buyers.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jvjp14qjzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jvjp14qjzo#0</guid>
+            <pubDate>Fri, 06 Feb 2026 07:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8013/live/2cf27e90-032c-11f1-bd80-33039048dd81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon shares tumble as it joins the Big Tech AI spending spree]]></title>
+            <description><![CDATA[Technology stocks have fallen this week as investors appeared wary of the sector's big investment plans.]]></description>
+            <link>https://www.bbc.com/news/articles/c150e144we3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c150e144we3o#0</guid>
+            <pubDate>Fri, 06 Feb 2026 00:06:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d8/live/eb75a620-02dd-11f1-aed8-6f159d8910de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin falls to lowest level since Trump took office]]></title>
+            <description><![CDATA[The price of the digital currency has dropped significantly despite President Donald Trump’s public support.]]></description>
+            <link>https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy09x24q0pro#0</guid>
+            <pubDate>Thu, 05 Feb 2026 22:03:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e595/live/265e49c0-9fc2-11ef-b191-89cf3826c79b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada unveils auto industry plan in latest pivot away from US]]></title>
+            <description><![CDATA[The steps to bolster Canada's auto industry come as Trump's tariffs strain the sector and threaten jobs.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgd2j80klmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgd2j80klmo#0</guid>
+            <pubDate>Thu, 05 Feb 2026 23:07:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1c/live/827843e0-02d7-11f1-818d-6b893d658ff1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I can't sell Mum's retirement flat - and it's costing me thousands ]]></title>
+            <description><![CDATA[Relatives face "never-ending nightmare" of service charge debts as thousands of retirement flats stand empty across England and Wales.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgykp79ezyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgykp79ezyo#0</guid>
+            <pubDate>Fri, 06 Feb 2026 00:45:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2853/live/7447f6a0-02b7-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can robots ever be graceful?]]></title>
+            <description><![CDATA[Firms are working to make the motors that drive robots more efficient and cheaper.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y46356zzyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y46356zzyo#0</guid>
+            <pubDate>Fri, 06 Feb 2026 00:05:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ac/live/cc7794e0-fdf1-11f0-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK interest rates held at 3.75% but Bank says future cuts likely]]></title>
+            <description><![CDATA[The Bank of England has kept borrowing costs unchanged but opened the door to cuts later this year.]]></description>
+            <link>https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx1vly05pvo#0</guid>
+            <pubDate>Thu, 05 Feb 2026 17:22:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f679/live/5f5e0e00-01f9-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quiz enters administration for third time]]></title>
+            <description><![CDATA[Some 109 jobs will be cut at the company's headquarters and distribution centre in Scotland.]]></description>
+            <link>https://www.bbc.com/news/articles/cdre12dnxlzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdre12dnxlzo#1</guid>
+            <pubDate>Thu, 05 Feb 2026 16:50:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8c/live/ca1d98c0-02a6-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jobs set to be cut at Wedgwood]]></title>
+            <description><![CDATA[Seventy workers at the Staffordshire site were put on temporary leave last year due to slow demand.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgl5xrx4y9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgl5xrx4y9o#1</guid>
+            <pubDate>Thu, 05 Feb 2026 18:10:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea61/live/d7c93750-9315-11f0-be26-dfb5c8eb987f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warning of long airport queues under new EU border control system]]></title>
+            <description><![CDATA[Airport organisation says queues could last up to six hours over the summer holidays.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0k699pxwzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0k699pxwzo#1</guid>
+            <pubDate>Thu, 05 Feb 2026 11:06:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de9/live/cea33d30-0280-11f1-853d-351197b9900b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Target is under fire over Minnesota ICE raids]]></title>
+            <description><![CDATA[Workers are writing letters, staging strikes and in some cases resigning over how bosses are handling the immigration crackdown.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4y4gwjpeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4y4gwjpeo#1</guid>
+            <pubDate>Thu, 05 Feb 2026 13:19:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e767/live/f7bdd510-0292-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Funeral firm executives face fraud charges in court]]></title>
+            <description><![CDATA[Safe Hands collapsed in 2022, leaving 46,000 customers without the funeral plans they had paid for.]]></description>
+            <link>https://www.bbc.com/news/articles/c2k9l4djq3ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2k9l4djq3ko#1</guid>
+            <pubDate>Thu, 05 Feb 2026 14:19:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/f8f27e20-028a-11f1-9972-d3f265c101c6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[US probes Nike over white workers' discrimination claims]]></title>
+            <description><![CDATA[Court documents allege the sportswear company treated white employees less favourably.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y31vnnjepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y31vnnjepo#1</guid>
+            <pubDate>Wed, 04 Feb 2026 23:07:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0532/live/9f61a700-0212-11f1-8b23-3321f449a1a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US launches plan to tackle China's critical minerals dominance]]></title>
+            <description><![CDATA[The event was attended by representatives of more than 50 countries, the White House said.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y41r5rzrno#1</guid>
+            <pubDate>Thu, 05 Feb 2026 03:33:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de46/live/e65a32c0-0231-11f1-a567-cb14f69dbbca.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washington Post announces sweeping layoffs as it scales back news coverage]]></title>
+            <description><![CDATA[A former editor describes the massive cuts as one of the "darkest days" in the history of the storied newspaper.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyn05d1494o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyn05d1494o#1</guid>
+            <pubDate>Wed, 04 Feb 2026 21:04:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/981d/live/29abda60-0200-11f1-b311-a93d45a0b96f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clients and staff in dark as law firm shuts doors]]></title>
+            <description><![CDATA[Staff and clients say they are desperate for answers following the sudden closure of PM Law.]]></description>
+            <link>https://www.bbc.com/news/articles/c3wzvggxz67o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wzvggxz67o#1</guid>
+            <pubDate>Wed, 04 Feb 2026 19:41:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af07/live/28208070-01f5-11f1-b7e1-afb6d0884c18.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Wegovy maker warns price cuts 'painful' for firm as shares plunge]]></title>
+            <description><![CDATA[Novo Nordisk is facing "unprecedented" price pressures, "intensifying competition" and patents expiring.]]></description>
+            <link>https://www.bbc.com/news/articles/c8e5zzrjllgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e5zzrjllgo#1</guid>
+            <pubDate>Wed, 04 Feb 2026 16:45:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a1/live/eaaff7c0-01c2-11f1-9921-b31487791c6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pinterest sacks engineers for tracking staff job cuts]]></title>
+            <description><![CDATA[The social media platform recently announced that it was axing around 15% of its workforce.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0k670n0ydo#1</guid>
+            <pubDate>Wed, 04 Feb 2026 06:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc2a/live/c3f02750-0185-11f1-a3fd-fdeeb4081d60.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walmart becomes first retailer to hit $1tn market value]]></title>
+            <description><![CDATA[The milestone reflects the US retail giant's booming e-commerce business and investors' embrace of its AI investments.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgp7ry9evwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgp7ry9evwo#1</guid>
+            <pubDate>Tue, 03 Feb 2026 18:12:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc1/live/90b7c1c0-0196-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold rebounds above $5,000 after US downs Iran drone]]></title>
+            <description><![CDATA[Precious metal price voliatility continues as geopolitical tensions push investors to safe-haven assets.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y2nn582l5o#1</guid>
+            <pubDate>Wed, 04 Feb 2026 14:35:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce31/live/1273a030-fdb9-11f0-8e3f-176b350fc659.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netflix and Warner Bros struggle to defend merger]]></title>
+            <description><![CDATA[Concerns were raised by a subcommittee including potential price rises and the future of cinemas.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydndkmvy2o#1</guid>
+            <pubDate>Tue, 03 Feb 2026 23:42:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d7/live/642fb430-0152-11f1-8083-f16316d6e48a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One million people miss HMRC tax return deadline]]></title>
+            <description><![CDATA[The UK's tax authority says 27,456 people filed in the final hour before the cut-off at the end of Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c150882d9vzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c150882d9vzo#1</guid>
+            <pubDate>Tue, 03 Feb 2026 11:55:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eac4/live/588883a0-0102-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disney names Josh D'Amaro as new chief executive]]></title>
+            <description><![CDATA[The media giant chooses the head of its amusement park business to replace longtime boss Bob Iger.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4qxdq2147o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4qxdq2147o#1</guid>
+            <pubDate>Tue, 03 Feb 2026 19:04:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1710/live/57efde60-0108-11f1-9f45-b5ac3988a18d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PepsiCo to cut some US snack prices after backlash]]></title>
+            <description><![CDATA[The snack conglomerate is cutting the price of products including Doritos, Cheetos and Lays]]></description>
+            <link>https://www.bbc.com/news/articles/cm2y38v4prvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2y38v4prvo#1</guid>
+            <pubDate>Tue, 03 Feb 2026 17:36:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce7/live/da8622b0-0119-11f1-a88f-113f60a613fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stop watching Netflix and go to the pub, Welsh first minister says]]></title>
+            <description><![CDATA[Eluned Morgan said her government can't be expected "to step in and do the work" to save struggling pubs.]]></description>
+            <link>https://www.bbc.com/news/articles/cpv7gj30vgmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv7gj30vgmo#1</guid>
+            <pubDate>Tue, 03 Feb 2026 15:37:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ef/live/a2b299e0-0119-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Irn-Bru maker AG Barr buys two rival brands in £50m deal ]]></title>
+            <description><![CDATA[The company said the two brands reflect the consumer's switch from alcoholic beverages to "adult soft drinks".]]></description>
+            <link>https://www.bbc.com/news/articles/c62vydn3k2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62vydn3k2lo#1</guid>
+            <pubDate>Tue, 03 Feb 2026 12:20:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9abe/live/53c21860-00f6-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank hints at rate cuts, but don't expect Covid-era mortgage deals]]></title>
+            <description><![CDATA[The Bank of England may have suggested more rate cuts are on the way, but they are unlikely to go much lower.]]></description>
+            <link>https://www.bbc.com/news/articles/czdq9gzdq5qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdq9gzdq5qo#2</guid>
+            <pubDate>Thu, 05 Feb 2026 16:10:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/cc2d6920-02aa-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silence and inaction - how audio helped prove captain guilty of North Sea tanker crash]]></title>
+            <description><![CDATA[The top detective investigating the tanker collision says there were early signs of gross negligence from Vladimir Motin]]></description>
+            <link>https://www.bbc.com/news/articles/c5yv1d7g2ldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv1d7g2ldo#2</guid>
+            <pubDate>Thu, 05 Feb 2026 13:19:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/319c/live/c05c67a0-0295-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Chinese planemaker taking on Boeing and Airbus]]></title>
+            <description><![CDATA[Comac's passenger jet is attracting customers in South East Asia where demand for affordable aircraft is growing.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3exl1k247o#2</guid>
+            <pubDate>Tue, 03 Feb 2026 23:04:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c6/live/29b49160-015a-11f1-ba12-b594244b3536.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The yachting industry searches for alternatives to teak]]></title>
+            <description><![CDATA[Prized for its beauty, teak is in short supply, forcing the yacht industry to look for alternatives.]]></description>
+            <link>https://www.bbc.com/news/articles/clygdez8d41o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygdez8d41o#2</guid>
+            <pubDate>Wed, 04 Feb 2026 13:42:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ff/live/0baae760-fb5f-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asda has lost its mojo and has a big fight to get it back]]></title>
+            <description><![CDATA[The industry data suggests that despite Asda embarking on a turnaround, it has been losing ground to rivals.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0yrrr1ryvo#2</guid>
+            <pubDate>Sun, 01 Feb 2026 00:45:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0366/live/e89cb2d0-fdca-11f0-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare earths and data centres: India pushes local industry as global tensions rise]]></title>
+            <description><![CDATA[India's budget focuses on infrastructure and defence spending and tax breaks for data-centre investments.]]></description>
+            <link>https://www.bbc.com/news/articles/c3dm790vxlko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dm790vxlko#2</guid>
+            <pubDate>Sun, 01 Feb 2026 09:15:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ebf/live/c3cf1ae0-ff4d-11f0-861a-555f9d353c11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visit the North Sea oil field used to store greenhouse gas]]></title>
+            <description><![CDATA[Hundreds of miles from Denmark's coast a project is underway to inject CO2 into an old oil field.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5y7dd284do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y7dd284do#2</guid>
+            <pubDate>Fri, 30 Jan 2026 00:10:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fa/live/d42b7830-fdb2-11f0-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Trump's pick to lead US central bank get him the change he wants?]]></title>
+            <description><![CDATA[Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run. ]]></description>
+            <link>https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx1qrx5jgzo#2</guid>
+            <pubDate>Fri, 30 Jan 2026 22:15:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f296/live/2dea3af0-fe1c-11f0-aa16-29d94d729f34.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['You don't feel judged': Why we buy more at self-service terminals]]></title>
+            <description><![CDATA[How restaurants and retailers use behavioural science to get us to increase our spending.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9y1wvq3pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9y1wvq3pdo#2</guid>
+            <pubDate>Thu, 29 Jan 2026 00:05:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a4/live/93de8de0-faeb-11f0-adda-0755af0bac4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can India be a player in the computer chip industry?]]></title>
+            <description><![CDATA[India is investing hundreds of millions of dollars in building up a computer chip industry.]]></description>
+            <link>https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn40j0772vwo#2</guid>
+            <pubDate>Tue, 27 Jan 2026 00:05:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caribbean cannabis growers eye budding domestic sales and exports]]></title>
+            <description><![CDATA[Producers in Jamaica and Antigua hope that increasing liberalisation will lead to higher revenues.]]></description>
+            <link>https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ndp17jv0o#2</guid>
+            <pubDate>Mon, 26 Jan 2026 06:49:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6b/live/93434f40-f77d-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump covets mineral-rich Greenland, but what natural resources does it actually have?]]></title>
+            <description><![CDATA[Greenland's natural resources include large reserves of rare earth deposits.]]></description>
+            <link>https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9230yw15o#2</guid>
+            <pubDate>Fri, 23 Jan 2026 12:39:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae80/live/c49ff570-f868-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI ready: The advantages of being a young entrepreneur]]></title>
+            <description><![CDATA[The latest generation of entrepreneurs have a head-start with AI but also face familiar challenges.]]></description>
+            <link>https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c058d4nvz1go#2</guid>
+            <pubDate>Fri, 23 Jan 2026 00:02:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cbb/live/b804e3f0-f202-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Slovakia became the world's number one carmaker]]></title>
+            <description><![CDATA[The European country is the biggest autos manufacturer relative to the size of its population.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2yvz838deo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2yvz838deo#2</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7156/live/1b63ed80-f229-11f0-a33d-037f0064a0e8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says tiny cars are amazing but will Americans actually buy them?]]></title>
+            <description><![CDATA[The president wants to bring to the US tiny vehicles, like those commonly seen on the streets of Japan.]]></description>
+            <link>https://www.bbc.com/news/articles/c17xvqlx8r8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17xvqlx8r8o#2</guid>
+            <pubDate>Wed, 21 Jan 2026 09:57:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc2/live/decf89c0-e1ec-11f0-8237-6530b46af173.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are 'tech dense' farms the future of farming?]]></title>
+            <description><![CDATA[A host of technology is on offer to farmers, promising to raise farming yields and lower food prices.]]></description>
+            <link>https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78e4l3rm22o#2</guid>
+            <pubDate>Tue, 20 Jan 2026 00:00:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336a/live/2744e100-f511-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK interest rates held at 3.75% but Bank says future cuts likely]]></title>
+            <description><![CDATA[The Bank of England has kept borrowing costs unchanged but opened the door to cuts later this year.]]></description>
+            <link>https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx1vly05pvo#4</guid>
+            <pubDate>Thu, 05 Feb 2026 17:22:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f679/live/5f5e0e00-01f9-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are UK interest rates expected to fall soon? ]]></title>
+            <description><![CDATA[The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.]]></description>
+            <link>https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dky111m40o#4</guid>
+            <pubDate>Thu, 05 Feb 2026 12:56:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a227/live/ce58b360-db33-11f0-9997-ed89cd5d199e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are UK prices still rising?]]></title>
+            <description><![CDATA[UK Inflation has dropped back from record highs but remains above the Bank of England's 2% target.]]></description>
+            <link>https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17rgd8e9gjo#4</guid>
+            <pubDate>Thu, 05 Feb 2026 12:52:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My bills are lower and I'm warmer in energy efficient home']]></title>
+            <description><![CDATA[179,000 households meet the Department for Communities' fuel poverty criteria, spending at least 10% of their income to cover domestic energy bills.]]></description>
+            <link>https://www.bbc.com/news/articles/cn42k0n40x8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn42k0n40x8o#4</guid>
+            <pubDate>Thu, 05 Feb 2026 12:38:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4567/live/e757a1c0-0282-11f1-853d-351197b9900b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social supermarket aims to provide affordable food]]></title>
+            <description><![CDATA[The charity's founder says the supermarket also aims to help users get support from other services.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7j334jpypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7j334jpypo#4</guid>
+            <pubDate>Thu, 05 Feb 2026 06:56:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8599/live/aed7fa80-01be-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The real impact of roadworks on the country - and why they're set to get worse]]></title>
+            <description><![CDATA[There is a fine balance between the benefits of improved infrastructure, versus the cost of disruption. Does the country have it right?]]></description>
+            <link>https://www.bbc.com/news/articles/c23e3d1r17go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23e3d1r17go#5</guid>
+            <pubDate>Sun, 11 Jan 2026 01:26:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/93436310-e565-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the railways often seem to be in such chaos over Christmas]]></title>
+            <description><![CDATA[Parts of Britain’s rail network will close for engineering work over the festive period - but is that the right time to do it?]]></description>
+            <link>https://www.bbc.com/news/articles/czdg795m5epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdg795m5epo#5</guid>
+            <pubDate>Mon, 22 Dec 2025 00:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff22/live/8a4ad250-dc02-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2025: What's the best and worst that could happen for Labour?]]></title>
+            <description><![CDATA[Three days in, after a tax U-turn and partial climbdown on workers' rights, Laura Kuenssberg looks at what impact Budget week might have.]]></description>
+            <link>https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlk5gd3kv9o#5</guid>
+            <pubDate>Sat, 29 Nov 2025 15:14:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f8/live/69cf48b0-cc69-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Britain's budget watchdog become too all-powerful?]]></title>
+            <description><![CDATA[Ahead of this week's Budget, some have accused the Office for Budget Responsibility of being a "straitjacket on growth"]]></description>
+            <link>https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx9n5p7v7o#5</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/c2f81410-c950-11f0-8c06-f5d460985095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The curious case of why Poundland is struggling during a cost-of-living crisis]]></title>
+            <description><![CDATA[Why - in an age where so many of us are feeling the financial pinch - are some budget shops on UK high streets having such a tough time?]]></description>
+            <link>https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gkgxeeyzno#5</guid>
+            <pubDate>Fri, 21 Nov 2025 08:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424a/live/63c58a80-c627-11f0-a892-01d657345866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: 20-tonne reservoir wall installed in three-day project]]></title>
+            <description><![CDATA[The steel structure was lowered into place at the new reservoir in a 72-hour continuous operation.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2xrxg97n1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2xrxg97n1o#6</guid>
+            <pubDate>Thu, 05 Feb 2026 14:40:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/5c3c6920-029d-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gary Neville returns to the Den]]></title>
+            <description><![CDATA[Gary Neville re-joins the dragons as they put another set of business hopefuls to the test.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgdrrnlyjlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgdrrnlyjlo#6</guid>
+            <pubDate>Thu, 05 Feb 2026 06:18:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b03/live/849b14a0-01aa-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Guest Dragon Jenna Meek likes to do business]]></title>
+            <description><![CDATA[Jenna Meek joins the Dragons' Den as a guest for the first time.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2xk9w6ewzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2xk9w6ewzo#6</guid>
+            <pubDate>Fri, 30 Jan 2026 13:30:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/521bc830-fdd1-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Apprentice is back! Meet the new candidates]]></title>
+            <description><![CDATA[Twenty candidates are hoping to secure a £250,000 investment from Lord Sugar.]]></description>
+            <link>https://www.bbc.com/news/videos/cz6y2580eeqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz6y2580eeqo#6</guid>
+            <pubDate>Thu, 29 Jan 2026 06:08:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9056/live/2bea6880-fc49-11f0-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Why Trump is hitting the road to rally Americans]]></title>
+            <description><![CDATA[The BBC's White House reporter Bernd Debusmann explains why the president is refocusing his attention on the US economy.]]></description>
+            <link>https://www.bbc.com/news/videos/cz0p2xy38d0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz0p2xy38d0o#6</guid>
+            <pubDate>Tue, 27 Jan 2026 23:22:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5318/live/0d646580-fbd3-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+    </channel>
+</rss>
