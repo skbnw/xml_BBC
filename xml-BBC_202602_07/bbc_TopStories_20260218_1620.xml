@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 18 Feb 2026 16:20:26 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Lower food and fuel prices drive inflation down to 3%]]></title>
+            <description><![CDATA[The rate at which prices are rising is slowing down, which could lead to lower interest rates.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yg04jg1n5o#0</guid>
+            <pubDate>Wed, 18 Feb 2026 09:16:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce45/live/08db9060-0c9a-11f1-ab92-c5c4ffbfd0e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Difficult' Russia-Ukraine peace talks end without breakthrough]]></title>
+            <description><![CDATA[The second day of negotiations between Ukraine and Russia ended after just two hours.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k1xj0d708o#0</guid>
+            <pubDate>Wed, 18 Feb 2026 14:38:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/677dc670-0cc6-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children injured by NHS can claim damages for lifetime of lost earnings, court rules]]></title>
+            <description><![CDATA[The decision from the Supreme Court, on the case of a child who sustained a brain injury at birth in 2015, could have significant cost implications for the NHS.]]></description>
+            <link>https://www.bbc.com/news/articles/clygw74z9dzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygw74z9dzo#0</guid>
+            <pubDate>Wed, 18 Feb 2026 16:02:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/ecf59920-0cd2-11f1-a2e4-19f6f2c0e79a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met making 'initial inquiries' into claims about Andrew protection officers]]></title>
+            <description><![CDATA[It comes after claims emerged that protection officers "turned a blind eye" during visits to Jeffrey Epstein's island.]]></description>
+            <link>https://www.bbc.com/news/articles/cy57ry1vne0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy57ry1vne0o#0</guid>
+            <pubDate>Wed, 18 Feb 2026 14:36:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df13/live/cdea9c20-0cb3-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uefa investigates alleged racist abuse against Real Madrid player during Benfica match]]></title>
+            <description><![CDATA[Benfica claim there is a "defamation campaign" against Gianluca Prestianni as Uefa launch an investigation into claims he racially abused Real Madrid's Vinicius Jr.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx24vnm4dp5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24vnm4dp5o#0</guid>
+            <pubDate>Wed, 18 Feb 2026 15:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d9/live/64670730-0cdf-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB medal hopes still alive after double win over US]]></title>
+            <description><![CDATA[Team GB's slim Winter Olympics curling medal hopes are still alive after both the men's and women's rink edge out the United States in Cortina.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0q3nejy1pjo#0</guid>
+            <pubDate>Wed, 18 Feb 2026 15:08:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b7/live/f9bc74b0-0cd9-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flooding may worsen as unsettled weather expected to last for at least another month]]></title>
+            <description><![CDATA[With wet and unsettled weather expected to continue flood affected areas will have to wait longer for any respite as Sarah Keith-Lucas explains.]]></description>
+            <link>https://www.bbc.com/weather/articles/cgrz24y2wvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cgrz24y2wvno#0</guid>
+            <pubDate>Wed, 18 Feb 2026 14:54:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9548/live/53b09ea0-0beb-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Driver guilty over fatal smart motorway crash]]></title>
+            <description><![CDATA[Barry O'Sullivan killed 68-year-old Pulvinder Dhillon after driving into a stationary car on the M4.]]></description>
+            <link>https://www.bbc.com/news/articles/c8r1k0d2nreo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r1k0d2nreo#0</guid>
+            <pubDate>Wed, 18 Feb 2026 15:16:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2225/live/c0b5bbb0-0cdc-11f1-b054-335fa224f76a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Skier tells BBC of 'panic' as avalanche hit Italian slopes]]></title>
+            <description><![CDATA[Footage shows a queue of people, including children, covered in snow after an avalanche struck a valley in Courmayeur.]]></description>
+            <link>https://www.bbc.com/news/videos/cre0qz7v23go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cre0qz7v23go#0</guid>
+            <pubDate>Wed, 18 Feb 2026 13:38:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fd/live/22475f40-0cb6-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William says it has taken 'long time to understand my emotions']]></title>
+            <description><![CDATA[Prince William has offered his advice to those struggling with their mental health, in a special Radio 1 panel discussion.]]></description>
+            <link>https://www.bbc.com/news/articles/cm21d4j26pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21d4j26pdo#0</guid>
+            <pubDate>Wed, 18 Feb 2026 08:15:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ae/live/ffa5be40-0ca7-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plan to increase youth minimum wage could be delayed]]></title>
+            <description><![CDATA[Government sources tell BBC News they could slow down plans to make minimum wage equal across age groups.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y6g57j3meo#0</guid>
+            <pubDate>Wed, 18 Feb 2026 16:13:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0500/live/88f440d0-0cc7-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['How on earth have they done that?' - see Morrison's miracle shot that stole win for GB]]></title>
+            <description><![CDATA[Rebecca Morrison hit an incredible shot against the USA to win the game and give Team GB a chance of progressing into the curling semi-finals.]]></description>
+            <link>https://www.bbc.com/sport/videos/cwyk6485103o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/videos/cwyk6485103o#1</guid>
+            <pubDate>Wed, 18 Feb 2026 13:01:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3540/live/2bc90470-0cc9-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Lindsey Vonn shares her journey home after Olympics crash]]></title>
+            <description><![CDATA[The US skier was the Olympic downhill champion in 2010 and had been hoping for a fairytale ending to her illustrious career in 2026.]]></description>
+            <link>https://www.bbc.com/news/videos/cgk2gj3zm8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgk2gj3zm8do#1</guid>
+            <pubDate>Wed, 18 Feb 2026 14:56:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d7f/live/5b5253a0-0cd7-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USA's Shiffrin wins slalom gold in emphatic style]]></title>
+            <description><![CDATA[American star Mikaela Shiffrin cemented her status as the greatest alpine skier of all time as she won Olympic slalom gold in emphatic fashion.]]></description>
+            <link>https://www.bbc.com/sport/articles/ce8n4yp20zyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/ce8n4yp20zyo#1</guid>
+            <pubDate>Wed, 18 Feb 2026 14:53:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a3c/live/9ccabab0-0ce2-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a fatal crash happened on a smart motorway]]></title>
+            <description><![CDATA[Pulvinder Dhillon, 68, from London, died after the crash on the M4 in Berkshire in March 2022. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4g2d4l1x15o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2d4l1x15o#2</guid>
+            <pubDate>Wed, 18 Feb 2026 15:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21cd/live/05e79fc0-0cd1-11f1-9972-d3f265c101c6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Under pressure from Trump, Venezuela's new president has aces up her sleeve]]></title>
+            <description><![CDATA[Delcy Rodriguez knows its in America's interests for her to be a success]]></description>
+            <link>https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn87rv0jdy1o#2</guid>
+            <pubDate>Wed, 18 Feb 2026 00:48:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363f/live/f3c1e430-0be6-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Just push us into the sea': The frustration of a coastal community failed by political promises]]></title>
+            <description><![CDATA[In Horden, County Durham, Westminster slogans have long been left unmet as the population has plummeted.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2136jnjx1o#2</guid>
+            <pubDate>Wed, 18 Feb 2026 01:31:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0d/live/879dea90-0c01-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I invested £12,000 in Brewdog  - I think I've lost it all]]></title>
+            <description><![CDATA[More than 200,000 people bought Equity for Punks shares in the craft brewer but many now believe they are worthless.]]></description>
+            <link>https://www.bbc.com/news/articles/c795879x08go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c795879x08go#2</guid>
+            <pubDate>Wed, 18 Feb 2026 06:24:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/338d/live/322fcfc0-0c05-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cynthia Erivo ignores online criticism as Dracula gets mixed reviews]]></title>
+            <description><![CDATA[The Wicked star appears in a one-woman version of the classic horror story in London's West End.]]></description>
+            <link>https://www.bbc.com/news/articles/cqxd4r4xzx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqxd4r4xzx1o#2</guid>
+            <pubDate>Wed, 18 Feb 2026 10:30:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5d6/live/dd3862f0-0cb5-11f1-86b4-33cb5141efc0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All I could think about was death: Women from Syria's Alawite minority tell of kidnap and rape]]></title>
+            <description><![CDATA[The BBC hears harrowing accounts of assaults appearing to target the sect of former President Assad.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5g751pl7lo#2</guid>
+            <pubDate>Wed, 18 Feb 2026 00:20:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/c29b6760-0b36-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I used to hate my appearance. Here's how I learned to accept it]]></title>
+            <description><![CDATA[Tilly and Charlotte share their experiences of body dysmorphic disorder and how they recovered from it.]]></description>
+            <link>https://www.bbc.com/news/articles/cre2pelrpwzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cre2pelrpwzo#2</guid>
+            <pubDate>Wed, 18 Feb 2026 01:48:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/da727020-075a-11f1-925d-919faf925e25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Climber on trial for leaving girlfriend to die on Austria's highest mountain ]]></title>
+            <description><![CDATA[Kerstin G's boyfriend is accused of leaving her unprotected and exhausted close to the summit during a blizzard.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv9plyjgpo#4</guid>
+            <pubDate>Wed, 18 Feb 2026 07:58:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207b/live/9f1fc350-0c97-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wave of arrests over killing of French nationalist piles pressure on far left]]></title>
+            <description><![CDATA[Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.]]></description>
+            <link>https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62dzgy0q37o#4</guid>
+            <pubDate>Wed, 18 Feb 2026 15:03:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c9/live/74ba7ad0-0cb8-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers search for nine missing skiers after California avalanche]]></title>
+            <description><![CDATA[Forecasters warn that heavy snowfall is likely to continue in the area over the next few days, making rescue efforts more difficult.]]></description>
+            <link>https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62dke15357o#4</guid>
+            <pubDate>Wed, 18 Feb 2026 15:29:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3194/live/208f8f00-0c67-11f1-986c-b11ea963c0e7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Defence giant BAE hails record sales as workers remain on strike]]></title>
+            <description><![CDATA[Defence company BAE has increased payouts to investors after its sales increased but staff in Lancashire have walked out over stalled pay talks]]></description>
+            <link>https://www.bbc.com/news/articles/cy4w8nxnp94o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4w8nxnp94o#4</guid>
+            <pubDate>Wed, 18 Feb 2026 14:10:10 GMT</pubDate>
+            <media:thumbnail width="240" height="167" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/b9067570-0cdd-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine officials to boycott Winter Paralympics]]></title>
+            <description><![CDATA[Ukraine officials will "not be present at the opening ceremony" or "take part in any other official Paralympic events" at next month's Winter Games following the inclusion of Russia and Belarus.]]></description>
+            <link>https://www.bbc.com/sport/articles/cdxgnzl76vwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cdxgnzl76vwo#4</guid>
+            <pubDate>Wed, 18 Feb 2026 14:20:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ff/live/ba508b40-0c25-11f1-b639-2bb91f8e49a9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestine Action activists to face retrial]]></title>
+            <description><![CDATA[Deanna Heer KC says a retrial will be pursued on all charges which did not end in verdicts.]]></description>
+            <link>https://www.bbc.com/news/articles/crk8xd4m6v0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk8xd4m6v0o#4</guid>
+            <pubDate>Wed, 18 Feb 2026 12:37:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d229/live/15ac9030-0cc4-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Otter cubs rescued after sheltering in car engine]]></title>
+            <description><![CDATA[The tired and cold cubs were taken in for the night by Karen Watson, who kept them in a cardboard box in her bathtub.]]></description>
+            <link>https://www.bbc.com/news/articles/cpw0zrn919po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw0zrn919po#4</guid>
+            <pubDate>Wed, 18 Feb 2026 12:47:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a25c/live/2d9b5f00-0cbf-11f1-b2bd-6154c58a2dc8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is There A Gen Z Jobs Crisis?]]></title>
+            <description><![CDATA[Youth unemployment hits a more than 10 year high.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n1p693?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n1p693#6</guid>
+            <pubDate>Tue, 17 Feb 2026 20:43:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did US Attorney General lose her temper during Epstein Files questioning?]]></title>
+            <description><![CDATA[And did Barack Obama accidentally confirm the existence of aliens?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n1j520?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n1j520#6</guid>
+            <pubDate>Tue, 17 Feb 2026 05:21:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Defamation campaign' against Prestianni - Benfica]]></title>
+            <description><![CDATA[Benfica claim there is a "defamation campaign" against Gianluca Prestianni as Uefa launch an investigation into claims he racially abused Real Madrid's Vinicius Jr.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx24vnm4dp5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24vnm4dp5o#8</guid>
+            <pubDate>Wed, 18 Feb 2026 15:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d9/live/64670730-0cdf-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB's curling medal hopes still alive after double win over US]]></title>
+            <description><![CDATA[Team GB's slim Winter Olympics curling medal hopes are still alive after both the men's and women's rink edge out the United States in Cortina.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0q3nejy1pjo#8</guid>
+            <pubDate>Wed, 18 Feb 2026 15:08:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b7/live/f9bc74b0-0cd9-11f1-9972-d3f265c101c6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton finds new F1 cars 'more fun' to drive]]></title>
+            <description><![CDATA[Lewis Hamilton says he finds the new Formula 1 cars this year "more fun" to drive - in contrast to the views of Max Verstappen and Fernando Alonso.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c20z9wlw1vpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c20z9wlw1vpo#8</guid>
+            <pubDate>Wed, 18 Feb 2026 16:09:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1080/live/cd5688c0-0ccf-11f1-8769-0f5f9bcb41dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It smacks of England' - Australia fail again at T20 World Cup]]></title>
+            <description><![CDATA[Muddled selection and the lack of a plan B - how Australia's T20 World Cup campaign was derailed in Sri Lanka.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cqxd4rgr99qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cqxd4rgr99qo#8</guid>
+            <pubDate>Wed, 18 Feb 2026 10:28:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8406/live/8d5bdf80-0cad-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[USA's Shiffrin wins slalom gold in emphatic style]]></title>
+            <description><![CDATA[American star Mikaela Shiffrin cemented her status as the greatest alpine skier of all time as she won Olympic slalom gold in emphatic fashion.]]></description>
+            <link>https://www.bbc.com/sport/articles/ce8n4yp20zyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/ce8n4yp20zyo#8</guid>
+            <pubDate>Wed, 18 Feb 2026 14:53:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a3c/live/9ccabab0-0ce2-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Scotland must buck trend to get into title mix with win in Wales']]></title>
+            <description><![CDATA[Scotland have historically flopped in the game after beating England in the Six Nations - lock Scott Cummings says they are determined to put that right this year. ]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cy4wl1nvzpko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cy4wl1nvzpko#8</guid>
+            <pubDate>Wed, 18 Feb 2026 12:09:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b0/live/ddfb6d30-0ca7-11f1-8a2e-f7196ca8aeec.jpg"/>
+        </item>
+    </channel>
+</rss>
