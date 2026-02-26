@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 26 Feb 2026 00:21:52 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud]]></title>
+            <description><![CDATA[Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2g3vmde0eo#0</guid>
+            <pubDate>Wed, 25 Feb 2026 17:00:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f16/live/170d1a60-10d1-11f1-97cc-8b3c62c7814d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC on streets of Mexican city gripped by deadly cartel violence]]></title>
+            <description><![CDATA[BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence.]]></description>
+            <link>https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cqlgz0xk5zyo#0</guid>
+            <pubDate>Wed, 25 Feb 2026 22:35:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/0ee28050-1298-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump keeps world waiting on his plans for Iran after State of the Union]]></title>
+            <description><![CDATA[The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making.]]></description>
+            <link>https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge821xwyz8o#0</guid>
+            <pubDate>Wed, 25 Feb 2026 15:16:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a855/live/4b7688f0-124c-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says]]></title>
+            <description><![CDATA[A newspaper reports Gates apologised to staff over his links to Epstein and said: "I did nothing illicit. I saw nothing illicit."]]></description>
+            <link>https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnv6rjp468ro#0</guid>
+            <pubDate>Wed, 25 Feb 2026 13:18:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb92/live/eb1973c0-1230-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four shot dead on US-registered speedboat by border guards, Cuba says]]></title>
+            <description><![CDATA[The identities of those on board - including six others who were wounded - is unclear. ]]></description>
+            <link>https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24drvj8yl2o#0</guid>
+            <pubDate>Wed, 25 Feb 2026 23:23:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04a/live/67d87ed0-1293-11f1-968e-4d50907d82c2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six months after two police officers killed, will conspiracy theorist who ran into bush ever be found?]]></title>
+            <description><![CDATA[Conspiracist Dezi Freeman hasn't been seen again – but people in the small town of Porepunkah want closure. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm280j2jgvyo#0</guid>
+            <pubDate>Wed, 25 Feb 2026 19:05:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927d/live/fb316d20-129a-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories]]></title>
+            <description><![CDATA[The release comes on the same day as the death of the coup leader, Antonio Tejero Molina.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8w42e152xo#0</guid>
+            <pubDate>Wed, 25 Feb 2026 19:30:25 GMT</pubDate>
+            <media:thumbnail width="240" height="157" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7483/live/a62a7100-127c-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Politician brothers convicted in Brazil for ordering murder of prominent councillor]]></title>
+            <description><![CDATA[Marielle Franco's murder at the age of 38 in Rio de Janeiro sparked protests across Brazil. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g058v3d35o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 19:35:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef2/live/344cac70-1280-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo to visit four African countries in April]]></title>
+            <description><![CDATA[This is the first time that a pope will visit Algeria, whose population is mostly Muslim.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1vdgl3ymo#1</guid>
+            <pubDate>Wed, 25 Feb 2026 18:47:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c2/live/cd035510-1274-11f1-a881-21e035cd6577.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss bar fire victims to get solidarity payout]]></title>
+            <description><![CDATA[The so-called solidarity contribution will go to each of the 115 injured and the families of the 41 who died.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e9d6pd9ejo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e9d6pd9ejo#1</guid>
+            <pubDate>Wed, 25 Feb 2026 16:51:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b741/live/b30c54d0-1266-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zimbabwe rejects 'lopsided' US health aid deal over data concerns]]></title>
+            <description><![CDATA[Access to biological samples raised flags for Zimbabwe as the US did not want to share the benefits of its research.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6nd3664no#1</guid>
+            <pubDate>Wed, 25 Feb 2026 15:25:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ae/live/39a3f490-1261-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan to deploy missiles on island near Taiwan by 2031]]></title>
+            <description><![CDATA[The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9gj1w2kn1o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 06:00:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2674/live/a06c4dd0-11f8-11f1-ac81-73be0b86ece0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss]]></title>
+            <description><![CDATA[Min Hee-jin has said she "can no longer bear to watch" the group get "torn apart".]]></description>
+            <link>https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qd17e274o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 07:54:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e00/live/0b343b40-121d-11f1-9123-81d30b1ac5de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two charged with murder of Australian grandfather after 'mistaken identity' kidnapping]]></title>
+            <description><![CDATA[Chris Baghsarian, 85, was taken from his home and murdered, in what authorities believe was a case of mistaken identity. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm21zdxzr0ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21zdxzr0ko#1</guid>
+            <pubDate>Wed, 25 Feb 2026 14:12:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac21/live/c5c7fe40-1120-11f1-8b3d-a740410c025d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Senegal PM proposes tougher anti-LGBT law, doubling prison terms]]></title>
+            <description><![CDATA[The bill seeks prison terms of five to ten years for what it describes as "acts against nature".]]></description>
+            <link>https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vj15zlmv6o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 05:46:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26b/live/e38804a0-1203-11f1-bd5e-af799bf42f36.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese dance group's tour triggers bomb threat against Australian PM]]></title>
+            <description><![CDATA[The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3gj35q541o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 08:13:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce06/live/6b6d9310-11fc-11f1-9aaf-2d926c8af0e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[German chancellor warns of trade imbalance with China during first Beijing trip]]></title>
+            <description><![CDATA[German business groups urged Merz to send a clear signal to China on competition and export controls.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yjpke8072o#1</guid>
+            <pubDate>Wed, 25 Feb 2026 17:50:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f12/live/248150a0-120f-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fact-checking Trump's longest ever State of the Union]]></title>
+            <description><![CDATA[President Donald Trump said the US "is winning again" - making a series of claims about his record in a speech which lasted almost two hours.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmlzg0p8k2o#2</guid>
+            <pubDate>Wed, 25 Feb 2026 10:40:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea4/live/e2517fa0-1233-11f1-801d-ed3cff6bf876.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Drones hammer Sudan's gold and oil zone - the pivotal new front line]]></title>
+            <description><![CDATA[Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive.]]></description>
+            <link>https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwz6z14w65o#2</guid>
+            <pubDate>Wed, 25 Feb 2026 00:43:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5c/live/f65cdfe0-11c4-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shein's elusive boss hails Chinese roots in rare public appearance]]></title>
+            <description><![CDATA[His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore.]]></description>
+            <link>https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39wdgy3gmvo#2</guid>
+            <pubDate>Wed, 25 Feb 2026 03:18:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3b/live/bc2aeeb0-1206-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Why Ukraine remains defiant and does not feel close to defeat]]></title>
+            <description><![CDATA[This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured
+]]></description>
+            <link>https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9g2ggq4epo#2</guid>
+            <pubDate>Tue, 24 Feb 2026 06:02:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3691/live/ef0177f0-0e41-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Burned and destroyed': Locals and tourists describe Mexico unrest]]></title>
+            <description><![CDATA[Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gqkg87293o#2</guid>
+            <pubDate>Tue, 24 Feb 2026 03:19:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3967/live/0d78ab50-10d0-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment a sinkhole in Omaha traps cars and drivers]]></title>
+            <description><![CDATA[Several witnesses jumped into action helping both drivers get to safety while others directed traffic, according to police. ]]></description>
+            <link>https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c2k8nvy77jqo#3</guid>
+            <pubDate>Wed, 25 Feb 2026 15:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dd/live/21ea7fe0-1261-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC sees damage in Puerto Vallarta after Mexican cartel violence]]></title>
+            <description><![CDATA[BBC's Will Grant visits Puerto Vallarta, a popular coastal resort town, to see the damage.]]></description>
+            <link>https://www.bbc.com/news/videos/cly07z35dn4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cly07z35dn4o#3</guid>
+            <pubDate>Wed, 25 Feb 2026 05:57:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c9/live/a150d4e0-120d-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Anyone who runs is shot': Watch Russian soldiers describe killings of troops who refuse orders]]></title>
+            <description><![CDATA[The men, who are on the run, told of the horrors they witnessed on the Russian side of the front lines in Ukraine.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2rql99rwxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2rql99rwxo#3</guid>
+            <pubDate>Tue, 24 Feb 2026 07:32:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ae6/live/a6798040-115c-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC's Will Grant on the atmosphere in Mexico following unrest]]></title>
+            <description><![CDATA[The BBC's Will Grant describes how locals are feeling in Guadalajara, the capital of Jalisco, Mexico, after a wave of violence hit the streets.]]></description>
+            <link>https://www.bbc.com/news/videos/cx289lkkp8po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx289lkkp8po#3</guid>
+            <pubDate>Tue, 24 Feb 2026 06:25:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbd/live/1c8016b0-1148-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+    </channel>
+</rss>
