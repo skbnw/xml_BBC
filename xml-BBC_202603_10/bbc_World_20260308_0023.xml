@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 08 Mar 2026 00:23:45 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains]]></title>
+            <description><![CDATA[Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8l2p2l3v0o#0</guid>
+            <pubDate>Sat, 07 Mar 2026 19:16:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian ambassador warns UK to be 'very careful' about further involvement in war]]></title>
+            <description><![CDATA[Seyed Ali Mousavi says Iran has a "right to self-defence" if the UK directly joins US-Israeli attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6qp458zv1o#0</guid>
+            <pubDate>Sat, 07 Mar 2026 16:53:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armed robots take to the battlefield in Ukraine war]]></title>
+            <description><![CDATA[Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces. ]]></description>
+            <link>https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62662gzlp8o#0</guid>
+            <pubDate>Sat, 07 Mar 2026 00:36:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We've been speaking to Iranians during one week of war. Here's what they said]]></title>
+            <description><![CDATA[Ordinary Iranians reflect on seven days of conflict and where they see their country going next.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5lqygrn7o#0</guid>
+            <pubDate>Sat, 07 Mar 2026 06:00:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6b0/live/5ec6cc60-1979-11f1-9156-4356592fc9c8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say]]></title>
+            <description><![CDATA[Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.]]></description>
+            <link>https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crrxpwzvd5vo#0</guid>
+            <pubDate>Sat, 07 Mar 2026 20:16:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f39/live/79a3db40-1a55-11f1-83d5-4db8b4c1972d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rapper-politician Balendra Shah on course to be Nepal's next prime minister]]></title>
+            <description><![CDATA[Thursday's general election was the first since violent youth-led protests toppled the government in September. ]]></description>
+            <link>https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w6y0lnd9o#0</guid>
+            <pubDate>Sat, 07 Mar 2026 19:45:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740d/live/6f99d390-1a3f-11f1-bbcf-6dca17345a4c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy rains and flooding kills at least 23 in Nairobi]]></title>
+            <description><![CDATA[Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged.]]></description>
+            <link>https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn87pl8e2l5o#1</guid>
+            <pubDate>Sat, 07 Mar 2026 12:21:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8558/live/78712210-1a1d-11f1-b8c2-65bc71ac8a70.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss to vote on right-wing push to slash licence fee for public broadcaster]]></title>
+            <description><![CDATA[The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g55v24wrno#1</guid>
+            <pubDate>Sat, 07 Mar 2026 02:04:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/f9e9c6e0-18b9-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian strike on Kharkiv apartment block kills ten]]></title>
+            <description><![CDATA[Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8zd049l08o#1</guid>
+            <pubDate>Sat, 07 Mar 2026 07:54:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/782b0310-19f6-11f1-bd6f-8f561353e15e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[China spent years building ties in Latin America. Can Trump make room for the US?]]></title>
+            <description><![CDATA[US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvw0zwpd5o#1</guid>
+            <pubDate>Sat, 07 Mar 2026 01:56:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia to ban social media and other online platforms for under 16s]]></title>
+            <description><![CDATA[It is the latest country to curb young people's access to digital spaces to try and protect them from abuse.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg50168ddgo#1</guid>
+            <pubDate>Fri, 06 Mar 2026 13:25:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fba/live/81485cb0-194f-11f1-b402-73299da4d55f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian bank workers released after detention in Hungary]]></title>
+            <description><![CDATA[Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering.]]></description>
+            <link>https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd03rj7n0nro#1</guid>
+            <pubDate>Fri, 06 Mar 2026 18:37:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb04/live/8281eaf0-194b-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US and Venezuela agree to resume diplomatic ties after Maduro capture]]></title>
+            <description><![CDATA[The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9g1l5jx90o#1</guid>
+            <pubDate>Fri, 06 Mar 2026 04:23:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3937/live/9ac9d510-192c-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US economy unexpectedly sheds 92,000 jobs in February]]></title>
+            <description><![CDATA[The contraction came as a surprise with payrolls down in nearly every sector.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd98091g28o#1</guid>
+            <pubDate>Fri, 06 Mar 2026 14:50:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efa/live/41eb38e0-1962-11f1-a1cd-a71e69f1cf89.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian teen died from drowning after dingo attack in Australia]]></title>
+            <description><![CDATA[The body of Piper James was found in January surrounded by dingoes on the island of K'Gari.]]></description>
+            <link>https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cde4599n8zpo#1</guid>
+            <pubDate>Fri, 06 Mar 2026 01:47:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92c/live/3741aea0-f857-11f0-9902-5de431bad348.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The final voyage of the Iranian warship sunk by the US]]></title>
+            <description><![CDATA[The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfortably close to India.]]></description>
+            <link>https://www.bbc.com/news/articles/c4geelnw7w3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4geelnw7w3o#2</guid>
+            <pubDate>Sat, 07 Mar 2026 00:59:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd8/live/9706a980-17e2-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI-generated Iran war videos surge as creators use new tech to cash in]]></title>
+            <description><![CDATA[The US-Israel war with Iran is being monetised by online creators with AI-generated misinformation.]]></description>
+            <link>https://www.bbc.com/news/articles/ckg8wvz427vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg8wvz427vo#2</guid>
+            <pubDate>Sat, 07 Mar 2026 00:32:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e3b/live/ed517120-197d-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dancers loved practising in this Singapore walkway. Then the complaints came]]></title>
+            <description><![CDATA[In super-organised Singapore, disputes over public space are a battle between control and chaos.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4q9xl4p6o#2</guid>
+            <pubDate>Sat, 07 Mar 2026 23:11:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c38/live/d5992c60-1966-11f1-a1cd-a71e69f1cf89.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump sets his sights on crisis-hit Cuba after Iran action ]]></title>
+            <description><![CDATA[The US president has claimed the Cuban authorities “want to make a deal so bad”.]]></description>
+            <link>https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14m5mj055jo#2</guid>
+            <pubDate>Fri, 06 Mar 2026 19:50:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e19/live/086b4680-198c-11f1-a8c7-d931bb8f99d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs]]></title>
+            <description><![CDATA[Teens are infuriating locals by riding over golf courses and doing wheelies on the Harbour Bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8l1d221evo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8l1d221evo#2</guid>
+            <pubDate>Fri, 06 Mar 2026 18:56:47 GMT</pubDate>
+            <media:thumbnail width="240" height="162" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce70/live/ab740dd0-1a0e-11f1-9120-a910fc22c6ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The young women who fought in Ethiopia's last civil war and don't want to see another one]]></title>
+            <description><![CDATA[Female fighters recall how the conflict in the northern Tigray destroyed their lives, as fears grow that fighting could resume.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv959eyjgjo#2</guid>
+            <pubDate>Fri, 06 Mar 2026 00:05:46 GMT</pubDate>
+            <media:thumbnail width="240" height="127" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/550d/live/86931950-193e-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['What is the game plan?': The Iran war is unsettling China and its ambitions ]]></title>
+            <description><![CDATA[China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.
+]]></description>
+            <link>https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2044vzrdpzo#2</guid>
+            <pubDate>Thu, 05 Mar 2026 23:13:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beirut evacuees 'sleeping in tents and cars']]></title>
+            <description><![CDATA[Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.]]></description>
+            <link>https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cg4g0gl23z4o#3</guid>
+            <pubDate>Fri, 06 Mar 2026 18:37:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c7/live/93fdf710-1987-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After Iran, will Trump turn his eyes to Cuba?]]></title>
+            <description><![CDATA[During a White House event with the Inter Miami CF soccer team, the US president said the island was “ready to fall”.]]></description>
+            <link>https://www.bbc.com/news/videos/c4gq8yd3qlxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gq8yd3qlxo#3</guid>
+            <pubDate>Fri, 06 Mar 2026 23:30:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d71/live/7acaafa0-19b3-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch:  How war in Iran may affect food and fuel prices]]></title>
+            <description><![CDATA[The BBC's Nick Marsh examines how unrest in the Middle East will impact living costs around the world.]]></description>
+            <link>https://www.bbc.com/news/videos/cy4w1r078x2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cy4w1r078x2o#3</guid>
+            <pubDate>Fri, 06 Mar 2026 11:37:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e50d/live/1bbc2830-1950-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Obama, Biden and Clinton remember 'tenacious' Jesse Jackson]]></title>
+            <description><![CDATA[The three former US presidents were among dozens of high profile figures present at the late civil rights activist's memorial.]]></description>
+            <link>https://www.bbc.com/news/videos/cjwz8py0l2go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjwz8py0l2go#3</guid>
+            <pubDate>Fri, 06 Mar 2026 23:26:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263a/live/8ac786b0-19ab-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Venezuela's political transition two months after Maduro's ousting]]></title>
+            <description><![CDATA[The BBC's Ione Wells reports from the country and speaks to recently freed opposition politicians about the government's future and relations with the US.]]></description>
+            <link>https://www.bbc.com/news/videos/c4g244g829zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4g244g829zo#3</guid>
+            <pubDate>Fri, 06 Mar 2026 21:38:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cce/live/a1db6630-19a3-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+    </channel>
+</rss>
