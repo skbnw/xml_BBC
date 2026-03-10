@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 10 Mar 2026 16:22:27 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[An 'epidemic' of violence: The women and girls killed by men last year]]></title>
+            <description><![CDATA[We tracked reports and contacted police and prosecutors for a deeper look at the situation across UK.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5nelp5enpo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 06:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272c/live/eb7f2b40-1c74-11f1-801d-ed3cff6bf876.png"/>
+        </item>
+        <item>
+            <title><![CDATA[U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry]]></title>
+            <description><![CDATA[Donna Ockenden is appointed to lead the maternity services inquiry at Leeds hospitals.]]></description>
+            <link>https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v0xmngy9jo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 13:04:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/536d/live/624caba0-1c96-11f1-801d-ed3cff6bf876.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Inmate charged with murder of Soham killer Ian Huntley]]></title>
+            <description><![CDATA[A prison inmate has been charged with the murder of Soham killer Ian Huntley, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8ll4l7d9o#0</guid>
+            <pubDate>Tue, 10 Mar 2026 12:03:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632a/live/1b65adb0-19a6-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simpson and guide Poth win Paralympic silver for GB]]></title>
+            <description><![CDATA[Neil Simpson and his guide Rob Poth win Great Britain's first medal of the Milan-Cortina Winter Paralympics with silver in the alpine combined.]]></description>
+            <link>https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c1l7y1vq02yo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 13:09:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3654/live/3111a1e0-1c95-11f1-8f3c-8366692412b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eni Aluko wins Joey Barton libel case over X posts]]></title>
+            <description><![CDATA[Barton is told to pay the former England footballer more than £300k over two posts he made in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eg2n83y1eo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 13:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5403/live/b77940b0-1c7e-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glasgow Central Station still shut but appears to have avoided major fire damage]]></title>
+            <description><![CDATA[A huge fire destroyed a neighbouring building but Network Rail staff believe the station has not been seriously damaged.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjqzl7wrzo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 15:28:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/9de01280-1c5d-11f1-b409-bf0363c2d3cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Calls grow for Reeves to ditch fuel tax hike over Iran]]></title>
+            <description><![CDATA[Reform UK has set out further detail of how it would cover the cost of scrapping September's planned rise.]]></description>
+            <link>https://www.bbc.com/news/articles/cdjmk030vzro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjmk030vzro#0</guid>
+            <pubDate>Tue, 10 Mar 2026 14:01:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f4/live/f5c83490-1c86-11f1-bbce-43d195bf2b4f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Court hears millions of PlayStation players charged unfair download fees]]></title>
+            <description><![CDATA[The console maker is accused of charging fans "excessive" fees to obtain software from its official store.]]></description>
+            <link>https://www.bbc.com/news/articles/c043y6rr7z3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c043y6rr7z3o#0</guid>
+            <pubDate>Tue, 10 Mar 2026 15:19:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5376/live/b94ea9b0-1c8e-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England star Kyle Walker retires from international football three months before World Cup]]></title>
+            <description><![CDATA[Experienced England defender Kyle Walker retires from international football with immediate effect.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv83g4dpgeo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 15:30:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c71/live/3984c270-1c96-11f1-8f3c-8366692412b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy buys rare Caravaggio portrait for €30m]]></title>
+            <description><![CDATA[The purchase is part of wider plans to prevent major artworks from being bought by private collectors.]]></description>
+            <link>https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93j2ekgwqko#0</guid>
+            <pubDate>Tue, 10 Mar 2026 15:18:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b2/live/f0aecbb0-1c98-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I just want to be able to sleep': Attacks in Iran rock cities and cut power]]></title>
+            <description><![CDATA[Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cev7llekwllo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 13:26:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c358/live/94c81d10-1c75-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil and gas prices fall after Trump says war is 'very complete']]></title>
+            <description><![CDATA[The US president's comments lead to a drop in crude costs and a rebound in shares.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2jxe382pwo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 14:37:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc0/live/cc1b4b90-1c23-11f1-bc25-75bff0a63140.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK preparing support ship to deploy to eastern Mediterranean]]></title>
+            <description><![CDATA[RFA Lyme Bay is placed on "heightened readiness" as a precaution, the Ministry of Defence says.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k1yyg475ko#1</guid>
+            <pubDate>Tue, 10 Mar 2026 13:44:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33dd/live/8bbc98a0-1c6a-11f1-8206-178b2777dfa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon calls for talks with Israel on plan to end Hezbollah conflict]]></title>
+            <description><![CDATA[President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9g5p3ppxlo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the price of oil matters more than you might think]]></title>
+            <description><![CDATA[A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr457nq7z61o#1</guid>
+            <pubDate>Tue, 10 Mar 2026 15:04:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c6a/live/e7b21750-1c6c-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPS jamming: The invisible battle in the Middle East]]></title>
+            <description><![CDATA[GPS jamming has made navigation hazardous in the Gulf, spurring efforts to develop alternatives.]]></description>
+            <link>https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ewwlx9e1xo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 00:01:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e50/live/f7dc5ff0-1893-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did US and Israel attack Iran and how long could the war last?]]></title>
+            <description><![CDATA[Conflict has spread across the Middle East since the US and Israel launched wide-ranging strikes on Iran on 28 February. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dyz6p3weo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 13:23:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9c/live/e6859790-1ba3-11f1-9f65-e32170917420.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildflowers blanket Death Valley in best display since 2016]]></title>
+            <description><![CDATA[The California desert is seeing its most colourful display in a decade as flowers cover the region.]]></description>
+            <link>https://www.bbc.com/weather/articles/cp81r54e2ngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cp81r54e2ngo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 10:09:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/339b/live/1d1fa340-1bd6-11f1-801a-8f2f63e21096.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the 'red v blue school wars' exposed the social media gap between children and parents]]></title>
+            <description><![CDATA[Parents were frightened by social posts that seemed to encourage violence at schools. But it was more complicated than it looked]]></description>
+            <link>https://www.bbc.com/news/articles/cy4wgzdydkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4wgzdydkeo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 00:03:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/641327c0-1bba-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My heating oil costs have more than doubled since Iran war started']]></title>
+            <description><![CDATA[BBC Your Voice hears from someone facing higher bills, as the chancellor says there is  "price gouging" in the market.]]></description>
+            <link>https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07jyd0rrz2o#2</guid>
+            <pubDate>Tue, 10 Mar 2026 16:03:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/ef5d6000-1be9-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Hollywood golden boy Timothée Chalamet lost his shine?]]></title>
+            <description><![CDATA[Is the backlash against Timothée Chalamet about more than his views on ballet and opera?]]></description>
+            <link>https://www.bbc.com/news/articles/c20lyk1lpn2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20lyk1lpn2o#2</guid>
+            <pubDate>Tue, 10 Mar 2026 00:09:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd89/live/7c5baa20-1bc7-11f1-964c-87b629a369ca.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I thought my unborn baby had died in e-bike crash']]></title>
+            <description><![CDATA[Siobhan Barling's baby was born six weeks early and seriously ill after being hit by an e-bike. 
+]]></description>
+            <link>https://www.bbc.com/news/articles/cz7g50jr8rgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7g50jr8rgo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 06:15:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a2/live/6342a140-1bce-11f1-8af8-eb759562ec6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quiz: One question for each team in the Champions League last 16]]></title>
+            <description><![CDATA[The Champions League is back, but how much do you know about each of the 16 teams still in the competition?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cqxd19zgyq0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd19zgyq0o#2</guid>
+            <pubDate>Tue, 10 Mar 2026 07:59:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/13b8d710-1bd9-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Like Brooklyn Beckham, I don't speak to my family - we need to talk about estrangement]]></title>
+            <description><![CDATA[Ben hasn't spoken to his mother for three years, and helps others experiencing family estrangement.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y2l0glqeyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y2l0glqeyo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 06:05:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/051b/live/6b969570-01c2-11f1-9921-b31487791c6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olivia Dean to headline final day of Radio 1's Big Weekend 2026]]></title>
+            <description><![CDATA[The annual music festival will take place in Sunderland's Herrington Country Park from 22 to 24 May.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgjqv9xyj9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjqv9xyj9o#4</guid>
+            <pubDate>Tue, 10 Mar 2026 09:23:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e5/live/bd201890-1bd4-11f1-801a-8f2f63e21096.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vicar defends church's devil-horned bench tribute to Prodigy's Keith Flint]]></title>
+            <description><![CDATA[Some are questioning if the Satanic detail is appropriate in a Christian place of worship.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5lqp1dnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5lqp1dnvo#4</guid>
+            <pubDate>Tue, 10 Mar 2026 09:53:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b7/live/35d6d350-1b9e-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five Iranian footballers granted Australian visas after anthem protest]]></title>
+            <description><![CDATA[Concern has grown for team after one critic called them "wartime traitors" for failing to salute during the Iranian anthem.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#4</guid>
+            <pubDate>Tue, 10 Mar 2026 10:38:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snow for some as winter weather returns to UK this week]]></title>
+            <description><![CDATA[The weather is set to get a lot colder as the week progresses, as Tomasz Shafernaker and Simon King explain. ]]></description>
+            <link>https://www.bbc.com/weather/articles/cp32x44kllko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cp32x44kllko#4</guid>
+            <pubDate>Tue, 10 Mar 2026 10:45:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/e6c9d720-af74-11f0-ba75-093eca1ac29b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joey Barton charged after assault near golf club]]></title>
+            <description><![CDATA[The former footballer is arrested along with a second suspect near Huyton and Prescot Golf Club.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j5yyyygp2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j5yyyygp2o#4</guid>
+            <pubDate>Tue, 10 Mar 2026 12:14:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271a/live/0a813c80-1c71-11f1-8206-178b2777dfa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrian ex-colonel in court on crimes against humanity charge ]]></title>
+            <description><![CDATA[Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time. ]]></description>
+            <link>https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedz4jp379wo#4</guid>
+            <pubDate>Tue, 10 Mar 2026 14:17:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/34223f40-1c7f-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boss repeatedly shouted 'potato' at Irish employee]]></title>
+            <description><![CDATA[A book-keeper has been awarded more than £23,000 at an employment tribunal in Leeds.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxz78q8yxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxz78q8yxxo#4</guid>
+            <pubDate>Tue, 10 Mar 2026 13:27:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d9/live/3cb273d0-1c77-11f1-a7bf-efb6e72f87e6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How the Iraq war's legacy shaped the UK's Iran response]]></title>
+            <description><![CDATA[And the critisism of it from Donald Trump and Tony Blair.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n5cjb2?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n5cjb2#6</guid>
+            <pubDate>Sun, 08 Mar 2026 13:17:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran president apologises for striking neighbours]]></title>
+            <description><![CDATA[President says Iran will stop striking Gulf states if no attacks originate from them]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n57ljj?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n57ljj#6</guid>
+            <pubDate>Sat, 07 Mar 2026 14:28:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4684/live/56e0bb70-1a3a-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sad but proud' - Walker retires from England duty]]></title>
+            <description><![CDATA[Experienced England defender Kyle Walker retires from international football with immediate effect.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv83g4dpgeo#8</guid>
+            <pubDate>Tue, 10 Mar 2026 15:30:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c71/live/3984c270-1c96-11f1-8f3c-8366692412b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aluko awarded more than £300,000 after winning Barton libel case]]></title>
+            <description><![CDATA[Barton is told to pay the former England footballer more than £300k over two posts he made in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eg2n83y1eo#8</guid>
+            <pubDate>Tue, 10 Mar 2026 13:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5403/live/b77940b0-1c7e-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uefa fears impact of Premier League spending rules]]></title>
+            <description><![CDATA[Uefa is seriously concerned that the Premier League's new financial rules could further impact competitive balance.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c8r1m4mr2k8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r1m4mr2k8o#8</guid>
+            <pubDate>Tue, 10 Mar 2026 07:10:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7294/live/2feceeb0-1708-11f1-bfbe-c7ba448da962.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simpson and guide Poth win Paralympic silver for GB]]></title>
+            <description><![CDATA[Neil Simpson and his guide Rob Poth win Great Britain's first medal of the Milan-Cortina Winter Paralympics with silver in the alpine combined.]]></description>
+            <link>https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c1l7y1vq02yo#8</guid>
+            <pubDate>Tue, 10 Mar 2026 13:09:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3654/live/3111a1e0-1c95-11f1-8f3c-8366692412b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Saddened' O'Neill fears impact on derby away fans]]></title>
+            <description><![CDATA["Saddened" Martin O'Neill fears larger allocation of away fans at meetings of Celtic and Rangers "may now not happen anymore".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cn0zv7x084po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0zv7x084po#8</guid>
+            <pubDate>Tue, 10 Mar 2026 15:12:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826a/live/b8e07b60-1c8a-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+    </channel>
+</rss>

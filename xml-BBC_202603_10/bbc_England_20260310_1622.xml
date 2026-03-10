@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 10 Mar 2026 16:23:23 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boy, 14, dies after car and e-bike crash]]></title>
+            <description><![CDATA[Officers say no arrests have been made, and the driver of a Kia is being treated as a witness.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9qlz332nwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9qlz332nwo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 14:22:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b7/live/f5f7b6c0-1c8b-11f1-bbce-43d195bf2b4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman searching for answers over great aunt's murder 67 years ago]]></title>
+            <description><![CDATA[Martha Giles was found dead in hospital grounds in 1959 but papers related to the case are sealed.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7j34dy31jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7j34dy31jo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 15:33:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dff/live/ad7a9390-1c7c-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abuse charity worker gave victim details to rapist]]></title>
+            <description><![CDATA[Lauren Leese worked at Stoke-on-Trent charity Savana when she shared details with rapist Shane Davis.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yqz9lx1x8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqz9lx1x8o#0</guid>
+            <pubDate>Tue, 10 Mar 2026 11:58:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c7/live/f6c4b040-1c76-11f1-a7bf-efb6e72f87e6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen had 'headache' before holiday park deaths]]></title>
+            <description><![CDATA[An inquest hears Cherish Bean and Ethan Slater died of suspected carbon monoxide poisoning.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy6046nv00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy6046nv00o#0</guid>
+            <pubDate>Tue, 10 Mar 2026 14:38:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da81/live/c692f980-0f2a-11f1-9120-a910fc22c6ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Damages awarded after boss repeatedly shouted 'potato' at Irish employee]]></title>
+            <description><![CDATA[A book-keeper has been awarded more than £23,000 at an employment tribunal in Leeds.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxz78q8yxxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxz78q8yxxo#0</guid>
+            <pubDate>Tue, 10 Mar 2026 13:27:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d9/live/3cb273d0-1c77-11f1-a7bf-efb6e72f87e6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Eni Aluko wins Joey Barton libel case over X posts]]></title>
+            <description><![CDATA[Barton is told to pay the former England footballer more than £300k over two posts he made in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eg2n83y1eo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 13:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5403/live/b77940b0-1c7e-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Safety calls for highland cows after viral TikTok]]></title>
+            <description><![CDATA[Kent Wildlife Trust is urging visitors to Hothfield Heathlands to keep their distance from the cows.]]></description>
+            <link>https://www.bbc.com/news/articles/c86y2n81z4qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86y2n81z4qo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 14:46:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fe/live/3e218bd0-1c85-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murdered girls' families 'aghast' at 'copycat' case]]></title>
+            <description><![CDATA[The families of three girls murdered in the Southport attacks share their "shock" over a copycat case.]]></description>
+            <link>https://www.bbc.com/news/articles/cnv69nzy7qdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnv69nzy7qdo#1</guid>
+            <pubDate>Tue, 10 Mar 2026 14:51:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b9/live/d3ae8de0-8e52-11f0-b391-6936825093bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenage goalkeeper 'in our hearts forever']]></title>
+            <description><![CDATA[A minutes silence in memory of Amelia Aplin will be held ahead of Oxford United's game on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9mllk44kno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9mllk44kno#1</guid>
+            <pubDate>Tue, 10 Mar 2026 16:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a47c/live/ccba8ba0-1c8d-11f1-bbce-43d195bf2b4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery over group of guinea pigs spotted in the wild]]></title>
+            <description><![CDATA[Six of the rodents are seen among brambles near Devil's Hole, with three initially recovered.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxgd571497o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxgd571497o#1</guid>
+            <pubDate>Tue, 10 Mar 2026 15:27:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e851/live/f33a7840-1c9b-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Extinct' butterfly found across southern England]]></title>
+            <description><![CDATA[There has been a flurry of early sightings of the large tortoiseshell butterfly, a charity says.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxz78q7894o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxz78q7894o#2</guid>
+            <pubDate>Tue, 10 Mar 2026 15:27:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e6b/live/13571ce0-1c7a-11f1-a7bf-efb6e72f87e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man sails around the world in boat he built in his shed]]></title>
+            <description><![CDATA[Adam Waugh, from Northumberland, says he feels "on top of the world" after his mammoth journey.]]></description>
+            <link>https://www.bbc.com/news/articles/cdr244zx10yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr244zx10yo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 15:44:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f540/live/1ad3a640-1c6c-11f1-8206-178b2777dfa1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long-lost Jungle Book paintings to be auctioned]]></title>
+            <description><![CDATA[The two watercolours had been hanging on the walls of a London home for decades.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lry0yn4qzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lry0yn4qzo#2</guid>
+            <pubDate>Tue, 10 Mar 2026 06:28:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76c9/live/9c8e2970-1be1-11f1-9a61-1b759d532334.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More whales are stranding. Now more people are needed to help them]]></title>
+            <description><![CDATA[Calls for more people to train as marine mammal medics so they can help rescue stranded animals.]]></description>
+            <link>https://www.bbc.com/news/articles/cqlg4vl61kro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlg4vl61kro#3</guid>
+            <pubDate>Tue, 10 Mar 2026 00:09:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b9/live/6b91ba70-1c50-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I thought my unborn baby had died in e-bike crash']]></title>
+            <description><![CDATA[Siobhan Barling's baby was born six weeks early and seriously ill after being hit by an e-bike. 
+]]></description>
+            <link>https://www.bbc.com/news/articles/cz7g50jr8rgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7g50jr8rgo#3</guid>
+            <pubDate>Tue, 10 Mar 2026 06:15:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a2/live/6342a140-1bce-11f1-8af8-eb759562ec6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Monkey dust turned me into somebody I wasn't']]></title>
+            <description><![CDATA[Campaigning for reclassification, Shannon Cowan says the Class B drug is worse than a Class A drug.]]></description>
+            <link>https://www.bbc.com/news/articles/c75ekew7xwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75ekew7xwgo#3</guid>
+            <pubDate>Tue, 10 Mar 2026 06:36:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3809/live/86b549b0-1be3-11f1-9a61-1b759d532334.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['When you constantly get rejected it takes its toll']]></title>
+            <description><![CDATA[CJ Turner, 22, says a new university programme is helping him "take an extra step" to getting a job. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg3l76pxgjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg3l76pxgjo#3</guid>
+            <pubDate>Tue, 10 Mar 2026 05:50:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/f2a8f600-1c40-11f1-b951-6114bbcac7b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lovejoy's back but will it be 'huge' for tourism?]]></title>
+            <description><![CDATA[See-Saw Films is poised to remake the BBC show about a loveable rogue antiques dealer.]]></description>
+            <link>https://www.bbc.com/news/articles/c6261gr1rqjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6261gr1rqjo#3</guid>
+            <pubDate>Tue, 10 Mar 2026 05:29:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f06/live/8bf34c60-1be3-11f1-9a61-1b759d532334.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chessum starts in back row in only England change]]></title>
+            <description><![CDATA[Ollie Chessum's inclusion in the back row is the only change to the starting XV as England attempt to turn things around after three straight defeats.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c39wymm7j8zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c39wymm7j8zo#5</guid>
+            <pubDate>Tue, 10 Mar 2026 14:46:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb94/live/aedd79c0-1c8e-11f1-bbce-43d195bf2b4f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England's Walker retires from international football]]></title>
+            <description><![CDATA[Experienced England defender Kyle Walker retires from international football with immediate effect.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv83g4dpgeo#5</guid>
+            <pubDate>Tue, 10 Mar 2026 15:30:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c71/live/3984c270-1c96-11f1-8f3c-8366692412b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is there a right time for a Panenka - as Brentford pay the price?]]></title>
+            <description><![CDATA[Brentford are beaten by West Ham on penalties as Dango Ouattara is left to rue a missed Panenka. Is there ever a right rime to take one?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c62d1nyvqr3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62d1nyvqr3o#5</guid>
+            <pubDate>Mon, 09 Mar 2026 23:24:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e13/live/20b86650-1c16-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+    </channel>
+</rss>
