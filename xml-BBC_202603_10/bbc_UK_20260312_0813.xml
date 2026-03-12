@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 12 Mar 2026 08:13:27 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[PM was warned of 'reputational risk' over Mandelson's Epstein links]]></title>
+            <description><![CDATA[Documents also suggest the peer explored the possibility of a £500,000 severance payment after being sacked as US ambassador.]]></description>
+            <link>https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd70lgywgqqo#0</guid>
+            <pubDate>Wed, 11 Mar 2026 18:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933f/live/4b25c3d0-1d63-11f1-8f98-5df0827ab403.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: There may be no knockout blows from Mandelson files but it's far from over]]></title>
+            <description><![CDATA[This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.]]></description>
+            <link>https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c627x7g2l4vo#0</guid>
+            <pubDate>Wed, 11 Mar 2026 23:54:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d6/live/5f3c4390-1de4-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns]]></title>
+            <description><![CDATA[The number of fit notes issued has been rising, with more than 11.2m approved in England last year.]]></description>
+            <link>https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20lew24kngo#0</guid>
+            <pubDate>Thu, 12 Mar 2026 00:01:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79be/live/2d792b10-1d54-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inquiry into student loans launched by MPs]]></title>
+            <description><![CDATA[The Treasury Committee will look at whether "the goalposts [have] been moved in a way which is unfair".]]></description>
+            <link>https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxg70rr2geo#0</guid>
+            <pubDate>Thu, 12 Mar 2026 00:03:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548c/live/f4de1610-1d5f-11f1-8f98-5df0827ab403.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wind warnings issued as colder weather and mountain snow head south]]></title>
+            <description><![CDATA[Strong winds are likely across many parts of the UK and conditions are turning colder towards the end of the week.]]></description>
+            <link>https://www.bbc.com/weather/articles/cz9q7y44ep4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cz9q7y44ep4o#0</guid>
+            <pubDate>Thu, 12 Mar 2026 00:41:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f4e/live/23531a30-1dde-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social media firms asked to toughen up age checks for under-13s]]></title>
+            <description><![CDATA[Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.]]></description>
+            <link>https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn48n18pg1eo#0</guid>
+            <pubDate>Thu, 12 Mar 2026 00:01:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6646/live/c30da2c0-1d61-11f1-8f98-5df0827ab403.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liza Tarbuck leaves Radio 2 Saturday show after 14 years]]></title>
+            <description><![CDATA[Shaun Keaveny, host of The Rock Show, will stand in for her until the end of the end of the month.]]></description>
+            <link>https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lrq2n7l9eo#0</guid>
+            <pubDate>Thu, 12 Mar 2026 04:14:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827f/live/bef6cfa0-1ddd-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 15, arrested after girl is stabbed at school]]></title>
+            <description><![CDATA[Sources tell the BBC that pupils had to hide under their desks as the incident unfolded.]]></description>
+            <link>https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15x1wnd7yqo#1</guid>
+            <pubDate>Wed, 11 Mar 2026 19:04:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b6d/live/fc8a37f0-1d72-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missing Brazilian academic may have taken boat, UK police say]]></title>
+            <description><![CDATA[Police believe the last sighting of Vitoria Figueiredo Barreto was on CCTV just after midnight on 3 March in Brightlingsea.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y5r2qd81eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y5r2qd81eo#1</guid>
+            <pubDate>Wed, 11 Mar 2026 21:29:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f62/live/1f71bd20-1de5-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polanski stood by breast enlargement hypnosis claim]]></title>
+            <description><![CDATA[A newly unearthed interview from 2013 casts doubt on the Green Party leader's claim to have apologised.]]></description>
+            <link>https://www.bbc.com/news/articles/cn9enygvezeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn9enygvezeo#1</guid>
+            <pubDate>Wed, 11 Mar 2026 18:15:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a7/live/75eab9b0-1d5c-11f1-a5ee-870cbdcb0f98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Misleading weather apps cost attractions thousands']]></title>
+            <description><![CDATA[Chester Zoo is leading a call for a change in the way "rain icons" are used in weather forecasts.]]></description>
+            <link>https://www.bbc.com/news/articles/czj18j09wvro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj18j09wvro#1</guid>
+            <pubDate>Wed, 11 Mar 2026 14:49:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c9/live/dd17ece0-1cbf-11f1-8452-d983fe428cc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer vows to crack down on 'profiteering' from fuel crisis]]></title>
+            <description><![CDATA[The prime minister is in Northern Ireland and is expected to hold talks with party leaders and visit a community centre.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cr5l9egglrro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5l9egglrro#1</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c1/live/0df37e00-1d70-11f1-a77a-39b849d4606b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fire crews fight blaze near Glasgow Central Station]]></title>
+            <description><![CDATA[The dome of a neighbouring building has collapsed as ScotRail says no trains will operate in or out of the station on Monday.]]></description>
+            <link>https://www.bbc.com/news/videos/c9wne9yxqn8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c9wne9yxqn8o#2</guid>
+            <pubDate>Mon, 09 Mar 2026 00:53:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee4b/live/4f78b5e0-1b84-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK does not 'agree with Trump on every issue' - Cooper]]></title>
+            <description><![CDATA[Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.]]></description>
+            <link>https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cd03py027vyo#2</guid>
+            <pubDate>Sun, 08 Mar 2026 11:13:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/2b81ba20-1ade-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The karting track where F1 drivers race]]></title>
+            <description><![CDATA[Kimi Antonelli is just one of the many F1 drivers who have honed their skills on a 'challenging" track.]]></description>
+            <link>https://www.bbc.com/news/videos/ce824zygjxjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce824zygjxjo#2</guid>
+            <pubDate>Sat, 07 Mar 2026 12:08:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8045/live/f1f3bdf0-195a-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reporter told police about Ian Huntley's troubling tale]]></title>
+            <description><![CDATA[Journalist Brian Farmer recalls the day an interview with murderer Ian Huntley raised deep suspicion.
+]]></description>
+            <link>https://www.bbc.com/news/videos/cr5le5pqvplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cr5le5pqvplo#2</guid>
+            <pubDate>Sat, 28 Feb 2026 13:22:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/111e/live/3a43e210-14a6-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My identity was stolen and someone is using it to catfish men - it's terrifying]]></title>
+            <description><![CDATA[For four years, Sasha-Jay’s photos have been stolen from social media to impersonate her online.]]></description>
+            <link>https://www.bbc.com/news/articles/c89kdn3e185o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89kdn3e185o#3</guid>
+            <pubDate>Thu, 12 Mar 2026 06:09:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1128/live/4942b940-1de2-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a lost suitcase led to a two-year compensation battle with Ryanair]]></title>
+            <description><![CDATA[Rosie McGrane says her case never arrived when she travelled from Edinburgh to Copenhagen with Ryanair in September 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy93p4dj8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy93p4dj8vo#3</guid>
+            <pubDate>Thu, 12 Mar 2026 06:25:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103e/live/9a42d790-1d5a-11f1-a1ef-cb226cd714d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC decision to axe LGBTQ+ dating show is two steps back, say contestants]]></title>
+            <description><![CDATA[Former contestants of I Kissed A Boy and I Kissed A Girl speak out as show axed due to "funding challenges". ]]></description>
+            <link>https://www.bbc.com/news/articles/ckg893yd499o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg893yd499o#3</guid>
+            <pubDate>Wed, 11 Mar 2026 18:19:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a0/live/19bfe970-1d76-11f1-a77a-39b849d4606b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Starmer did ignore Epstein warnings' and 'Record oil release']]></title>
+            <description><![CDATA[Thursday's papers all lead with files released on Lord Mandelson's vetting for the US ambassador role.]]></description>
+            <link>https://www.bbc.com/news/articles/cm21g1lzll6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21g1lzll6o#3</guid>
+            <pubDate>Thu, 12 Mar 2026 05:49:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6490/live/c7a7e360-1db9-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Aldi-style disruptors who could be about to shake up the vets market]]></title>
+            <description><![CDATA[As pet owners complain of rising prices, independent practices want to take on the big chains.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6dw3r09x0o#3</guid>
+            <pubDate>Wed, 11 Mar 2026 10:49:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a85/live/50b98580-1c90-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where did fridge-carrying fundraiser's donations go?]]></title>
+            <description><![CDATA[Teesside charity's ex-staff question where donations were spent but its founder denies wrongdoing.]]></description>
+            <link>https://www.bbc.com/news/articles/cglgnx26kwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cglgnx26kwgo#4</guid>
+            <pubDate>Thu, 12 Mar 2026 06:14:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e6/live/2968b730-1de9-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murder of Ellie Flanagan]]></title>
+            <description><![CDATA[A 45-year-old man has been charged with murder and possession of an offensive weapon with intent.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9gwg9pxglo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9gwg9pxglo#4</guid>
+            <pubDate>Wed, 11 Mar 2026 23:20:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a80/live/784a67a0-1bc7-11f1-964c-87b629a369ca.png"/>
+        </item>
+        <item>
+            <title><![CDATA[My phone contents were shared with the police colleague I accused of rape]]></title>
+            <description><![CDATA[Police Scotland has been fined £66,000 by a watchdog after it failed to protect sensitive personal information.]]></description>
+            <link>https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8g9e812z3o#4</guid>
+            <pubDate>Thu, 12 Mar 2026 07:44:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1250/live/559d3ab0-1d76-11f1-a77a-39b849d4606b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My identity was stolen and someone is using it to catfish men - it's terrifying]]></title>
+            <description><![CDATA[For four years, Sasha-Jay’s photos have been stolen from social media to impersonate her online.]]></description>
+            <link>https://www.bbc.com/news/articles/c89kdn3e185o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89kdn3e185o#4</guid>
+            <pubDate>Thu, 12 Mar 2026 06:09:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1128/live/4942b940-1de2-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+    </channel>
+</rss>
