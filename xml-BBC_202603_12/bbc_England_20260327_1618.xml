@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 27 Mar 2026 16:19:45 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghan asylum seeker jailed for raping girl, 12]]></title>
+            <description><![CDATA[The sex attack carried out by Ahmad Mulakhil in Nuneaton in July last year led to protests.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4x2zyer2o#0</guid>
+            <pubDate>Fri, 27 Mar 2026 13:12:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/687e5470-059d-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Misconduct inquiry after man shot dead by police]]></title>
+            <description><![CDATA[Officers from West Mercia Police are being investigated after Marcus Meade was fatally shot in 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgwy4ygnv2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgwy4ygnv2o#0</guid>
+            <pubDate>Fri, 27 Mar 2026 14:56:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd5/live/610897b0-df31-11f0-aae2-2191c0e48a3b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen jailed for belonging to banned neo-Nazi group]]></title>
+            <description><![CDATA[The boy, 16, from Northumberland is jailed for three-and-a-half years, plus a year of supervision.]]></description>
+            <link>https://www.bbc.com/news/articles/c995y57zmdmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c995y57zmdmo#0</guid>
+            <pubDate>Fri, 27 Mar 2026 14:52:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3597/live/e9f549f0-10ce-11f1-b4d3-abf57a569766.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban on motorhomes in tourist hotspots dividing van owners and locals]]></title>
+            <description><![CDATA[A ban in two North Yorkshire coastal spots is made permanent after an 18-month trial.]]></description>
+            <link>https://www.bbc.com/news/articles/cy01nvx11vno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy01nvx11vno#0</guid>
+            <pubDate>Fri, 27 Mar 2026 11:39:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3930/live/1bdf1d20-29f1-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man denies murdering two women and raping another]]></title>
+            <description><![CDATA[Simon Levy, 40, from Tottenham denies murdering Carmenza Valencia-Trujillo, 54, and Sheryl Wilkins, 39.]]></description>
+            <link>https://www.bbc.com/news/articles/cj37epzzmzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj37epzzmzeo#0</guid>
+            <pubDate>Fri, 27 Mar 2026 12:33:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c797/live/b397c670-29d4-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenager denies murdering nine-year-old girl]]></title>
+            <description><![CDATA[Aria Thorpe died from a single stab wound at her home on 15 December last year.]]></description>
+            <link>https://www.bbc.com/news/articles/czexpxzkx17o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czexpxzkx17o#0</guid>
+            <pubDate>Fri, 27 Mar 2026 11:21:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae48/live/e86a66c0-db71-11f0-9817-e5239190d76e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Villagers vexed by sauvignon blanc fly-tipper]]></title>
+            <description><![CDATA[Picturesque villages in the Yorkshire Wolds have been blighted by bags full of bottles for months.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6l453nq61o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6l453nq61o#0</guid>
+            <pubDate>Fri, 27 Mar 2026 05:56:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3b3/live/4836b5a0-2955-11f1-98c5-01603f6fa96c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firm fined after two workers lose fingers in 10 days]]></title>
+            <description><![CDATA[Commercial Lines Ltd, in Leeds, is told pay £16,000 after admitting health and safety breaches.]]></description>
+            <link>https://www.bbc.com/news/articles/crr10dn4p5wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crr10dn4p5wo#1</guid>
+            <pubDate>Fri, 27 Mar 2026 11:52:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a8/live/02e4a030-2931-11f1-b930-6bf1eac08e0d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dad killed by driver streaming TikTok video]]></title>
+            <description><![CDATA[Norman Case's family say he had dropped his two children at a school bus stop before the crash.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yx7jdv7dno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yx7jdv7dno#1</guid>
+            <pubDate>Fri, 27 Mar 2026 12:29:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b40b/live/3a1694c0-29d4-11f1-9def-51999882d8d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Note may be 'significant' to 1993 cold case murder]]></title>
+            <description><![CDATA[Detectives hope a note written by Carol Clark could help find the person who murdered her.]]></description>
+            <link>https://www.bbc.com/news/articles/c145nj3k86mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c145nj3k86mo#1</guid>
+            <pubDate>Fri, 27 Mar 2026 12:03:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd3/live/408d8310-29c8-11f1-952c-77491ff53aff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sexual assault arrest at Gunna's London O2 concert]]></title>
+            <description><![CDATA[A man, 26, is in custody after an alleged sexual assault on a woman at rapper Gunna's concert.]]></description>
+            <link>https://www.bbc.com/news/articles/c04xndl0ed2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c04xndl0ed2o#1</guid>
+            <pubDate>Fri, 27 Mar 2026 10:56:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b1/live/2bb3de20-29ba-11f1-bd05-4d2c4ed50be6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Car crashes into front of GP surgery]]></title>
+            <description><![CDATA[The GP surgery in Upavon remains open but access to the building has changed.]]></description>
+            <link>https://www.bbc.com/news/articles/c1mk5232k5xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mk5232k5xo#1</guid>
+            <pubDate>Fri, 27 Mar 2026 12:39:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1b1/live/8d17d170-29d4-11f1-9def-51999882d8d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Historic hidden letter discovered in cigarette packet]]></title>
+            <description><![CDATA[Electrician Fred Stewart left a note in a cigarette packet under the floorboards of a house in 1986.]]></description>
+            <link>https://www.bbc.com/news/articles/cgld9kl17r8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgld9kl17r8o#3</guid>
+            <pubDate>Fri, 27 Mar 2026 06:27:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/155b/live/397df510-27a1-11f1-a79a-77e93010d956.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Manager fanatic helps team win in real life]]></title>
+            <description><![CDATA[Pardoe Kendrick joins in with Kings Park Rangers team talks and they are joint top of the table. ]]></description>
+            <link>https://www.bbc.com/news/articles/c93eqg10z15o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93eqg10z15o#3</guid>
+            <pubDate>Fri, 27 Mar 2026 06:26:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4e/live/e35d1060-29e6-11f1-81d4-f1e3c77fafb4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince of Wales 'puts soldiers at ease' on regiment visit]]></title>
+            <description><![CDATA[Prince William meets troops from the Mercian Regiment, in his role as their Colonel-in-Chief.
+]]></description>
+            <link>https://www.bbc.com/news/articles/clyj99n17nro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyj99n17nro#3</guid>
+            <pubDate>Thu, 26 Mar 2026 17:35:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a49f/live/30bc3230-29b7-11f1-bd05-4d2c4ed50be6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'unsafe road' that MP claims even police fear]]></title>
+            <description><![CDATA[Residents say "it's everyone for themselves" in an area which feels "abandoned".]]></description>
+            <link>https://www.bbc.com/news/articles/c0rxn7227v7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rxn7227v7o#4</guid>
+            <pubDate>Fri, 27 Mar 2026 06:31:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ec/live/2440b240-2815-11f1-8b0e-17f46c5c847e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home education cut could 'break' children, says mum]]></title>
+            <description><![CDATA[Barnsley Council's target to reduce home education by 30% is branded "unlawful" by campaigners.]]></description>
+            <link>https://www.bbc.com/news/articles/c620p2d0v64o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620p2d0v64o#4</guid>
+            <pubDate>Fri, 27 Mar 2026 06:09:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae0/live/76b41900-2774-11f1-82f7-f757ccb9d4bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Mum took own life after a forced adoption - now I want an apology']]></title>
+            <description><![CDATA[Thousands of unmarried English women were forced to give their babies away in the 1950s, 60s and 70s.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwj2nrnwwyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwj2nrnwwyo#4</guid>
+            <pubDate>Fri, 27 Mar 2026 05:59:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/327a/live/f1011020-292a-11f1-827e-f5a307c02015.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Everyone in this prison has had family killed or shot']]></title>
+            <description><![CDATA[Lindsay Foreman, a British woman detained in Iran, says her "heart breaks" for the Iranian people. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn89xl9xr34o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn89xl9xr34o#4</guid>
+            <pubDate>Thu, 26 Mar 2026 10:06:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aede/live/aad19c60-28ed-11f1-a95f-75471ca6e71e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why thousands of teens are being prescribed antidepressants]]></title>
+            <description><![CDATA[GP says long waits for support mean some doctors feel forced to prescribe medication outside of guidelines.]]></description>
+            <link>https://www.bbc.com/news/articles/cgjzwpvy309o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgjzwpvy309o#4</guid>
+            <pubDate>Thu, 26 Mar 2026 06:16:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af95/live/5851c490-d502-11f0-949c-45d05c88eada.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hodgson, 78, takes over at Bristol City as Struber sacked]]></title>
+            <description><![CDATA[Former England manager Roy Hodgson is put in caretaker charge of Bristol City after head coach Gerhard Struber was sacked.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cy51k1z677ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy51k1z677ro#6</guid>
+            <pubDate>Fri, 27 Mar 2026 10:46:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4291/live/e0011d80-29cd-11f1-9958-b14c758dcc6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Gloucester are swapping Kingsholm for Villa Park - for a day]]></title>
+            <description><![CDATA[How Gloucester hope swapping Kingsholm for Villa Park this weekend will help them grow their revenue, fanbase and talent pool.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/czd74ed0rjno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/czd74ed0rjno#6</guid>
+            <pubDate>Fri, 27 Mar 2026 09:13:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6560/live/6526fc70-29d6-11f1-9def-51999882d8d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No guarantees on Borthwick future as review continues]]></title>
+            <description><![CDATA[There are no guarantees on the future of England coach Steve Borthwick until a review into the Six Nations reports back in April, says  Bill Sweeney.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c5y7e7v5qkko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c5y7e7v5qkko#6</guid>
+            <pubDate>Fri, 27 Mar 2026 12:00:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/38e09be0-29cb-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Byfield to keep knocking the door for black bosses]]></title>
+            <description><![CDATA[Walsall head coach Darren Byfield says he will keep "banging the drum" for there to be more black managers in football.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cy418ld99x1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy418ld99x1o#6</guid>
+            <pubDate>Fri, 27 Mar 2026 14:57:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4225/live/e5db4710-29f7-11f1-8f65-5dbc9a6a5bd5.png"/>
+        </item>
+    </channel>
+</rss>
