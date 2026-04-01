@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 01 Apr 2026 08:28:52 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[China is trying to play peacemaker in the Iran war - will it work?]]></title>
+            <description><![CDATA[It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?]]></description>
+            <link>https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze0kz7gr84o#0</guid>
+            <pubDate>Wed, 01 Apr 2026 07:16:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran using children in security roles in war, reports and witnesses say]]></title>
+            <description><![CDATA[An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wqgjn7x89o#0</guid>
+            <pubDate>Tue, 31 Mar 2026 12:56:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c6/live/903a1ed0-2cef-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends]]></title>
+            <description><![CDATA[Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yx8knpr5no#0</guid>
+            <pubDate>Tue, 31 Mar 2026 18:57:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US journalist Shelly Kittleson kidnapped in Baghdad]]></title>
+            <description><![CDATA[The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yled478zwo#0</guid>
+            <pubDate>Tue, 31 Mar 2026 21:08:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74f/live/0ae033f0-2d5d-11f1-ba5e-31fb01ddb409.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peacekeepers killed by roadside explosion in Lebanon, initial report finds]]></title>
+            <description><![CDATA[The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.]]></description>
+            <link>https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05d7md899ro#0</guid>
+            <pubDate>Tue, 31 Mar 2026 22:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f72/live/1aa75e60-2d3c-11f1-8c7a-d7713554a96a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India begins counting more than a billion people in massive census]]></title>
+            <description><![CDATA[The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian.]]></description>
+            <link>https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vqnpqrgy3o#0</guid>
+            <pubDate>Wed, 01 Apr 2026 00:11:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a48/live/b23e79c0-2cce-11f1-8a0e-7754bc50f231.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian Christmas meal tragedy turns into murder inquiry]]></title>
+            <description><![CDATA[Tests results suggest the two women may have been killed with ricin, according to Italian media, but police still do not have a suspect.]]></description>
+            <link>https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cje470qgl1yo#1</guid>
+            <pubDate>Tue, 31 Mar 2026 19:52:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/4c1ec920-2d22-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megan Thee Stallion taken to hospital during Moulin Rouge performance]]></title>
+            <description><![CDATA[The rapper "started feeling very ill" mid-way through the show in New York, her representative told US media.]]></description>
+            <link>https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86e1403793o#1</guid>
+            <pubDate>Wed, 01 Apr 2026 05:30:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d0/live/ef60f620-2d87-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears]]></title>
+            <description><![CDATA[It's peak fire season in the Thai city, which now ranks as one of the world's most polluted. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0le03ne05ro#1</guid>
+            <pubDate>Wed, 01 Apr 2026 03:19:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae12/live/429a49e0-2d74-11f1-85a0-b9e8a127d116.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods to 'step away and seek treatment' after crash]]></title>
+            <description><![CDATA[The golf champion was arrested and charged with driving under the influence after clipping a truck and rolling his car in Florida on Friday.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c87wjj424vro#1</guid>
+            <pubDate>Tue, 31 Mar 2026 23:44:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb3/live/d989e160-2d58-11f1-9ba7-03b8bb248de4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge temporarily halts construction of Trump's White House ballroom]]></title>
+            <description><![CDATA[The Republican-appointed judge ruled that Trump was a "steward" of the White House, not the owner.]]></description>
+            <link>https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7056exw78xo#1</guid>
+            <pubDate>Tue, 31 Mar 2026 23:58:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb1/live/563386c0-2d5a-11f1-b633-8319d55ee810.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours]]></title>
+            <description><![CDATA[The crews of two military helicopters were suspended by the army, then told there would be "no investigation" by Defence Secretary Pete Hegseth.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gx2rw87e9o#1</guid>
+            <pubDate>Wed, 01 Apr 2026 00:51:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268d/live/f3fb2740-2d51-11f1-8287-670af2c7ae92.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech giant Oracle makes 'significant' job cuts]]></title>
+            <description><![CDATA[It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.]]></description>
+            <link>https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm296jzzl9yo#1</guid>
+            <pubDate>Wed, 01 Apr 2026 07:09:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56c/live/b36c93b0-2d35-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China bans storing cremated remains in empty 'bone ash apartments']]></title>
+            <description><![CDATA[China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.]]></description>
+            <link>https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm25ynex2zxo#1</guid>
+            <pubDate>Tue, 31 Mar 2026 10:53:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wolf bites woman in shock German attack on busy Hamburg shopping street]]></title>
+            <description><![CDATA[It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.]]></description>
+            <link>https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20qxjxe2nno#1</guid>
+            <pubDate>Tue, 31 Mar 2026 13:00:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f399/live/d18ee660-2cfc-11f1-b960-35ed0ba67153.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King's state visit to US to go ahead in April, but no Harry meeting]]></title>
+            <description><![CDATA[Despite political tensions between the US and UK, the King will travel to Washington next month.]]></description>
+            <link>https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd8nkezdyxo#1</guid>
+            <pubDate>Tue, 31 Mar 2026 21:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fec/live/7a119a80-2c17-11f1-aa35-ab540ef24ae5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurovision Song Contest launches first-ever Asia edition]]></title>
+            <description><![CDATA[Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2rwq53zxyo#1</guid>
+            <pubDate>Tue, 31 Mar 2026 09:51:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d17/live/68da7800-2cca-11f1-9585-1177e44a7ea1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian oil tanker docks in Cuba ending near-total blockade]]></title>
+            <description><![CDATA[A Russian oil tanker has docked in Cuba, providing temporary relief after months of shortages.]]></description>
+            <link>https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx1lrv0w5o#1</guid>
+            <pubDate>Tue, 31 Mar 2026 12:51:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e97/live/0da7d9b0-2d00-11f1-903b-c7d082edabea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch]]></title>
+            <description><![CDATA[Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.]]></description>
+            <link>https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0e1myvl2ko#2</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['You're no longer my sister' - rows erupt as war divides Iranian families]]></title>
+            <description><![CDATA[People in Iran describe angry scenes and tense relationships as rifts open up over the war.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9mvzpvr7xo#2</guid>
+            <pubDate>Tue, 31 Mar 2026 23:25:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A million things could go wrong' - why seizing Iran's uranium would be so risky for the US]]></title>
+            <description><![CDATA[Seizing the stockpile would be one of the "most complicated special operations in history", a former defence official tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvglv5v4yvpo#2</guid>
+            <pubDate>Tue, 31 Mar 2026 23:16:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f06/live/2896dc70-2d38-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war]]></title>
+            <description><![CDATA[Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kr8lrpekmo#2</guid>
+            <pubDate>Tue, 31 Mar 2026 22:48:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a30/live/58ff5b10-28f3-11f1-a95f-75471ca6e71e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who are the Artemis II astronauts heading to the Moon?]]></title>
+            <description><![CDATA[The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.]]></description>
+            <link>https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdj7e11pw10o#2</guid>
+            <pubDate>Tue, 31 Mar 2026 03:46:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Pakistan won over Trump to become an unlikely mediator in the Iran war]]></title>
+            <description><![CDATA[Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.]]></description>
+            <link>https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy91vrzxn34o#2</guid>
+            <pubDate>Tue, 31 Mar 2026 02:33:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed4/live/2d00ae60-2cb8-11f1-b9bb-6dfb750e57ca.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After sex abuse claims, activists and lawmakers rethink Cesar Chavez Day ]]></title>
+            <description><![CDATA[California has renamed Cesar Chavez Day to Farmworkers Day after the labour-rights icon was accused of sexual abuse.]]></description>
+            <link>https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm17m2gzl2o#2</guid>
+            <pubDate>Tue, 31 Mar 2026 00:14:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed75/live/5c6a36d0-2c95-11f1-85b2-2d183ed2ae9c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the cockpit of RAF tanker during defensive mission against Iranian drones]]></title>
+            <description><![CDATA[Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrmg6x2rgxo#2</guid>
+            <pubDate>Mon, 30 Mar 2026 23:10:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long queues in Myanmar as Iran war fuel crisis deepens]]></title>
+            <description><![CDATA[Drivers are queuing for hours at petrol stations in Myanmar as the Iran war continues to send shockwaves across the globe.]]></description>
+            <link>https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn08w9ye38yo#2</guid>
+            <pubDate>Mon, 30 Mar 2026 22:03:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e7/live/cc704a40-2c46-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the US could try to seize Iran's Kharg Island]]></title>
+            <description><![CDATA[Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.]]></description>
+            <link>https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c937gd1vq7xo#2</guid>
+            <pubDate>Mon, 30 Mar 2026 14:54:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman]]></title>
+            <description><![CDATA[Porepunkah has been in the spotlight since Dezi Freeman shot dead two police officers last year.]]></description>
+            <link>https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq59wj31vl4o#2</guid>
+            <pubDate>Tue, 31 Mar 2026 04:04:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aea/live/fbf1c0b0-2c95-11f1-85b2-2d183ed2ae9c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[First stop, the Moon. Next stop, Mars? Why Nasa's mission matters ]]></title>
+            <description><![CDATA[From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond. ]]></description>
+            <link>https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6wp6xenv0o#2</guid>
+            <pubDate>Sun, 29 Mar 2026 23:50:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91a/live/1ce46b10-29e4-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel rations and free buses: How countries are responding to rising oil prices]]></title>
+            <description><![CDATA[Governments around the world have introduced measures to limit the impact of price increases.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr9yr73xyeo#2</guid>
+            <pubDate>Mon, 30 Mar 2026 15:07:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0891/live/c771c0a0-2b8d-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech CEOs suddenly love blaming AI for mass job cuts. Why?]]></title>
+            <description><![CDATA[More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.]]></description>
+            <link>https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cde5y2x51y8o#2</guid>
+            <pubDate>Sun, 29 Mar 2026 23:07:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6d/live/8b7559f0-2c22-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Chinese tech companies are racing to set up in Hong Kong]]></title>
+            <description><![CDATA[Mainland firms are using the territory to test products and as a springboard for global expansion.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d5v404m96o#2</guid>
+            <pubDate>Sun, 29 Mar 2026 23:07:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8750/live/081187a0-2c6d-11f1-99fa-3346840cd8ed.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Photos show heavily damaged US radar jet at Saudi base]]></title>
+            <description><![CDATA[US Central Command has not yet publicly commented on the incident.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyd07m7e1xo#2</guid>
+            <pubDate>Sun, 29 Mar 2026 18:42:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4fb/live/f9cfe5d0-2c0b-11f1-934f-036468834728.png"/>
+        </item>
+        <item>
+            <title><![CDATA[One ant for $220: The new frontier of wildlife trafficking]]></title>
+            <description><![CDATA[The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4g44zv37qo#2</guid>
+            <pubDate>Sun, 29 Mar 2026 00:01:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7761/live/aa82d2e0-2a1b-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's phenomenal!': Excitement in Florida ahead of Artemis launch]]></title>
+            <description><![CDATA[BBC’s Leyla Khodabakhshi speaks to locals and visitors in Florida ahead of the Artemis II mission blast off.]]></description>
+            <link>https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3w3d9lqg2xo#3</guid>
+            <pubDate>Wed, 01 Apr 2026 06:37:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd4/live/89232e70-2d94-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Nasa's moon spacesuit lab ahead of Artemis launch]]></title>
+            <description><![CDATA[The Artemis II spacesuits are designed to protect the astronauts during launch and landing, as well as possible emergency scenarios.]]></description>
+            <link>https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cvgknq28nlko#3</guid>
+            <pubDate>Mon, 30 Mar 2026 15:48:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4a/live/5dbb71c0-2c4f-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Australia’s seven-month-long manhunt came to an end]]></title>
+            <description><![CDATA[Fugitive Dezi Freeman has been wanted since he shot dead two police officers on his rural property in August last year.]]></description>
+            <link>https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cjw8vqnlzxvo#3</guid>
+            <pubDate>Mon, 30 Mar 2026 05:58:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296f/live/c1f72ab0-2bfc-11f1-934f-036468834728.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds in Beirut mourn journalists killed in Israeli strike]]></title>
+            <description><![CDATA[BBC reports from the funerals of three journalists killed by a targeted attack in southern Lebanon.]]></description>
+            <link>https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ce354d73v2ko#3</guid>
+            <pubDate>Sun, 29 Mar 2026 15:20:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c39/live/1f62cf10-2b85-11f1-b297-95b0a0a8331e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Iconic global landmarks turn off lights for Earth Hour]]></title>
+            <description><![CDATA[France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night.]]></description>
+            <link>https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4gx042nlezo#3</guid>
+            <pubDate>Sat, 28 Mar 2026 22:02:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d7f/live/1dafd5e0-2aeb-11f1-934f-036468834728.jpg"/>
+        </item>
+    </channel>
+</rss>
