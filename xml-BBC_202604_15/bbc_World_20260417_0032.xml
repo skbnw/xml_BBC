@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 17 Apr 2026 00:32:26 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel and Lebanon agree 10-day ceasefire, Trump says]]></title>
+            <description><![CDATA[The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x7w1w9gd2o#0</guid>
+            <pubDate>Thu, 16 Apr 2026 21:18:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c7/live/d118f600-39d4-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope criticises 'tyrants' who spend billions on wars after Trump spat]]></title>
+            <description><![CDATA[The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0z3n5e5jo#0</guid>
+            <pubDate>Thu, 16 Apr 2026 18:40:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e442/live/40e16360-39b6-11f1-8897-e7b75af1cf66.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkish police detain 162 people over online posts about school shootings]]></title>
+            <description><![CDATA[At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday. ]]></description>
+            <link>https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9025d7jqzo#0</guid>
+            <pubDate>Thu, 16 Apr 2026 15:23:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Arsenal goalkeeper Alex Manninger dies after car hit by train]]></title>
+            <description><![CDATA[Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g84l14e5eo#0</guid>
+            <pubDate>Thu, 16 Apr 2026 13:53:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4412/live/756b6fe0-399d-11f1-b9b5-2b81eaf56941.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia launches deadliest aerial attack in months, killing 18 in Ukraine]]></title>
+            <description><![CDATA[A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm29plylqnvo#0</guid>
+            <pubDate>Thu, 16 Apr 2026 15:20:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d0/live/1a37f100-3940-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil's former spy chief released from ICE detention]]></title>
+            <description><![CDATA[Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvglz72rjl2o#0</guid>
+            <pubDate>Thu, 16 Apr 2026 11:00:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a6b/live/e16a84c0-3974-11f1-b60c-af6bba5f6d25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Naples bank robbers hold 25 people hostage then vanish through tunnel]]></title>
+            <description><![CDATA[The armed men reportedly evaded capture by escaping through the city's sewer system.]]></description>
+            <link>https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c05d216rj85o#0</guid>
+            <pubDate>Thu, 16 Apr 2026 17:24:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd89/live/fb48e460-39b8-11f1-879d-1b2f5c3919b8.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers to use air cushions in latest effort to save stranded whale]]></title>
+            <description><![CDATA["Timmy" has been stranded in the Baltic Sea for weeks despite several attempts to free the ailing animal. ]]></description>
+            <link>https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2082pljyk1o#1</guid>
+            <pubDate>Thu, 16 Apr 2026 18:30:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4649/live/03545460-39b8-11f1-88f7-99d8b0ace173.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say]]></title>
+            <description><![CDATA[Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0124xel35o#1</guid>
+            <pubDate>Thu, 16 Apr 2026 15:41:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee9/live/f4a95f40-399f-11f1-818c-6f173b5082f5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lawmakers clash with RFK Jr as he shifts focus away from vaccines]]></title>
+            <description><![CDATA[During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines. ]]></description>
+            <link>https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30r2v68lg8o#1</guid>
+            <pubDate>Thu, 16 Apr 2026 17:55:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f4/live/f65c4f50-39b3-11f1-8897-e7b75af1cf66.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South African opposition figure Malema sentenced to five years in prison for firing a gun]]></title>
+            <description><![CDATA[Malema is appealing against the decision, which means he is not going to prison immediately.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wqeggd27yo#1</guid>
+            <pubDate>Thu, 16 Apr 2026 17:20:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2880/live/3de1cfe0-3972-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope lashes out at foreigners who exploit Africa]]></title>
+            <description><![CDATA[The pontiff has been unusually forthright during his visit to conflict-hit Cameroon.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yj796plqmo#1</guid>
+            <pubDate>Thu, 16 Apr 2026 16:59:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8132/live/1f718970-3999-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies]]></title>
+            <description><![CDATA[The fire has deepened fears over the nation's petrol supplies amid a global crunch.]]></description>
+            <link>https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj40pdw79z9o#1</guid>
+            <pubDate>Thu, 16 Apr 2026 03:45:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee9b/live/a3089ec0-3964-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wanted activist arrested in South Africa over support for Benin coup plot]]></title>
+            <description><![CDATA[Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.]]></description>
+            <link>https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm29p64z77go#1</guid>
+            <pubDate>Thu, 16 Apr 2026 11:10:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b55/live/c3e37130-396c-11f1-a650-6399b8700755.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed]]></title>
+            <description><![CDATA[BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxkk1vnp57o#2</guid>
+            <pubDate>Thu, 16 Apr 2026 08:28:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/d7a90480-396e-11f1-8606-05fe34b06e1b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Back to books - Sweden's schools cutting back on digital learning]]></title>
+            <description><![CDATA[Swedish classrooms swap laptops for books, pens and paper, raising concerns from the tech sector.]]></description>
+            <link>https://www.bbc.com/news/articles/cly0vk77vdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly0vk77vdko#2</guid>
+            <pubDate>Wed, 15 Apr 2026 23:06:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b8/live/95806410-36a1-11f1-b2fb-538d90d10f11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India pushes for women's quota bill as row over parliamentary seats intensifies ]]></title>
+            <description><![CDATA[Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgeel8g27po#2</guid>
+            <pubDate>Thu, 16 Apr 2026 14:26:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c6/live/27f3d2d0-38b6-11f1-90eb-854a36c38eaa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done]]></title>
+            <description><![CDATA[The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g44gj7rgno#2</guid>
+            <pubDate>Wed, 15 Apr 2026 21:10:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2b/live/fba16310-3954-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's rift with Pope is playing out in public - it's costing him valuable support]]></title>
+            <description><![CDATA[Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.]]></description>
+            <link>https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c070jxyjrmeo#2</guid>
+            <pubDate>Wed, 15 Apr 2026 11:25:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c8c/live/dc497370-38c5-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf]]></title>
+            <description><![CDATA[Hundreds have been deployed to find Neukgu, a young wolf that has eluded capture for a week and counting.]]></description>
+            <link>https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24882dem6po#2</guid>
+            <pubDate>Wed, 15 Apr 2026 22:09:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f7/live/c4533b50-38ae-11f1-b3ad-57205c387169.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artemis II crew describes Moon mission and splashdown moment]]></title>
+            <description><![CDATA[The crew held its first press conference since splashing down from their historic 10-day trip.]]></description>
+            <link>https://www.bbc.com/news/videos/clyxpn98w55o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/clyxpn98w55o#3</guid>
+            <pubDate>Thu, 16 Apr 2026 20:32:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f88/live/9835e3e0-39d2-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How did a wolf become a fugitive in South Korea?]]></title>
+            <description><![CDATA[A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.]]></description>
+            <link>https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c70dv9jy50no#3</guid>
+            <pubDate>Thu, 16 Apr 2026 15:51:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3df9/live/d0617460-39a9-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Rising prices threaten Minnesota's meat raffles]]></title>
+            <description><![CDATA[Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.]]></description>
+            <link>https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp86pj0eppro#3</guid>
+            <pubDate>Thu, 16 Apr 2026 15:35:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/7ccc78a0-39a8-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meghan: 'I was the most trolled person in the entire world']]></title>
+            <description><![CDATA[Speaking in Melbourne about the harms of social media, alongside the Duke of Sussex, Meghan said she was "bullied" every day for a decade.]]></description>
+            <link>https://www.bbc.com/news/videos/cwyj271eg81o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwyj271eg81o#3</guid>
+            <pubDate>Thu, 16 Apr 2026 09:01:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc4/live/d1e15f70-396e-11f1-9d5c-8ba507d7dbde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winner of €1m Picasso 'thought it was a scam', organiser tells BBC]]></title>
+            <description><![CDATA[One of the charity draw organisers tells BBC Radio 4's Front Row about calling the painting's new owner.]]></description>
+            <link>https://www.bbc.com/news/videos/c98mr589g8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c98mr589g8do#3</guid>
+            <pubDate>Wed, 15 Apr 2026 22:21:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075d/live/9ab469c0-3914-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+    </channel>
+</rss>
