@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/technology</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/technology</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 24 Apr 2026 00:34:57 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[From scientist to silk farmer: India's silk industry renewal]]></title>
+            <description><![CDATA[Silk production is an increasingly high-tech business in India. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e7le127v5o#0</guid>
+            <pubDate>Thu, 23 Apr 2026 23:50:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/e999b7d0-2e9b-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House memo claims mass AI theft by Chinese firms]]></title>
+            <description><![CDATA[A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqxgxx9nrqo#0</guid>
+            <pubDate>Thu, 23 Apr 2026 23:13:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a85/live/6b1b6930-3f53-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta says it will cut 8,000 jobs as AI spending soars]]></title>
+            <description><![CDATA[The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crm1y89vek8o#0</guid>
+            <pubDate>Thu, 23 Apr 2026 22:56:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b1/live/f79c1250-3f45-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK Biobank health data listed for sale in China, government confirms]]></title>
+            <description><![CDATA[The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvxgl3n138o#0</guid>
+            <pubDate>Thu, 23 Apr 2026 11:45:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d24d/live/f69c7d70-3f15-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xbox cuts prices for Game Pass but ends day-one Call of Duty access]]></title>
+            <description><![CDATA[New Call of Duty games will be added to the subscription service "about a year" after release, Microsoft said.]]></description>
+            <link>https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgrlvvrn409o#0</guid>
+            <pubDate>Wed, 22 Apr 2026 12:03:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/35601e70-3e55-11f1-ac78-2112837ce2aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic investigating claim of unauthorised access to Mythos AI tool]]></title>
+            <description><![CDATA[The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.]]></description>
+            <link>https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41zejp9pko#0</guid>
+            <pubDate>Wed, 22 Apr 2026 10:13:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe06/live/9b78f4a0-3e2a-11f1-8ba5-cfdd8d3337ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK gaming icon Peter Molyneux on AI, his final creation and a changing industry]]></title>
+            <description><![CDATA[The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.]]></description>
+            <link>https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4glw5nyrggo#0</guid>
+            <pubDate>Tue, 21 Apr 2026 23:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e74/live/9f5db040-3e27-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta to track workers' clicks and keystrokes to train AI]]></title>
+            <description><![CDATA[The firm will take data from the way employees work for its artificial intelligence models.]]></description>
+            <link>https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvglyklz49jo#0</guid>
+            <pubDate>Tue, 21 Apr 2026 22:47:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c11/live/f3193ce0-3dd2-11f1-a40d-95806278e3fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ofcom investigating Telegram over child sexual abuse material concerns]]></title>
+            <description><![CDATA[The popular messaging service told the BBC in a statement it "categorically denies Ofcom's accusations".]]></description>
+            <link>https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gxj049wljo#0</guid>
+            <pubDate>Tue, 21 Apr 2026 13:59:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8553/live/0308eba0-3d6a-11f1-bb8a-374117ea6afa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How will Apple change under 'product guy' John Ternus?]]></title>
+            <description><![CDATA[How Ternus responds to challenges facing Apple will go a long way to deciding the tech giant's future, writes Zoe Kleinman.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4vkye71ypo#0</guid>
+            <pubDate>Tue, 21 Apr 2026 13:35:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66d/live/ee642bd0-3d7b-11f1-bd52-e755d604ece4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[New era as Apple names new boss to replace Tim Cook after 15 years]]></title>
+            <description><![CDATA[Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.]]></description>
+            <link>https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kr19lry18o#0</guid>
+            <pubDate>Tue, 21 Apr 2026 05:57:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9011/live/3c8640c0-3d52-11f1-8606-05fe34b06e1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'dumb machine' promising a clean energy breakthrough]]></title>
+            <description><![CDATA[A stellarator is difficult to build, but could it be the best way to make fusion energy work?]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvm11xrn6o#0</guid>
+            <pubDate>Mon, 20 Apr 2026 23:09:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cdc/live/60502c90-2c32-11f1-a79a-77e93010d956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Origin rocket grounded after satellite 'mishap']]></title>
+            <description><![CDATA[The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr9vwz48npo#0</guid>
+            <pubDate>Mon, 20 Apr 2026 19:56:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8600/live/da78ea80-3ce9-11f1-861e-13bf35e4cbcb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[How to say goodbye and pay tribute to a loved one - with a hologram.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jxr?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jxr#2</guid>
+            <pubDate>Tue, 21 Apr 2026 20:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nfs7lq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jxq#2</guid>
+            <pubDate>Tue, 14 Apr 2026 21:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nddh9q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[Is there a way to fix AI's problem with trust?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jxp?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jxp#2</guid>
+            <pubDate>Tue, 07 Apr 2026 20:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nc2nnc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[Attribution science is becoming an increasingly important tool in climate lawsuits.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jxn#2</guid>
+            <pubDate>Tue, 31 Mar 2026 20:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n9w60z.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002tvm7#3</guid>
+            <pubDate>Sat, 04 Apr 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n9zb5q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[How research linking climate change and extreme weather events is being used in lawsuits.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002tkdv?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002tkdv#3</guid>
+            <pubDate>Sat, 28 Mar 2026 01:00:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n987mt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane visits the underground insect farm turning food waste into animal feed.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002t71c?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002t71c#3</guid>
+            <pubDate>Sat, 21 Mar 2026 01:00:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n7t7h2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002sx4k#3</guid>
+            <pubDate>Sat, 14 Mar 2026 01:00:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n6g3cb.jpg"/>
+        </item>
+    </channel>
+</rss>
