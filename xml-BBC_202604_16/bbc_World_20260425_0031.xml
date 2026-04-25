@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 25 Apr 2026 00:30:59 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks]]></title>
+            <description><![CDATA[Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8103xklreo#0</guid>
+            <pubDate>Fri, 24 Apr 2026 22:02:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70d/live/13fc66d0-4017-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nato says 'no provision' to expel members after report US could seek to suspend Spain]]></title>
+            <description><![CDATA[An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.]]></description>
+            <link>https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz78x703lrvo#0</guid>
+            <pubDate>Fri, 24 Apr 2026 16:04:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No 10 says Falklands sovereignty rests with UK after report of US 'review']]></title>
+            <description><![CDATA[An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war. ]]></description>
+            <link>https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cde51y0zgjyo#0</guid>
+            <pubDate>Fri, 24 Apr 2026 22:55:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is making decisions in Iran?]]></title>
+            <description><![CDATA[Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.]]></description>
+            <link>https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm29m732vgno#0</guid>
+            <pubDate>Fri, 24 Apr 2026 16:38:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3bc/live/0b32ac80-3fef-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Kosovo Serbs jailed over deadly gun battle and monastery siege]]></title>
+            <description><![CDATA[Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.]]></description>
+            <link>https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crr1gwnx4e8o#0</guid>
+            <pubDate>Fri, 24 Apr 2026 17:20:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/b98e8340-3ff8-11f1-afbb-e15d65961cef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US justice department drops probe into Fed chairman Jerome Powell]]></title>
+            <description><![CDATA[President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxd1v0028vo#0</guid>
+            <pubDate>Fri, 24 Apr 2026 19:10:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/487e57a0-3feb-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key suspect in notorious Tadamon massacre during Syria civil war arrested]]></title>
+            <description><![CDATA[Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.]]></description>
+            <link>https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvglxgq1p2jo#1</guid>
+            <pubDate>Fri, 24 Apr 2026 10:41:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8d/live/b353fc20-3fcc-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli police investigate after officers 'cut Palestinian flag' from skullcap]]></title>
+            <description><![CDATA[The British Israeli man says he was detained after someone took offence at his kippah embroidered with Israeli and Palestinian flags.]]></description>
+            <link>https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz67qjn48eqo#1</guid>
+            <pubDate>Fri, 24 Apr 2026 16:20:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6546/live/b504bdc0-3fea-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pirates hijack oil tanker off the coast of Somalia]]></title>
+            <description><![CDATA[Piracy, once notorious in this stretch of the Indian Ocean, has made a comeback in recent years. ]]></description>
+            <link>https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78l26yn981o#1</guid>
+            <pubDate>Fri, 24 Apr 2026 17:04:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f95/live/5a974400-3ffb-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mandelson under formal investigation by EU's anti-fraud office]]></title>
+            <description><![CDATA[The EU's anti-fraud office confirms it has "sufficient information" to launch  an investigation, but does not say if it involves fraud.]]></description>
+            <link>https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77m242z2j8o#1</guid>
+            <pubDate>Fri, 24 Apr 2026 16:18:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/827b6870-3ff1-11f1-b7e9-5d346a313b73.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poisoning suspected in deaths of 18 wolves in Italian national park]]></title>
+            <description><![CDATA[After the carcasses of 10 wolves were found last week, another eight have been found in recent days.]]></description>
+            <link>https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mjederzwdo#1</guid>
+            <pubDate>Fri, 24 Apr 2026 11:47:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1808/live/c7092240-3fae-11f1-8920-b35a7a371f7a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel's Benjamin Netanyahu treated for early-stage prostate cancer]]></title>
+            <description><![CDATA[The Israeli prime minister says he is "in excellent physical condition" after having a malignant tumour removed.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgw72lrvn3o#1</guid>
+            <pubDate>Fri, 24 Apr 2026 11:49:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf8/live/5b163f30-3fd3-11f1-8d04-6f63ea2b2d4b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Epstein housed abuse victims in London flats, BBC reveals]]></title>
+            <description><![CDATA[The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.]]></description>
+            <link>https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn08j2g9ze9o#1</guid>
+            <pubDate>Fri, 24 Apr 2026 21:01:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/ca02cac0-3f20-11f1-b55d-0f258dce1735.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenyan leader sparks uproar after  mocking Nigerians' spoken English]]></title>
+            <description><![CDATA[William Ruto says Kenyans speak "some of the best English in the world" while it is hard to understand Nigerians.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ledd82ed0o#1</guid>
+            <pubDate>Fri, 24 Apr 2026 09:01:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f96/live/874b8a90-3fa3-11f1-b824-55f81473da8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Africa's top envoy to Ghana summoned over attacks on foreigners]]></title>
+            <description><![CDATA[A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.]]></description>
+            <link>https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp38e5jgxqyo#1</guid>
+            <pubDate>Fri, 24 Apr 2026 17:31:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5194/live/01ef7940-3fc3-11f1-b61b-1d0ccf7b6022.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korea police arrest man for posting AI photo of runaway wolf]]></title>
+            <description><![CDATA[The widely circulated image had prompted authorities to move their search operation.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gx1n0dl9no#1</guid>
+            <pubDate>Fri, 24 Apr 2026 08:23:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest]]></title>
+            <description><![CDATA[What court papers and sources close to the investigation have told the BBC about the scope of the plan.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gj1w5lqw7o#2</guid>
+            <pubDate>Fri, 24 Apr 2026 13:57:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/8f2143c0-3fd2-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent]]></title>
+            <description><![CDATA[Officials say the restrictions are for public safety, but businesses and the public are feeling the impact. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr510de17jlo#2</guid>
+            <pubDate>Fri, 24 Apr 2026 05:00:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f1/live/d8e57b10-3f1f-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Relatives of 10 scientists who died or vanished grapple with impact of wild speculation]]></title>
+            <description><![CDATA[Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyw9rpdl4po#2</guid>
+            <pubDate>Fri, 24 Apr 2026 20:15:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a27a/live/ec50a630-3fcd-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris]]></title>
+            <description><![CDATA[Some young attendees say the event demonstrated a more inclusive French culture taking shape.]]></description>
+            <link>https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx23zmxd2z3o#2</guid>
+            <pubDate>Fri, 24 Apr 2026 00:34:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/248b/live/8eeee510-3e51-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A rumour, a lynching in India and a long wait for justice]]></title>
+            <description><![CDATA[A court has convicted 20 people for the 2018 mob lynching of two men falsely accused of kidnapping children.]]></description>
+            <link>https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly07kk2pm2o#2</guid>
+            <pubDate>Thu, 23 Apr 2026 23:30:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448a/live/32b90b40-3d4d-11f1-ac21-67dfeb2ee87f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: North India braces for heatwaves as temperatures cross 40C]]></title>
+            <description><![CDATA[India's weather department has issued heatwave warnings in parts of northern India.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0666d0xjo#2</guid>
+            <pubDate>Fri, 24 Apr 2026 09:07:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d4b/live/647ddd40-3fa5-11f1-b7fe-5bf54e67de0f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is this game only legal across Australia one day a year?]]></title>
+            <description><![CDATA[Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.]]></description>
+            <link>https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ceqw389d5yvo#3</guid>
+            <pubDate>Fri, 24 Apr 2026 18:05:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49e/live/39d2b0c0-3f87-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the Kremlin's internet crackdown is frustrating Russians]]></title>
+            <description><![CDATA[Officials say the restrictions are for public safety, but businesses and the public are feeling the impact. ]]></description>
+            <link>https://www.bbc.com/news/videos/c75kpx2w452o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c75kpx2w452o#3</guid>
+            <pubDate>Fri, 24 Apr 2026 15:19:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a33/live/f493da20-3fef-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A dangerous standoff' as Strait of Hormuz blockade continues]]></title>
+            <description><![CDATA[The US and Iran's rival blockades of the Strait of Hormuz have become a "test of wills", says Lyse Doucet.]]></description>
+            <link>https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckgwlgyyyv0o#3</guid>
+            <pubDate>Fri, 24 Apr 2026 09:26:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c18/live/60b33850-3fb3-11f1-b61b-1d0ccf7b6022.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Powerful tornadoes barrel through northern Oklahoma]]></title>
+            <description><![CDATA[Ten people were injured and dozens of homes damaged as the twister hit the city of Enid.]]></description>
+            <link>https://www.bbc.com/news/videos/c30re0j9q7jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c30re0j9q7jo#3</guid>
+            <pubDate>Fri, 24 Apr 2026 09:49:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aaa/live/9a9eb160-3fc3-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My five-minute phone call with President Trump]]></title>
+            <description><![CDATA[Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.]]></description>
+            <link>https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c624yr5p3kpo#3</guid>
+            <pubDate>Thu, 23 Apr 2026 16:47:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a27a/live/ed588410-3f2f-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+    </channel>
+</rss>
