@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Northern Ireland]]></description>
+        <link>https://www.bbc.co.uk/news/northern_ireland</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/northern_ireland</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 03 May 2026 00:39:08 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/northern_ireland/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Mournes could take centuries to recover from wildfires' ]]></title>
+            <description><![CDATA[One conservation expert says repeated fires in The Mournes are like "death by a thousand cuts". ]]></description>
+            <link>https://www.bbc.com/news/articles/cevpy8r2e22o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cevpy8r2e22o#0</guid>
+            <pubDate>Sat, 02 May 2026 23:01:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/870e/live/2ee262e0-4573-11f1-b442-c37a8b277356.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police station car bomb accused appears in court]]></title>
+            <description><![CDATA[A 66 year old appears in court a week after a bomb exploded outside Dunmurry Police Station.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4x38dpdjo#0</guid>
+            <pubDate>Sat, 02 May 2026 10:27:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cbe/live/089a17e0-45f0-11f1-87e6-f13914d2d995.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch apologises after Bloody Sunday footage used in video]]></title>
+            <description><![CDATA[ Foyle MP Colum Eastwood called on Badenoch to personally apologise after the video was posted online.]]></description>
+            <link>https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21n5kx4d9o#0</guid>
+            <pubDate>Sat, 02 May 2026 15:14:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e94/live/fe0c8ae0-4632-11f1-b14f-8905f097c360.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire service tackles flooding caused by heavy rain in Derry ]]></title>
+            <description><![CDATA[The Foyle Road is currently closed due to flooding from the Foyleside RBT to Craigavon Bridge Lower Deck.]]></description>
+            <link>https://www.bbc.com/news/articles/clypg01q223o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clypg01q223o#0</guid>
+            <pubDate>Sat, 02 May 2026 21:41:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506c/live/323d5960-4652-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two men taken to hospital after machete attack]]></title>
+            <description><![CDATA[Police received a report shortly after 21:40 BST on Friday that a number of masked men entered a house in Ambleside Street. ]]></description>
+            <link>https://www.bbc.com/news/articles/crlpnp5n58wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crlpnp5n58wo#0</guid>
+            <pubDate>Sat, 02 May 2026 12:09:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b8/live/af5e4f40-461f-11f1-b0bc-1f5a59b5b6a6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Coleraine beat Swifts in thrilling final to win Irish Cup]]></title>
+            <description><![CDATA[Matthew Shevlin scores twice as Coleraine win the Irish Cup for the first time since 2018 with a 3-2 victory over holders Dungannon Swifts in an action-packed final at Windsor Park.]]></description>
+            <link>https://www.bbc.com/sport/articles/c62xl4552vxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c62xl4552vxo#0</guid>
+            <pubDate>Sat, 02 May 2026 15:25:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0c5/live/8ad74010-464b-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boston 'hero' runner hopes he won't be 'villain' in Belfast race]]></title>
+            <description><![CDATA[After helping to carry a fellow runner over the line in Boston, Aaron Beggs knows he will be a focus of attention as he runs 26.2 miles around Belfast on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8pyp2z2zvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8pyp2z2zvo#0</guid>
+            <pubDate>Sat, 02 May 2026 11:41:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/9f961330-461b-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The WW2 child murder that devastated a family and a community]]></title>
+            <description><![CDATA[Patricia 'Patsy' Wylie was seven when she was murdered by an American soldier in County Tyrone.    ]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4ek0x1dpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4ek0x1dpo#1</guid>
+            <pubDate>Sat, 02 May 2026 05:56:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20b/live/2d5dcc60-43cb-11f1-903c-97fc83b422d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monaghan snatch thrilling extra-time win over Derry]]></title>
+            <description><![CDATA[Rory Beggan's last-gasp two-point free in extra-time sees Monaghan break Derry hearts with a 1-30 to 3-23 win to qualify for the final of the Ulster Senior Football Championship.]]></description>
+            <link>https://www.bbc.com/sport/articles/cd9pn4zek58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cd9pn4zek58o#1</guid>
+            <pubDate>Sat, 02 May 2026 19:15:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bd5/live/a11a0760-4658-11f1-b19b-3b9af3024869.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police seize £1m worth of cocaine and find indecent images of children]]></title>
+            <description><![CDATA[The man was arrested on suspicion of offences relating to drug supply, money laundering and indecent images of children.]]></description>
+            <link>https://www.bbc.com/news/articles/clyp2rd0gyxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyp2rd0gyxo#1</guid>
+            <pubDate>Sat, 02 May 2026 16:26:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996f/live/fda4d520-4642-11f1-aa14-ad910202f501.png"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm a four-time Irish dance world champion and I'm just 13 years old ]]></title>
+            <description><![CDATA[Tomi Elemide was the only boy to achieve a perfect score at the world championships last month. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy41xje37z0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41xje37z0o#1</guid>
+            <pubDate>Sat, 02 May 2026 05:37:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea54/live/b696df00-4496-11f1-b4a4-6ff2bccf200b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Incredibly blessed': The 86-year-old dancer on the secret to a long career]]></title>
+            <description><![CDATA[Dancer Joanne Banks first stepped on stage in Northern Ireland in 1958 as a teenager with the Royal Ballet, now 86 years old she is back on the boards.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yr3yee4gno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yr3yee4gno#2</guid>
+            <pubDate>Wed, 29 Apr 2026 23:03:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b3/live/432e6fc0-43be-11f1-a0e9-f392511be4c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bridge collapse has left our rural village isolated']]></title>
+            <description><![CDATA[A community say they have been felt feeling "isolated and overlooked" after the collapse of a bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/cwykv910024o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwykv910024o#2</guid>
+            <pubDate>Wed, 29 Apr 2026 05:25:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f21/live/2a0da640-3f05-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Manager fanatic travels 1,000 miles to see team in real life]]></title>
+            <description><![CDATA[Andrea Lai traveled from Italy to Northern Ireland to see Coleraine FC play after playing as the team on the video game Football Manager.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgeg519385o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgeg519385o#2</guid>
+            <pubDate>Tue, 28 Apr 2026 08:08:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d9/live/03916140-4267-11f1-9b90-e370f5c537cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We will be on one side of the Hill they will be on the other']]></title>
+            <description><![CDATA[If you want to understand the deep-seated rivalry between Armagh and Down, the best place to go is Newry where the city is is divided by county lines.]]></description>
+            <link>https://www.bbc.com/news/articles/czj291xe731o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj291xe731o#3</guid>
+            <pubDate>Sat, 02 May 2026 05:31:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a497/live/9afffc80-44ab-11f1-a323-5fb501c33fac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everything you need to know about the Belfast Marathon]]></title>
+            <description><![CDATA[Thousands of people will be taking part in the 26.2 mile route across the city.]]></description>
+            <link>https://www.bbc.com/news/articles/c759n33kvvlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c759n33kvvlo#3</guid>
+            <pubDate>Sat, 02 May 2026 09:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d0/live/41e16210-43d9-11f1-a133-a9dbeae5d5f3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue and white showdown - the towns battling for Irish Cup glory]]></title>
+            <description><![CDATA[Excitement is building in the town's of Dungannon and Coleraine ahead Saturday's Irish Cup final.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy25093e4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy25093e4do#3</guid>
+            <pubDate>Fri, 01 May 2026 05:03:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad38/live/f9db36d0-447d-11f1-88ff-575186ed76aa.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Eggs of elusive bird rescued by firefighters during wildfire]]></title>
+            <description><![CDATA[During a wildfire in Brookeborough, County Fermanagh on Thursday, a curlew nest directly in the fire's path was found.]]></description>
+            <link>https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2k20ggnqldo#3</guid>
+            <pubDate>Fri, 01 May 2026 15:50:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ce/live/0d560c00-4571-11f1-b442-c37a8b277356.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Pre-schools like ours won't survive if we can't find new homes']]></title>
+            <description><![CDATA[Rainbow Corner has been asked to leave its home in the Orange hall it has used since 1979.]]></description>
+            <link>https://www.bbc.com/news/articles/c8ej0lenp64o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8ej0lenp64o#3</guid>
+            <pubDate>Thu, 30 Apr 2026 23:02:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/f9d8cd90-3fe2-11f1-ba72-3dd058cb149f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Newsline signed summary ]]></title>
+            <description><![CDATA[A signed summary of BBC Newsline.]]></description>
+            <link>https://www.bbc.com/news/videos/ckdd22kyq81o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckdd22kyq81o#3</guid>
+            <pubDate>Fri, 01 May 2026 12:12:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f146/live/74ed3c60-2338-11ef-baa7-25d483663b8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why does one part of the UK still not have smart meters?]]></title>
+            <description><![CDATA[Smart meters are widely used in the rest of the UK and in Ireland, providing real-time information to energy suppliers.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8dvqp34qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8dvqp34qo#3</guid>
+            <pubDate>Wed, 29 Apr 2026 16:32:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfdd/live/a58cecc0-4335-11f1-b41f-6d23471e6e69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I call them Bublé-bies' - Singer jokes population doubles after his gigs]]></title>
+            <description><![CDATA[Five-time Grammy Award winning Michael Bublé will headline Belsonic in Belfast's Ormeau Park on 1 July.]]></description>
+            <link>https://www.bbc.com/news/articles/cx21lkd1421o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21lkd1421o#3</guid>
+            <pubDate>Wed, 29 Apr 2026 05:30:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f47/live/c4ac12d0-42f8-11f1-9516-81393c122a1a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NI's population is ageing rapidly - this is what it means for society]]></title>
+            <description><![CDATA[The new projections from the Nisra suggest the population will start falling in 2031 due to a low birth rate.]]></description>
+            <link>https://www.bbc.com/news/articles/c98r4we4g8ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98r4we4g8ko#3</guid>
+            <pubDate>Tue, 28 Apr 2026 16:00:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35f/live/35377180-431b-11f1-89cc-ff708b4a3776.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSNI takes BBC behind the badge with unprecedented access]]></title>
+            <description><![CDATA[Over two years, Stephen Nolan has been allowed unprecedented access to a team of officers, following them as they deal with everything from public disorder and assaults to drug dens and drunk drivers.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ledkepx56o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ledkepx56o#3</guid>
+            <pubDate>Sun, 26 Apr 2026 23:08:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d7/live/147797a0-4243-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Incredibly blessed': The 86-year-old dancer on the secret to a long career]]></title>
+            <description><![CDATA[Dancer Joanne Banks first stepped on stage in Northern Ireland in 1958 as a teenager with the Royal Ballet, now 86 years old she is back on the boards.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yr3yee4gno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yr3yee4gno#3</guid>
+            <pubDate>Wed, 29 Apr 2026 23:03:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b3/live/432e6fc0-43be-11f1-a0e9-f392511be4c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Manager fanatic travels 1,000 miles to see team in real life]]></title>
+            <description><![CDATA[Andrea Lai traveled from Italy to Northern Ireland to see Coleraine FC play after playing as the team on the video game Football Manager.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgeg519385o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgeg519385o#3</guid>
+            <pubDate>Tue, 28 Apr 2026 08:08:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d9/live/03916140-4267-11f1-9b90-e370f5c537cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a yacht club's seawall is being reimagined for marine life]]></title>
+            <description><![CDATA[Ten artificial rock pools have been installed along Strangford Yacht Club's seawall as a refuge for marine life.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg0rmxyyp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0rmxyyp1o#3</guid>
+            <pubDate>Mon, 27 Apr 2026 05:13:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47bf/live/33a313d0-3f13-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police attacked with petrol bombs and masonry ]]></title>
+            <description><![CDATA[A crowd of youths with their faces hidden pelt police vehicles following a parade at an interface.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y7xze4wqzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y7xze4wqzo#4</guid>
+            <pubDate>Sat, 02 May 2026 14:17:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867c/live/a0f4ac40-4630-11f1-91f6-f741affb2314.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attacks on war memorial 'upsetting', Royal British Legion says]]></title>
+            <description><![CDATA[The local chair of Royal British Legion says attacks on a war memorial in Strabane 'are akin to desecrating a family grave']]></description>
+            <link>https://www.bbc.com/news/articles/cdrpdlz5e8go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrpdlz5e8go#4</guid>
+            <pubDate>Fri, 01 May 2026 07:16:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9646/live/586493a0-452c-11f1-a613-4794dd5170f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A Derry jazz festival? Are you off your head?']]></title>
+            <description><![CDATA[Around 100,000 people are expected in Londonderry to celebrate 25 years of the City of Derry Jazz Festival.]]></description>
+            <link>https://www.bbc.com/news/articles/cx21n2498p3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21n2498p3o#4</guid>
+            <pubDate>Fri, 01 May 2026 05:21:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b24/live/b00a23c0-0b92-11ef-9973-d38818507d0a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Derry to Dublin flight 'expected to resume in October']]></title>
+            <description><![CDATA[The City of Derry to Dublin flight, which was axed in 2011, is expected to resume in October, the Irish Parliament is told.]]></description>
+            <link>https://www.bbc.com/news/articles/cjep03002lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjep03002lxo#4</guid>
+            <pubDate>Fri, 01 May 2026 08:34:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/21e60f50-4533-11f1-a613-4794dd5170f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Higgins a 'better manager' after working through grief]]></title>
+            <description><![CDATA[Ruaidhri Higgins opens up on overcoming personal tragedies as he prepares to lead Coleraine into Saturday's Irish Cup final against Dungannon Swifts.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/czr2m078vz3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr2m078vz3o#4</guid>
+            <pubDate>Fri, 01 May 2026 06:25:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e725/live/b759a3b0-449f-11f1-9b4f-919a6264e39f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of Bloody Sunday shooting victim gets £275,000 in damages]]></title>
+            <description><![CDATA[Compensation was awarded for the events in Londonderry which left Daniel McGowan with life-changing injuries and unable to work again.]]></description>
+            <link>https://www.bbc.com/news/articles/c052gvypqgdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c052gvypqgdo#4</guid>
+            <pubDate>Thu, 30 Apr 2026 16:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d51/live/4def14d0-44a6-11f1-9b4f-919a6264e39f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man accused of inflicting burns on man in courthouse granted bail]]></title>
+            <description><![CDATA[Corrie McKenna, 34, is accused of inflicting burns on a man inside Strabane courthouse.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgz34vy1ngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgz34vy1ngo#4</guid>
+            <pubDate>Thu, 30 Apr 2026 17:06:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b081/live/87babad0-3a37-11f1-826b-272fcb9e69bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From teacher to preacher: New Dean on his 'extraordinary journey']]></title>
+            <description><![CDATA[Rev Nigel Cairns says an extraordinary journey has taken him to his new role in his native Londonderry.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6p4rj1pnmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6p4rj1pnmo#4</guid>
+            <pubDate>Thu, 30 Apr 2026 05:09:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf2f/live/631292e0-43d6-11f1-bf3e-3d07e81b01ce.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ministers sign £129m Causeway Coast and Glens deal ]]></title>
+            <description><![CDATA[The package will result millions of pounds being invested in the Causeway Coast and Glens area over the next decade.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgzd9289k5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzd9289k5o#4</guid>
+            <pubDate>Wed, 29 Apr 2026 11:53:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a19/live/b990e500-43ad-11f1-9d89-8526d1435c1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[War memorial vandalism 'absolutely disgusting']]></title>
+            <description><![CDATA[Police are treating the vandalism of the monument in Strabane, County Tyrone, as a sectarian hate crime.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5prykkpypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5prykkpypo#4</guid>
+            <pubDate>Tue, 28 Apr 2026 09:57:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c44/live/ba8c9510-42e7-11f1-9516-81393c122a1a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McClean provides positive update on hip injury]]></title>
+            <description><![CDATA[Derry City winger James McClean offers a positive update on his long-standing hip injury after meeting with a specialist.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cly7ye988r3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly7ye988r3o#4</guid>
+            <pubDate>Mon, 27 Apr 2026 14:22:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b895/live/acf554f0-4242-11f1-8d69-c381592aaa8c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Early morning walker finds dead lambs on country road]]></title>
+            <description><![CDATA[Lisa Houston say the discovery of around 12 animal carcasses near Claudy on Sunday morning was 'shocking and upsetting'.]]></description>
+            <link>https://www.bbc.com/news/articles/crk1kvk127zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk1kvk127zo#4</guid>
+            <pubDate>Mon, 27 Apr 2026 15:31:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/d35ecb10-154f-11f0-bb66-e5a3c361000c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's a symbol of our village' - Victorian bridge reinstalled after public fight]]></title>
+            <description><![CDATA[The bridge, which has spanned the train tracks since the 19th century, was removed for repair work and placed in storage in 2017 at a cost of £730,000.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9vd52pmy4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9vd52pmy4o#4</guid>
+            <pubDate>Mon, 27 Apr 2026 05:02:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0448/live/01e382a0-3fd4-11f1-8d04-6f63ea2b2d4b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ulster University accused of 'ill-judged political attack']]></title>
+            <description><![CDATA[The claim has been made in a letter to the university by the University and College Union.]]></description>
+            <link>https://www.bbc.com/news/articles/c20qrgpdrq3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20qrgpdrq3o#4</guid>
+            <pubDate>Fri, 24 Apr 2026 16:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fddf/live/e1e378b0-3f2f-11f1-8bc8-b593f442a966.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A different ball game as Derry City play 'historic fixture' at GAA ground]]></title>
+            <description><![CDATA[Friday's League of Ireland clash will see the GAA venue host Derry City and Shamrock Rovers.  ]]></description>
+            <link>https://www.bbc.com/news/articles/c98k63zwe01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98k63zwe01o#4</guid>
+            <pubDate>Fri, 24 Apr 2026 05:42:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9981/live/d0fcbf10-3e40-11f1-bb02-b7764f8dd2b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Job cuts raise 'serious questions' over Magee expansion, union warns]]></title>
+            <description><![CDATA[Norman Hagan, from the University and College Union , says job losses have to affect the Magee expansion.]]></description>
+            <link>https://www.bbc.com/news/articles/c3exqkd1373o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3exqkd1373o#4</guid>
+            <pubDate>Wed, 22 Apr 2026 14:50:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d650/live/d1715700-3e39-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Graham Linehan's conviction for damaging trans activist's phone overturned]]></title>
+            <description><![CDATA[Linehan had previously been found guilty of criminal damage after a confrontation with a trans activist.]]></description>
+            <link>https://www.bbc.com/news/articles/czx2vk4zx3xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx2vk4zx3xo#5</guid>
+            <pubDate>Fri, 01 May 2026 15:38:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1990/live/5252dcb0-456d-11f1-978c-1335807b5925.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of 'senior lieutenant' in Kinahan gang write letters to court]]></title>
+            <description><![CDATA[Sean McGovern is before the non-jury Special Criminal Court and is due to be sentenced on June 8.]]></description>
+            <link>https://www.bbc.com/news/articles/c3d2exk2r23o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d2exk2r23o#5</guid>
+            <pubDate>Fri, 01 May 2026 12:20:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9587/live/9fa36ba0-4555-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Irish government 'reassured' over changes to Troubles' legacy bill]]></title>
+            <description><![CDATA[Helen McEntee was speaking after meeting Hilary Benn to discuss both governments' efforts to address the legacy of the past.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9p8ve5v5lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9p8ve5v5lo#5</guid>
+            <pubDate>Thu, 30 Apr 2026 17:06:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874c/live/2231c2f0-44b2-11f1-9caf-0fcd4fb68138.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shot fired after child picks up discarded gun]]></title>
+            <description><![CDATA[The weapon was the second loaded gun found in bushes in the Dublin suburb of Ballymun within days.]]></description>
+            <link>https://www.bbc.com/news/articles/c8jvljjx4pyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jvljjx4pyo#5</guid>
+            <pubDate>Wed, 29 Apr 2026 15:39:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/522b/live/998a9870-43d8-11f1-a133-a9dbeae5d5f3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Aon Focal Eile, the Irish novelty song that 'toppled' Céline Dion ]]></title>
+            <description><![CDATA[Aon Focal Eile by Richie Kavanagh topped the Irish charts 30 years ago for seven weeks.]]></description>
+            <link>https://www.bbc.com/news/articles/c30rrm4z1ggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30rrm4z1ggo#5</guid>
+            <pubDate>Sun, 26 Apr 2026 05:10:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b0/live/1a536fb0-3fcc-11f1-8d04-6f63ea2b2d4b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenage motorcyclist dies after collision]]></title>
+            <description><![CDATA[It happened on the R252 at Cloghan, County Donegal, at about 16:30 local time.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y71v16zlxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y71v16zlxo#5</guid>
+            <pubDate>Sat, 25 Apr 2026 20:47:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f2/live/a009f300-40de-11f1-b316-3766e147ab87.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Man who died after bus crash at Dublin Airport named]]></title>
+            <description><![CDATA[The crash happened shortly after midnight on Thursday on the Corballis Road which is within the airport.]]></description>
+            <link>https://www.bbc.com/news/articles/c0rxk802nrdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rxk802nrdo#5</guid>
+            <pubDate>Fri, 24 Apr 2026 15:29:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa17/live/c20a61f0-3fef-11f1-b7e9-5d346a313b73.jpg"/>
+        </item>
+    </channel>
+</rss>
