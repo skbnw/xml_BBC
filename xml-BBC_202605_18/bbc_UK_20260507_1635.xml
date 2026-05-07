@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 07 May 2026 16:35:16 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Britons on hantavirus cruise ship face 45 days of self-isolation]]></title>
+            <description><![CDATA[Two Brits are currently self-isolating in the UK after potential exposure, while a 56-year-old British man is in a stable condition after being evacuated from the ship.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wepl8we90o#0</guid>
+            <pubDate>Thu, 07 May 2026 14:13:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cde/live/99845960-49d7-11f1-9acb-332348f2c41f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[UK immigration officer among two men guilty of working for Chinese intelligence]]></title>
+            <description><![CDATA[Chi Leung "Peter" Wai used the main immigration database to track Hong Kong dissidents in the UK.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m2wjlkzplo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m2wjlkzplo#0</guid>
+            <pubDate>Thu, 07 May 2026 16:06:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9c1/live/321b5880-4a2e-11f1-91d3-69962f9a0625.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[David Attenborough says he is 'overwhelmed' by 100th birthday messages]]></title>
+            <description><![CDATA[The legendary wildlife broadcaster thanks fans in a message the day before he reaches his centenary.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3pww9g0p5o#0</guid>
+            <pubDate>Thu, 07 May 2026 16:00:10 GMT</pubDate>
+            <media:thumbnail width="240" height="155" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f50/live/c6161f60-4a25-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested over intimidating behaviour near Andrew's home]]></title>
+            <description><![CDATA[A man is being held on suspicion of a public order offence and possessing an offensive weapon.]]></description>
+            <link>https://www.bbc.com/news/articles/c072z2gm5lxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c072z2gm5lxo#0</guid>
+            <pubDate>Thu, 07 May 2026 15:25:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ea/live/fd73e020-4a1e-11f1-97c6-d32d5f1a58f0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested for selling Morgan McSweeney's stolen phone]]></title>
+            <description><![CDATA[McSweeney was the prime minister's chief of staff in October 2025 when his government phone was stolen in London. ]]></description>
+            <link>https://www.bbc.com/news/articles/cpvp48x2d70o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvp48x2d70o#0</guid>
+            <pubDate>Thu, 07 May 2026 12:25:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f9c/live/b52e6000-4a15-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Only Way Is Essex star Jake Hall dies aged 35]]></title>
+            <description><![CDATA[The reality TV star, model and former footballer died in Spain.]]></description>
+            <link>https://www.bbc.com/news/articles/cdrpxe18ke5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrpxe18ke5o#1</guid>
+            <pubDate>Thu, 07 May 2026 14:26:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad7/live/fccb7150-4a01-11f1-a9e7-0f8f590f205b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Appeal after car drives towards Jewish children]]></title>
+            <description><![CDATA[A black car allegedly drives towards a group of Jewish students waiting to cross a road in north London.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy2dwpdxz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy2dwpdxz8o#1</guid>
+            <pubDate>Thu, 07 May 2026 14:23:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01fe/live/4a0de490-49ec-11f1-9921-0be54b6c608a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman and teen arrested for murder after two die in BMW and motorbike crash]]></title>
+            <description><![CDATA[A motorbike and BMW car crashed early on Thursday, with three people arrested.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e24dyzvk9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e24dyzvk9o#1</guid>
+            <pubDate>Thu, 07 May 2026 15:25:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d0c/live/17b08e00-4a03-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Britannia Hotels in court after woman's wardrobe death]]></title>
+            <description><![CDATA[The owners face 20 charges and are accused of breaking safety laws after Chloe Haynes' death.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgzpj074ego?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzpj074ego#1</guid>
+            <pubDate>Thu, 07 May 2026 11:50:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a327/live/d2d63210-4a09-11f1-9595-b54f38a93bc1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Psychiatrist 'unable to section Nottingham killer']]></title>
+            <description><![CDATA[Dr Mike Skelton assessed Valdo Calocane the day after he assaulted a flatmate in Nottingham in 2022.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3p0g1l5e1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3p0g1l5e1o#1</guid>
+            <pubDate>Thu, 07 May 2026 14:53:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ed/live/dbb5fb50-4a03-11f1-9595-b54f38a93bc1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum killed in explosion made 'ultimate sacrifice']]></title>
+            <description><![CDATA[The family of Joanne Shaw say she heroically placed herself "between danger and those she loved".]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8ej22z7no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8ej22z7no#1</guid>
+            <pubDate>Thu, 07 May 2026 12:53:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ce/live/3c2bd530-4a0a-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman covertly filmed for 'humiliating' social media content - then told to pay]]></title>
+            <description><![CDATA[Alice says the video was posted on social media and viewed about 40,000 times.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy87wqz0q9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy87wqz0q9o#1</guid>
+            <pubDate>Thu, 07 May 2026 04:57:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d43/live/62bf4770-49e4-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pub-goer guilty of killing man after losing fight]]></title>
+            <description><![CDATA[Nathan Gothard knocked David Darke to the ground days before Christmas last year.]]></description>
+            <link>https://www.bbc.com/news/articles/cn9pveee4n4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn9pveee4n4o#1</guid>
+            <pubDate>Thu, 07 May 2026 13:57:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9244/live/aad5ad30-4a2d-11f1-bfb3-af42b3144659.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Traveller site construction 'in breach of law']]></title>
+            <description><![CDATA[A council orders all work on the land, which began on bank holiday weekend, to cease immediately.]]></description>
+            <link>https://www.bbc.com/news/articles/cy52nlge0wdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy52nlge0wdo#1</guid>
+            <pubDate>Thu, 07 May 2026 05:15:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caec/live/ac30ce40-495a-11f1-8771-e5d61459659d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations]]></title>
+            <description><![CDATA[A serving officer and four former officers are being investigated over the handling of reports against the businessman.]]></description>
+            <link>https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crepwqzppqgo#1</guid>
+            <pubDate>Thu, 07 May 2026 05:01:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c132/live/03f26340-4989-11f1-a49f-cb939a5301ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attenborough superfan, 6, draws 100th animal for broadcaster's birthday]]></title>
+            <description><![CDATA[Despite the 94-year age gap, six-year-old Max Evans-Browning calls Sir David his "favourite person".]]></description>
+            <link>https://www.bbc.com/news/articles/c9d3ly0j06vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d3ly0j06vo#1</guid>
+            <pubDate>Thu, 07 May 2026 05:06:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c698/live/19770d60-4867-11f1-804a-9d85b054b34f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retired pastor guilty of abortion buffer zone breach]]></title>
+            <description><![CDATA[Clive Johnston from Sion Mills, County Tyrone, held an open-air service in a safe access zone near Causeway Hospital in July 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/cewpk8er8e5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewpk8er8e5o#1</guid>
+            <pubDate>Thu, 07 May 2026 15:13:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c9/live/498dee10-4a0b-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry Potter TV series renewed for second season at HBO]]></title>
+            <description><![CDATA[Filming is scheduled for autumn later this year and will likely adapt the second book in JK Rowling's series, The Chamber of Secrets.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv2em4r3mno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv2em4r3mno#1</guid>
+            <pubDate>Thu, 07 May 2026 02:11:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e4/live/64e726f0-49d8-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents told 'control your children or face fines and eviction']]></title>
+            <description><![CDATA[Police say some children causing mayhem in Nottingham see getting arrested as a badge of honour.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d35vyyj04o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d35vyyj04o#1</guid>
+            <pubDate>Thu, 07 May 2026 05:18:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37d/live/afcccee0-4898-11f1-891e-47c72be732a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A long way to go for a movie' - Blind girl travels 140 miles for cinema trip]]></title>
+            <description><![CDATA[Eryn had to travel from Enniskillen to Belfast to find an accessible screening of a film. ]]></description>
+            <link>https://www.bbc.com/news/articles/c15d8q8w0xdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15d8q8w0xdo#1</guid>
+            <pubDate>Thu, 07 May 2026 05:49:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2be/live/363ac0f0-3f5b-11f1-ba2e-b5b8721c9393.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[People urged not to cancel flights over fuel shortage fears]]></title>
+            <description><![CDATA[Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv24v3mpdmo#1</guid>
+            <pubDate>Wed, 06 May 2026 16:11:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/7bb43ee0-491f-11f1-9546-d74beef04f02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two people arrested after BBC asylum investigation]]></title>
+            <description><![CDATA[A BBC report revealed some immigration advisers are helping asylum seekers pretend to be gay to stay in the country.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7p09p2evxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7p09p2evxo#1</guid>
+            <pubDate>Wed, 06 May 2026 11:23:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a314/live/bbc02630-4941-11f1-b55d-0f258dce1735.png"/>
+        </item>
+        <item>
+            <title><![CDATA['We had people come just to see it': Amazon delivers its first UK parcels by drone]]></title>
+            <description><![CDATA[The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.]]></description>
+            <link>https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21k21vnmgo#1</guid>
+            <pubDate>Thu, 07 May 2026 08:31:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff0/live/3de903e0-496d-11f1-8ac1-2336fddb3c06.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Up to 150 former WHSmith high street stores to close]]></title>
+            <description><![CDATA[The stores were purchased by Modella Capital last year, and then rebranded under the name TGJones.]]></description>
+            <link>https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clypzvqzqd7o#1</guid>
+            <pubDate>Wed, 06 May 2026 15:22:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257a/live/919ac350-4956-11f1-91ca-0f2f4e61b132.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonnie Tyler recovering after being taken to hospital for surgery]]></title>
+            <description><![CDATA[The Total Eclipse of the Heart singer is being treated in Faro, Portugal, where she has a home. ]]></description>
+            <link>https://www.bbc.com/news/articles/clyprk8prmzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyprk8prmzo#1</guid>
+            <pubDate>Wed, 06 May 2026 17:43:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b178/live/24378fc0-496d-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Drone delivers first Amazon parcels in UK]]></title>
+            <description><![CDATA[The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.]]></description>
+            <link>https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0l21992z75o#2</guid>
+            <pubDate>Thu, 07 May 2026 07:54:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de78/live/3da3f970-4a0e-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment WW2 bomb detonated in Plymouth]]></title>
+            <description><![CDATA[A loud explosion was heard as bomb disposal experts made the 250kg device safe.]]></description>
+            <link>https://www.bbc.com/news/videos/cn0pd1dxgydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn0pd1dxgydo#2</guid>
+            <pubDate>Fri, 01 May 2026 13:24:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb34/live/c9812610-455f-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester born and bred, but moving to Israel]]></title>
+            <description><![CDATA[Richard Manville has lived in the UK all his life, but now he's leaving for Israel because he says the antisemitism here is intolerable.]]></description>
+            <link>https://www.bbc.com/news/videos/c3d2exme3ddo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3d2exme3ddo#2</guid>
+            <pubDate>Fri, 01 May 2026 13:36:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d9/live/f12a5c00-4563-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royals bid farewell to US with visit to Arlington Cemetery and a block party]]></title>
+            <description><![CDATA[King Charles' historic state visit, the first by a British monarch since Queen Elizabeth II's in 2007, has come to an end.]]></description>
+            <link>https://www.bbc.com/news/videos/c707wd724wjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c707wd724wjo#2</guid>
+            <pubDate>Fri, 01 May 2026 00:12:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2797/live/e986f8e0-44f1-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has the royal state visit saved the special relationship?]]></title>
+            <description><![CDATA[BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.]]></description>
+            <link>https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cgmpgkj2wz4o#2</guid>
+            <pubDate>Thu, 30 Apr 2026 21:45:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/13142fe0-44dc-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: PM's ex-top aide on Mandelson revelations]]></title>
+            <description><![CDATA[Key moments as Morgan McSweeney gives evidence to MPs about Peter Mandelson's appointment as US ambassador.]]></description>
+            <link>https://www.bbc.com/news/videos/cj4pxw5xq4eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj4pxw5xq4eo#2</guid>
+            <pubDate>Tue, 28 Apr 2026 12:45:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3160/live/f2e82280-42fb-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What you need to know about the elections in England, Scotland and Wales]]></title>
+            <description><![CDATA[Millions will vote in parliamentary elections in Scotland and Wales, and local elections in England.]]></description>
+            <link>https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62nq678nyzo#3</guid>
+            <pubDate>Thu, 07 May 2026 14:39:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c955/live/f503d810-0e6d-11f1-9120-a910fc22c6ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA[When Scotland qualified for the World Cup... but didn't go]]></title>
+            <description><![CDATA[Scotland waited 28 years to be part of this year's World Cup - back in 1950 they turned it down.]]></description>
+            <link>https://www.bbc.com/news/articles/c0k2jjmgj3xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k2jjmgj3xo#3</guid>
+            <pubDate>Thu, 07 May 2026 05:20:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e0/live/c219c180-4982-11f1-b768-41eba02d8af8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How cameras are being used to tackle abuse in nurseries]]></title>
+            <description><![CDATA[With reports of abuse and deaths fuelling concern among parents, questions are growing over whether CCTV can offer real protection for children - or not.]]></description>
+            <link>https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx2kn4n5wxo#3</guid>
+            <pubDate>Wed, 06 May 2026 22:59:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde6/live/23638f10-488a-11f1-ac78-2112837ce2aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The AI fitness instructors selling unreal gains]]></title>
+            <description><![CDATA[A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.]]></description>
+            <link>https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c5ye7dnxv86o#3</guid>
+            <pubDate>Thu, 07 May 2026 05:15:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d6b/live/192e4910-496e-11f1-bd52-e755d604ece4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is hantavirus and how does it spread? Key questions after outbreak]]></title>
+            <description><![CDATA[The Andes strain of the virus, which can rarely be passed from person to person,  has been confirmed in some passengers. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r8j1l6j0go#3</guid>
+            <pubDate>Thu, 07 May 2026 04:16:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5668/live/80aa6580-4953-11f1-bd52-e755d604ece4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Superdry co-founder James Holder jailed for rape]]></title>
+            <description><![CDATA[James Holder's victim told her attacker he took her "choice, dignity and body".]]></description>
+            <link>https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v3ynljwnwo#4</guid>
+            <pubDate>Thu, 07 May 2026 15:44:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f6/live/63bb8650-4a27-11f1-bfb3-af42b3144659.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government wins legacy case at UK Supreme Court]]></title>
+            <description><![CDATA[Judges in London ruled parts of the 2023 Legacy Act did not lead to victims' rights being diminished.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7pv5gj4xxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7pv5gj4xxo#4</guid>
+            <pubDate>Thu, 07 May 2026 16:18:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e7/live/2b50f630-9594-11f0-9cf6-cbf3e73ce2b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man admits stabbing 21-year-old to death after firework battle at home]]></title>
+            <description><![CDATA[Jaxon Millar stabbed Robert McNally as he chased him down the street after the attack on his home.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2pyx4dpyeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2pyx4dpyeo#4</guid>
+            <pubDate>Thu, 07 May 2026 12:47:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37c/live/f6c96540-d73f-11ef-9db6-657c5dd191fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh allegations against former bishop jailed for sex attacks]]></title>
+            <description><![CDATA[Anthony Pierce was jailed last year for sexually abusing a boy, and police urged other potential victims to contact them.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqp2pzywylo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqp2pzywylo#4</guid>
+            <pubDate>Thu, 07 May 2026 15:40:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1276/live/b417c970-4a21-11f1-b55d-0f258dce1735.png"/>
+        </item>
+    </channel>
+</rss>
