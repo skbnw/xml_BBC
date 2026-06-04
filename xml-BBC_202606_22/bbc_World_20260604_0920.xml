@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 04 Jun 2026 09:20:37 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks]]></title>
+            <description><![CDATA[The countries reject "any attempt, by any state or non-state actor, to hold Lebanon's future hostage", the US says.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y01pdqvkgo#0</guid>
+            <pubDate>Thu, 04 Jun 2026 07:49:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US House delivers rebuke to Trump as it votes to halt Iran war]]></title>
+            <description><![CDATA[In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6pldg39deo#0</guid>
+            <pubDate>Thu, 04 Jun 2026 07:23:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Crazy' phone call between Trump and Netanyahu complicates Iran talks]]></title>
+            <description><![CDATA[Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents. ]]></description>
+            <link>https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgz21pq3g6o#0</guid>
+            <pubDate>Wed, 03 Jun 2026 20:28:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grab what you can while you can: The new reality in the South China Sea ]]></title>
+            <description><![CDATA[After years of watching China create land to back its expansive claims, others are doing the same.  ]]></description>
+            <link>https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy823n3ln29o#0</guid>
+            <pubDate>Wed, 03 Jun 2026 22:00:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens]]></title>
+            <description><![CDATA[Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.]]></description>
+            <link>https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e2vqd3j1vo#0</guid>
+            <pubDate>Wed, 03 Jun 2026 11:34:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad59/live/7866fc20-5f7a-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One killed and dozens injured in Iranian drone strikes on Kuwait airport]]></title>
+            <description><![CDATA[Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yx135yg53o#0</guid>
+            <pubDate>Wed, 03 Jun 2026 20:05:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12d3/live/36657960-5fe7-11f1-9e8e-893122412ba5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy gunfire in Somali capital as row over election delay escalates]]></title>
+            <description><![CDATA[The opposition has called for protests after the president's term in office was extended by a year.]]></description>
+            <link>https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpdpwgxl1qzo#0</guid>
+            <pubDate>Thu, 04 Jun 2026 08:05:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5b/live/edefa830-5fe2-11f1-a292-23ac7fbac375.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to nominate Blanche for attorney general on permanent basis]]></title>
+            <description><![CDATA[If confirmed by the Senate, Trump's former personal lawyer would become the administration's number one prosecutor.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8nyzl2pno#1</guid>
+            <pubDate>Thu, 04 Jun 2026 08:11:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8144/live/dd1d00d0-5fb9-11f1-8032-ed99bad5f9b6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China bans four New Zealand MPs over Taiwan visit]]></title>
+            <description><![CDATA[Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.]]></description>
+            <link>https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21r1y223ro#1</guid>
+            <pubDate>Thu, 04 Jun 2026 05:37:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f7/live/174f9600-5fbf-11f1-8bfb-e1d8bc1274bd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany blames Russia for 'bitter defeat' in UN Security Council bid]]></title>
+            <description><![CDATA[Johann Wadephul said it was "no secret" Russia had stirred up sentiment against Germany over its support for Ukraine.]]></description>
+            <link>https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmp3pg71edo#1</guid>
+            <pubDate>Thu, 04 Jun 2026 01:02:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/fd296c40-5fac-11f1-b5ab-a55eacf8090d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Senate Republicans axe $1bn for Trump's new White House ballroom]]></title>
+            <description><![CDATA[The bill to fund immigration agencies has been delayed by opposition to Trump's 
+'anti-weaponisation fund'.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r2kxrvlgpo#1</guid>
+            <pubDate>Thu, 04 Jun 2026 01:18:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c0/live/b31d65b0-5fdf-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foreign nationals among at least 21 killed in Delhi fire]]></title>
+            <description><![CDATA[Many victims were South Asians who had travelled to India for treatment or to accompany relatives.]]></description>
+            <link>https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czd29327qzvo#1</guid>
+            <pubDate>Wed, 03 Jun 2026 11:54:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count]]></title>
+            <description><![CDATA[Another Democrat, billionaire climate activist Tom Steyer, is in third place as the tally continues. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8p0yz512no#1</guid>
+            <pubDate>Wed, 03 Jun 2026 15:32:30 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a5/live/3ae81b30-5efe-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Director Wim Wenders withdraws 1975 film over actress's teen topless scene]]></title>
+            <description><![CDATA[Nastassja Kinski, who appeared in the film when she was 13, said the film-maker "didn't protect me".]]></description>
+            <link>https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99legznj8do#1</guid>
+            <pubDate>Wed, 03 Jun 2026 15:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/311f/live/4a9d2db0-5f60-11f1-8dad-8347ac6f73d8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US announces new tariffs over forced labour concerns]]></title>
+            <description><![CDATA[It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6pe7nvldmo#1</guid>
+            <pubDate>Wed, 03 Jun 2026 15:12:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four sentenced to death for killing worshippers at Catholic church in Nigeria]]></title>
+            <description><![CDATA[A fifth man was discharged and acquitted by the court due to insufficient evidence against him.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0p57q1m36o#1</guid>
+            <pubDate>Wed, 03 Jun 2026 16:12:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a659/live/120d95f0-5f62-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uneasy neighbours: Can three World Cup hosts put differences aside for a month?]]></title>
+            <description><![CDATA[The tournament comes after a period of fractious relations between the US, Canada and Mexico.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgz2081y8ko#2</guid>
+            <pubDate>Thu, 04 Jun 2026 08:46:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e7/live/30c52e40-5fee-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Canada has generic Ozempic, and the US doesn't]]></title>
+            <description><![CDATA[Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.]]></description>
+            <link>https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c142y4p2eyxo#2</guid>
+            <pubDate>Wed, 03 Jun 2026 23:34:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4b/live/ddd05340-5f61-11f1-8dad-8347ac6f73d8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Costly fuel pushes more Indians to buy electric cars but challenges remain ]]></title>
+            <description><![CDATA[High fuel prices are strengthening the case for EV adoption in the world's third largest auto market. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21181yq4no#2</guid>
+            <pubDate>Wed, 03 Jun 2026 23:28:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b3/live/cdfa5e50-5fdb-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back]]></title>
+            <description><![CDATA[The $1.8bn fund would have paid people the Trump administration decided were unjustly and politically targeted.]]></description>
+            <link>https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87q9d7r57yo#2</guid>
+            <pubDate>Wed, 03 Jun 2026 19:05:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b51b/live/883d9c70-5f44-11f1-ae51-c396b5163a64.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries]]></title>
+            <description><![CDATA[The rideshare company's annual Lost & Found Index also reveals America's most forgetful city, and the most forgetful day.]]></description>
+            <link>https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czr25k7g7d7o#2</guid>
+            <pubDate>Wed, 03 Jun 2026 19:07:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5027/live/50c48de0-5f7f-11f1-a5fe-95d95c103a6a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: New footage shows moment Iranian drone struck Kuwait airport]]></title>
+            <description><![CDATA[One person was killed and more than 60 injured in the Iranian drone strike on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c1j2640ln88o#3</guid>
+            <pubDate>Thu, 04 Jun 2026 05:30:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/42192420-5fd6-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Hawks and robodogs - How one Mexican city is preparing for the World Cup]]></title>
+            <description><![CDATA[BBC’s Will Grant got a first-hand look at security preparations in Monterrey, as the city gets ready to host four matches.]]></description>
+            <link>https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c4g4n4nzl2yo#3</guid>
+            <pubDate>Thu, 04 Jun 2026 05:42:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4057/live/a331eb60-5ff5-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Explosion at fireworks factory in Malta]]></title>
+            <description><![CDATA[Two men were injured in the explosion and were taken to hospital with minor injuries.]]></description>
+            <link>https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5y0n0qvkkxo#3</guid>
+            <pubDate>Tue, 02 Jun 2026 08:06:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb95/live/6e1b76f0-5e59-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Glass doors break as fans scramble to see Pursuit of Jade star]]></title>
+            <description><![CDATA[Huge crowds formed outside a shopping centre in China to see actor Zhang Linghe.]]></description>
+            <link>https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cr7pye93n1ro#3</guid>
+            <pubDate>Mon, 01 Jun 2026 11:34:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/8f6a74c0-5dad-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+    </channel>
+</rss>
