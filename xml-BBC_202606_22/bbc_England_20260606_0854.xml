@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 06 Jun 2026 08:55:08 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['I've matched with four men on dating apps - they were all scammers']]></title>
+            <description><![CDATA[Julie Osgood tried dating after losing her partner of 38 years to Covid and now wants to warn others.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e2ek9j1jmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e2ek9j1jmo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 06:27:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee2/live/68e91cb0-617d-11f1-8ac1-371ebc895245.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euromillions winner dies in suspected hit-and-run]]></title>
+            <description><![CDATA[Anthony Canty was knocked off his bicycle and an 18-year-old has since been arrested, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/cqj1lljr5wjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj1lljr5wjo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 07:42:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b06/live/2a599600-6178-11f1-84b4-9d6caf5efa1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northamptonshire Police boss admits his force is 'not good enough']]></title>
+            <description><![CDATA[Chief Constable Ivan Balhatchet says he cannot argue with findings of a report.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgpr3zv80no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgpr3zv80no#0</guid>
+            <pubDate>Sat, 06 Jun 2026 05:59:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8109/live/8c0f6f80-5f45-11f1-ae51-c396b5163a64.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family with newborn baby flee burning home barefoot]]></title>
+            <description><![CDATA[The family, including a five-day-old boy, escaped their rented house but lost everything in the fire.]]></description>
+            <link>https://www.bbc.com/news/articles/c0m2mjrr80wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0m2mjrr80wo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 06:50:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dde/live/b7b65bd0-60fd-11f1-ae0d-afcc10479766.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Holding my son made my skin blister and fall off']]></title>
+            <description><![CDATA[Jennifer Taylor, from Prescot, was devasted when she learned her son had the same, rare condition.]]></description>
+            <link>https://www.bbc.com/news/articles/c78k8zr8zkeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78k8zr8zkeo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 06:46:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2e/live/60d11ae0-60c0-11f1-bca0-e975c953fcd1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm taking citizenship test amid immigration fears']]></title>
+            <description><![CDATA[Cristina says the political climate gives her a sense of urgency to secure her future.]]></description>
+            <link>https://www.bbc.com/news/articles/c86d695q5eeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86d695q5eeo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 06:25:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/0a23da80-602e-11f1-a33a-8765d90528ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dry stone walling has let me travel the world']]></title>
+            <description><![CDATA[Members of the Dry Stone Walling Association say it's important to keep the heritage craft alive.]]></description>
+            <link>https://www.bbc.com/news/articles/c893n8n1xywo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c893n8n1xywo#0</guid>
+            <pubDate>Sat, 06 Jun 2026 06:15:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc3/live/d517fef0-60b6-11f1-9b5a-5531746793c9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three people seriously hurt after being hit by car]]></title>
+            <description><![CDATA[A man has been arrested on suspicion of dangerous driving, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yz55ed031o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yz55ed031o#1</guid>
+            <pubDate>Sat, 06 Jun 2026 08:21:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23aa/live/2d806360-6176-11f1-854e-25f3ad1d48dc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire that destroyed 36 buses 'started deliberately']]></title>
+            <description><![CDATA[Blaze at the Chadwell St Mary depot has been a "significant and challenging incident", fire service says.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y9y9zprrno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9y9zprrno#1</guid>
+            <pubDate>Sat, 06 Jun 2026 05:27:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd16/live/88715b10-610f-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hospitality industry at breaking point, restaurant owner says]]></title>
+            <description><![CDATA[A restaurant owner says without a VAT cut or she may have to close her doors.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6p6q44zgpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6p6q44zgpo#1</guid>
+            <pubDate>Sat, 06 Jun 2026 06:31:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0978/live/d06c1a90-60ec-11f1-b682-cf91850925ea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The celebrant making dreams come true at Download]]></title>
+            <description><![CDATA[Rachel Clark will be officiating four ceremonies at the Donington Park rock gathering.]]></description>
+            <link>https://www.bbc.com/news/articles/cewpvwle7x5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewpvwle7x5o#1</guid>
+            <pubDate>Sat, 06 Jun 2026 06:20:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f4/live/7292fcb0-60c7-11f1-80e9-dd3de3da8ef3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man tackling 'wheelie' hard half-marathon event]]></title>
+            <description><![CDATA[He says his knees are taking "a pounding" in training as he looks to raise cash for two young girls.]]></description>
+            <link>https://www.bbc.com/news/articles/c3r2greq9p8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r2greq9p8o#1</guid>
+            <pubDate>Sat, 06 Jun 2026 05:11:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4238/live/177cf3b0-6024-11f1-95e8-2f6b295436fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The brothers who won hearts by turning pain into charity epics]]></title>
+            <description><![CDATA[This Sunday, the FTD Brothers, Jordan and Cian Adams will be celebrated in their hometown.]]></description>
+            <link>https://www.bbc.com/news/articles/cewpv0yz92lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewpv0yz92lo#3</guid>
+            <pubDate>Sat, 06 Jun 2026 06:17:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcd/live/0ab39e90-6006-11f1-932e-d972ba5bcb91.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fans relive 1966 triumph 50 years after World Cup]]></title>
+            <description><![CDATA[Three men who saw England's 4-2 World Cup final win over West Germany in 1966 relive the moment.]]></description>
+            <link>https://www.bbc.com/news/articles/cze278984y1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cze278984y1o#3</guid>
+            <pubDate>Sat, 06 Jun 2026 07:02:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2d/live/9b8acd50-60b8-11f1-9b5a-5531746793c9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Overlooked' war heroes to be celebrated decades on]]></title>
+            <description><![CDATA[Carole Stewart's service is for her uncle and all other engineers who helped in the D-Day invasion.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e20vym4y0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e20vym4y0o#3</guid>
+            <pubDate>Sat, 06 Jun 2026 06:16:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7488/live/3765f380-5cf4-11f1-b214-e766cd2606c4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Nowak case: What happened and why has it caused national outrage?]]></title>
+            <description><![CDATA[How a student's murder led to protests, political debate and scrutiny of the police.]]></description>
+            <link>https://www.bbc.com/news/articles/cpvpv2xylgeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvpv2xylgeo#4</guid>
+            <pubDate>Sat, 06 Jun 2026 04:00:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we learned from the Nottingham attacks public inquiry]]></title>
+            <description><![CDATA[The Nottingham Inquiry hearings, which ended on Friday, scrutinised the 13 June 2023 attacks across the city.]]></description>
+            <link>https://www.bbc.com/news/articles/cy81kd0d7yno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy81kd0d7yno#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:07:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc8/live/5a3e2c40-2f4c-11f1-b471-73a11a0c1806.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I failed to see people like me enjoying the outdoors']]></title>
+            <description><![CDATA[Soul Trail Wellbeing aims to reconnect people from ethnic minority backgrounds to the great outdoors.]]></description>
+            <link>https://www.bbc.com/news/articles/c78q272pdlxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78q272pdlxo#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:18:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8555/live/29672440-5f4a-11f1-ae51-c396b5163a64.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How did 16 cats die in an abandoned garden pond?]]></title>
+            <description><![CDATA[The RSPCA says there is no evidence of foul play, but cats are cautious animals. So, what happened?]]></description>
+            <link>https://www.bbc.com/news/articles/clyp4zd2prmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyp4zd2prmo#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:05:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2747/live/506572a0-5526-11f1-87e7-8195a3fea8aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was the weekend really invented in Greater Manchester?]]></title>
+            <description><![CDATA[Salford is holding a free festival for all the family to celebration the invention of the weekend.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e293nxmk2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e293nxmk2o#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:23:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e1/live/50d71e70-5e61-11f1-9e22-3514086b3d4d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The top secret World War II British spy school]]></title>
+            <description><![CDATA[Exploring the country estate where agents were prepared for dangerous missions behind enemy lines.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2129e4y2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2129e4y2yo#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:02:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821b/live/cb777af0-6102-11f1-9134-bfd933b9750c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The teenage city envoy who stayed in Germany for 50 years]]></title>
+            <description><![CDATA[Lynne Köhler was Derby's first envoy to its twin city of Osnabrück and stayed for five decades.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y0yd43nw3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0yd43nw3o#4</guid>
+            <pubDate>Sat, 06 Jun 2026 06:24:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/879bcb20-60d9-11f1-82ca-1380a42b6773.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England have huge chance amid more Lord's chaos]]></title>
+            <description><![CDATA[England have a golden opportunity for victory in the first Test against New Zealand despite a chaotic collapse of 4-11 on the second day at Lord’s.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c7595k67420o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c7595k67420o#6</guid>
+            <pubDate>Fri, 05 Jun 2026 18:19:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d091/live/1ead7480-6109-11f1-9134-bfd933b9750c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mowbray returns as Blackburn head coach]]></title>
+            <description><![CDATA[Blackburn Rovers appoint Tony Mowbray as their new head coach for a second spell in charge.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5p53y02r7o#6</guid>
+            <pubDate>Fri, 05 Jun 2026 19:49:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c58/live/682ae2f0-6113-11f1-99e4-a11735b72dcc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[T20 Blast round-up: Bairstow inspires Yorkshire to record Roses win]]></title>
+            <description><![CDATA[A round up of Friday's T20 Blast action which included Jonny Bairstow and Moeen Ali inspiring Yorkshire to a 106-run win over Lancashire Lightning.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cgmpmpd37lzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cgmpmpd37lzo#6</guid>
+            <pubDate>Fri, 05 Jun 2026 21:32:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0026/live/89706470-6123-11f1-a7a7-2725e47953a6.jpg"/>
+        </item>
+    </channel>
+</rss>
