@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 20 Jun 2026 16:32:33 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nine people in critical condition among 100 injured in fatal Bedford train crash]]></title>
+            <description><![CDATA[British Transport Police says the collision, which killed a train driver, is being investigated.  ]]></description>
+            <link>https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8j33e30neo#0</guid>
+            <pubDate>Sat, 20 Jun 2026 15:30:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1997/live/851c01e0-6cbd-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talk of Starmer staying on to fight is fading - fast]]></title>
+            <description><![CDATA[After Andy Burnham’s by-election victory, support for the prime minister is evaporating, writes Laura Kuenssberg.]]></description>
+            <link>https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjeg7p5w4y9o#0</guid>
+            <pubDate>Sat, 20 Jun 2026 11:33:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6079/live/e4af7040-6bed-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extreme heat warning expanded as 36C heatwave approaches UK]]></title>
+            <description><![CDATA[After a slightly cooler Saturday, temperatures will rise again, possibly touching 36C by Tuesday with a Met Office amber extreme heat warning set to come into force.]]></description>
+            <link>https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cp8lye61jk6o#0</guid>
+            <pubDate>Sat, 20 Jun 2026 13:41:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca57/live/e511a390-6be4-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meloni tells Trump to 'focus on your own popularity' as row escalates]]></title>
+            <description><![CDATA[The US president earlier questioned Meloni's popularity after suggesting she "begged" for a photo at G7 summit]]></description>
+            <link>https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgqj77909jpo#0</guid>
+            <pubDate>Sat, 20 Jun 2026 15:31:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home]]></title>
+            <description><![CDATA[There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3xqkxp3x5o#0</guid>
+            <pubDate>Sat, 20 Jun 2026 10:19:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC reports from the site as investigators give update]]></title>
+            <description><![CDATA[A train driver dies and 100 people are injured in the crash on Friday.]]></description>
+            <link>https://www.bbc.com/news/videos/cp3xl7zw4gyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cp3xl7zw4gyo#1</guid>
+            <pubDate>Sat, 20 Jun 2026 15:51:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda3/live/3517b180-6cbd-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far about the crash and emergency response]]></title>
+            <description><![CDATA[Nine people are in a critical condition out of a total of 28 still in hospital on Saturday, emergency services say.]]></description>
+            <link>https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn75z3nl048o#1</guid>
+            <pubDate>Sat, 20 Jun 2026 16:09:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a038/live/7e822fd0-6ca9-11f1-8cf1-179ca1da487f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['People flew from their seats': Passengers describe how collision unfolded]]></title>
+            <description><![CDATA[The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2j700l5jlo#1</guid>
+            <pubDate>Sat, 20 Jun 2026 08:36:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a4/live/78de6b70-6c72-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Harry Kane is different at this tournament]]></title>
+            <description><![CDATA[Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crr87vwrwwlo#2</guid>
+            <pubDate>Sat, 20 Jun 2026 13:24:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69c/live/a4d23930-6cbf-11f1-95c0-035571ba4bec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curacao's trailblazer doctor on football's big stage ]]></title>
+            <description><![CDATA[Dr Suzanne Huurman is head of medical staff for Curacao's national men's side - the World Cup's smallest ever team by population and size. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg08ewg9l2o#2</guid>
+            <pubDate>Sat, 20 Jun 2026 12:35:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e7b/live/3f190c20-68ed-11f1-a322-77bd30adf518.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nervy, optimist, die-hard: What sort of fan are you?]]></title>
+            <description><![CDATA[Take our World Cup quiz and discover your fan personality type. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy4ek8pegj1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4ek8pegj1o#2</guid>
+            <pubDate>Fri, 19 Jun 2026 23:42:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad7/live/ccd5aef0-6b14-11f1-8e1d-bbbb1017d210.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Popping a cocktail of supplements every day might be doing you more harm than good]]></title>
+            <description><![CDATA[While many of us take supplements regularly, there are some risks people may not be aware of.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6e25lpwxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6e25lpwxzo#3</guid>
+            <pubDate>Sat, 20 Jun 2026 00:46:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eed/live/ccd28650-6bf3-11f1-845f-c54deef29de9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Pride but hate big parades? These places are doing it differently]]></title>
+            <description><![CDATA[From Glasgow to Salford, smaller, unique events are celebrating the LGBTQ+ community.]]></description>
+            <link>https://www.bbc.com/news/articles/cj6g85kr375o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6g85kr375o#3</guid>
+            <pubDate>Sat, 20 Jun 2026 00:53:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe5/live/5abc8c10-6b39-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The rise of girl group XG: From sisterhood and survival to stardom]]></title>
+            <description><![CDATA[The Japanese pop group have become global stars, after being recruited before they were teenagers.]]></description>
+            <link>https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly8gj8pqz7o#3</guid>
+            <pubDate>Fri, 19 Jun 2026 23:40:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to stay safe swimming outdoors - and still have fun]]></title>
+            <description><![CDATA[Pick designated swimming spots, learn about riptides and don't use inflatables at the beach, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/c9q3qezvewro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q3qezvewro#3</guid>
+            <pubDate>Sat, 20 Jun 2026 00:03:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b84d/live/38212530-6bf2-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bolivian president declares state of emergency after weeks of protests]]></title>
+            <description><![CDATA[The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.]]></description>
+            <link>https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr47wn92zdgo#4</guid>
+            <pubDate>Sat, 20 Jun 2026 15:27:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beac/live/71781aa0-6cab-11f1-8cf1-179ca1da487f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A fox, a gannet and a space warrior - why election candidates wear fancy dress]]></title>
+            <description><![CDATA[Candidates like Count Binface are motivated to run for different reasons, but their role in politics is a longstanding tradition.]]></description>
+            <link>https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9g3g28en1o#4</guid>
+            <pubDate>Fri, 19 Jun 2026 23:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f040/live/dd6b48a0-6c82-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five injured in suspected anti-Muslim attacks as armed man roams Edinburgh streets]]></title>
+            <description><![CDATA[Two people were injured close to a mosque and a man was later seen battering the door of a pizzeria as members of the public run away.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2xg6lwz5jo#4</guid>
+            <pubDate>Sat, 20 Jun 2026 16:30:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47f9/live/2fa34ed0-6cb8-11f1-8546-8f19e4fe30f4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel and Hezbollah continue strikes despite ceasefire agreement]]></title>
+            <description><![CDATA[At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.]]></description>
+            <link>https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx240k9l112o#4</guid>
+            <pubDate>Sat, 20 Jun 2026 13:23:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc31/live/c45bc7c0-6cac-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child attacked by crocodile critical two days on: Here's what we know so far]]></title>
+            <description><![CDATA[A 30-year-old man is bailed after a child ended up in a crocodile enclosure at a farm zoo.]]></description>
+            <link>https://www.bbc.com/news/articles/clyege536n5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyege536n5o#4</guid>
+            <pubDate>Sat, 20 Jun 2026 04:38:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efde/live/f4e29490-6c1c-11f1-82ca-39eb136d082f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My dog Gertie saved my life by helping to find my breast cancer']]></title>
+            <description><![CDATA[Lesley Goodburn is hoping her story will encourage others to check for signs of the cancer.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ly1lxn95ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ly1lxn95ko#5</guid>
+            <pubDate>Wed, 17 Jun 2026 05:24:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab79/live/94810c30-6988-11f1-ac49-cbb0d85207cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paddington musical set for Broadway debut]]></title>
+            <description><![CDATA[The production will launch in the US at New York's Al Hirschfeld Theatre in March 2027.]]></description>
+            <link>https://www.bbc.com/news/articles/c8j2el87yj0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j2el87yj0o#5</guid>
+            <pubDate>Tue, 16 Jun 2026 13:12:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1975/live/0fa12c60-697f-11f1-ac49-cbb0d85207cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sherpa travels thousands of miles to thank children for help after earthquake]]></title>
+            <description><![CDATA[A Nepalese Sherpa travels thousands of miles to thank children for their fundraising efforts.]]></description>
+            <link>https://www.bbc.com/news/articles/czj8n77lk9yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj8n77lk9yo#5</guid>
+            <pubDate>Wed, 17 Jun 2026 11:05:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e838/live/5749ae90-699b-11f1-938e-83ab58a2163c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snake takes surprise trip to seaside in car engine]]></title>
+            <description><![CDATA[The corn snake is thought to have travelled around 17 miles from its owner's house in Bridlington.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv0q5qvn0lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv0q5qvn0lo#5</guid>
+            <pubDate>Wed, 17 Jun 2026 14:11:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a12/live/b490e510-6a62-11f1-813e-7d78f1405e74.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#7</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham Wins in Makerfield - So What Happens Now?]]></title>
+            <description><![CDATA[Burnham wins Makerfield by-election, paving way for leadership challenge against Starmer.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0nrn5p7?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0nrn5p7#8</guid>
+            <pubDate>Fri, 19 Jun 2026 07:16:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jill Biden reveals how she really felt about Joe Biden’s health whilst he was president]]></title>
+            <description><![CDATA[And Trump wants to give America’s top legal job to his former personal lawyer]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0nsll2g?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0nsll2g#8</guid>
+            <pubDate>Wed, 17 Jun 2026 21:22:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two chancers bluff their way into weddings to meet women]]></title>
+            <description><![CDATA[Owen Wilson and Vince Vaughn star in this classic 2005 comedy]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0022mfn/wedding-crashers?at_mid=Jw42rHOMLZ&amp;at_campaign=Wedding_Crashers&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0022mfn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Wedding_Crashers&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0022mfn/wedding-crashers?at_mid=Jw42rHOMLZ&amp;at_campaign=Wedding_Crashers&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0022mfn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Wedding_Crashers&amp;at_bbc_team=BBC#9</guid>
+            <pubDate>Sat, 13 Jun 2026 00:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d57c/live/7cff4110-6a7f-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Kane is different at this World Cup - Shearer]]></title>
+            <description><![CDATA[Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crr87vwrwwlo#10</guid>
+            <pubDate>Sat, 20 Jun 2026 13:24:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69c/live/a4d23930-6cbf-11f1-95c0-035571ba4bec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boston bounce sends Scotland to Miami with hope and no fear]]></title>
+            <description><![CDATA[Scotland and their fans head to Miami for a World Cup date with destiny after making memories in Boston to last a lifetime.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0my8z7vpg3o#10</guid>
+            <pubDate>Sat, 20 Jun 2026 14:43:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71e5/live/620d4300-6cb6-11f1-9fea-e751269afdb9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northampton beat Exeter to win Prem Rugby title]]></title>
+            <description><![CDATA[George Hendy's two tries secure Northampton Saints the Prem title with victory over Exeter Chiefs at Allianz Stadium.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c872jn540p5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c872jn540p5o#10</guid>
+            <pubDate>Sat, 20 Jun 2026 16:17:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d8/live/b7772c30-6cbf-11f1-95c0-035571ba4bec.jpg"/>
+        </item>
+    </channel>
+</rss>
