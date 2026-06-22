@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 22 Jun 2026 10:02:26 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Prime Minister Keir Starmer's resignation speech in full]]></title>
+            <description><![CDATA[Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address.]]></description>
+            <link>https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c621nnq4pm7o#1</guid>
+            <pubDate>Mon, 22 Jun 2026 09:14:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/6ede73f0-6e1f-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First round of US-Iran talks ends with encouraging progress, mediators say]]></title>
+            <description><![CDATA[The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy0q41v1lzo#1</guid>
+            <pubDate>Mon, 22 Jun 2026 08:27:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b2/live/1e0155f0-6e02-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paedophile nursery worker could have been stopped sooner, says former colleague]]></title>
+            <description><![CDATA[Staff member who raised concerns about nursery worker Nathan Bennett was "ignored" for months.]]></description>
+            <link>https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c862jy76y21o#1</guid>
+            <pubDate>Mon, 22 Jun 2026 09:24:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/06145c60-6a58-11f1-8115-ed1047107edc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas]]></title>
+            <description><![CDATA[If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.]]></description>
+            <link>https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9w2g0ewk95o#1</guid>
+            <pubDate>Sun, 21 Jun 2026 23:57:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Injured ticket inspector who helped others in Bedford train crash hailed a hero]]></title>
+            <description><![CDATA[A passenger praises a member of railway staff who, despite being in pain, helped the injured.]]></description>
+            <link>https://www.bbc.com/news/articles/c20y1n8y2z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20y1n8y2z7o#1</guid>
+            <pubDate>Mon, 22 Jun 2026 08:57:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0052/live/32378ef0-6e10-11f1-9110-95eb626f214e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wowcher sorry for 'unacceptable' crocodile attack email]]></title>
+            <description><![CDATA[The firm's marketing email appeared to reference an incident involving a toddler at a zoo.]]></description>
+            <link>https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c17ynlek5djo#1</guid>
+            <pubDate>Sun, 21 Jun 2026 19:12:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278d/live/3e437660-6e00-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three dead in Philippines high school shooting over bullying 'grudge']]></title>
+            <description><![CDATA[Police say they believe the attack was motivated by a "grudge" over bullying.]]></description>
+            <link>https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjegy777xw5o#1</guid>
+            <pubDate>Mon, 22 Jun 2026 09:45:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c3/live/e8f63260-6df5-11f1-adda-7309cd95b600.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump-backed political outsider wins Colombia election, initial count shows]]></title>
+            <description><![CDATA[Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is "not yet official or binding".]]></description>
+            <link>https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clye4ky2yzpo#1</guid>
+            <pubDate>Mon, 22 Jun 2026 03:31:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eac/live/b2016940-6dd3-11f1-ac92-691247a7d6f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV shows moments leading up to arrest in anti-Muslim attacks probe]]></title>
+            <description><![CDATA[A topless man can be seen driving erratically in Edinburgh before abandoning his car and attacking a black man and a delivery rider.]]></description>
+            <link>https://www.bbc.com/news/articles/c8j21zvkd20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j21zvkd20o#1</guid>
+            <pubDate>Sun, 21 Jun 2026 18:21:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8285/live/e62e1980-6d78-11f1-a2ba-775ae811ce10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EasyJet rejects £4.7bn takeover offer from US investment firm]]></title>
+            <description><![CDATA[The airline described the latest bid approach from Castlelake as "highly opportunistic".]]></description>
+            <link>https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30yz76834yo#1</guid>
+            <pubDate>Mon, 22 Jun 2026 08:49:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d40/live/b0d08560-6e0a-11f1-9110-95eb626f214e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do you stop Messi, Mbappe, Haaland and Kane?]]></title>
+            <description><![CDATA[Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly8gpp39d0o#2</guid>
+            <pubDate>Mon, 22 Jun 2026 08:10:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/74ad50e0-6bee-11f1-8401-0ff9796d0d82.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salah's World Cup pain ends as he fires Egypt to historic win]]></title>
+            <description><![CDATA[Mohamed Salah fires Egypt to their first ever World Cup win - 92 years on from their tournament debut.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17yn5y977yo#2</guid>
+            <pubDate>Mon, 22 Jun 2026 04:23:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c7/live/78d9b8c0-6dec-11f1-bb15-8fda38f0ff7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One of World Cup's great stories - can Cape Verde become legends?]]></title>
+            <description><![CDATA[Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0qylwk421eo#2</guid>
+            <pubDate>Mon, 22 Jun 2026 01:53:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60d/live/89763060-6dd2-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten-man Belgium remain winless after draw with Iran]]></title>
+            <description><![CDATA[Goalkeeper Alireza Beiranvand made a string of impressive saves to keep alive Iran's hopes of reaching the World Cup knockout stage for the first time, as they earned a hard-fought point against 10-man Belgium.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy06gxjnx3lo#2</guid>
+            <pubDate>Sun, 21 Jun 2026 21:55:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0af/live/baff2750-6db8-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saka trains with England squad before Ghana match]]></title>
+            <description><![CDATA[Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e21d5w0pjo#2</guid>
+            <pubDate>Mon, 22 Jun 2026 00:13:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eda/live/70789fc0-6dce-11f1-897a-fb9cd481447f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lamine Yamal shows why this could be his World Cup]]></title>
+            <description><![CDATA[Spain looked an instantly better team with Lamine Yamal in the side, with the 18-year-old showing why this could be his World Cup.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0gy46d5vro#2</guid>
+            <pubDate>Sun, 21 Jun 2026 19:27:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f75/live/5b34b430-6da8-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The records that look set to be broken]]></title>
+            <description><![CDATA[The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo#2</guid>
+            <pubDate>Sun, 21 Jun 2026 13:55:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c52/live/b7b66eb0-6b78-11f1-a51a-6916268f6e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All three England keepers played there - Carlisle's role in trio's rise]]></title>
+            <description><![CDATA[From west Cumbria to the World Cup, Carlisle is England's goalkeeper factory, with all of Thomas Tuchel's goalkeepers passing through the club.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg4qw57d4do#2</guid>
+            <pubDate>Sun, 21 Jun 2026 10:43:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac9e/live/4957c8e0-6bf7-11f1-8bf6-931d18012412.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How many World Cup Golden Boot winners can you name?]]></title>
+            <description><![CDATA[How many World Cup top goalscorers from down the years can you name?
+]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpjw4wd21o#2</guid>
+            <pubDate>Sun, 21 Jun 2026 09:25:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c8/live/eb8d44c0-6812-11f1-8e1d-bbbb1017d210.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kids were made to eat dog biscuits off the floor - pupils speak out after school abuse payouts]]></title>
+            <description><![CDATA[Former pupils describe staff pelting them with footballs and pouring pints of blackcurrant over them.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yz2r0197do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yz2r0197do#3</guid>
+            <pubDate>Mon, 22 Jun 2026 04:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039c/live/5dbe95f0-6e01-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The BTS fans losing thousands as scammers cash in on comeback tour ticket war]]></title>
+            <description><![CDATA[As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.]]></description>
+            <link>https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr45nrr2jyo#3</guid>
+            <pubDate>Sun, 21 Jun 2026 23:44:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27cd/live/86ca4870-6e0d-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The picturesque mountain village that helped send Jannik Sinner to tennis stardom]]></title>
+            <description><![CDATA[Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.]]></description>
+            <link>https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner#3</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The remote town with no bank - and the nearest is an hour away]]></title>
+            <description><![CDATA[When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.]]></description>
+            <link>https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1ey6qy18jlo#3</guid>
+            <pubDate>Sun, 21 Jun 2026 23:03:07 GMT</pubDate>
+            <media:thumbnail width="240" height="139" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebf5/live/52770160-6bcb-11f1-8546-8f19e4fe30f4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Currency crash and visa crackdowns force Indian students to rethink studying abroad]]></title>
+            <description><![CDATA[A weaker rupee and tougher immigration rules are pushing Indian students away from popular destinations like the US and UK.]]></description>
+            <link>https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x2gd9lkxzo#3</guid>
+            <pubDate>Sun, 21 Jun 2026 21:55:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f057/live/d9a0cfd0-6e06-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than half of France under red alerts as heatwave intensifies]]></title>
+            <description><![CDATA[The health minister warns many citizens "will suffer", with temperatures set to peak on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jy9g96086o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 07:17:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fee/live/56af66a0-6e0a-11f1-9110-95eb626f214e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to protect yourself from common scams, from fake romance to missed deliveries]]></title>
+            <description><![CDATA[Romance and investment fraud is at record levels but what can you do to prevent being caught out.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2xq1vngvdo#4</guid>
+            <pubDate>Sun, 21 Jun 2026 23:10:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says repairs to algae-plagued Reflecting Pool will begin immediately]]></title>
+            <description><![CDATA[Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.]]></description>
+            <link>https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c872e8d9el1o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 00:54:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bd3/live/67a5cba0-6dd0-11f1-adef-3d1fbbda5cb8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 14, charged with murder over stabbing]]></title>
+            <description><![CDATA[Jamal Coombes, 17, was found fatally injured in Battersea on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c3ry443e7j2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ry443e7j2o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 09:19:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5c/live/5078b8d0-6e1a-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toy Story 5 scores record opening weekend for franchise]]></title>
+            <description><![CDATA[The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2kqg958v1o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 03:13:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2c/live/b9eb0fb0-6dee-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Largest ever cocaine bust in Australia after police raid underground bunker]]></title>
+            <description><![CDATA[Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.]]></description>
+            <link>https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14ygjzr8j7o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 01:40:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/2a649d40-6dd3-11f1-ac92-691247a7d6f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan quintuples visa fees in first price hike since 1978]]></title>
+            <description><![CDATA[Authorities say they do not expect the hikes to have an "immediate impact on inbound tourism".]]></description>
+            <link>https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8d5e5e805o#4</guid>
+            <pubDate>Mon, 22 Jun 2026 03:45:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b1/live/c9a13240-6e11-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#6</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Keir Starmer’s resignation looks more likely than ever]]></title>
+            <description><![CDATA[The government message about the PM’s future has changed.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0nt55lf?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0nt55lf#7</guid>
+            <pubDate>Sun, 21 Jun 2026 12:11:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jill Biden reveals how she really felt about Joe Biden’s health whilst he was president]]></title>
+            <description><![CDATA[And Trump wants to give America’s top legal job to his former personal lawyer]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0nsll2g?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0nsll2g#7</guid>
+            <pubDate>Wed, 17 Jun 2026 21:22:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two chancers bluff their way into weddings to meet women]]></title>
+            <description><![CDATA[Owen Wilson and Vince Vaughn star in this classic 2005 comedy]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0022mfn/wedding-crashers?at_mid=Jw42rHOMLZ&amp;at_campaign=Wedding_Crashers&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0022mfn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Wedding_Crashers&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0022mfn/wedding-crashers?at_mid=Jw42rHOMLZ&amp;at_campaign=Wedding_Crashers&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0022mfn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Wedding_Crashers&amp;at_bbc_team=BBC#8</guid>
+            <pubDate>Sat, 13 Jun 2026 00:30:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d57c/live/7cff4110-6a7f-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salah's World Cup pain ends as he fires Egypt to historic win]]></title>
+            <description><![CDATA[Mohamed Salah fires Egypt to their first ever World Cup win - 92 years on from their tournament debut.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17yn5y977yo#9</guid>
+            <pubDate>Mon, 22 Jun 2026 04:23:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c7/live/78d9b8c0-6dec-11f1-bb15-8fda38f0ff7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The people and places that made Jannik Sinner]]></title>
+            <description><![CDATA[Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.]]></description>
+            <link>https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner#9</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clark blocks out New York jeers to win US Open title]]></title>
+            <description><![CDATA[Wyndham Clark says "New York didn't really like me" after dealing with jeers from the fans to win a second US Open title.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c621w7pg5gqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c621w7pg5gqo#9</guid>
+            <pubDate>Sun, 21 Jun 2026 23:12:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a71f/live/63730850-6dd9-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do you stop Messi, Mbappe, Haaland and Kane?]]></title>
+            <description><![CDATA[Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly8gpp39d0o#9</guid>
+            <pubDate>Mon, 22 Jun 2026 08:10:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/74ad50e0-6bee-11f1-8401-0ff9796d0d82.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One of World Cup's great stories - can Cape Verde extend dream run?]]></title>
+            <description><![CDATA[Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0qylwk421eo#9</guid>
+            <pubDate>Mon, 22 Jun 2026 01:53:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60d/live/89763060-6dd2-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does it matter if Scotland lose and still make history?]]></title>
+            <description><![CDATA[Does the performance, even the result, matter as long as Scotland qualify for the group stage of the World Cup after Wednesday's game against Brazil? Tom English ponders.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg0exlle8yo#9</guid>
+            <pubDate>Sun, 21 Jun 2026 21:39:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07b/live/23da6020-6e02-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool reject £21.7m Inter Milan offer for Jones]]></title>
+            <description><![CDATA[Liverpool reject a verbal offer of 25m euros (£21.7m) from Inter Milan for midfielder Curtis Jones.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy05x9gldyo#9</guid>
+            <pubDate>Sun, 21 Jun 2026 21:01:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd2/live/420df2e0-6db3-11f1-a3b6-27c714c83acb.jpg"/>
+        </item>
+    </channel>
+</rss>
