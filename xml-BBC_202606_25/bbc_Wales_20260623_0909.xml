@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Wales]]></description>
+        <link>https://www.bbc.co.uk/news/wales</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/wales</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 23 Jun 2026 09:10:17 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/wales/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Man returns fly-tipper's rubbish to his doorstep after sifting through CCTV]]></title>
+            <description><![CDATA[Dean Gauci tracked down the waste offender using amateur detective skills and returned the sacks. ]]></description>
+            <link>https://www.bbc.com/news/articles/c75y442y5zno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75y442y5zno#0</guid>
+            <pubDate>Tue, 23 Jun 2026 05:15:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3494/live/ed9f7570-6ec1-11f1-87ed-1750ac7ec29c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rhun ap Iorwerth faces first big Senedd test to get spending plans passed]]></title>
+            <description><![CDATA[The Plaid Cymru-led government will search for a deal with other parties as it publishes its mid-year budget.]]></description>
+            <link>https://www.bbc.com/news/articles/cjegyzzq8j5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjegyzzq8j5o#0</guid>
+            <pubDate>Tue, 23 Jun 2026 05:25:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/478a/live/8ae83d70-6ec3-11f1-810a-3b1edce8f21d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man died after suffering 'catastrophic' injuries fixing door at work]]></title>
+            <description><![CDATA[Anthony Webb's death was "entirely avoidable", according to the Health and Safety Executive.]]></description>
+            <link>https://www.bbc.com/news/articles/c14yk103mp8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14yk103mp8o#0</guid>
+            <pubDate>Tue, 23 Jun 2026 05:18:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b04/live/ac3e4970-6ec2-11f1-87ed-1750ac7ec29c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[First red warning for extreme heat for Wales as temperatures could hit 38C]]></title>
+            <description><![CDATA[The red alert is in place from Wednesday at 09:00 BST until 21:00 on Thursday, the Met Office said.]]></description>
+            <link>https://www.bbc.com/news/articles/c0ry128r599o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ry128r599o#0</guid>
+            <pubDate>Mon, 22 Jun 2026 21:02:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68a/live/20159450-6e20-11f1-bf93-41ce9254b46a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dog owner claims groomer sliced pet's nipple and superglued it back together]]></title>
+            <description><![CDATA[Tegan Williams says she was upset when her dog returned from her regular groomer with injuries. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce37jzlwg30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce37jzlwg30o#0</guid>
+            <pubDate>Mon, 22 Jun 2026 15:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0805/live/43c0a650-6e3f-11f1-8a85-d1d176b992ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lottery players urged to check tickets with £12m prize still unclaimed]]></title>
+            <description><![CDATA[A Lotto Jackpot ticket worth £12m bought in Rhondda Cynon Taf has yet to be claimed.]]></description>
+            <link>https://www.bbc.com/news/articles/c1lye84dmgno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lye84dmgno#0</guid>
+            <pubDate>Mon, 22 Jun 2026 12:06:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb6/live/a9176fc0-6e3a-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finding true killer would 'mean the world' to man wrongly jailed for 11 years]]></title>
+            <description><![CDATA[Police are reviewing the evidence 40 years after the murder of Cardiff newsagent Philip Saunders.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2rkk20ndvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2rkk20ndvo#0</guid>
+            <pubDate>Mon, 22 Jun 2026 18:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba37/live/9d7cc1e0-6e64-11f1-8303-013b2575905b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Gareth Bale wants to go from icon to investor]]></title>
+            <description><![CDATA[The Wales legend explains to BBC Sport Wales why he is getting into the business side of sport that could soon see him become a club owner.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c6210g09pneo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c6210g09pneo#1</guid>
+            <pubDate>Tue, 23 Jun 2026 03:23:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78fa/live/fca88600-6e5e-11f1-8303-013b2575905b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kids were made to eat dog biscuits off the floor - pupils speak out after school abuse payouts]]></title>
+            <description><![CDATA[Former pupils describe staff pelting them with footballs and pouring pints of blackcurrant over them.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yz2r0197do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yz2r0197do#1</guid>
+            <pubDate>Mon, 22 Jun 2026 04:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039c/live/5dbe95f0-6e01-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welsh first minister wants 'new relationship' with Westminster after Starmer quits]]></title>
+            <description><![CDATA[Rhun ap Iorwerth set out demands to the PM's successor, while Welsh MPs say they back his resignation.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yzppyrl8zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yzppyrl8zo#1</guid>
+            <pubDate>Mon, 22 Jun 2026 13:39:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/e79fdd70-6e32-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Festival goer says family was 'penned in' amid long queues]]></title>
+            <description><![CDATA[Organisers say they may consider other sites in future for the Welsh language festival.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4en4el90no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4en4el90no#1</guid>
+            <pubDate>Sun, 21 Jun 2026 20:29:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/c4f9eaf0-6e09-11f1-9110-95eb626f214e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concern over plans to replace free hospital park and ride with AI data centre]]></title>
+            <description><![CDATA[A free park and ride service for hospital staff, patients and visitors could be scrapped.]]></description>
+            <link>https://www.bbc.com/news/articles/cy49eemj9jxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy49eemj9jxo#1</guid>
+            <pubDate>Sun, 21 Jun 2026 14:20:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bcc/live/486de280-6b51-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a young politician's journey took her from poverty to Team GB gymnast]]></title>
+            <description><![CDATA[Zaynub Akbar says she plans to use her Senedd mandate to address some of the inequality she experienced.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dy4052rpko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dy4052rpko#2</guid>
+            <pubDate>Sat, 20 Jun 2026 16:33:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59aa/live/e8e211b0-6961-11f1-9f4a-21531e88e991.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We only found out we had the same sperm donor dad when we were in our 20s]]></title>
+            <description><![CDATA[Natasha, Gemma and Helen say finding each other has been a "fairy tale".]]></description>
+            <link>https://www.bbc.com/news/articles/c7vyz109prvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7vyz109prvo#2</guid>
+            <pubDate>Fri, 19 Jun 2026 05:04:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ee/live/61f5a690-6ba9-11f1-ad4f-418bfa76e5cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Stunningly beautiful' blue sea creatures appear on Welsh beaches]]></title>
+            <description><![CDATA[Velella velella, or by-the-wind sailors, have been spotted on beaches at Anglesey, Gwynedd and Tenby.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8dn984559o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8dn984559o#2</guid>
+            <pubDate>Thu, 18 Jun 2026 13:02:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/a4a161f0-6b0e-11f1-ad9f-addb423b1b6c.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Scared to go to work': Shop assistant tells of customer abuse]]></title>
+            <description><![CDATA[Finnola Tzagorakis shared her story as MPs debated tackling abuse against people in customer facing roles.]]></description>
+            <link>https://www.bbc.com/news/articles/c621v4pmg31o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c621v4pmg31o#2</guid>
+            <pubDate>Thu, 18 Jun 2026 08:19:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7880/live/3af953b0-6afb-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why a Gen Z Londoner can graze sheep on land in the Welsh valleys]]></title>
+            <description><![CDATA[Caleb Tutt travelled from Lambeth to a hilltop in Llantrisant to claim his ancient birthright.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwe51787z0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwe51787z0o#2</guid>
+            <pubDate>Thu, 18 Jun 2026 05:05:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c47/live/c1cea950-650e-11f1-b671-296779147873.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jilted bride who went ahead with wedding gets engaged]]></title>
+            <description><![CDATA[Rather than cancel the £12,000 big day, Kayley Stead went ahead with it, posting videos and photos online.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gyx8gxpzvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gyx8gxpzvo#2</guid>
+            <pubDate>Thu, 11 Jun 2026 15:36:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cda/live/1ba7ed90-65a7-11f1-b0b4-ff7d574215ed.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Couple marry at 24-mile Man v Horse race wearing matching waistcoats]]></title>
+            <description><![CDATA[Saffron and Nigel Griffin held their wedding ceremony just before the start of the 24-mile race.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8wqv0l50do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8wqv0l50do#2</guid>
+            <pubDate>Wed, 17 Jun 2026 15:13:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/f87ea8d0-6a34-11f1-9b8b-e9d622652531.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I might have avoided ovarian cancer if I lived in England not Wales]]></title>
+            <description><![CDATA[Heather Morgan's postcode meant she was ineligible for a test that could have revealed her risk.]]></description>
+            <link>https://www.bbc.com/news/articles/c809204ky8eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c809204ky8eo#2</guid>
+            <pubDate>Tue, 16 Jun 2026 04:56:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a23d/live/c41e6090-693e-11f1-80dc-91287d4325f8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olivia Rodrigo 'had to eat sausage rolls all day' in Welsh town]]></title>
+            <description><![CDATA[The pop superstar says she could not get her credit card to work anywhere outside America.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9ly8822xko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9ly8822xko#2</guid>
+            <pubDate>Mon, 15 Jun 2026 15:57:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae63/live/f2b21fe0-68c2-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman left traumatised by swinging says website 'facilitated abuse']]></title>
+            <description><![CDATA[She wants to warn others after her husband pressured her into sex she did not want, she says.]]></description>
+            <link>https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87q7g48y4po#2</guid>
+            <pubDate>Tue, 16 Jun 2026 05:00:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c8/live/6e77b680-6977-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Gareth Bale wants to go from icon to investor]]></title>
+            <description><![CDATA[The Wales legend explains to BBC Sport Wales why he is getting into the business side of sport that could soon see him become a club owner.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c6210g09pneo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c6210g09pneo#3</guid>
+            <pubDate>Tue, 23 Jun 2026 03:23:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78fa/live/fca88600-6e5e-11f1-8303-013b2575905b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian giants Roma plan pre-season games in Wales]]></title>
+            <description><![CDATA[Newport County are finalising plans to host Italian giants Roma in a glamorous pre-season friendly at Rodney Parade.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cr47epk94dxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr47epk94dxo#3</guid>
+            <pubDate>Tue, 23 Jun 2026 06:42:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4582/live/c2dcf030-6e7e-11f1-86e1-894ee9c52e3c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales duo Lewis and Jones depart Gloucester-Hartpury]]></title>
+            <description><![CDATA[Wales forwards Bethan Lewis and Kelsey Jones will leave Gloucester-Hartpury this summer, the club has confirmed.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cvglv1r8yggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cvglv1r8yggo#3</guid>
+            <pubDate>Mon, 22 Jun 2026 16:31:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb71/live/297c8ee0-6ede-11f1-92d8-97879fd3f743.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carlson leads Glamorgan dash to historic win over Surrey]]></title>
+            <description><![CDATA[Kiran Carlson and Colin Ingram lead Glamorgan to an historic first ever win over Surrey at Sophia Gardens.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c3wynpjgwzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c3wynpjgwzeo#3</guid>
+            <pubDate>Mon, 22 Jun 2026 15:03:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06aa/live/3c659990-6e4b-11f1-8a85-d1d176b992ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weightlifter Whalley added to Team Wales for Glasgow Games]]></title>
+            <description><![CDATA[114 athletes were named in the squad last week but Charlotte Whalley has been added after receiving a reallocated qualification spot. ]]></description>
+            <link>https://www.bbc.com/sport/weightlifting/articles/c20y7q374nwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/weightlifting/articles/c20y7q374nwo#3</guid>
+            <pubDate>Mon, 22 Jun 2026 19:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/066d/live/ddf58be0-6e72-11f1-af12-adba0638fbd4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firefighting prop Scoble set to play last Wales game]]></title>
+            <description><![CDATA[Firefighter Jenni Scoble is set to play her final game for Wales against the Barbarians at Twickenham on Saturday.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/clywrl94dk3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/clywrl94dk3o#3</guid>
+            <pubDate>Mon, 22 Jun 2026 10:00:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19fe/live/029114a0-6e1f-11f1-806d-d1ff7e093f07.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swansea announce shake-up to backroom staff]]></title>
+            <description><![CDATA[Championship side Swansea City appoint Jay Lefevre as their new head of recruitment, while Pedro Pereira becomes head of goalkeeping.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c70y7rrz7njo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70y7rrz7njo#3</guid>
+            <pubDate>Mon, 22 Jun 2026 14:45:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea1/live/dc5ec340-6e46-11f1-8a85-d1d176b992ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Llywodraeth newydd Cymru yn cyhoeddi y gyllideb atodol]]></title>
+            <description><![CDATA[Llywodraeth newydd Cymru yn cyhoeddi eu cyllideb atodol ddydd Mawrth - sef cyllideb sy'n cael ei defnyddio i wneud newidiadau i'w cynlluniau gwariant presennol. ]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/cly8rdxg2lno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/cly8rdxg2lno#4</guid>
+            <pubDate>Tue, 23 Jun 2026 05:17:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ec8/live/2c5fc830-6e5b-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O Sweden i Ddyffryn Conwy i dderbyn gwobr mewn eisteddfod leol ]]></title>
+            <description><![CDATA[Dyn sy'n byw yn Sweden wedi ennill cystadleuaeth i siaradwyr newydd mewn eisteddfod leol yng ngogledd Cymru dros y penwythnos. ]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c78ymermd78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c78ymermd78o#4</guid>
+            <pubDate>Tue, 23 Jun 2026 05:29:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ad/live/265056a0-6e59-11f1-b9d0-a3be33cbfa13.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ysgolion a gwasanaethau'n newid trefniadau wrth baratoi am wres eithafol]]></title>
+            <description><![CDATA[Mae ysgolion a gwasanaethau cyhoeddus ledled Cymru yn newid trefniadau wrth i'r wlad baratoi ar gyfer y rhybudd coch cyntaf erioed am wres eithafol]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/c3ry4rz9rq8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/c3ry4rz9rq8o#4</guid>
+            <pubDate>Tue, 23 Jun 2026 08:45:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b0/live/0dbbbf90-6eda-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cymuned Efailwen yn dathlu ail-agor Caffi Beca]]></title>
+            <description><![CDATA[Roedd BBC Radio Cymru'n darlledu'n fyw o'r caffi adnabyddus sy'n ganolbwynt i'r gymuned yn Sir Benfro.]]></description>
+            <link>https://www.bbc.com/cymrufyw/erthyglau/cn8k42v9kzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/cymrufyw/erthyglau/cn8k42v9kzno#4</guid>
+            <pubDate>Tue, 23 Jun 2026 06:26:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e46/live/f18beaf0-6e4a-11f1-b1db-af71d47507d6.jpg"/>
+        </item>
+    </channel>
+</rss>
