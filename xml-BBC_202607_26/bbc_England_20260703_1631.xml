@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 03 Jul 2026 16:32:16 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Man jailed for shooting dead boy in park play area]]></title>
+            <description><![CDATA[Aderahman Boumzough was jailed for 35 years for murdering Rene Graham and also for attempted murder.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gyl1wdxkxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyl1wdxkxo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 12:45:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f82/live/ec6191a0-76ed-11f1-9510-1546718f668b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Men jailed over fellow burglar's death during raid]]></title>
+            <description><![CDATA[David McCandless and Mason Meanwell were found guilty of manslaughter after a trial.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gyv1mp02no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyv1mp02no#0</guid>
+            <pubDate>Fri, 03 Jul 2026 15:25:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/6edcd3b0-76da-11f1-b508-3b3f1f22a3c1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Nowak's killer appeals conviction and sentence]]></title>
+            <description><![CDATA[Vickrum Digwa is serving a minimum of 21 years behind bars after fatally stabbing the student.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3wy26p5lexo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 16:11:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8f/live/371989b0-6040-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenagers save dad and son from drowning in river]]></title>
+            <description><![CDATA[The 18-year-olds went into action after hearing cries for help at the River Wharfe in Burnsall.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yzwnyxnxlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yzwnyxnxlo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 14:49:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7959/live/3509f540-76d6-11f1-a665-61d1c1b7ea28.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pilot killed in plane crash 'was heart of family']]></title>
+            <description><![CDATA[Nicola Wright, 44, from Dorset, died in a plane crash near Dunkeswell Airfield.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy4914weevko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4914weevko#0</guid>
+            <pubDate>Fri, 03 Jul 2026 15:24:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/ad2815b0-76f0-11f1-b9cc-bd5880081b3f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The actor who raped me ruined my dream of acting']]></title>
+            <description><![CDATA[Oliwia Wudarowicz speaks about the impact of being abused by actor Alexander Westwood.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgd02ngxj0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgd02ngxj0o#0</guid>
+            <pubDate>Fri, 03 Jul 2026 15:06:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d311/live/38ce0fe0-76db-11f1-8d5d-870e2fdf40f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sixteen wheelbarrows of jellyfish wash up at pool]]></title>
+            <description><![CDATA[They washed up at high tide and people said there was nothing they could do to save them. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn4rvkr083xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn4rvkr083xo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 13:23:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f9/live/e071c810-76d9-11f1-b508-3b3f1f22a3c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wife who murdered husband with kitchen knife jailed]]></title>
+            <description><![CDATA[Daryl Berman lied to police saying her husband, who had dementia, stumbled and fell on the knife.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2dy89g6jpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2dy89g6jpgo#1</guid>
+            <pubDate>Fri, 03 Jul 2026 13:34:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8936/live/f05c29c0-76eb-11f1-a691-bbfab7f76614.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-policeman who shared murder fantasies jailed]]></title>
+            <description><![CDATA[Brian Darby, 80, was recalled to prison where he was serving life for trying to murder a woman.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr5j1gljp2jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr5j1gljp2jo#1</guid>
+            <pubDate>Fri, 03 Jul 2026 14:27:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e1/live/8b76a440-76e6-11f1-9510-1546718f668b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rail line blocked after car ended up on tracks]]></title>
+            <description><![CDATA[Train bosses say the line was blocked after a car ended up on tracks in west Cornwall.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgd0g9y7yqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgd0g9y7yqo#1</guid>
+            <pubDate>Fri, 03 Jul 2026 16:13:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548f/live/df4f2e20-76e6-11f1-9842-7718f5ead045.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bus crashes into North Kensington home]]></title>
+            <description><![CDATA[The single decker bus crashes into the property's frontage on St Quintin Avenue in North Kensington.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c79yjgq943wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79yjgq943wo#1</guid>
+            <pubDate>Fri, 03 Jul 2026 12:38:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1264/live/942ac870-76c6-11f1-bd3f-0f791277aaa0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thatcher clutch bag expected to sell for thousands]]></title>
+            <description><![CDATA[The auction is being held in Shrewsbury from Friday until 14 July.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gydge142yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gydge142yo#1</guid>
+            <pubDate>Fri, 03 Jul 2026 15:25:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b174/live/3fcf27e0-76f2-11f1-b9cc-bd5880081b3f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup celebrated with knitted England display]]></title>
+            <description><![CDATA[Harry Kane, Jude Bellingham and Marcus Rashford feature on Studley's woollen postbox topper.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c14y53xjgzko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14y53xjgzko#2</guid>
+            <pubDate>Fri, 03 Jul 2026 13:01:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c901/live/9d515550-76d9-11f1-b508-3b3f1f22a3c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Classic 1980s game Chuckie Egg makes a return]]></title>
+            <description><![CDATA[The classic 1980s video game is back, this time for smartphones and tablets.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cevl40j4vv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevl40j4vv3o#2</guid>
+            <pubDate>Fri, 03 Jul 2026 05:22:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3bb/live/05b8b730-7632-11f1-a627-714adb4eed6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother says new custodial sentences for daughter's rapists 'better' but still 'not enough']]></title>
+            <description><![CDATA[Two teenage boys convicted of rape had initially been given non-custodial sentences but have since been handed a four year detention.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg53d9p18vo#3</guid>
+            <pubDate>Fri, 03 Jul 2026 09:16:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/38eea710-5538-11f1-b682-cf91850925ea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman realised she had ADHD during early menopause]]></title>
+            <description><![CDATA[Gill Charlton went into menopause during cancer treatment, and was then diagnosed with ADHD at 43.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn4dg8z31jeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn4dg8z31jeo#3</guid>
+            <pubDate>Fri, 03 Jul 2026 05:20:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098f/live/09842900-7630-11f1-ac11-19a4319081d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum's 15-year 'living nightmare' since son's open water death]]></title>
+            <description><![CDATA[Beckie Ramsay says it is her "life mission" to educate people about the dangers of open water swimming. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cnv965pjvq2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cnv965pjvq2o#3</guid>
+            <pubDate>Fri, 03 Jul 2026 05:23:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc64/live/b39f7fa0-7628-11f1-ac11-19a4319081d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Unwritten is perfect song for new music festival']]></title>
+            <description><![CDATA[Natasha Bedingfield is performing at Halo Festival at Trinity Park, in Ipswich on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy491e1n1rro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy491e1n1rro#3</guid>
+            <pubDate>Fri, 03 Jul 2026 04:39:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb8/live/b42d9b60-7613-11f1-ac6e-25f7e4f0c9b9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England fan tickets for Mexico on resale for up to £26K]]></title>
+            <description><![CDATA[Tickets originally bought by England fans for Monday's last 16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo#5</guid>
+            <pubDate>Fri, 03 Jul 2026 11:36:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f5/live/f12e8d60-76c9-11f1-bd3f-0f791277aaa0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton fastest in Silverstone practice session]]></title>
+            <description><![CDATA[Ferrari's Lewis Hamilton leads the way in practice at the British Grand Prix before sprint qualifying later on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/c75yk24rrd7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/c75yk24rrd7o#5</guid>
+            <pubDate>Fri, 03 Jul 2026 12:42:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f47d/live/a6ceeb90-76db-11f1-b508-3b3f1f22a3c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curran wants chance to replace Stokes in Test team]]></title>
+            <description><![CDATA[Sam Curran wants the opportunity to fill the vacancy left by Ben Stokes, but says he will not be putting pressure on himself to make a return to Test cricket.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cddlq15d27no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cddlq15d27no#5</guid>
+            <pubDate>Fri, 03 Jul 2026 13:36:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a0/live/217dab50-76dd-11f1-b508-3b3f1f22a3c1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Everton move has re-energised Magic Weekend - Peet]]></title>
+            <description><![CDATA[Wigan and St Helens coaches Matt Peet and Paul Rowley unite in praise of Super League Magic Weekend's move to Hill Dickinson Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c2dy89g8p65o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c2dy89g8p65o#5</guid>
+            <pubDate>Fri, 03 Jul 2026 12:54:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d5/live/7838dc60-76d5-11f1-a665-61d1c1b7ea28.jpg"/>
+        </item>
+    </channel>
+</rss>
