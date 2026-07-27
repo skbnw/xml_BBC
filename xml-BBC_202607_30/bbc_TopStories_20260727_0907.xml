@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 27 Jul 2026 09:07:33 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS 'will collapse' without social care reform, PM tells BBC]]></title>
+            <description><![CDATA[The prime minister says he would not want to leave office without bringing in "substantial change" to the social care system.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o#0</guid>
+            <pubDate>Mon, 27 Jul 2026 08:19:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/37ae8280-8918-11f1-9303-cf4043796b6f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berlin Pride attack suspect shot and killed during police operation]]></title>
+            <description><![CDATA[Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62eg899l99o#0</guid>
+            <pubDate>Sun, 26 Jul 2026 19:21:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e91/live/ed7624e0-8983-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man and woman die after being pulled from sea off Cornish beach]]></title>
+            <description><![CDATA[A man and a woman both died at the scene after being recovered from the sea off Cornwall.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4k892z44jo#0</guid>
+            <pubDate>Mon, 27 Jul 2026 08:35:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50b0/live/b2e6d9a0-8992-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girlguiding unveils first major redesign of uniform range since 1990]]></title>
+            <description><![CDATA[Under the new rules, members will be able to wear a top from the new range with their own trousers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2dkez2g07po#0</guid>
+            <pubDate>Mon, 27 Jul 2026 08:27:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb7/live/9c9d7150-8932-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK's most parched regions miss chance for rain ahead of next heatwave]]></title>
+            <description><![CDATA[Much of the UK continues to experience very dry conditions after a summer marked by low rainfall and recurring heatwaves.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo#0</guid>
+            <pubDate>Sun, 26 Jul 2026 23:09:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c4/live/4bca7500-88df-11f1-aeef-edf7e578a56d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[PM pledges continued support for Ukraine ahead of Zelensky visit]]></title>
+            <description><![CDATA[The Ukrainian president will be Andy Burnham's first international visitor since taking office.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8me5vyjg2o#0</guid>
+            <pubDate>Mon, 27 Jul 2026 06:48:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ed/live/5bc7b570-8980-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three dead and several injured in shooting at food festival near Seattle's Space Needle]]></title>
+            <description><![CDATA[Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c78gjyx4q2yo#0</guid>
+            <pubDate>Mon, 27 Jul 2026 06:11:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5827/live/cc10fa80-8980-11f1-91d4-8f29e4485c46.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump paused attacks on Iran to make space for talks, US ambassador says]]></title>
+            <description><![CDATA[Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5y45kdkynpo#0</guid>
+            <pubDate>Mon, 27 Jul 2026 08:14:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape]]></title>
+            <description><![CDATA[The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2g044ydl4o#0</guid>
+            <pubDate>Mon, 27 Jul 2026 07:37:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/478992b0-482a-11f0-b3bf-c9f452e3175b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luke Littler wins Matchplay and smashes records]]></title>
+            <description><![CDATA[Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.]]></description>
+            <link>https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo#0</guid>
+            <pubDate>Sun, 26 Jul 2026 21:03:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ae/live/bf89e9e0-8933-11f1-8493-f1cb7178375f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Would you choose £50,000 over the chance of £1m?]]></title>
+            <description><![CDATA[The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn0njd4e2evo#1</guid>
+            <pubDate>Sun, 26 Jul 2026 23:11:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Behind-the-scenes at No 10 as Andy Burnham became PM]]></title>
+            <description><![CDATA[Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79gdjlv78wo#1</guid>
+            <pubDate>Mon, 27 Jul 2026 05:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Losing my leg has elevated my life, says world champion surfer]]></title>
+            <description><![CDATA[Llywelyn Williams says anything is possible with any kind of disability.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp9lgj5mv1po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp9lgj5mv1po#1</guid>
+            <pubDate>Mon, 27 Jul 2026 05:04:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6b/live/0e4b65c0-7d1a-11f1-b61e-1b6852ddc42f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's Gen Z protesters force out a minister, but what's next?]]></title>
+            <description><![CDATA[The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8dng1v72lno#1</guid>
+            <pubDate>Mon, 27 Jul 2026 05:59:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176a/live/52099b90-8901-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK papers: Youth benefits 'crack down' and Gatwick 'Fly and dry']]></title>
+            <description><![CDATA[Andy Burnham's latest policy plans dominate many of Monday's newspapers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy4k8xke81wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4k8xke81wo#1</guid>
+            <pubDate>Mon, 27 Jul 2026 04:18:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40e7/live/0af16db0-8941-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat]]></title>
+            <description><![CDATA[Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yegvd9ddeo#3</guid>
+            <pubDate>Mon, 27 Jul 2026 00:27:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Antisemitism felt relentless' - Jewish students on life at UK universities]]></title>
+            <description><![CDATA[Some students said they are having to hide their Jewish identity, fearing physical and verbal abuse.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp8l050d18yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8l050d18yo#3</guid>
+            <pubDate>Mon, 27 Jul 2026 04:56:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc8f/live/c9c019c0-898d-11f1-88b2-635548373e92.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say]]></title>
+            <description><![CDATA[The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjrv77gl4deo#3</guid>
+            <pubDate>Sun, 26 Jul 2026 21:23:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa6/live/489f0bc0-8939-11f1-b0da-9113fb476dd1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infantino tells Fifa critics to 'meditate, pray or watch football']]></title>
+            <description><![CDATA[Fifa president Gianni Infantino tells critics to "meditate, pray or watch a football match" instead of "spreading hate and false rumours" about him and the World Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#3</guid>
+            <pubDate>Mon, 27 Jul 2026 08:07:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/28678820-8987-11f1-88b2-635548373e92.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall]]></title>
+            <description><![CDATA[Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckg9ewekpk1o#3</guid>
+            <pubDate>Mon, 27 Jul 2026 01:54:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccc/live/6a70fb80-8959-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A Week Of Prime Minister Andy Burnham]]></title>
+            <description><![CDATA[Number 10 North opens its doors for the first time.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0nzs7m6?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0nzs7m6#5</guid>
+            <pubDate>Fri, 24 Jul 2026 15:28:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Global Story: Is the Iran war back on?]]></title>
+            <description><![CDATA[The White House has asked Congress for billions more dollars in funding for the Iran war]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8ml2?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8ml2#5</guid>
+            <pubDate>Wed, 22 Jul 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p04njt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[With great power comes great responsibility]]></title>
+            <description><![CDATA[Swing into action, your epic Spider-Man rewatch starts here]]></description>
+            <link>https://www.bbc.co.uk/iplayer/group/m002pm3w?at_mid=e8Sm8RTslk&amp;at_campaign=Spider_Man_Collection&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002pm3w&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Spider_Man_Collection&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/group/m002pm3w?at_mid=e8Sm8RTslk&amp;at_campaign=Spider_Man_Collection&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002pm3w&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Spider_Man_Collection&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Mon, 20 Jul 2026 20:05:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a9e/live/e6c7bac0-873d-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meditate, pray or watch football instead of spreading hate - Infantino]]></title>
+            <description><![CDATA[Fifa president Gianni Infantino tells critics to "meditate, pray or watch a football match" instead of "spreading hate and false rumours" about him and the World Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#7</guid>
+            <pubDate>Mon, 27 Jul 2026 08:07:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/28678820-8987-11f1-88b2-635548373e92.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diomande agrees Real Madrid terms as PSG step away]]></title>
+            <description><![CDATA[RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o#7</guid>
+            <pubDate>Mon, 27 Jul 2026 05:46:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Littler wins Matchplay and smashes Taylor record]]></title>
+            <description><![CDATA[Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.]]></description>
+            <link>https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo#7</guid>
+            <pubDate>Sun, 26 Jul 2026 21:03:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ae/live/bf89e9e0-8933-11f1-8493-f1cb7178375f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rogers and Palmer can play together - Alonso]]></title>
+            <description><![CDATA[Chelsea manager Xabi Alonso says he has a "plan" to play club record £117m signing Morgan Rogers alongside Cole Palmer.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo#7</guid>
+            <pubDate>Mon, 27 Jul 2026 06:10:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8d/live/9cd85070-897f-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris and McLaren almost perfect as Ferrari flounder in Hungary]]></title>
+            <description><![CDATA[Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno#7</guid>
+            <pubDate>Sun, 26 Jul 2026 19:19:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90be/live/9f16a620-891b-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pogacar wins fifth Tour title amid Paris finish drama]]></title>
+            <description><![CDATA[Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o#7</guid>
+            <pubDate>Sun, 26 Jul 2026 19:43:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1a/live/facdf870-891f-11f1-ba41-9bff51dd5d72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evans steps out of shadows into spotlight with Scotland's fourth gold]]></title>
+            <description><![CDATA[Angharad Evans was overlooked before these Commonwealth Games. But now the Scotland swimmer is a gold medallist.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo#7</guid>
+            <pubDate>Sun, 26 Jul 2026 19:55:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24c0/live/c9a87c10-892a-11f1-b684-d3f861a1f4cf.jpg"/>
+        </item>
+    </channel>
+</rss>
