@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Politics]]></description>
+        <link>https://www.bbc.co.uk/news/politics</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/politics</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 12 Aug 2026 01:39:34 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Police chiefs call for PM to prevent early release of PC Harper's killers]]></title>
+            <description><![CDATA[The intervention comes after Andy Burnham said he was "confident" the early release of PC Harper's killers could be prevented.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o#0</guid>
+            <pubDate>Tue, 11 Aug 2026 21:21:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wealthier areas must play their part in housing asylum seekers, Burnham suggests]]></title>
+            <description><![CDATA[The prime minister was asked about protests over plans to use a former military base to house asylum seekers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c204d4z1gg8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c204d4z1gg8o#0</guid>
+            <pubDate>Tue, 11 Aug 2026 20:07:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e0/live/9cf2f5a0-95ba-11f1-a556-013790f38050.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham faces unpopularity test over prisons dilemma]]></title>
+            <description><![CDATA[The early release conundrum has given the new PM his first taste of tricky political decision-making.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn5n3pdlykdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn5n3pdlykdo#0</guid>
+            <pubDate>Tue, 11 Aug 2026 15:50:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/443f/live/eaab40b0-959a-11f1-976a-4934d54b5403.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham 'confident' early release of PC Harper's killers can be halted]]></title>
+            <description><![CDATA[The PM says the justice secretary will present a plan in September to prevent more early releases.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevmkkg791yo#0</guid>
+            <pubDate>Tue, 11 Aug 2026 20:09:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/549d/live/477d0050-9576-11f1-bfbd-3fe7d55dcf7b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Councils to get more powers to stop vape and betting shops, PM announces]]></title>
+            <description><![CDATA[Prime Minister Andy Burnham says town centres have been "hollowed out" by decades of decline.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg90el9236o#0</guid>
+            <pubDate>Tue, 11 Aug 2026 15:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db9b/live/dda47690-953e-11f1-ba5b-b1a600ddfa74.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Send foreign prisoners abroad to end early releases, says Reform]]></title>
+            <description><![CDATA[The party also plans to create additional capacity in the system by building 'Nightingale' prisons.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yw9d2212xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yw9d2212xo#0</guid>
+            <pubDate>Mon, 10 Aug 2026 15:50:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f926/live/f3318d40-94ad-11f1-afe9-fb1a837ec5d9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say]]></title>
+            <description><![CDATA[The party says the government's plans to modernise the NHS risk another major  hospital scandal.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62e60m1jygo#0</guid>
+            <pubDate>Mon, 10 Aug 2026 11:56:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f7/live/43c9bd30-9482-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MSP apologises for hurt caused by rape 'demonisation' comments ]]></title>
+            <description><![CDATA[Scottish Green MSP Q Manivannan is facing criticism from rape survivors groups and politicians over a podcast interview. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c89n5v5djpgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c89n5v5djpgo#1</guid>
+            <pubDate>Mon, 10 Aug 2026 17:22:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ef3/live/68ee3380-94c7-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban on 'subscription traps' brought forward by three months]]></title>
+            <description><![CDATA[The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly5x9qlnvjo#1</guid>
+            <pubDate>Mon, 10 Aug 2026 09:57:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de42/live/c00a80e0-947e-11f1-870d-5d08c49babb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Record 230 people cross Channel in one small boat]]></title>
+            <description><![CDATA[The Home Office says it shows the "reckless and dangerous tactics" used by gangs "cramming ever greater numbers on to unseaworthy vessels".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4g4vxjg2yno#1</guid>
+            <pubDate>Mon, 10 Aug 2026 14:51:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/fc2895c0-94ac-11f1-afe9-fb1a837ec5d9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sturgeon has not spoken to Murrell since he was jailed for embezzling SNP funds]]></title>
+            <description><![CDATA[The former first minister also told a podcast she would not visit her estranged husband in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o#1</guid>
+            <pubDate>Sat, 08 Aug 2026 16:46:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4b/live/113aaac0-9345-11f1-a35f-039358cea467.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farage and Tice sue NCA over alleged leaks of financial information]]></title>
+            <description><![CDATA[The Reform leaders claim the National Crime Agency supplied details about party donations to the media.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo#1</guid>
+            <pubDate>Sat, 08 Aug 2026 06:48:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb67/live/08bce7d0-92c0-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Streeting 'sickened' by sex abuse claims at Army college]]></title>
+            <description><![CDATA[The defence secretary promises to look into what went wrong at the college in North Yorkshire.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8en51le9e1o#1</guid>
+            <pubDate>Fri, 07 Aug 2026 16:53:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebde/live/e91c4f70-927d-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conservatives pledge to ban foreign nationals from social housing]]></title>
+            <description><![CDATA[They claim around 230,000 homes would become available under their plan to limit social housing entitlements.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd69x9j46xjo#1</guid>
+            <pubDate>Fri, 07 Aug 2026 07:43:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b26/live/c25196e0-91ae-11f1-9c12-47c0acd34ba6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch pens letter to Clacton ahead of by-election]]></title>
+            <description><![CDATA[The Tories are not standing in next week's election, triggered by Nigel Farage's resignation.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwy4rq90g2po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy4rq90g2po#1</guid>
+            <pubDate>Fri, 07 Aug 2026 18:12:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c1/live/fe792360-9265-11f1-bb9b-3bdc4098a990.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do Clacton voters want from their next MP?]]></title>
+            <description><![CDATA[People share the issues on their minds as the constituency prepares to go to the polls.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c89n8vpjenno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c89n8vpjenno#1</guid>
+            <pubDate>Sat, 08 Aug 2026 23:27:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbcc/live/64153530-924b-11f1-a6ce-afeee273b42e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government criticised over plastic spill response]]></title>
+            <description><![CDATA[Volunteers call for Prime Minister Andy Burnham to intervene and declare it a "national disaster".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/clyvx2dx4g6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyvx2dx4g6o#1</guid>
+            <pubDate>Fri, 07 Aug 2026 16:55:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6270/live/2ec69ae0-918d-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Illegal working arrests double in two years, Home Office says]]></title>
+            <description><![CDATA[The Home Office says there has been a record number of raids and arrests in the first six months of 2026.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce3qzd9932do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce3qzd9932do#1</guid>
+            <pubDate>Thu, 06 Aug 2026 23:32:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d9/live/62dc4070-91d1-11f1-abbf-613e9d231927.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sturgeon's criticisms of Swinney reveal tensions in SNP ranks]]></title>
+            <description><![CDATA[The former first minister's attack on the SNP's 2026 election campaign has led to rebukes from ex-colleagues.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj9dydm7wjxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj9dydm7wjxo#1</guid>
+            <pubDate>Thu, 06 Aug 2026 22:01:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb2/live/2f860460-91bb-11f1-bab9-173de0e7d358.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why there's a row about standing up while drinking in central London]]></title>
+            <description><![CDATA[Westminster Council is under fire as part of its plans to update a licensing policy. Why?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c86nvjxlg9eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c86nvjxlg9eo#1</guid>
+            <pubDate>Fri, 07 Aug 2026 16:22:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/0edc71b0-9290-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Officer who led PC Harper investigation 'appalled' killers could be released early]]></title>
+            <description><![CDATA[Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q9erpz953o#1</guid>
+            <pubDate>Fri, 07 Aug 2026 15:29:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70de/live/acb174c0-923c-11f1-af4d-5164294a85c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Keir Starmer made misleading defence spending claim, watchdog says]]></title>
+            <description><![CDATA[The Wales Office and MoD also repeated the claim that £270bn more was being spent on defence.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c77g38mxxdyo#1</guid>
+            <pubDate>Thu, 06 Aug 2026 14:59:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ec/live/566810d0-915e-11f1-a8f1-774cbc5e1a9f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex neo-Nazi activist withdraws as Tory election candidate]]></title>
+            <description><![CDATA[Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo#1</guid>
+            <pubDate>Wed, 05 Aug 2026 20:12:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9aa/live/648faac0-90ea-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNP write-off value of Murrell motorhome in party accounts]]></title>
+            <description><![CDATA[The luxury vehicle was bought for £124,550 by the party's former chief executive as part of a £400,000 embezzlement.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy07p7p1gr2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy07p7p1gr2o#1</guid>
+            <pubDate>Thu, 06 Aug 2026 15:14:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f69/live/40f64d20-91a9-11f1-9c12-47c0acd34ba6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Referrals to Prevent anti-terror scheme at record high]]></title>
+            <description><![CDATA[The Home Office says the 10-year-high in referrals could be due to the 2024 Southport attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3r072j10zlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3r072j10zlo#1</guid>
+            <pubDate>Thu, 06 Aug 2026 13:45:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2265/live/8f1f61f0-91b6-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham orders review of grooming gang early releases]]></title>
+            <description><![CDATA[The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg5lm3evpzzo#1</guid>
+            <pubDate>Thu, 06 Aug 2026 13:56:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/05135030-91a1-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walk-in mental health centres to open in banks and libraries across England]]></title>
+            <description><![CDATA[Government plans network of nearly 200 specialist services to help those facing mental health crises.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpd76e737ljo#1</guid>
+            <pubDate>Thu, 06 Aug 2026 07:28:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/6670ee10-910f-11f1-b61e-4f9456542bbf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The serial candidates standing against Farage in the Clacton by-election]]></title>
+            <description><![CDATA[BBC Verify takes a look at the serial candidates standing in Clacton, how they fared in previous elections, and whether they have ever won enough votes to get their deposits back.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd69q4yg0ggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd69q4yg0ggo#2</guid>
+            <pubDate>Thu, 06 Aug 2026 13:22:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082f/live/83604660-90d3-11f1-a7ab-8b30adf0800a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Car washes and vape shops can still sponsor skilled foreign workers despite visa changes]]></title>
+            <description><![CDATA[The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj639rx147eo#2</guid>
+            <pubDate>Thu, 06 Aug 2026 11:06:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/96af7fb0-916e-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What could happen to prisoner early release scheme now?]]></title>
+            <description><![CDATA[The PM is changing the scheme for some prisoners after a police officer's widow said the possible early release of his killers was "deplorable".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c62vqj7ged4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62vqj7ged4o#2</guid>
+            <pubDate>Tue, 04 Aug 2026 11:59:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9956/live/1b8820b0-de2f-11ef-a37f-eba91255dc3d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greens review social media operation as Polanski row rumbles on]]></title>
+            <description><![CDATA[The Green Party is grappling with how to manage its social media following a controversial post by its leader.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz97ke8dn9wo#2</guid>
+            <pubDate>Thu, 30 Jul 2026 16:42:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4669/live/fd625a80-8c36-11f1-89bb-9b3e3c6f25f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham wants to fix social care - what are the options?]]></title>
+            <description><![CDATA[With Andy Burnham saying he wants to bring "substantial change" to social care in England, BBC Verify looks at what could be done.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj4k54g0ldjo#2</guid>
+            <pubDate>Wed, 29 Jul 2026 10:47:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1825/live/a24448b0-89c6-11f1-b8ee-9b3c26ad07bb.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Every day I'm just winging it': The families hoping for social care reform]]></title>
+            <description><![CDATA[As Andy Burnham outlines his aim to overhaul social care, BBC News speaks to the families caring for loved ones.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce8lzdgzee9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8lzdgzee9o#2</guid>
+            <pubDate>Wed, 29 Jul 2026 16:43:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/6e1d6ab0-8b67-11f1-aeab-95d4580645f0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM]]></title>
+            <description><![CDATA[Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79gdjlv78wo#2</guid>
+            <pubDate>Mon, 27 Jul 2026 05:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham's first week pledges - how much do they add up to?]]></title>
+            <description><![CDATA[BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy078kj0ezyo#2</guid>
+            <pubDate>Fri, 24 Jul 2026 13:04:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db1/live/f4591780-866e-11f1-926f-c90d1bcfbc84.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: The UK's Trump trade deal no longer looks world-beating]]></title>
+            <description><![CDATA[While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9v4ymwddwgo#2</guid>
+            <pubDate>Fri, 24 Jul 2026 14:02:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham's plan to collaborate with social media creators]]></title>
+            <description><![CDATA[The new prime minister plans to work with influencers and social media creators to get his message out.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy4k74xj9lyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4k74xj9lyo#2</guid>
+            <pubDate>Thu, 23 Jul 2026 08:28:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fd/live/e1b05e80-866f-11f1-93cb-95d7eb12ec49.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM]]></title>
+            <description><![CDATA[The new prime minister enters Number 10 in a flurry of activity - but he is still facing calls for a snap election.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gjz907pppo#2</guid>
+            <pubDate>Tue, 21 Jul 2026 17:14:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba34/live/2f5dbc80-8531-11f1-926f-c90d1bcfbc84.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who's in Andy Burnham's cabinet?]]></title>
+            <description><![CDATA[An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg4we9g58do#2</guid>
+            <pubDate>Tue, 28 Jul 2026 13:36:18 GMT</pubDate>
+            <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ede/live/8badd4d0-8463-11f1-b976-0b9c15b0ccfc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Louise Haigh: Labour power broker behind Burnham's rise]]></title>
+            <description><![CDATA[The Sheffield MP's return to the cabinet comes after she emerged as one of the PM's key political allies.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c87n0x974vjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c87n0x974vjo#2</guid>
+            <pubDate>Mon, 20 Jul 2026 20:15:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f402/live/c26d80d0-845c-11f1-8cf4-43aed99842b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angela Rayner: Cabinet comeback for one of Labour's biggest names]]></title>
+            <description><![CDATA[The potential contender to replace Keir Starmer is now back in the cabinet under Andy Burnham.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqlz3p0ryylo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlz3p0ryylo#2</guid>
+            <pubDate>Tue, 21 Jul 2026 16:12:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dbc/live/016bda30-84f7-11f1-aefd-63161e2ad075.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is new chancellor John Healey? Labour veteran who quit as defence secretary]]></title>
+            <description><![CDATA[The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce85y9lm81no#2</guid>
+            <pubDate>Mon, 20 Jul 2026 18:44:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five headaches Andy Burnham will have to deal with as PM]]></title>
+            <description><![CDATA[From defence spending to housing - the next UK leader has a series of challenges to deal with.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62122pgjqdo#2</guid>
+            <pubDate>Fri, 17 Jul 2026 05:59:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f2/live/c74af560-8119-11f1-926f-c90d1bcfbc84.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?]]></title>
+            <description><![CDATA[Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyl3z2xld8o#2</guid>
+            <pubDate>Mon, 03 Aug 2026 09:41:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Andy Burnham solve the housing crisis?]]></title>
+            <description><![CDATA[BBC Verify has looked at the scale of the housing challenge facing Burnham when he becomes PM.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3wygjz632qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3wygjz632qo#2</guid>
+            <pubDate>Thu, 16 Jul 2026 05:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b92/live/268ba880-804d-11f1-bee8-53ce494e1abc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him]]></title>
+            <description><![CDATA[In the US, China, Europe, Russia and elsewhere, how is the UK's expected new prime minister regarded?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn8qzlvlz81o#2</guid>
+            <pubDate>Sun, 12 Jul 2026 23:49:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c45/live/a8f4c440-7e9b-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a rise in ADHD benefits claims is adding to welfare spending challenge]]></title>
+            <description><![CDATA[More than 100,000 people with ADHD as their main condition receive Pip, latest figures show, an increase of 40% since Labour came to power.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c24ym9yd8p6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c24ym9yd8p6o#2</guid>
+            <pubDate>Thu, 09 Jul 2026 08:35:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6542/live/b0dfb530-7b7f-11f1-b976-0b9c15b0ccfc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Prisoner release row proving to be Burnham's first big test as PM]]></title>
+            <description><![CDATA[The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdewx3lpd2eo#3</guid>
+            <pubDate>Fri, 07 Aug 2026 15:18:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb4/live/a31e2ea0-9271-11f1-be40-e93959facbbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: The 'Burnham bounce' is real but it's not massive]]></title>
+            <description><![CDATA[The governing party's poll ratings have improved but they're only just ahead of Reform.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4g4djygr73o#3</guid>
+            <pubDate>Sat, 01 Aug 2026 09:13:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a967/live/e6b44e00-8cc8-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key takeaways as Andy Burnham becomes PM]]></title>
+            <description><![CDATA[The new Labour leader has formally taken office and set out his priorities for power in No 10.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c80nln7zgp7o#3</guid>
+            <pubDate>Mon, 20 Jul 2026 20:07:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd12/live/760894c0-8450-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham has big ideas - but what will they cost?]]></title>
+            <description><![CDATA[Every tricky decision and trade off is being watched by the country and the markets at the same time]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9357rlk494o#3</guid>
+            <pubDate>Mon, 20 Jul 2026 21:47:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Burnham's casual style survive contact with No 10?]]></title>
+            <description><![CDATA[When Burnham becomes PM, he'll find it harder to wear the wardrobe that's central to his political brand.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#3</guid>
+            <pubDate>Sun, 19 Jul 2026 00:08:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1900/live/fa26e800-8406-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[He'll be the first Andy in No 10 - but his rise to power has been decades in the making]]></title>
+            <description><![CDATA[The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8pml5z8p6o#3</guid>
+            <pubDate>Mon, 20 Jul 2026 09:35:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f6/live/1fd811f0-6e27-11f1-b1db-af71d47507d6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Analysis: Burnham's policy choices reveal what kind of PM he wants to be]]></title>
+            <description><![CDATA[The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo#3</guid>
+            <pubDate>Mon, 20 Jul 2026 15:41:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb2/live/0504f2a0-844b-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham does not rule out wealth tax]]></title>
+            <description><![CDATA[The expected next PM says he may have to "ask for a little more" in tax and warns of "difficult" choices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c89nww3z99po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c89nww3z99po#3</guid>
+            <pubDate>Wed, 15 Jul 2026 17:32:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816f/live/eb738af0-806b-11f1-bf5f-a7a6eeea7412.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Row after Tory bid to make Burnham face MPs before autumn fails]]></title>
+            <description><![CDATA[The Tories have accused Labour of "running scared" after ministers denied them a chance to delay Parliament's summer break.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj6g61y6lpro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj6g61y6lpro#3</guid>
+            <pubDate>Tue, 14 Jul 2026 17:15:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8fd/live/f15f0ff0-7fa0-11f1-a5f4-433bb9aa2e5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cash-strapped Thames Water poses big test for Burnham]]></title>
+            <description><![CDATA[Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gygy43103o#3</guid>
+            <pubDate>Wed, 15 Jul 2026 12:09:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/57ae2360-805d-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: What his first week in power tells us about Andy Burnham]]></title>
+            <description><![CDATA[The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz97ngjpg3lo#4</guid>
+            <pubDate>Fri, 24 Jul 2026 12:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3593/live/90688200-8769-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shapps blocked from standing again for the Conservatives]]></title>
+            <description><![CDATA[Kemi Badenoch tells the BBC she leads a "new party full of new people" as ex-MP is rejected as a candidate.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo#4</guid>
+            <pubDate>Thu, 23 Jul 2026 13:13:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615c/live/951d24c0-868a-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Labour leader Anas Sarwar set to become a minister in Burnham's government]]></title>
+            <description><![CDATA[It would mean Sarwar leaving the Scottish Parliament and his leader role, then taking up a seat in the House of Lords.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce970y1n7plo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce970y1n7plo#4</guid>
+            <pubDate>Wed, 22 Jul 2026 09:22:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f9/live/ba8e4880-4d08-11f1-b55d-0f258dce1735.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Sarwar ministerial role sees promotion of another Starmer critic]]></title>
+            <description><![CDATA[Months after calling on Keir Starmer to quit, the Scottish Labour leader is set to become a minister in Burnham's government, the BBC's political editor writes.  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2rv14em3jo#4</guid>
+            <pubDate>Wed, 22 Jul 2026 05:22:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e690/live/d128e040-859e-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham tells cabinet to tackle living costs at first meeting]]></title>
+            <description><![CDATA[The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo#4</guid>
+            <pubDate>Tue, 21 Jul 2026 23:15:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/868c/live/fac66860-852f-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?]]></title>
+            <description><![CDATA[Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyl3z2xld8o#5</guid>
+            <pubDate>Mon, 03 Aug 2026 09:41:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: The 'Burnham bounce' is real but it's not massive]]></title>
+            <description><![CDATA[The governing party's poll ratings have improved but they're only just ahead of Reform.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4g4djygr73o#5</guid>
+            <pubDate>Sat, 01 Aug 2026 09:13:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a967/live/e6b44e00-8cc8-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM]]></title>
+            <description><![CDATA[Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79gdjlv78wo#5</guid>
+            <pubDate>Mon, 27 Jul 2026 05:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ruthless plotter? Flip-flopper? Dad dancer? Insiders reveal the real Andy Burnham]]></title>
+            <description><![CDATA[Who is the real Andy Burnham? Laura Kuenssberg talks to more than 20 people who know him to work it out]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3043vl2l7zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3043vl2l7zo#5</guid>
+            <pubDate>Sat, 18 Jul 2026 14:32:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/19534330-8106-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Nowak murder has lit a match under British politics. This is how we got here]]></title>
+            <description><![CDATA[The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c39297vxmw2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39297vxmw2o#5</guid>
+            <pubDate>Sat, 06 Jun 2026 11:08:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8627/live/4ff5a0a0-60e9-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North East mayors disagree over income tax revenue]]></title>
+            <description><![CDATA[North East Mayor Kim McGuinness and Tees Valley Mayor Ben Houchen disagree on income tax revenue use.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/crk573j6jdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/crk573j6jdko#6</guid>
+            <pubDate>Thu, 06 Aug 2026 15:48:00 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9bb/live/0323d3e0-91af-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What will Devon's four new councils mean for you?]]></title>
+            <description><![CDATA[The shake-up will need to consider everything from leisure centres and planning to recycling. ]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cglj6xd99gxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cglj6xd99gxo#6</guid>
+            <pubDate>Thu, 06 Aug 2026 05:08:09 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/617a28c0-916b-11f1-8d49-afb9c19de776.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should Glasgow have its own mayor?]]></title>
+            <description><![CDATA[The BBC's David Wallace Lockhart asks if Scotland's largest city should have its own elected mayor.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c3ekz5n0dvqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3ekz5n0dvqo#6</guid>
+            <pubDate>Fri, 31 Jul 2026 22:08:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a13/live/fb172fc0-8ceb-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zack Polanski reported to police over guillotine post]]></title>
+            <description><![CDATA[Zack Polanski reported to police over guillotine post]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c3d34n4j3v2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3d34n4j3v2o#6</guid>
+            <pubDate>Tue, 28 Jul 2026 15:41:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71c/live/968b4680-8a76-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My dog Axel 'wouldn't get on' with Larry the cat, says Burnham]]></title>
+            <description><![CDATA[The PM says he doesn't think his poodle-mix would "get along" with Larry the cat, who has lived at No 10 for 15 years.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cgewn2590neo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cgewn2590neo#6</guid>
+            <pubDate>Mon, 27 Jul 2026 05:07:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb3/live/c7ef8ad0-8911-11f1-b8ee-9b3c26ad07bb.jpg"/>
+        </item>
+    </channel>
+</rss>
