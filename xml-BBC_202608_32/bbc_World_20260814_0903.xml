@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Aug 2026 09:03:13 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Unprecedented' rain in Japan kills six people]]></title>
+            <description><![CDATA[The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq561gpen8lo#0</guid>
+            <pubDate>Fri, 14 Aug 2026 07:00:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians told to leave homes in village where Israeli settlers besieged houses]]></title>
+            <description><![CDATA[The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0</guid>
+            <pubDate>Thu, 13 Aug 2026 20:12:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US says dozens of countries helped China dodge Trump's tariffs]]></title>
+            <description><![CDATA[A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#0</guid>
+            <pubDate>Fri, 14 Aug 2026 08:39:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Engine parts smashed Ryanair window that man's head was sucked out of, report says]]></title>
+            <description><![CDATA[A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr59j4z3vl8o#0</guid>
+            <pubDate>Thu, 13 Aug 2026 21:43:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conditions on US aircraft carrier at sea for more than 250 days raise alarms]]></title>
+            <description><![CDATA[Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cyvl2d5j52lo#0</guid>
+            <pubDate>Thu, 13 Aug 2026 23:06:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stolen Matisse artworks recovered by police in Brazil]]></title>
+            <description><![CDATA[A man is arrested after eight works by the French artist are found at a home in greater São Paulo.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#0</guid>
+            <pubDate>Fri, 14 Aug 2026 08:34:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d1/live/3099e280-97a7-11f1-b9b1-c18c7ed25243.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Person fined after using foghorn to wake sleeping polar bear]]></title>
+            <description><![CDATA[Under local regulations in the region, "it is forbidden to needlessly disturb, attract or pursue a polar bear".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2k1r97vx7o#1</guid>
+            <pubDate>Thu, 13 Aug 2026 15:30:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/7dbeac50-9728-11f1-808c-532494fd22c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Romania shuts only nuclear plant as heat causes huge drop in Danube River level]]></title>
+            <description><![CDATA[The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1</guid>
+            <pubDate>Thu, 13 Aug 2026 19:46:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air India to test all pilots for banned substances]]></title>
+            <description><![CDATA[It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2352jyvm5xo#1</guid>
+            <pubDate>Thu, 13 Aug 2026 16:52:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/c940eb70-9732-11f1-bdbf-1b7b2a4a87a1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four Canadian hockey stars remain suspended after sexual assault acquittal]]></title>
+            <description><![CDATA[A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj9dpdmr77do#1</guid>
+            <pubDate>Thu, 13 Aug 2026 14:51:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/55beb0f0-68c2-11f0-8dbd-f3d32ebd3327.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurovision Song Contest 2027 to be held in Burgas, Bulgaria]]></title>
+            <description><![CDATA[The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#1</guid>
+            <pubDate>Thu, 13 Aug 2026 11:10:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Presidential pardon for French alleged spy accused of plotting Mali coup]]></title>
+            <description><![CDATA[France is yet to comment on Yann Vezilier's pardon and previously called the accusations "unfounded".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2el29e3m3xo#1</guid>
+            <pubDate>Thu, 13 Aug 2026 15:50:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d647/live/3b219a60-9728-11f1-808c-532494fd22c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life']]></title>
+            <description><![CDATA[In the comments, Kelce called Swift his "wife" for first time and said it was a "childhood dream" to wed at Madison Square Garden.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2r179e232o#1</guid>
+            <pubDate>Thu, 13 Aug 2026 01:19:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mangione lawyers to meet federal prosecutors amid reports of plea deal]]></title>
+            <description><![CDATA[Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yw71q9y00o#1</guid>
+            <pubDate>Thu, 13 Aug 2026 18:45:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/998b/live/b9cd9ed0-977e-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French ambassador to CAR accused of misconduct at official residence faces disciplinary action]]></title>
+            <description><![CDATA[The accusations against Bruno Foucher prompted investigations into a potential security breach. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx7pp3yd25o#1</guid>
+            <pubDate>Thu, 13 Aug 2026 08:15:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddec/live/94f00910-96d7-11f1-a393-936d941a912a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian actor's video with endangered gibbon sparks investigation]]></title>
+            <description><![CDATA[A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q9351yp1xo#1</guid>
+            <pubDate>Thu, 13 Aug 2026 07:05:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3069/live/d93ce580-96e5-11f1-9b96-77d3dc534330.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia]]></title>
+            <description><![CDATA[Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9v42m3430vo#2</guid>
+            <pubDate>Fri, 14 Aug 2026 08:02:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e44e/live/3a710840-979a-11f1-870d-5d08c49babb2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian solar mission's new findings throw light on enduring Sun mysteries]]></title>
+            <description><![CDATA[Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c934wqpd74xo#2</guid>
+            <pubDate>Fri, 14 Aug 2026 02:13:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC]]></title>
+            <description><![CDATA[In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c74grmy2v7ko#2</guid>
+            <pubDate>Thu, 13 Aug 2026 04:55:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who could replace White House Press Secretary Karoline Leavitt?]]></title>
+            <description><![CDATA[The job requires managing a complex relationship with the media - as well Trump's high expectations. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0l5273xjnlo#2</guid>
+            <pubDate>Thu, 13 Aug 2026 14:56:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9596/live/0b835a70-9758-11f1-9240-c70a29f1c818.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend]]></title>
+            <description><![CDATA[Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx256pp33l3o#2</guid>
+            <pubDate>Wed, 12 Aug 2026 23:19:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb5/live/5b6616a0-9577-11f1-870d-5d08c49babb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia's game-changing disability support is in crisis – what went wrong?]]></title>
+            <description><![CDATA[The programme was game-changing for its users - but as costs balloon, its success has led to its downfall. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c20d8g0qze0o#2</guid>
+            <pubDate>Wed, 12 Aug 2026 19:56:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6d/live/e5592410-963a-11f1-8414-97750c5a4202.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What happens if Luigi Mangione pleads guilty?]]></title>
+            <description><![CDATA[Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c36dyep3k1ko#3</guid>
+            <pubDate>Fri, 14 Aug 2026 01:19:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/687cc7b0-9772-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Verify speaks to woman who filmed ICE agent pointing gun at her]]></title>
+            <description><![CDATA[BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c1m12m12nzzo#3</guid>
+            <pubDate>Thu, 13 Aug 2026 20:37:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcf/live/070284b0-9741-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran]]></title>
+            <description><![CDATA[Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cgewp4ep9dro#3</guid>
+            <pubDate>Thu, 13 Aug 2026 13:20:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are 'human fridges' being sold in Japan?]]></title>
+            <description><![CDATA[As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cjej4y3gvzlo#3</guid>
+            <pubDate>Wed, 12 Aug 2026 22:07:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/e3226840-9519-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baby Shark boy set to make K-pop debut]]></title>
+            <description><![CDATA[The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cvg7zrxknvno#3</guid>
+            <pubDate>Wed, 12 Aug 2026 03:26:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg"/>
+        </item>
+    </channel>
+</rss>
