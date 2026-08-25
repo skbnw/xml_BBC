@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 25 Aug 2026 01:03:43 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Organised crime arrests as police investigate crash that killed two PCs]]></title>
+            <description><![CDATA[Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c36d6975dzno#0</guid>
+            <pubDate>Mon, 24 Aug 2026 17:53:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy died after leaping from window, inquest finds]]></title>
+            <description><![CDATA[The inquest into the death of five-year-old Aalim Ahmed concludes at East London Coroner's Court.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqxvj21g03zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqxvj21g03zo#0</guid>
+            <pubDate>Mon, 24 Aug 2026 19:16:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0c/live/856dd2d0-9a59-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tintwistle wildfire extinguished after two months]]></title>
+            <description><![CDATA[Derbyshire Fire and Rescue Service says the fire near Glossop was one of the largest it had fought.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c33kn5z12d2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c33kn5z12d2o#0</guid>
+            <pubDate>Mon, 24 Aug 2026 16:09:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/140d/live/b4842620-7bc1-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen pleads guilty over Channel boat with 165 migrants]]></title>
+            <description><![CDATA[A man admits endangering lives at sea after piloting a dinghy with a then-record number of migrants.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0znklge1wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0znklge1wo#0</guid>
+            <pubDate>Mon, 24 Aug 2026 19:35:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire destroys 140 cars at site used by Gatwick passengers]]></title>
+            <description><![CDATA[A man has been arrested on suspicion of arson after the blaze at Caldyne Business Park in Crawley.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/czxz6kqk51yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czxz6kqk51yo#0</guid>
+            <pubDate>Mon, 24 Aug 2026 18:54:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8980/live/305211c0-9fc3-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murder after house fire]]></title>
+            <description><![CDATA[Pawel Kulpa is accused of one count of murder, eight of attempted murder and one count of arson.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj06873eq8qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj06873eq8qo#0</guid>
+            <pubDate>Mon, 24 Aug 2026 20:47:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c5/live/1c3282a0-9c13-11f1-994d-3b122d793956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Group of meerkats die after tunnel collapse]]></title>
+            <description><![CDATA[Staff at Tropical Birdland say they are comforting the surviving meerkat.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgy3q33jjpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgy3q33jjpo#0</guid>
+            <pubDate>Mon, 24 Aug 2026 14:43:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d6/live/172e70a0-9fc1-11f1-8648-8d7b77845e6d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Briton fighting for Russia killed in Ukraine]]></title>
+            <description><![CDATA[Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zry1zk9go#1</guid>
+            <pubDate>Mon, 24 Aug 2026 16:17:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d45/live/19d00870-9fbf-11f1-8648-8d7b77845e6d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Community rallies after homes gutted by huge fire]]></title>
+            <description><![CDATA[Residents in part of Birmingham are rebuilding after the fire as charity support tops £10,000.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yd3xq950lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yd3xq950lo#1</guid>
+            <pubDate>Mon, 24 Aug 2026 17:45:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b9/live/aa869110-9fc7-11f1-b3e7-331c6d9a8046.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scarborough council want assurance on asylum plan]]></title>
+            <description><![CDATA[Plans to house asylum seekers at RAF Linton-on-Ouse will be debated by Scarborough Town Council.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c74kjqly45qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c74kjqly45qo#1</guid>
+            <pubDate>Mon, 24 Aug 2026 16:43:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c480/live/03313510-9fcb-11f1-8dfa-d5875b87c784.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Driver denies causing mum and daughter's deaths]]></title>
+            <description><![CDATA[Jasskamal Riyat, 37, is jointly accused of causing death by dangerous driving in Leeds in 2023.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c70d367wzx5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c70d367wzx5o#1</guid>
+            <pubDate>Mon, 24 Aug 2026 16:38:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c8/live/715a2ba0-05cf-11f1-a351-bb43301b14c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two National Trust visitor centres and cafes to shut]]></title>
+            <description><![CDATA[The charity says the cafes and visitor centres at Robin Hood's Bay and Ravenscar are no longer viable.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2zygxxl77o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2zygxxl77o#1</guid>
+            <pubDate>Mon, 24 Aug 2026 13:26:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9b/live/3807f440-9fad-11f1-bff6-57f1422ebb0b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Strangers at festival help autistic man realise dream]]></title>
+            <description><![CDATA[The group's kindness has now gone viral after the man's father shared his story on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr4v025yg03o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr4v025yg03o#2</guid>
+            <pubDate>Mon, 24 Aug 2026 15:07:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c913/live/c08143f0-9fb5-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sly visitor outfoxes security to reach MP's office]]></title>
+            <description><![CDATA[Bushy-tailed visitor travels up four flights of stairs to reach George Freeman's office.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj3d5jydvgjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3d5jydvgjo#2</guid>
+            <pubDate>Mon, 24 Aug 2026 16:38:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff9f/live/4f8d1e40-9fc8-11f1-b3e7-331c6d9a8046.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roller 'absolutely' secures future of cricket club]]></title>
+            <description><![CDATA[Play resumes at Battisford cricket club after its 80-year-old retro roller is replaced with a working one.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yj8rw3lnwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yj8rw3lnwo#2</guid>
+            <pubDate>Mon, 24 Aug 2026 17:49:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e05/live/b94f78d0-9fbb-11f1-8648-8d7b77845e6d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Festival's neighbours 'feel like prisoners in our own homes']]></title>
+            <description><![CDATA[Up to 80,000 fans will party at the Creamfields festival in Cheshire in late August.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgxz9g5l5eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgxz9g5l5eo#3</guid>
+            <pubDate>Mon, 24 Aug 2026 05:22:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa93/live/dca4ffe0-965a-11f1-b61b-4bcfe1167bd9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notting Hill Carnival 2026: Everything you need to know]]></title>
+            <description><![CDATA[Europe's largest street carnival takes place from 29 to 31 August, with millions expected to attend.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c89nzpv48yko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c89nzpv48yko#3</guid>
+            <pubDate>Mon, 24 Aug 2026 15:42:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e1b/live/7eab1680-9bba-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We're the football club that nobody wants to sign for']]></title>
+            <description><![CDATA[Stephen Kelly set up SANDS United Basingstoke after he lost his daughter Amelia Grace Kelly.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp801nrk8vzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp801nrk8vzo#3</guid>
+            <pubDate>Mon, 24 Aug 2026 15:57:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c7/live/88193390-9fc6-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It took 30 years to talk about my teacher raping me']]></title>
+            <description><![CDATA[She was 15 when she met Keith Allen, a supply teacher at her school in Birmingham the early 1990s.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjej1w5pqp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjej1w5pqp3o#3</guid>
+            <pubDate>Mon, 24 Aug 2026 05:31:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5295/live/82f8fcc0-96ec-11f1-9b96-77d3dc534330.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Alcohol ruled my life – now my eyes are open']]></title>
+            <description><![CDATA[Daniel Norrish volunteers for FoodCycle, a charity that turns surplus food into free community meals.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2vgk99wwno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2vgk99wwno#3</guid>
+            <pubDate>Mon, 24 Aug 2026 15:11:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc5/live/297a1550-8731-11f1-a42c-83dd67bf1cb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England drop Carse after nightclub incident]]></title>
+            <description><![CDATA[Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo#5</guid>
+            <pubDate>Mon, 24 Aug 2026 16:52:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hodgkinson withdraws from Zurich Diamond League]]></title>
+            <description><![CDATA[Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her "body is not quite ready".]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo#5</guid>
+            <pubDate>Mon, 24 Aug 2026 20:02:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watkins' departure would cut deepest - and Villa did not see it coming]]></title>
+            <description><![CDATA[Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo#5</guid>
+            <pubDate>Mon, 24 Aug 2026 16:43:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does Elliott have a Liverpool future after latest omission?]]></title>
+            <description><![CDATA[Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o#5</guid>
+            <pubDate>Mon, 24 Aug 2026 14:23:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg"/>
+        </item>
+    </channel>
+</rss>
