@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 02 Sep 2026 12:30:54 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Four in court over murder of baby stabbed to death]]></title>
+            <description><![CDATA[Four people, aged between 19 and 38, appear in court charged with murdering the newborn. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn458wx1w0eo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 12:23:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/b3bb1cd0-a61e-11f1-bb6f-e5db02d232fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inquest opens into death of family in Shoreham]]></title>
+            <description><![CDATA[Hussam El-Khawas, Zeina Alayan and their two daughters died after getting into difficulty in the sea.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c7507qy6lrpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c7507qy6lrpo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 10:47:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a1/live/43cb2d00-a6bb-11f1-ae1e-219da1d6451a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pub's 'beloved' manager stabbed to death in Germany]]></title>
+            <description><![CDATA[Rebecca Bullock, 31, was attacked at Rosenheim station on Sunday. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 10:40:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b6/live/087e32b0-a6ac-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London mayor says conviction for untaxed car was due to a scam]]></title>
+            <description><![CDATA[City Hall officials say the Nissan Micra does not belong to the mayor or Transport for London.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c7708vn2yp7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c7708vn2yp7o#0</guid>
+            <pubDate>Wed, 02 Sep 2026 11:41:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d822/live/f901e500-a6ad-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen attacked people and stole cars at tram stop]]></title>
+            <description><![CDATA[Tyrone Dowling punched a woman in the face and slashed a man's arm during his spree, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1kxj073gjlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1kxj073gjlo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 12:21:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fe/live/16313440-a6b9-11f1-ae1e-219da1d6451a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missing British trekker's body found in Pakistan]]></title>
+            <description><![CDATA[The 30-year-old from Birmingham went missing on Saturday as he was descending from Musa Ka Musala.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c23x478r3g5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c23x478r3g5o#0</guid>
+            <pubDate>Wed, 02 Sep 2026 10:57:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/33fe6140-a6b0-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rescued turtles released in tearful farewell]]></title>
+            <description><![CDATA[Rescuers cried on the boat when Crush the loggerhead turtle was released into the North Atlantic.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cdj4y2l73xno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdj4y2l73xno#0</guid>
+            <pubDate>Wed, 02 Sep 2026 09:09:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff04/live/4d805760-a6a4-11f1-b048-153395f36aa1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Attacks families not told 'stalker' had violent past]]></title>
+            <description><![CDATA[Nottinghamshire Police received a complaint and has referred the matter to the IOPC.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c780ez2923xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c780ez2923xo#1</guid>
+            <pubDate>Wed, 02 Sep 2026 10:34:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tice defends 'Farage Fest' in licence consent row]]></title>
+            <description><![CDATA[Tendring District Council is investigating if Nigel Farage's by-election victory rally was unlawful.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c14dj704vlno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14dj704vlno#1</guid>
+            <pubDate>Wed, 02 Sep 2026 10:36:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2192/live/da3aeb80-a6b2-11f1-bf9b-4185c128a665.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman in intensive care sent hospital parking fines despite having permits]]></title>
+            <description><![CDATA[Kate Matthews, 36, is in Hull Royal Infirmary and has been "fighting for her life" since March.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjrx2wrze84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjrx2wrze84o#1</guid>
+            <pubDate>Wed, 02 Sep 2026 11:33:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab0/live/5fe02e40-a6a8-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK charity faces 'reality' of restoring education in Nepal]]></title>
+            <description><![CDATA[Thousands of children in Nepal have been left without access to education after devastating floods.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0zpelwlj6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zpelwlj6o#1</guid>
+            <pubDate>Wed, 02 Sep 2026 09:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ca/live/80ee4720-a62b-11f1-905b-8511af748865.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police find food worth more than £5,000 in car boot]]></title>
+            <description><![CDATA[The food, including chocolates, chorizo, cheese and butter, is believed to be stolen, say police.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly5zymd57zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly5zymd57zo#1</guid>
+            <pubDate>Wed, 02 Sep 2026 05:37:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac67/live/b77b3a70-a610-11f1-8637-5b46bde23e50.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teens take to skies as flying made more accessible]]></title>
+            <description><![CDATA[British Young Pilots is giving youngsters the chance to learn aviation skills and become pilots.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cz7zwgqxpp3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz7zwgqxpp3o#2</guid>
+            <pubDate>Wed, 02 Sep 2026 11:01:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d71/live/bd46b570-a623-11f1-b384-1f35d0eeee9d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man finishes 62-mile cricket run-up record attempt]]></title>
+            <description><![CDATA[Sam Bodoano ran 62 miles from Lord's Cricket Ground in London to Valley End Cricket Club in Woking.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr503g9jlpyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr503g9jlpyo#2</guid>
+            <pubDate>Tue, 01 Sep 2026 16:53:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ef/live/3928ec20-a625-11f1-b384-1f35d0eeee9d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bush dog puppies emerge from their den to play]]></title>
+            <description><![CDATA[The pups were born to four-year-old Molly after a 65-day pregnancy at Chester Zoo, say keepers.
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cgjq2ldxq5xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgjq2ldxq5xo#2</guid>
+            <pubDate>Mon, 31 Aug 2026 13:39:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ce/live/0b5f56c0-a545-11f1-aed2-8d6da8d75094.png"/>
+        </item>
+        <item>
+            <title><![CDATA['My house was destroyed by a garden bonfire']]></title>
+            <description><![CDATA[Houses on the terrace in Sheffield have been targeted by burglars since the fire in July.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c93vq355q11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c93vq355q11o#3</guid>
+            <pubDate>Wed, 02 Sep 2026 05:02:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73d/live/f8ffbd30-a620-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I would be dead if I had not learnt about little-known law']]></title>
+            <description><![CDATA[Over a decade since Clare's Law came in, domestic abuse survivors say too few understand how it works.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c20d2w4v727o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c20d2w4v727o#3</guid>
+            <pubDate>Wed, 02 Sep 2026 05:21:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9737/live/4c8e2620-a2e9-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samurai sword killer leaves family 'ripped apart']]></title>
+            <description><![CDATA[A month after his killer was jailed, Craig Hurcombe's family say they still cannot accept his death.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cgqdy2lzx93o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgqdy2lzx93o#3</guid>
+            <pubDate>Tue, 01 Sep 2026 05:13:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c891/live/be957fe0-a22e-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Witness tells of fatal crash horror outside home]]></title>
+            <description><![CDATA[A man who was the first on the scene said he could not sleep after seeing two men trapped in a car.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cgjq7d68lq1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgjq7d68lq1o#3</guid>
+            <pubDate>Tue, 01 Sep 2026 05:05:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b8/live/891a8730-a5ca-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Discovery of skulls reveals 6,000-year-old mystery]]></title>
+            <description><![CDATA[Human skulls found during a Victorian dock excavation reveal a story spanning thousands of years.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0zg9z1z5go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zg9z1z5go#3</guid>
+            <pubDate>Tue, 01 Sep 2026 05:05:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e795/live/dfe5af80-a2dd-11f1-ba94-c782670d1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal]]></title>
+            <description><![CDATA[The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz0z377mxero#5</guid>
+            <pubDate>Tue, 01 Sep 2026 23:16:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed1/live/d82434f0-a6bc-11f1-ae1e-219da1d6451a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hampshire make Kuggeleijn U-turn after criticism]]></title>
+            <description><![CDATA[Hampshire decide that New Zealand all-rounder Scott Kuggeleijn will not represent the club having "listened to feedback from staff and supporters". ]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/articles/cz0z38v158vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/cz0z38v158vo#5</guid>
+            <pubDate>Wed, 02 Sep 2026 12:02:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dc/live/80922250-a6b8-11f1-ae1e-219da1d6451a.jpg"/>
+        </item>
+    </channel>
+</rss>
