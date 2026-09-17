@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/uk</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/uk</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 17 Sep 2026 19:30:20 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Human remains identified as mum missing since 2019]]></title>
+            <description><![CDATA[A 56-year-old man is arrested after the remains of Joanne Sheen were found almost seven years after she went missing.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 15:08:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a1/live/d5866d50-b2a9-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Charles warns of 'existential danger' of AI falling into wrong hands]]></title>
+            <description><![CDATA[The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ymj7njvl7o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 14:33:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates held but Bank signals rise if energy prices stay high]]></title>
+            <description><![CDATA[Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 14:05:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK needs 'credible path' on defence spending, says Nato chief]]></title>
+            <description><![CDATA[Mark Rutte tells the BBC that UK ministers accept the need to make yearly steps to up spending.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm0e35pwje2do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0e35pwje2do#0</guid>
+            <pubDate>Thu, 17 Sep 2026 18:02:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c57/live/033ecd10-b2b8-11f1-ad9d-efc12ace03e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham urged to set dementia waiting-time target]]></title>
+            <description><![CDATA[An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0</guid>
+            <pubDate>Thu, 17 Sep 2026 19:13:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef0/live/bdc56440-b2b9-11f1-ad9d-efc12ace03e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK Youth Parliament looks set to be axed]]></title>
+            <description><![CDATA[Some say scrapping the parliament for 11 to 18-year-olds would be a blow for democracy, while others say it is overdue.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c689jke4w310o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 17:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6261/live/9de122a0-b2b8-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father's tribute to 'sweetest little boy' Noah]]></title>
+            <description><![CDATA[Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude" to local people.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmkg71ygwny7o#1</guid>
+            <pubDate>Thu, 17 Sep 2026 14:54:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4d/live/01db9030-b28f-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man, 29, jailed for raping two 14-year-old girls]]></title>
+            <description><![CDATA[One victim escaped and told a neighbour her friend was being raped by the Afghan national, the court heard.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmvgy14g039lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgy14g039lo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 17:58:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f4/live/69a56690-b2b8-11f1-ad9d-efc12ace03e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian guilty of vandalism at mosques linked to Russian network behind Starmer arson attack]]></title>
+            <description><![CDATA[Illia Bilyk, a 21-year-old Ukrainian man, has pleaded guilty to targeting five locations in east London. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8dx5gldrk0ko#1</guid>
+            <pubDate>Thu, 17 Sep 2026 17:21:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6680/live/5c9b8300-b2bb-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former MI6 spy takes Trump to Scottish court for £800,000 legal payout]]></title>
+            <description><![CDATA[Christopher Steele was the author of a salacious "dossier" linking Trump to Russia during his 2016 election campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwm2rxmpyjp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm2rxmpyjp1o#1</guid>
+            <pubDate>Thu, 17 Sep 2026 17:39:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2936/live/dc8a0fa0-b2bb-11f1-9830-658a48c7da16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RNLI station out-of-service after anti-migrant protests]]></title>
+            <description><![CDATA[The RNLI says it hopes to have the lifeboat station operational again as soon as possible.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6zxz7np1kldo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6zxz7np1kldo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 12:26:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1943/live/d5de9080-b28a-11f1-8096-b33a1297275a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marooned Lord Byron statue returns to Hyde Park]]></title>
+            <description><![CDATA[The statue was left isolated on a Park Lane traffic island after new roads were built in the 1960s.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 18:15:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca0/live/06883310-b2b5-11f1-819c-176371125270.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family blame police for 'Putney pusher' suspect's death]]></title>
+            <description><![CDATA[The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg59nq6y990o#1</guid>
+            <pubDate>Thu, 17 Sep 2026 16:51:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tower block arsonist jailed for setting woman alight]]></title>
+            <description><![CDATA[Reece Brivitt is jailed after dousing the woman in petrol and vodka before setting her alight.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmew9zd52pqwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmew9zd52pqwo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 14:37:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60d/live/7a2da4d0-b29c-11f1-9b18-ad61bef6e34f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conservatives urge Burnham to rule out tax rises at Budget]]></title>
+            <description><![CDATA[Shadow chancellor Andrew Griffith says rumours of further taxes are "causing Britain's wealth creators to flee the country".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw7v4je1mnveo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw7v4je1mnveo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 12:22:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feac/live/6d3064e0-b272-11f1-b67f-2b40fa83cfed.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Barclays workers ask for more money to return to the office]]></title>
+            <description><![CDATA[Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 14:20:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tributes paid to 'deeply caring' dad killed in Swiss Alps plane crash]]></title>
+            <description><![CDATA[Owain Davies’ family said they had “suffered an unimaginable loss”, describing him as “driven and determined”.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62kg759gewo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62kg759gewo#1</guid>
+            <pubDate>Thu, 17 Sep 2026 13:51:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e186/live/08c693b0-b29c-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crocodile attack suspect has bail extended]]></title>
+            <description><![CDATA[The 30-year-old arrested on suspicion of attempted murder must return bail in three months' time.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgv2yxgrnko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgv2yxgrnko#1</guid>
+            <pubDate>Thu, 17 Sep 2026 14:15:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9601/live/abdd4580-b2a1-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eleanor Donaldson to appeal trial of the facts verdict]]></title>
+            <description><![CDATA[The Northern Ireland Courts Service confirmed that an application for leave to appeal had been lodged to the Court of Appeal.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxly58qvzgm4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly58qvzgm4o#1</guid>
+            <pubDate>Thu, 17 Sep 2026 12:01:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f544/live/a5aeea00-b28e-11f1-8096-b33a1297275a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virtual queue for disabled at Alton Towers praised]]></title>
+            <description><![CDATA[The Merlin pass, to be also in use at Legoland and Thorpe Park, is to be launched at Alton Towers. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6j9x811v3g4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6j9x811v3g4o#1</guid>
+            <pubDate>Thu, 17 Sep 2026 10:18:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226f/live/7d8e0320-b276-11f1-b67f-2b40fa83cfed.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least seven months of relentless rain needed to end drought, research shows]]></title>
+            <description><![CDATA[Almost 75% of England remains in drought following an exceptionally dry spring and summer.]]></description>
+            <link>https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro#1</guid>
+            <pubDate>Thu, 17 Sep 2026 00:01:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/495e/live/addfcfe0-b22b-11f1-a59b-25df709671d5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helen Jenner likely to take over as Reform Wales leader, sources tell BBC]]></title>
+            <description><![CDATA[Reform's Welsh deputy leader is the favourite to take over from Dan Thomas, who was arrested on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqgk52xjd08ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgk52xjd08ko#1</guid>
+            <pubDate>Thu, 17 Sep 2026 17:09:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c359/live/87b65750-b283-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Luck and timing': Matthew Rhys on his historic Emmy Awards double win]]></title>
+            <description><![CDATA[Speaking to the BBC, the Welsh actor described the "surreal" experience of becoming the first person to win two lead acting prizes in one night.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o#2</guid>
+            <pubDate>Tue, 15 Sep 2026 22:04:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2e/live/510c03c0-b1a8-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The key findings and recommendations from the Lucy Letby inquiry]]></title>
+            <description><![CDATA[Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo#2</guid>
+            <pubDate>Tue, 15 Sep 2026 15:11:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c7/live/76ff9680-b114-11f1-9754-4d2fea96a9ee.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What's behind the decision to review Harry and Meghan's UK security?]]></title>
+            <description><![CDATA[The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK.
+]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cq98692g6xxdo#2</guid>
+            <pubDate>Mon, 14 Sep 2026 22:15:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2732/live/2b516960-b0de-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's happening to UK interest rates and what does it mean for mortgages?]]></title>
+            <description><![CDATA[The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3dky111m40o#3</guid>
+            <pubDate>Thu, 17 Sep 2026 11:59:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe8/live/54e10600-3e38-11f1-929e-dd2b5d4dae7a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger]]></title>
+            <description><![CDATA[A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck4gl6v10029o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4gl6v10029o#3</guid>
+            <pubDate>Thu, 17 Sep 2026 05:06:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b0/live/f6d8bbf0-b1fc-11f1-a4a7-291ff3d1006b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New hope for breast cancer patients as life-extending drug now on NHS in England]]></title>
+            <description><![CDATA[Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qx4v825glo#3</guid>
+            <pubDate>Thu, 17 Sep 2026 13:32:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e519/live/c64517f0-b20a-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Balaclava boys on electric bikes: How to tackle the problem?]]></title>
+            <description><![CDATA[The sight of masked young men on electric bikes or motorcycles is becoming increasingly familiar - what can be done about it? ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmdx0jzzpd89o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdx0jzzpd89o#3</guid>
+            <pubDate>Thu, 17 Sep 2026 05:04:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0653/live/1c1c34f0-b1df-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy abducted by mum has renewed 'sense of purpose']]></title>
+            <description><![CDATA[Alex Batty, who vanished aged 11 in 2017, says a new job has given him renewed purpose.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm790rxl8wvpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm790rxl8wvpo#3</guid>
+            <pubDate>Thu, 17 Sep 2026 05:14:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c8/live/2c105740-b1c8-11f1-8493-1910d79d53eb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Human remains identified as mum missing since 2019]]></title>
+            <description><![CDATA[A 56-year-old man is arrested after the remains of Joanne Sheen were found almost seven years after she went missing.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o#4</guid>
+            <pubDate>Thu, 17 Sep 2026 15:08:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a1/live/d5866d50-b2a9-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[£2k pay rise for MLAs is 'grotesque', says first minister ]]></title>
+            <description><![CDATA[The proposals follow MLAs being awarded an almost 27% uplift in their annual wages in April - a rise of more than £14,000.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwdr72xemzego?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwdr72xemzego#4</guid>
+            <pubDate>Thu, 17 Sep 2026 17:37:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0be/live/f55be510-b2ae-11f1-819c-176371125270.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former MI6 spy takes Trump to Scottish court for £800,000 legal payout]]></title>
+            <description><![CDATA[Christopher Steele was the author of a salacious "dossier" linking Trump to Russia during his 2016 election campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwm2rxmpyjp1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwm2rxmpyjp1o#4</guid>
+            <pubDate>Thu, 17 Sep 2026 17:39:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2936/live/dc8a0fa0-b2bb-11f1-9830-658a48c7da16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tributes paid to 'deeply caring' dad killed in Swiss Alps plane crash]]></title>
+            <description><![CDATA[Owain Davies’ family said they had “suffered an unimaginable loss”, describing him as “driven and determined”.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62kg759gewo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62kg759gewo#4</guid>
+            <pubDate>Thu, 17 Sep 2026 13:51:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e186/live/08c693b0-b29c-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+    </channel>
+</rss>
