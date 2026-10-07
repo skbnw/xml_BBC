@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/technology</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/technology</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 07 Oct 2026 04:10:00 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Braid-creator Jonathan Blow on making the 'biggest puzzle game ever']]></title>
+            <description><![CDATA[Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3vqxldglepo#0</guid>
+            <pubDate>Tue, 06 Oct 2026 23:01:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asos confirms hackers sent 'unauthorised' notification to app users]]></title>
+            <description><![CDATA[Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0</guid>
+            <pubDate>Tue, 06 Oct 2026 17:50:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finland orders halt to work on two Google data centres]]></title>
+            <description><![CDATA[The order affecting two planned data centres follows concerns over forest clearance.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o#0</guid>
+            <pubDate>Tue, 06 Oct 2026 17:15:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italian PM files to trademark her voice against AI threats]]></title>
+            <description><![CDATA[Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo#0</guid>
+            <pubDate>Tue, 06 Oct 2026 11:24:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ofcom investigates Meta over Instagram Instants feature]]></title>
+            <description><![CDATA[The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0</guid>
+            <pubDate>Tue, 06 Oct 2026 09:04:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cb/live/8dbea280-c163-11f1-ae7b-cfc528a6c828.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lego fraudster among last year's most high-profile insurance scammers]]></title>
+            <description><![CDATA[The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86z9npj5deo#0</guid>
+            <pubDate>Tue, 06 Oct 2026 07:03:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e41/live/98c51960-c0ba-11f1-9475-67b7bb314be1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon stops using Anthropic AI tools after blacklisting company, BBC told]]></title>
+            <description><![CDATA[It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5j9x9pr0240o#0</guid>
+            <pubDate>Mon, 05 Oct 2026 16:13:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump chooses top spy boss to run new AI taskforce]]></title>
+            <description><![CDATA[The US president said his national intelligence chief will lead the group as worries over AI grow.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#0</guid>
+            <pubDate>Mon, 05 Oct 2026 10:03:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI fires workers for 'mishandling sensitive information']]></title>
+            <description><![CDATA[The former employees were investigated for sharing data with an outside AI evaluation group.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0</guid>
+            <pubDate>Fri, 02 Oct 2026 08:20:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery]]></title>
+            <description><![CDATA[The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq84eygz0qo#0</guid>
+            <pubDate>Thu, 01 Oct 2026 23:45:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names]]></title>
+            <description><![CDATA[The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0</guid>
+            <pubDate>Thu, 01 Oct 2026 11:37:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI boom could trigger market shocks, Bank of England boss warns]]></title>
+            <description><![CDATA[Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence "very carefully".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0</guid>
+            <pubDate>Thu, 01 Oct 2026 10:05:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tiny image sparks big backlash in Nikon photo contest]]></title>
+            <description><![CDATA[Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4gjn1yzprno#0</guid>
+            <pubDate>Wed, 30 Sep 2026 23:10:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[What is a supercomputer for? How does it work? And who gets to use it? We explain all.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyj#2</guid>
+            <pubDate>Tue, 06 Oct 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf8pjc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyh#2</guid>
+            <pubDate>Tue, 29 Sep 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pd1gb8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[China is competing with the United States and other nations to develop AI.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyg#2</guid>
+            <pubDate>Tue, 22 Sep 2026 20:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbyl1k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[What should children learn in a world transformed by artificial intelligence?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyf#2</guid>
+            <pubDate>Tue, 15 Sep 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane heads to the Pokémon World Championships in San Francisco.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032n6v#3</guid>
+            <pubDate>Sat, 03 Oct 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Ammie Sekhon explores tech used to identify and remove counterfeit products online.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032d9k#3</guid>
+            <pubDate>Sat, 26 Sep 2026 01:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032301#3</guid>
+            <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.
+]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031qjy#3</guid>
+            <pubDate>Sat, 12 Sep 2026 01:00:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg"/>
+        </item>
+    </channel>
+</rss>
