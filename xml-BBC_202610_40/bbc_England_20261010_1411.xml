@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 10 Oct 2026 14:12:15 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Speculation over daughter's death is devastating']]></title>
+            <description><![CDATA[The family of Leah Croucher, whose body was found in 2022, say the evidence pointing to her killer is overwhelming.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr62y9dd33peo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr62y9dd33peo#0</guid>
+            <pubDate>Sat, 10 Oct 2026 05:34:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98df/live/bdc898b0-c248-11f1-a64c-550be9e3c66b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Four murder arrests after teenagers attacked]]></title>
+            <description><![CDATA[A murder investigation is launched in Stoke-on-Trent after a man dies and another is seriously hurt.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm93zlvgvw2po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm93zlvgvw2po#0</guid>
+            <pubDate>Sat, 10 Oct 2026 09:20:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47f/live/1f186760-c48a-11f1-a915-a1cdb09cbaf6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sara Sharif's grandfather granted guardianship of her siblings in Pakistan]]></title>
+            <description><![CDATA[All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o#0</guid>
+            <pubDate>Sat, 10 Oct 2026 13:22:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/adc04a90-c4ae-11f1-ac13-6da90f5ff039.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asbestos mystery leaves beloved beach closed]]></title>
+            <description><![CDATA[With Mount Batten Beach fenced off since July, residents and campaigners are demanding answers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574p9rdk2mko#0</guid>
+            <pubDate>Sat, 10 Oct 2026 06:16:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd3/live/b3ca30f0-c47b-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two teens critically injured in linked stabbings]]></title>
+            <description><![CDATA[The teenagers, who remain in hospital, were arrested on suspicion of affray and weapons offences]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx2wj4r1k1do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2wj4r1k1do#0</guid>
+            <pubDate>Sat, 10 Oct 2026 11:46:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8936/live/faf5cae0-dcbc-11f0-a8dc-93c15fe68710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eight men arrested days after early release from jail]]></title>
+            <description><![CDATA[Some are held for breaching criminal orders, others for robbery or domestic violence, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm79pdj4x33eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm79pdj4x33eo#0</guid>
+            <pubDate>Sat, 10 Oct 2026 13:10:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e0/live/67c532d0-c4a9-11f1-ac13-6da90f5ff039.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[River walk plaque found on city litter pick]]></title>
+            <description><![CDATA[Volunteers say name of the walk, which is on the plaque, was news to them and the parish council.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6wyvd4kn579o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6wyvd4kn579o#0</guid>
+            <pubDate>Sat, 10 Oct 2026 06:26:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b8f/live/3e60b780-c264-11f1-b3ac-93b64873b487.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with attempted murder after stabbing]]></title>
+            <description><![CDATA[Juan Martez-Ortiz, of Sevenoaks Road, is charged with attempted murder and other offences.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck1wve47vjzjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wve47vjzjo#1</guid>
+            <pubDate>Sat, 10 Oct 2026 10:49:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b075/live/8c994850-c303-11f1-9955-5d2e13ff2bea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Volunteer police chief fired after Palantir probe]]></title>
+            <description><![CDATA[Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjx23yxwe73qo#1</guid>
+            <pubDate>Sat, 10 Oct 2026 09:19:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a5/live/6eb9b460-c483-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family's shock as young sisters diagnosed with cancer]]></title>
+            <description><![CDATA[Odette and Eliza's parents say tests showed it was "very bad luck" rather than genetics.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjkg7gl1p1rro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjkg7gl1p1rro#1</guid>
+            <pubDate>Sat, 10 Oct 2026 06:08:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac66/live/ddd75150-c17b-11f1-9d3f-57ff54fad936.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Codebreaker, 103, kept his WW2 heroics a secret for decades]]></title>
+            <description><![CDATA[Fred Vanke was sworn to secrecy but has now been honoured by Bletchley Park.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvgrljzy7zmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgrljzy7zmo#1</guid>
+            <pubDate>Sat, 10 Oct 2026 06:07:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c327/live/6d4b9d60-c0bd-11f1-9475-67b7bb314be1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Divers identify vessel lost at sea for 46 years]]></title>
+            <description><![CDATA[The Belgian ship Z.592 Hosanna disappeared in February 1980 while on a European voyage from Devon.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crx2z2nl7x1do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx2z2nl7x1do#1</guid>
+            <pubDate>Sat, 10 Oct 2026 06:22:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a881/live/4d4f8f80-bd02-11f1-ae73-153b8464afc4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chef award sees first female winner in 50 years]]></title>
+            <description><![CDATA[Ruth Hansom of Bedale says she's 'really proud' to be named National Chef of the Year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crwydw34qxz5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crwydw34qxz5o#2</guid>
+            <pubDate>Sat, 10 Oct 2026 06:09:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0a/live/18b2c6f0-c3c1-11f1-9798-abffda1e61e7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First osprey chicks in 200 years reported in county]]></title>
+            <description><![CDATA[The rare birds were hunted to near-extinction before being reintroduced across England and Wales. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck0j0832578xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck0j0832578xo#2</guid>
+            <pubDate>Sat, 10 Oct 2026 06:24:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6622/live/27be68f0-c3f5-11f1-97a9-2d4b5e26e282.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visually impaired athletes 'ecstatic' with medal win]]></title>
+            <description><![CDATA[Team GB's blind baseball team won bronze in Italy, with many squad members coming from Hartlepool.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6vg0mv1xyyyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vg0mv1xyyyo#2</guid>
+            <pubDate>Sat, 10 Oct 2026 06:29:18 GMT</pubDate>
+            <media:thumbnail width="240" height="125" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/81d60720-c30b-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['What terminal cancer has taught me about life']]></title>
+            <description><![CDATA[A Gloucestershire man with terminal cancer shares the life lessons he wishes he'd learned sooner.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8x2z22wdeglo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8x2z22wdeglo#3</guid>
+            <pubDate>Sat, 10 Oct 2026 06:16:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d16/live/9ec7e820-c32a-11f1-9981-cf94ea240e40.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How Harvey Nichols shaped noughties Leeds shopping - and what comes next]]></title>
+            <description><![CDATA[Iconic department store is likely to be rebranded as Flannels after 30 years in Leeds.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3x2wl9zl2rdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3x2wl9zl2rdo#3</guid>
+            <pubDate>Sat, 10 Oct 2026 06:19:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ee/live/38fa1060-c323-11f1-bd97-fbe5a3482cde.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The captain who helped to rescue Titanic survivors]]></title>
+            <description><![CDATA[Arthur Rostron was the captain of RMS Carpathia when it received a morse code message from the ship. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqn73m2d8l01o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqn73m2d8l01o#3</guid>
+            <pubDate>Sat, 10 Oct 2026 06:14:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5a/live/e7865d30-c190-11f1-83c7-97e75190a976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggling to settle in at uni? Students share their tips]]></title>
+            <description><![CDATA[With Freshers Week long gone, the reality of university life can weigh heavy of new students.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx98ze0nd9m8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx98ze0nd9m8o#3</guid>
+            <pubDate>Sat, 10 Oct 2026 06:12:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60af/live/04ecf7c0-c25a-11f1-8b25-57b2b04e8d85.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Agatha Christie letters reveal her 'love-hate relationship' with Poirot]]></title>
+            <description><![CDATA[Correspondence kept by crime writer's agent explores how she really felt about her sleuths.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr93ezy85xjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93ezy85xjgo#3</guid>
+            <pubDate>Sat, 10 Oct 2026 06:24:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/699c/live/d2919320-c3c7-11f1-8fc5-335d62f6730b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palmer signs new Chelsea contract until 2034]]></title>
+            <description><![CDATA[Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League. ]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno#5</guid>
+            <pubDate>Sat, 10 Oct 2026 09:51:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a8/live/a94e41f0-c3d3-11f1-95ba-dba767ffba7e.jpg"/>
+        </item>
+    </channel>
+</rss>
