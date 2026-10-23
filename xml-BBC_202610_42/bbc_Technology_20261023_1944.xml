@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/technology</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/technology</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 23 Oct 2026 19:45:06 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
+            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
+            <pubDate>Fri, 23 Oct 2026 12:24:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's been relentless' say IT workers on frontline of PHP cyber-security scramble]]></title>
+            <description><![CDATA[IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0</guid>
+            <pubDate>Fri, 23 Oct 2026 12:00:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Indian workers filming their work to train AI]]></title>
+            <description><![CDATA[Indian workers are being paid to film themselves at work and the footage is used to train AI.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o#0</guid>
+            <pubDate>Fri, 23 Oct 2026 08:04:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax]]></title>
+            <description><![CDATA[The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky83vwnyglno#0</guid>
+            <pubDate>Thu, 22 Oct 2026 18:26:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Race to update services' computer systems after cyber-security flaw found]]></title>
+            <description><![CDATA[Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 17:12:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb]]></title>
+            <description><![CDATA[It has been a dramatic, public and global response, but the cyber event hasn't happened yet.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 10:17:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b5/live/6f991250-ce0f-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['500 new vulnerabilities' found in government, says AI minister]]></title>
+            <description><![CDATA['500 new vulnerabilities' found in government, says AI minister]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c6y8lvg2p50po#0</guid>
+            <pubDate>Thu, 22 Oct 2026 10:08:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db54/live/d468ebc0-cdfa-11f1-bc2e-018d645d8d21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK working to identify exposure after global cyber-security warning]]></title>
+            <description><![CDATA[Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23d0k57d3o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 08:23:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's green card curbs test Indian tech workers' American dream]]></title>
+            <description><![CDATA[With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34j7dk771o#0</guid>
+            <pubDate>Wed, 21 Oct 2026 23:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?]]></title>
+            <description><![CDATA[Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0</guid>
+            <pubDate>Wed, 21 Oct 2026 23:04:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Websites taken down worldwide as critical cyber-security update issued]]></title>
+            <description><![CDATA[The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0</guid>
+            <pubDate>Wed, 21 Oct 2026 19:54:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just Eat apologises for AI food mistakes after social media ridicule]]></title>
+            <description><![CDATA[A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crz981p0klvgo#0</guid>
+            <pubDate>Wed, 21 Oct 2026 17:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80b/live/ce035410-cd6d-11f1-bc2e-018d645d8d21.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk confirms he is considering merging Tesla and SpaceX]]></title>
+            <description><![CDATA[Musk says special committees within both companies have been formed to look at a possible mega-merger.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0</guid>
+            <pubDate>Wed, 21 Oct 2026 08:42:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[The next generation of chip is thinner and flexible when compared to traditional silicon.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyl#2</guid>
+            <pubDate>Tue, 20 Oct 2026 19:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0phptg2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[The plan for an orbiting data centre involves linking satellites around Earth.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyk#2</guid>
+            <pubDate>Tue, 13 Oct 2026 19:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgj1dl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[What is a supercomputer for? How does it work? And who gets to use it? We explain all]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyj#2</guid>
+            <pubDate>Tue, 06 Oct 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf8pjc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyh#2</guid>
+            <pubDate>Tue, 29 Sep 2026 19:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pd1gb8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032yng#3</guid>
+            <pubDate>Sat, 10 Oct 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pfw9y5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane heads to the Pokémon World Championships in San Francisco.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032n6v#3</guid>
+            <pubDate>Sat, 03 Oct 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Ammie Sekhon explores tech used to identify and remove counterfeit products online.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032d9k#3</guid>
+            <pubDate>Sat, 26 Sep 2026 01:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032301#3</guid>
+            <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"/>
+        </item>
+    </channel>
+</rss>
