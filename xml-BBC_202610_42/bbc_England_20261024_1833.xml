@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/england</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/england</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 24 Oct 2026 18:34:13 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mum who died trying to save sons was hero, husband says]]></title>
+            <description><![CDATA[Nathan Gregory says the loss of childhood sweetheart Leanne "is unimaginable for our family".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 17:11:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands without power as rain and wind continues]]></title>
+            <description><![CDATA[A heavy rain warning is in place until 23:00, as a cafe welcomes people with no power.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmly0de0e301o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly0de0e301o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 16:58:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c2/live/77669000-cfb0-11f1-9012-0172b9f73a72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lidl crash which killed man 'sounded like a bomb']]></title>
+            <description><![CDATA[West Midlands Ambulance service says a man in his 30s who was in the shop has died at the scene.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqp8g4l1lz78o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqp8g4l1lz78o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 14:31:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4201/live/80aa0770-cf86-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manhunt after prisoner escapes London medical unit]]></title>
+            <description><![CDATA[Anthony Lloyd, 38, poses a risk to himself and the public and should not be approached, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6pvgdvxry39o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pvgdvxry39o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 17:06:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc11/live/b53e46c0-bbdd-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family's anger after grandfather's botched burial]]></title>
+            <description><![CDATA[Kassandra Constable says her dad's coffin was partially exposed as he was buried in a shallow grave.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmx23g1p9e3zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23g1p9e3zo#0</guid>
+            <pubDate>Sat, 24 Oct 2026 10:52:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a154/live/522fe9e0-cf6e-11f1-a98a-bb970bd2aa12.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could this Somerset pub be the oldest in England?]]></title>
+            <description><![CDATA[Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o#0</guid>
+            <pubDate>Sat, 24 Oct 2026 11:32:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890b/live/f7e92af0-ce1e-11f1-906e-e3128518d85d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reward offered over murder in flat used as brothel]]></title>
+            <description><![CDATA[Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c615j787ee82o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c615j787ee82o#1</guid>
+            <pubDate>Sat, 24 Oct 2026 13:00:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc1/live/3ecbc7f0-cfa2-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Council charged after man killed by falling tree]]></title>
+            <description><![CDATA[South Ribble Council is being prosecuted over the death of Paul Fiddler, who died in Storm Darragh.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxr5yz9z4vlyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxr5yz9z4vlyo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 10:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d848/live/16435360-cf8f-11f1-bef0-7f8eb636c50b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Company boss died after NHS neglect, coroner says]]></title>
+            <description><![CDATA[Jonny Doughty was frightened by a nurse who told him he might be detained due to his mental health.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c95ynpe8yjxdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c95ynpe8yjxdo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 06:16:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e0/live/389d95d0-ce16-11f1-bbba-c577fd901ff7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Fender calls out ticket prices ahead of tour]]></title>
+            <description><![CDATA[The Geordie singer says on Instagram he is "not happy" with the reported ticket prices.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 12:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff12/live/ac827310-8d38-11ef-b02c-ad97e00e3915.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man's £11k Halloween display that has taken over neighbour's garden]]></title>
+            <description><![CDATA[From £11k props to six months of prep - who are the creators of the regions best Halloween houses?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm62yldg6qypo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62yldg6qypo#1</guid>
+            <pubDate>Sat, 24 Oct 2026 06:20:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e6/live/59044f00-cef5-11f1-accf-3309656ad0bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We came from Brazil to Derby for Tomb Raider Day]]></title>
+            <description><![CDATA[Hundreds of people are due to celebrate Lara Croft in the city where the character was created.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw98zn49zq16o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw98zn49zq16o#2</guid>
+            <pubDate>Sat, 24 Oct 2026 06:01:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb3a/live/76c85410-cec7-11f1-b9e0-e5f0da03dc7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WW2 love story inspires quest to save artwork]]></title>
+            <description><![CDATA[A woman's dying wish is to see a Suffolk airfield preserved for future generations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6gel5py8yn7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6gel5py8yn7o#2</guid>
+            <pubDate>Sat, 24 Oct 2026 04:48:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aace/live/38b56d20-ce22-11f1-906e-e3128518d85d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Quadruplet capybaras born at wildlife park]]></title>
+            <description><![CDATA[The four capybaras are settling into their new home with mum Pepita, the wildlife park says.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cxj0l1y07y1no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cxj0l1y07y1no#2</guid>
+            <pubDate>Fri, 23 Oct 2026 18:23:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef87/live/65f590c0-cf0e-11f1-8de3-9dfec70eb8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why do the White House Farm murders still grip people 40 years on?]]></title>
+            <description><![CDATA[Jeremy Bamber remains in prison more than four decades after the murders of his adoptive family.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cxly498z6v32o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxly498z6v32o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 04:39:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f04b/live/197cdf70-cd5e-11f1-b962-b7ff822cde72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['They knew she was ill - days later she killed her three kids']]></title>
+            <description><![CDATA[A friend of Yasmeen Ali says health professionals were warned about the mother-of-three's mental health.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmy83q4g1jqlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy83q4g1jqlo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 07:39:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c4/live/26d32850-dc37-11f0-b67b-690eb873de1b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'most haunted' pubs and hotels where guests cannot explain encounters]]></title>
+            <description><![CDATA[Ahead of Halloween, we have compiled some of the most popular haunted stories in pubs and hotels.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqev39xvmegeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqev39xvmegeo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 06:18:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e533/live/5f0758a0-cdf3-11f1-97f7-a7674fb562de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Pressure' to get Big Ben right as clocks go back]]></title>
+            <description><![CDATA[The Cumbria Clock Company will carry out maintenance on the famous clock on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8r4yd6dlwwyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8r4yd6dlwwyo#3</guid>
+            <pubDate>Sat, 24 Oct 2026 07:17:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd7/live/fed2d600-cec7-11f1-b9e0-e5f0da03dc7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What a spectre - Bond boys bounce around London]]></title>
+            <description><![CDATA[Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmde869e8k34o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmde869e8k34o#3</guid>
+            <pubDate>Sat, 24 Oct 2026 07:04:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f4/live/a9e6fc00-cef6-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal relieve pressure with Spurs win - can they kick on now?]]></title>
+            <description><![CDATA[Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do#5</guid>
+            <pubDate>Sat, 24 Oct 2026 15:40:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"/>
+        </item>
+    </channel>
+</rss>
